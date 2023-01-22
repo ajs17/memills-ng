@@ -198,63 +198,63 @@ The exact date is reported in The Ithaca Journal, 23 May 1916, p9: "Mrs. Hannah 
 
 As I write this in Spring 2022, the Thatcher stone is badly weathered and difficult to read, and the footstones are in even worse condition. The plot is in the front of the cemetery, the middle section, a few rows back from the road. The Thatcher name, and the side of the stone with Hannah's parents names, faces toward the back of the cemetery, Hannah's side faces toward Community Corners in Cayuga Heights, the Vanderveere's side faces toward Cornell. In other words, the front of the stone is facing the back of the cemetery, the opposite of what one would expect, and inconsistent with all other stones I saw, suggesting the stone was rotated at one point. 
 
-{{% fig "thatcher/grave-photos/use/thatcher-full" "800" /%}}
-{{% fig "thatcher/grave-photos/use/thatcher-zoomed" "500" /%}}
+{{% fig "thatcher/grave-photos/thatcher-full" "800" /%}}
+{{% fig "thatcher/grave-photos/thatcher-zoomed" "500" /%}}
 
 It's likely the main stone has been moved somewhat, and the footstones realigned with it. According to the Pleasant Grove Cemetery records shown below, William Vanderveere's stone is the one that appears to missing. 
 
-{{% fig "thatcher/grave-photos/use/pleasant-grove-record" "800" /%}}
+{{% fig "thatcher/grave-photos/pleasant-grove-record" "800" /%}}
 
 The transcriptions in the following photographs have also been compared against a spreadsheet of transcribed memorials from over 100 local cemeteries, compiled over several decades by Alan Chafee, Newfield Historian, relevant portions of which he shared with me via personal correspondence, April 2022.
 
 Thomas and Elizabeth Thatcher's full side:
 <div class="cols">
-{{% fig "thatcher/grave-photos/use/thatcher" "350" /%}}
-{{% fig "thatcher/grave-photos/use/thatcher-closer" "350" /%}}
+{{% fig "thatcher/grave-photos/thatcher" "350" /%}}
+{{% fig "thatcher/grave-photos/thatcher-closer" "350" /%}}
 </div>
 
 In an attempt to aid legibility, I have provided the original digital photographs taken April 2022, along with modified versions in grayscale with enhanced contrast.
 
 Thomas Thatcher's portion:
 <div class="cols">
-{{% fig "thatcher/grave-photos/use/thomas-thatcher-zoomed" "350" /%}}
-{{% fig "thatcher/grave-photos/use/thomas-thatcher-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/thomas-thatcher-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/thomas-thatcher-zoomed-grayscale" "350" /%}}
 </div>
 
 Elizabeth (Crosby) Thatcher's portion:
 <div class="cols">
-{{% fig "thatcher/grave-photos/use/elizabeth-crosby-zoomed"  "350" /%}}
-{{% fig "thatcher/grave-photos/use/elizabeth-crosby-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/elizabeth-crosby-zoomed"  "350" /%}}
+{{% fig "thatcher/grave-photos/elizabeth-crosby-zoomed-grayscale" "350" /%}}
 </div>
 
 William and Elizabeth Vanderveere's full side:
-{{% fig "thatcher/grave-photos/use/vanderveere-full" "500" /%}}
+{{% fig "thatcher/grave-photos/vanderveere-full" "500" /%}}
 
 William P. Vanderveere's portion:
 <div class="cols">
-{{% fig "thatcher/grave-photos/use/william-vanderveere-zoomed" "350" /%}}
-{{% fig "thatcher/grave-photos/use/william-vanderveere-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/william-vanderveere-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/william-vanderveere-zoomed-grayscale" "350" /%}}
 </div>
 
 Elizabeth Vanderveere:
 <div class="cols">
-{{% fig "thatcher/grave-photos/use/elizabeth-vanderveere-zoomed" "350" /%}}
-{{% fig "thatcher/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/elizabeth-vanderveere-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/elizabeth-vanderveere-zoomed-grayscale" "350" /%}}
 </div>
 
 The following images from 2016 are much clearer:
 <div class="cols">
-{{% fig "thatcher/grave-photos/use/2016-07-don-short-william-vanderveere" "350" /%}}
-{{% fig "thatcher/grave-photos/use/2016-07-don-short-elizabeth-vanderveere" "350" /%}}
+{{% fig "thatcher/grave-photos/2016-07-don-short-william-vanderveere" "350" /%}}
+{{% fig "thatcher/grave-photos/2016-07-don-short-elizabeth-vanderveere" "350" /%}}
 </div>
 
 The 2016 photos show the "MOTHER" footstone leaning against the main family stone, confirming that the stones have been moved in the past. In fact, because these photos are close-up, the direction of the camera and therefore, the orientation of the main stone, is not clear, and the main stone itself may have been turned. (As I write this, the main stone faces the rear of the cemetery, away from the road.)
 
 Hannah (Thatcher) Mills:
-{{% fig "thatcher/grave-photos/use/hannah-full" "500" /%}}
+{{% fig "thatcher/grave-photos/hannah-full" "500" /%}}
 <div class="cols">
-{{% fig "thatcher/grave-photos/use/hannah-zoomed" "350" /%}}
-{{% fig "thatcher/grave-photos/use/hanna-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/hannah-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/hannah-zoomed-grayscale" "350" /%}}
 </div>
 
 ## The Thatchers
