@@ -5,7 +5,7 @@ date: "2021-05-25"
 mainid: "index" 
 hideAutoListDisplay: true
 cascade:
-  defaultResourceBundlePath: "/people/mills-edward-hallock-1819-family"
+  defaultResourceBundlePath: "/family-of-edward-hallock-mills"
 ---
 
 This publication attempts to document all extant information on the family of Edward H. Mills (1819 to 1908), with particular emphasis on Emily Mills (1858 to 1937) and the family's time in Brooktondale (formerly known as Brookton, and before that, Mott's Corners), a hamlet located in the town of Caroline, Tompkins County NY.
