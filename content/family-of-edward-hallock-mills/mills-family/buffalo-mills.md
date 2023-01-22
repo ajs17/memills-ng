@@ -153,7 +153,7 @@ The older man is likely Deborah’s husband [William Mills](https://www.findagra
 {{% fig "portraits/QPL/m020-0907-040-001-1" "350" /%}}
 </div>
 
-For comparison, William's mother Martha (Helme) Mills was painted by William Sidney Mount:
+For comparison, William's mother [Martha (Helme) Mills](https://www.findagrave.com/memorial/68721187/martha-mills) (19 Feb 1761 to 23 Nov 1854) was painted by Shepard Alonzo Mount, William Sidney Mount's brother:
 
 {{% fig "portraits/martha-helme-mills" "500" /%}}
 

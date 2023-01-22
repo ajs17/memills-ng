@@ -381,7 +381,6 @@ Camille, daughter of Joshua Elliot Mount and Edna Searing Mount and granddaughte
 
 Painting posthumous portraits was a common nineteenth-century mourning ritual. William Sidney Mount, for instance, received many commissions for mourning portraits, several of which are in our own art collection.
 
-
 (left: William Sidney Mount (1807-1868), *Portrait of Shepard Alonzo Mount*, 1847, Oil on canvas, Museum Purchase, 1960; right: Shepard Alonzo Mount (1804-1868), *Portrait of William Sidney Mount*, 1857, Oil on panel, Gift of Mr. and Mrs. Ward Melville, 1976)
 
 Throughout their lives, Shepard and William Mount maintained a close working and personal relationship, attending functions at the National Academy together, acting as business partners, and sometimes living with each other. When Shepard died in 1868, William was distraught and immediately arranged for a retrospective exhibition to be hung at the National Academy of Design. The following fall, William was stricken with pneumonia and died, only four months after his older brother.

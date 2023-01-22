@@ -1,5 +1,5 @@
 ---
-citation: "1837, Mrs. Mills (Martha Helme) by Alonzo Shepard Mount, Frick Art Reference Library, CatalogID 991005805209707141, digitialcollections.frick.org."
+citation: "1837, Mrs. Mills (Martha Helme) by Shepard Alonzo Mount, Frick Art Reference Library, CatalogID 991005805209707141, digitialcollections.frick.org."
 notes: >-
   
   - Description from Frick Art Reference Library: "The subject has gray eyes and wears a white ruffled cap tied in a bow under the chin, black shawl with red and blue embroidered border. The spectacles are silver rimmed, the book brown with green edged leaved. The landscape in the left background is reddish brown at the top shading to the blue and yellow at the horizon with green and brown foliage. A dull green panel is in the right background and a crimson chair back at the right. The canvas has been rebacked."
