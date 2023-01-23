@@ -3,7 +3,7 @@ title: "The Mills of Buffalo"
 weight: 2 
 ---
 
-This section introduces the family of William Mills, a cousin of Edward Mills' father Jonas Davis Mills, who lived in western NY during a time that overlaps with the time Edward Mills' family was living in Corfu NY, likely less than 20 miles away.
+This section introduces the family of William Mills, a first cousin of Edward Mills' father Jonas Davis Mills, who lived in western NY during a time that overlaps with the time Edward Mills' family was living in Corfu NY, likely less than 20 miles away.
 
 <!--more-->
 
@@ -161,6 +161,8 @@ For comparison, William's mother [Martha (Helme) Mills](https://www.findagrave.c
 {{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-001-0-face" "350" /%}}
 {{% fig "portraits/martha-helme-mills-cropped" "350" /%}}
 </div>
+
+I have not found a matching portrait for Martha's husband, [William Mills](https://www.findagrave.com/memorial/68721245/william-mills) (27 Aug 1857 to 12 June 1837) of Mills Pond, but note that Martha's portrait was purportedly painted the same year he died.
 
 {{% fig "mills-family/buffalo/1876-02-20-The-Buffalo-Sunday-Buffalo-NY-p1" "500" /%}}
 

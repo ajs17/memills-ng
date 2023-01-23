@@ -38,7 +38,7 @@ The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime betwe
 
 On 05 May 1877, Mary Ann's sister Abigail S. (Pine) Higbie died.
 
-In Mar 1879, the family moved again, this time to Motts Corners, one of several earlier names for Brooktondale, where Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "features/me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
+In Mar 1879, the family moved again, this time to Motts Corners, one of several earlier names for Brooktondale, where Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
 
 Mary Ann joins what was then known as the Congregational Church of Motts Corners, presently Caroline Valley Community Church. In my review of the Congregational Church's membership rolls over the years, I have seen a number of instances in which members were officially added to church rolls many months after they had already been documented participating in church meetings, such as was the case with Lydia Forbes Robinson, who officially joined 10 Sep 1911 by letter from Tyrone Presbyterian Church in Weston NY, although she was living in Brookton and participating in church meetings with her husband and former Brookton pastor of the Congregational Church Reverend James Richards Robinson in 1910. So, perhaps Mary Ann was attending the church for some time prior to becoming an official member. 
 

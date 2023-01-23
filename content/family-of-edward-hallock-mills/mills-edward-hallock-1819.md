@@ -3,7 +3,7 @@ title: "Edward H. Mills"
 weight: 10
 ---
 
-Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% ref "features/corfu-eh-mills-co" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% ref "features/me-mills" %}}) in Motts Corners/Brookton NY.
+Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% ref "corfu-eh-mills-co" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% ref "me-mills" %}}) in Motts Corners/Brookton NY.
 
 <!--more-->
 
@@ -97,13 +97,13 @@ Jonas' obituary, shown further below, noted that he lived in Hempstead "with the
 
 {{% fig "genealogy/smithtown-presbyterian/158" "800" /%}}
 
-In 1850, Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}), and he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
+In 1850, Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "staten-island" %}}), and he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
 All of the Mills children were born in Staten Island, and by 1860, the family was living with another of Charles Pine's proteges Barlett Brown in a home adjoining a general store Bartlett had recently purchased. 
 
-The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863. Partnering with Charles Pine, Edward co-owned [E. H. Mills & Co.]({{% ref "features/corfu-eh-mills-co" %}}) "cash store" in Corfu, "Dealers in General Merchandise, Groceries and Provisions, Yankee Notions and General Variety Store." Of Edward’s children, there is only evidence that Horace clerked at his father’s store.
+The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863. Partnering with Charles Pine, Edward co-owned [E. H. Mills & Co.]({{% ref "corfu-eh-mills-co" %}}) "cash store" in Corfu, "Dealers in General Merchandise, Groceries and Provisions, Yankee Notions and General Variety Store." Of Edward’s children, there is only evidence that Horace clerked at his father’s store.
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
@@ -114,7 +114,7 @@ The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime betwe
 {{% fig "corfu/1876-10-27-The-Progressive-Batavian-Batavia-NY-1" "350" /%}}
 </div>
 
-In Mar 1879, Edward, then 60, moved his family again, this time to Motts Corners, an earlier name for Brooktondale. At Motts Corners, Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "features/me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
+In Mar 1879, Edward, then 60, moved his family again, this time to Motts Corners, an earlier name for Brooktondale. At Motts Corners, Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
 
 Edward's father Jonas died in 1882. 
 

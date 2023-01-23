@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 60
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktondale Congregational Church, now Caroline Valley Community Church.
+Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktondale Congregational Church, now Caroline Valley Community Church.
 
 <!--more-->
 
@@ -36,13 +36,13 @@ Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. But s
 
 {{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 
-Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "features/temperance" %}}). Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes that includes associated forms and envelopes (the envelopes have her father's postmark), many examples of Emily's handwriting from this time survive. 
+Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "temperance" %}}). Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes that includes associated forms and envelopes (the envelopes have her father's postmark), many examples of Emily's handwriting from this time survive. 
 
 {{% fig "temperance/1886-04-23" "800" /%}}
 
 {{% fig "handwriting/sig3" "800" /%}}
 
-At least by the 1890's, Emily was working as a clerk in her father's store, just as her older brothers had. (She may have always helped with the store, or perhaps she only began clerking in the store after Jonas died.) Several volumes of sales journals have survived from [M. E. Mills general store]({{% ref "features/me-mills" %}}) that are written by Emily's hand (and certainly Ellen Gould's handwriting must also be present in those books). 
+At least by the 1890's, Emily was working as a clerk in her father's store, just as her older brothers had. (She may have always helped with the store, or perhaps she only began clerking in the store after Jonas died.) Several volumes of sales journals have survived from [M. E. Mills general store]({{% ref "me-mills" %}}) that are written by Emily's hand (and certainly Ellen Gould's handwriting must also be present in those books). 
 
 Many aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncrasies. Note for example, the following page of entries in M. E. Mills sales journals, which appears to be entirely written by Emily.
 

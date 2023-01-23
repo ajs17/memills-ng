@@ -40,7 +40,7 @@ In the 1892 census, Ellen Gould, listed as Ellen J. Predmore, is apparently livi
 
 {{% fig "census/1892-ny-census-ellen" "500" /%}}
 
-The first (presumed) mention of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
+The first (presumed) mention of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
 
 {{% fig "ellen-gould/1909-03-06-Alfred-Gould-Died"  "500" /%}}
 
