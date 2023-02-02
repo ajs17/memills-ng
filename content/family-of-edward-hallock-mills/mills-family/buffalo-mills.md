@@ -8,7 +8,7 @@ This section introduces the family of William Mills, a first cousin of Edward Mi
 <!--more-->
 
 
-Portraits of William Mills' family were digitally scanned by Queens Public Library archives Jun 2022 from print photographs in their collection: The Mills Family of Jamaica and Mills Pond, Long Island, Archives at Queens Library, Queens Borough Public Library. The backs of photographs were also scanned and are shown beside the fronts. 
+Portraits of William Mills' family were digitally scanned by Queens Public Library archives Jun 2022 from print photographs in their collection: The Mills Family of Jamaica and Mills Pond, Long Island, Archives at Queens Library, Queens Borough Public Library. The backs of the photographs were also scanned and are shown beside the fronts. 
 
 These portraits are typical examples of *Cartes de Visite* or visiting cards, also called "card portraits" among several other similar and commonly used names,  and in the 20th century they began being referred to by the acronym CDV. CDV's were typically 2.5"x4", and judging the sizes of these particular Mills family portraits based on the scanned image metadata, the average size is 2.4"x3.97". 
 
@@ -137,7 +137,7 @@ Notice that on each of the above photos with an accompanying stamp, the stamp is
 
 > The photographer selling the taxed images was supposed to cancel the stamp with his initials and the date. Although this can be a benefit to today's researcher, investigation has shown that less than 25% of stamps have a date recorded on them. Cancellations may include an "X", initials, a name, or some illegible scribble. (KG, p23.)
 
-The photographer's name and initials appear to confirm that the photographer for each is G. A. Douglass (also explicit in the faded imprint on the back of James D. Warren's print), who, along with the other Buffalo photographers indicated in the scanned portraits, is listed in Thomas' Buffalo City Directory in 1866:    
+The photographer's name and initials appear to confirm that the photographer for each is G. A. Douglass (and explicit in the faded imprint on the back of James D. Warren's print), who, along with the other Buffalo photographers indicated in the scanned portraits, is listed in Thomas' Buffalo City Directory in 1866:    
 
 <div class="cols">
 {{% fig "mills-family/buffalo/1866-thomas-directory-p367" "350" /%}}
@@ -190,7 +190,7 @@ The photographer’s imprint indicating California is obviously a large clue to 
 
 > The CDV ushered in several social innovations. Due to the ease in which CDVs could be produced in quantity, they were economical to exchange with other people, such as sending them to relatives or friends across the country. (KG: p11.)
 
-The man is presumed to be [Daniel J. Baker](https://www.findagrave.com/memorial/29498729/daniel-j-baker) (02 May 1827 to 25 Feb 1861), who was married to [Martha Helme (Mills) Baker](https://www.findagrave.com/memorial/76889267/martha-helme-baker) (19 Jul 1833 to 01 May 1904), sister to Mary (Mills) Warren, and therefore Martha is presumed to be the woman in the other California print. If this is Daniel Baker, then the photograph was taken sometime in 1860 when CDVs were introduced to America, or in 1861, very close to his death early that year. Furthermore, if Martha is the correct identity of the California woman, then this would seem to indicate that she stayed in California for at least a few years following his death. 
+The man is presumed to be [Daniel J. Baker](https://www.findagrave.com/memorial/29498729/daniel-j-baker) (02 May 1827 to 25 Feb 1861), who was married to [Martha Helme (Mills) Baker](https://www.findagrave.com/memorial/76889267/martha-helme-baker) (19 Jul 1833 to 01 May 1904), sister to Mary (Mills) Warren, and therefore Martha is presumed to be the woman in the other California print. If this is Daniel Baker, then the photograph was taken sometime in 1860 when CDVs were introduced to America, or in 1861, very close to his death early that year. Furthermore, if Martha is the correct identity of the California woman, then this would seem to indicate that she stayed in California for at least a few years following his death, based on the imprint and timeframe indicated by the tax stamp. 
 
 {{% fig "mills-family/buffalo/1861-03-02-The-Placer-Herald-Rocklin-CA-p2" "800x500" "" "top" /%}}
 
@@ -383,7 +383,7 @@ The reverse side of the 111 Park Street photo:
 
 {{% fig "mills-family/buffalo/Park-111-Back" "800" /%}}
 
-[William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) who was married on 08 Jun 1819 to [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), is Jonas Davis Mills' first cousin. William, Deborah, and their descendants lived in the Clarence and Buffalo areas during a time when Edward H. Mills' family was living in Corfu, a short distance away.
+[William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) who was married on 19 Jan 1819 to [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), is Jonas Davis Mills' first cousin. William, Deborah, and their descendants lived in the Clarence and Buffalo areas during a time when Edward H. Mills' family was living in Corfu, a short distance away.
 
 William was born at Mills Pond specifically, and he was a soldier in the War of 1812. (Index of Awards on Claims of the Soldiers of the War of 1812, New York Adjutant General's Office, New York State Archives, Albany NY, ancestry.com.) 
 
