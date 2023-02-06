@@ -21,6 +21,8 @@ This publication attempts to document all extant information on the family of Ed
 
 [Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills), [Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills), [Jonas](https://www.findagrave.com/memorial/75958930/jonas-e-mills ) and [Horace](https://www.findagrave.com/memorial/75958913/horace-f-mills) are interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.
 
+James is presumably buried on Staten Island, although I have not yet found him. James is not at Moravian Cemetery, based on an inquiry with that office. The Reformed Dutch Church of Port Richmond is also being searched.
+
 [Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca NY 14850.
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
@@ -44,7 +46,7 @@ Genealogical data accumulated through this research can be <a href="data/genealo
 
 ## Acknowledgements
 
-This research was made possible by the generosity of many people who have offered their time, their knowledge, and access to their materials, to allow me to start putting together the puzzle pieces of Emily's life. I apologize to anyone I have forgotten; these I recall in no particular order: Barbara Kone, Diane Moore, Allan Starkweather, Al Chafee, Ted Sobel, Betsy Abramson, Linda Tucker, Carli DeFillo, Andrea Squeri, David Kerns, Ken Rumble, Richard Wines, Margaret Wegener, Bea Szekely, Ralph Conant, Carol Coggshall, Joan Taber, Fred Estabrook, Ed Croop, Jodi Leaf, Edward Dibble, Charles D. Warren, Alanna Congdon, Rob Bernhardt, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church, Southworth Library, Jen Shulman, Bernard Vascotto, Nancy Conod, Ruth Ellis, Eric Huber, Cynthia Van Ness, Adam Rubin, Debra Rogers. 
+This research was made possible by the generosity of many people who have offered their time, their knowledge, and access to their materials, to allow me to start putting together the puzzle pieces of Emily's life. I apologize to anyone I have forgotten; these I recall in no particular order: Barbara Kone, Diane Moore, Allan Starkweather, Al Chafee, Ted Sobel, Betsy Abramson, Linda Tucker, Carli DeFillo, Andrea Squeri, David Kerns, Ken Rumble, Richard Wines, Margaret Wegener, Bea Szekely, Ralph Conant, Carol Coggshall, Joan Taber, Fred Estabrook, Ed Croop, Jodi Leaf, Edward Dibble, Charles D. Warren, Alanna Congdon, Rob Bernhardt, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church, Southworth Library, Jen Shulman, Bernard Vascotto, Nancy Conod, Ruth Ellis, Eric Huber, Cynthia Van Ness, Adam Rubin, Debra Rogers, Kathleen Langdon, Jacqueline Igliozzi, Annie Doubleday. 
 
 In gratitude to those throughout the years who specifically preserved precious memories of Emily: Gertrude Conant, E. D. Shurter, Jessie Brewer, and Molly Adams.
 

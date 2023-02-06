@@ -22,9 +22,9 @@ Mary Ann Pine of Hempstead Long Island married Edward Hallock Mills, then of Cas
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
-All of the Mills children were born in Staten Island, and by 1860, the family was living with Bartlett Brown in a home adjoining a store Bartlett had recently purchased. 
+All of the Mills children were born in [Staten Island]({{% ref "staten-island" %}}). Mary Ann's son [James Wheelock]({{% ref "mills-james-wheelock" %}}) died sometime between his baptism at the Reformed Dutch Church of Port Richmond, 31 Jul 1857 and before the United States Federal Census recorded 19 Jun 1860, when the family, including all of the Mills' children except James, was living with Bartlett Brown in a home adjoining a store Bartlett had recently purchased. 
 
-Also on 31 Aug 1860, Mary Ann's sister Jerusha Pine died. 
+Mary Ann's mother Rhoda died 26 Sep 1859, and on 31 Aug 1860, Mary Ann's sister Jerusha died. 
 
 The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863, where  Edward opened a new general store E. H. Mills & Co. and Mary Ann became a member of the Presbyterian Church of Corfu.
 
@@ -166,13 +166,47 @@ When Edward married Hannah, an announcement in the Hempstead Sentinel states tha
 
 Read more about Charles M. Pine in [The Mills Family in Staten Island NY]({{% relref "staten-island" %}}).
 
-A few final notes: first, in Luther Loper's will of 1856, there is mention of Samuel M. Loper of Clarence NY, at one point further specified as Newstead NY, coinciding with when [William and Deborah Mills]({{% relref "buffalo-mills" %}}) lived in Newstead.  
+A portrait of Mary Ann's brother Samuel Mills Pine survives and currently in the family collection of Jacqueline Igliozzi, great-great-great grandaughter of Samuel.
+
+{{% fig "pine/samuel-mills-pine-1" "800" /%}}
+
+<div class="cols">
+{{% fig "pine/samuel-mills-pine-4" "350" /%}}
+{{% fig "pine/samuel-mills-pine-2" "350" /%}}
+</div>
+
+{{% fig "pine/samuel-mills-pine-3" "800" /%}}
+
+<figure>
+<blockquote>
+If I come across any more info, I'll let you know, however, there are no other photos in my possession. I am so grateful to my G Grandfather for labeling all the picutres I have. There is no way I could have identified these people if he hadn't had the foresight to do this so many years ago.
+</blockquote>
+<figcaption>
+<cite>— Jacqueline Igliozzi via personal correspondence 01 Feb 2023.
+</cite>
+</figcaption>
+<aside>
+<ul>
+<li>
+In another message the following day, Jackie added: "By the way, the G Grandfather I refer to is Raymond M Losea Sr."
+</li>
+</ul>
+</aside>
+</figure>
+
+Jacqueline also has several photos of Samuel's descendants:
+
+{{% fig "pine/abert-burt-pine" "500" /%}}
+
+<div class="cols">
+{{% fig "pine/anna-b-pine-front" "350" /%}}
+{{% fig "pine/anna-b-pine-back" "350" /%}}
+</div>
+
+A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Loper of Clarence NY, at one point further specified as Newstead NY, coinciding with when [William and Deborah Mills]({{% relref "buffalo-mills" %}}) lived in Newstead.  
 
 <div class="cols">
 {{% fig "pine/luther-loper-will-0" "350" /%}}
 {{% fig "pine/luther-loper-will-2" "350" /%}}
 </div>
 
-
-
-  

@@ -185,7 +185,7 @@ Page 176 of the same volume lists Nathaniel Seaman, adding that "Nathaniel Seama
 </aside>
 </figure>
 
-Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hillyer, Mark Hartley, and Charles' own sons, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895) and [Alverade Richmond Pine](https://www.findagrave.com/memorial/199952865/alvarade-r-pine) (1850 to 21 Aug 1929).
+Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hillyer, Mark Hartley, and Charles' own sons, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 28 May 1895) and [Alverade Richmond Pine](https://www.findagrave.com/memorial/199952865/alvarade-r-pine) (1850 to 21 Aug 1929).
 
 <div class="cols">
 {{% fig "pine/cm-pine-signature-on-luther-loper-will-2" "350" /%}}

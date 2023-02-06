@@ -190,7 +190,7 @@ The photographer’s imprint indicating California is obviously a large clue to 
 
 > The CDV ushered in several social innovations. Due to the ease in which CDVs could be produced in quantity, they were economical to exchange with other people, such as sending them to relatives or friends across the country. (KG: p11.)
 
-The man is presumed to be [Daniel J. Baker](https://www.findagrave.com/memorial/29498729/daniel-j-baker) (02 May 1827 to 25 Feb 1861), who was married to [Martha Helme (Mills) Baker](https://www.findagrave.com/memorial/76889267/martha-helme-baker) (19 Jul 1833 to 01 May 1904), sister to Mary (Mills) Warren, and therefore Martha is presumed to be the woman in the other California print. If this is Daniel Baker, then the photograph was taken sometime in 1860 when CDVs were introduced to America, or in 1861, very close to his death early that year. Furthermore, if Martha is the correct identity of the California woman, then this would seem to indicate that she stayed in California for at least a few years following his death, based on the imprint and timeframe indicated by the tax stamp. 
+The man is presumed to be [Daniel J. Baker](https://www.findagrave.com/memorial/29498729/daniel-j-baker) (02 May 1827 to 25 Feb 1861), who was married to [Martha Helme (Mills) Baker](https://www.findagrave.com/memorial/76889267/martha-helme-baker) (19 Jul 1833 to 01 May 1904), sister of Mary (Mills) Warren, and therefore Martha is presumed to be the woman in the other California print. If this is Daniel Baker, then the photograph was taken sometime in 1860 when CDVs were introduced to America, or in 1861, very close to his death early that year. Furthermore, if Martha is the correct identity of the California woman, then this would seem to indicate that she stayed in California for at least a few years following his death, based on the imprint and timeframe indicated by the tax stamp. 
 
 {{% fig "mills-family/buffalo/1861-03-02-The-Placer-Herald-Rocklin-CA-p2" "800x500" "" "top" /%}}
 
@@ -877,6 +877,9 @@ The death of James D. Warren occurred on the 16th of December, 1885.
 </cite>
 </figcaption>
 </figure>
+
+
+{{% fig "mills-family/buffalo/History-of-Chautauqua-County-p422" "800" /%}}
 
 {{% fig "mills-family/buffalo/james-d-warren-house" "800" /%}}
 

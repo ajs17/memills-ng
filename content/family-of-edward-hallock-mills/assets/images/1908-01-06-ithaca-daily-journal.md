@@ -8,7 +8,8 @@ publocation:  "Ithaca NY"
 pages:  "3"
 source:  "nyshistoricnewspapers.org"
 Notes: >-
-    An identical notice ran on 08 Jan 1908 in the Elmira Star Gazette (Elmira NY), p5.
+
+    - An identical notice ran on 08 Jan 1908, Elmira Star Gazette, Elmira NY, p5.
 ---
 EDWARD H. MILLS.
 

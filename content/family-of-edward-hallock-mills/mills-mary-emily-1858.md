@@ -24,6 +24,11 @@ Emily was baptized in the Reformed Dutch Church of Port Richmond. Other than thi
   
 {{% fig "staten-island/rdc/rdc-scan_077" "800" /%}}
 
+<div class="cols">
+{{% fig "staten-island/RDC/rdcpr-emily1" "350" /%}}
+{{% fig "staten-island/RDC/rdcpr-emily2" "350" /%}}
+</div>
+
 Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, a period overlapping Emily's fourth birthday. 
 
 The family moved to Motts Corners in Mar 1879, a few months after Emily's 20th birthday, and in the few years immediately following her brother Horace's suicide. 

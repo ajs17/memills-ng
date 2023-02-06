@@ -9,7 +9,19 @@ James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun
 
 {{% fig "staten-island/rdc/rdc-scan_073" "800" /%}}
 
-Note several bounding dates for James' birth and death: he was presumably born sometime after Edward and Mary Ann married on 29 Dec 1850, and presumably died between the date of his baptism, 31 July 1857 , and before the United States Federal Census recorded on 19 Jun 1860 which includes the entire Mills family except James. As yet, I have not found the Mills family in the 1850 United States Federal Census or the 1855 New York State Census, but I suspect that he was born after the 1855 census. 
+Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name, which I had initially speculated could be a mis-transcription of "Hallock". 
+
+<div class="cols">
+{{% fig "staten-island/RDC/rdcpr-cover" "350" /%}}
+{{% fig "staten-island/RDC/rdcpr-spine" "350" /%}}
+</div>
+
+{{% fig "staten-island/RDC/rdcpr-james3" "800" /%}}
+
+{{% fig "staten-island/RDC/rdcpr-james2" "800" /%}}
+
+
+Note several bounding dates for James' birth and death: he was presumably born sometime after Edward and Mary Ann married on 29 Dec 1850, and presumably died between the date of his baptism, 31 Jul 1857 , and before the United States Federal Census recorded on 19 Jun 1860 which includes the entire Mills family except James. As yet, I have not found the Mills family in the 1850 United States Federal Census or the 1855 New York State Census, but I suspect that he was born after the 1855 census. 
 
 {{% fig "census/census-1860-us" "800" /%}}
 
@@ -19,6 +31,5 @@ This would mean that the Mills left Staten Island within a few years of James' d
  
 I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions, with the exception of the single baptism record shown above. I cannot find James on FindAGrave or Ancestry.  
 
-I have reached out to both the Reformed Dutch Church and Moravian Cemetery (where I believe he is most likely to be buried) to get more information on James, especially birth and death dates, confirmation on where he is buried and a possible cause of death. 
+I am attempting to get more information on James, especially birth and death dates, confirmation on where he is buried and a possible cause of death. I have reached out to both the Reformed Dutch Church and Moravian Cemetery, the two most likely places for James to be buried. Upon inquiring, Moravian Cemetery did not have a record for James. 
 
-Finally, the data above is taken from transcribed records of the Reformed Dutch Church. Therefore, I cannot rule out the possibility that "Wheelock" was mis-transcription from "Hallock".

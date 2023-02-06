@@ -121,7 +121,7 @@ They had the following children:
 
 - 1029	M	i	[Thomas James Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 181[2]7.
 - 1030	M	ii	[Edward H. Mills](https://www.findagrave.com/memorial/75958691/edward-h-mills) was born on 25 Mar 1819.
-- 1031	F	iii	[Emily Tabitha Mills](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
+- 1031	F	iii	[Emily Tabitha Mills](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.] [Married 14 Dec 1843.]
 
 Jonas married (2) [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) daughter of Jedediah Mills and Elizabeth [(Mills)] Mills [of Mills Pond] on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
 
@@ -157,6 +157,7 @@ Notes:
   - Mary Platt's parents were also members of Smithtown Presbyterian Church. 
   - Emily's and Hannah's birth dates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over a decade before Emily was born. 
+  - More than one source corroborates that Emily Tabitha Mills married John Smith Huntting on 14 Dec 1843.
 
 Several of the marriages above and below are referenced in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
@@ -248,6 +249,7 @@ The last name listed as a possible heir in the Mills' home deeds, Mary Huntting 
   - Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (1821 to 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (1817 to 1893), 
   - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (17 Jul 1845 to 1938), married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
   - their child [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875 to 1924), married James M. Cross.
+
 
 Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932), and her birth is presumably related to Emily T. Huntting's death nine days later. I believe it is Emily Mills Huntting who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
 
@@ -372,7 +374,10 @@ According to information from an exhibition of William S. Mount's works at the L
 
 The portrait mentioned above:
 
-{{% fig "portraits/micah-hawkins-p84" "500" /%}}
+<div class="cols">
+{{% fig "portraits/micah-hawkins-p84" "350" /%}}
+{{% fig "portraits/michah-hawkins" "350" /%}}
+</div> 
 
 Based on a review of the Queens Public Library collection's inventory, it appears it may contain the primary sources used in writing the following history:
 

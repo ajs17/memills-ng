@@ -31,13 +31,31 @@ Mr. [James Thomas] Mills was not born in Suffolk County, but he was only two wee
 
 The Mills' return to Smithtown, "two weeks and two days" after James' birth on 13 Feb 1827 was 01 Mar, the day before James' and Edward's mother Mary Hallock died, and just a few weeks before Edward's eighth birthday. 
 
-In Smithtown, Jonas and Mary Platt join the Smithtown Presbyterian Church, where Thomas Hallock and Sarah (Hallock) Mills, Mary Hallock's father and sister, are listed as members. (In the church records, their names are spelled as both "Hallock" and "Halliock".) 25 Apr 1831, Jonas marries Mary Platt (Mills) Mills, whose parents are also members of Smithtown Presbyterian.
+25 Apr 1831, Jonas married Mary Platt (Mills) Mills, whose parents were also members of Smithtown Presbyterian. Thomas Hallock and Sarah (Hallock) Mills, Mary Hallock's father and sister, are also listed as members of Smithtown Presbyterian, where at different times, their names were spelled as both "Hallock" and "Halliock". 
 
 {{% fig "genealogy/smithtown-presbyterian/46" "800" /%}}
 
-The ceremony was conducted by [Reverend Ithama Pillsbury](https://www.findagrave.com/memorial/54257823/ithamar-pillsbury) (22 Aug 1794 to 20 Apr 1862), who was a veteran of the War of 1812, and was witnessed by [Benjamin Mills](https://www.findagrave.com/memorial/23873051/benjamin-mills) (21 Jul 1791 to 31 Jul 1886) and presumably Mary Platt's mother [Elizabeth (Mills) Mills](https://www.findagrave.com/memorial/68731488/elizabeth-mills) (? to 15 Jul 1826). Further down the page, Jonas and Mary Platt reciprocate as witnesses to Benjamin Mills' marriage to his third wife, [Charity (Smith) Mills](https://www.findagrave.com/memorial/23873106/charity-mills) (25 Feb 1799 to 14 Oct 1870). 
+The ceremony was conducted by [Reverend Ithama Pillsbury](https://www.findagrave.com/memorial/54257823/ithamar-pillsbury) (22 Aug 1794 to 20 Apr 1862), who was a veteran of the War of 1812, and was witnessed by [Benjamin Mills](https://www.findagrave.com/memorial/23873051/benjamin-mills) (21 Jul 1791 to 31 Jul 1886), Mary Platt's brother, and Elizabeth Mills, Mary Platt's sister, as Mary Platt's mother Elizabeth died in either 1826 or 1828, depending on the source used. Further down the page, Jonas and Mary Platt are witnesses to Benjamin Mills' marriage to his third wife, [Charity (Smith) Mills](https://www.findagrave.com/memorial/23873106/charity-mills) (25 Feb 1799 to 14 Oct 1870). 
 
-Ten years later, when Edward was roughly 18 years old, the Mills family moved to Hempstead NY, according to Jonas' obituary. It appears likely that Edward followed the rest of the family to Hempstead at that time, as it is noted in the Hempstead Sentinel that Edward lived there at one time.
+At the time of his marriage to Mary Platt, Jonas lists his occupation as "carpenter" and in his obituary, it is said that "in his young days he learned the wheelwright trade, which at that time included the undertaking business." (10 Feb 1882, The Long-Islander, Huntington NY, p3, nyshistoricnewspapers.org.) 
+
+<figure>
+<blockquote>
+<p>
+A wheelwright is a craftsman who builds or repairs wooden wheels. The word is the combination of "wheel" and the word "wright", (which comes from the Old English word "wryhta", meaning a worker or shaper of wood) as in shipwright and arkwright. This occupational name became the English surname Wright. It also appears in surnames like Cartwright and Wainwright. It corresponds with skilful metal workers being called Smith.
+</p>
+<p>
+These tradesmen made wheels for carts (cartwheels), wagons (wains), traps and coaches and the belt drives of steam powered machinery. They also made the wheels, and often the frames, for spinning wheels for home use. First constructing the hub (called the nave), the spokes and the rim segments called felloes, (pronounced fell low), and assembling them all into a unit working from the center of the wheel outwards. Most wheels were made from wood, but other materials have been used, such as bone and horn, for decorative or other purposes.
+</p>
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://en.wikipedia.org/wiki/Wheelwright">Wheelwright</a>, wikipedia.org.
+</cite>
+</figcaption>
+</figure>
+
+Ten years later, when Edward was roughly 18 years old, the Mills family moved to Hempstead NY, according to Jonas' obituary. (10 Feb 1882, The Long-Islander, Huntington NY, p3, nyshistoricnewspapers.org.) Jonas' obituary also mentions that he "took up farming in Queens County" (Hempstead was in Queens County at the time, as Nassau County was not incorporated until 1898, created from the eastern 70% of Queens County), and in 1850, he was farming in Islip, according to the Federal census.  It appears likely that Edward followed the rest of the family to Hempstead at that time, as it is noted in the Hempstead Sentinel that Edward lived there at one time.
 
 <div class="cols">
 <figure style="max-width: 350px;">
@@ -138,22 +156,39 @@ William Mott II…deposed the postmaster [Willet Terry] at Terryville (on Coddin
 — 1998, Molly Adams, “Town of Caroline” in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, DeWitt Historical Society of Tompkins County, Ithaca NY, p54.
 </cite>
 </figcaption>
+<aside>
+<ul>
+<li>
+559 Brooktondale Road would remain a grocery store under the ownership of Walker V. Personius and then George Richardson, a former employee of E. H. Mills.
+</li>
+</ul>
+</aside>
 </figure>
 
-The following are examples of Edward's postmark during that time:
+An example of a postmark a week before Edward became postmater:
 
-<div class="cols">
-  {{% fig "postmarks/envelope-postmark-red" "350" /%}}
-  {{% fig "postmarks/envelope-postmark-yellow" "350" /%}}
-</div>
+{{% fig "postmarks/1885-07-20-front-closeup" "800" /%}}
 
-<div class="cols">
-  {{% fig "postmarks/envelope-postmark-beige" "350" /%}}
-  {{% fig "postmarks/envelope-postmark-white" "350" /%}}
-</div>
+The following are examples of Edward's postmark during his time as postmaster:
 
 {{% fig "postmarks/1886-06-02-envelope" "800" /%}}
 {{% fig "postmarks/1886-06-02-postmark" "500" /%}}
+
+{{% fig "postmarks/1886-12-22-front" "800" /%}}
+{{% fig "postmarks/1886-12-22-front-closeup" "800" /%}}
+
+{{% fig "postmarks/1887-10-17-front" "800" /%}}
+{{% fig "postmarks/1887-10-17-front-closeup" "800" /%}}
+
+<div class="cols">
+  {{% fig "postmarks/envelope-postmark-yellow" "350" /%}}
+  {{% fig "postmarks/envelope-postmark-red" "350" /%}}
+</div>
+
+<div class="cols">
+  {{% fig "postmarks/envelope-postmark-white" "350" /%}}
+  {{% fig "postmarks/envelope-postmark-beige" "350" /%}}
+</div>
 
 <div class="cols">
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "350" /%}}
