@@ -165,7 +165,7 @@ William Mott II…deposed the postmaster [Willet Terry] at Terryville (on Coddin
 </aside>
 </figure>
 
-An example of a postmark a week before Edward became postmater:
+An example of a postmark a week before Edward became postmaster:
 
 {{% fig "postmarks/1885-07-20-front-closeup" "800" /%}}
 
@@ -173,6 +173,8 @@ The following are examples of Edward's postmark during his time as postmaster:
 
 {{% fig "postmarks/1886-06-02-envelope" "800" /%}}
 {{% fig "postmarks/1886-06-02-postmark" "500" /%}}
+
+{{% fig "misc/1886-12-13-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 
 {{% fig "postmarks/1886-12-22-front" "800" /%}}
 {{% fig "postmarks/1886-12-22-front-closeup" "800" /%}}

@@ -31,5 +31,7 @@ This would mean that the Mills left Staten Island within a few years of James' d
  
 I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions, with the exception of the single baptism record shown above. I cannot find James on FindAGrave or Ancestry.  
 
-I am attempting to get more information on James, especially birth and death dates, confirmation on where he is buried and a possible cause of death. I have reached out to both the Reformed Dutch Church and Moravian Cemetery, the two most likely places for James to be buried. Upon inquiring, Moravian Cemetery did not have a record for James. 
+I am attempting to get more information on James, especially birth and death dates, confirmation on where he is buried and a possible cause of death. I have reached out to both the Reformed Dutch Church and Moravian Cemetery, the two most likely places for James to be buried. Upon inquiring, Moravian Cemetery did not have a record for James. I have looked through transcriptions of the Reformed Church's graveyard and could not find an entry for James. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find the Mills there. 
+
+I expect to find James on Staten Island, however, other logical places to look include Hempstead (Mary Ann's original home) and Mills Pond (Edward's original home).
 

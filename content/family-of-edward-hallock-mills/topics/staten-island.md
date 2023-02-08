@@ -247,6 +247,9 @@ It appears that by 1878, James Hillyer had left Pine's store and started a new s
 {{% fig "staten-island/1886-staten-island-directory-p2" "800" /%}}
 {{% fig "staten-island/pine-invoice" "800" /%}}
 
+{{% fig "staten-island/x120033-cmpine-trading-card-front" "800" /%}}
+{{% fig "staten-island/x120033-cmpine-trading-card-back" "800" /%}}
+
 <div class="cols">
 {{% fig "staten-island/1886-staten-island-directory-p160" "350" /%}}
 {{% fig "staten-island/1886-staten-island-directory-p315" "350" /%}}
@@ -346,9 +349,10 @@ Despite many decades of success in varied endeavors that were important in the g
 {{% fig "staten-island/1891-02-28-Richmond-County-Advance-WNB-NY-p7" "350" /%}}
 </div>
 
-{{% fig "staten-island/1891-07-25-Richmond-County-Advance-WNB-NY-p7" "500" /%}}
-
-
+<div class="cols">
+{{% fig "staten-island/1891-04-04-Richmond-County-Advance-WNB-NY-p4" "350" /%}}
+{{% fig "staten-island/1891-07-25-Richmond-County-Advance-WNB-NY-p7" "350" /%}}
+</div>
 
 <div class="cols">
 {{% fig "staten-island/1892-03-22-Richmond-County-Advance-WNB-NY-p7" "350" /%}}
@@ -366,7 +370,7 @@ Despite many decades of success in varied endeavors that were important in the g
 
 {{% fig "staten-island/1897-10-21-Queens-County-Sentinel-Hempstead-NY-p1" "500" /%}}
 
-Historic Richmond Town has a photograph of Charles M. Pine’s grandson Orville B. Pine.
+{{% fig "pine/590040034-orville-pine-portrait" "500" /%}}
 
 {{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "500" /%}}
 {{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "500" /%}}
@@ -390,7 +394,6 @@ In the *Records of the Reformed Protestant Dutch Church on Staten Island*, there
   - 02 Mar 1850, Jacob H. Van Pelt marries Melinda Mills in Staten Island.
   - 08 July 1864, John B. Martling marries Helen Louisa Mills.
   
-
 The Vanderbilt family is the most famous of the Reformed Church's past congregants. 
 
 {{% fig "staten-island/RDC/rdc-postcard" "800" /%}}
@@ -408,7 +411,7 @@ The Vanderbilt family is the most famous of the Reformed Church's past congregan
 <figcaption>
 <cite>—
 <a href="https://www.olddutchchurchnyc.org/a-village-rises">Radical Growth and Change
-within Rev. James Brownlee's 60 years of Stable Leadership 1835-1895</a>.  
+within Rev. James Brownlee's 60 years of Stable Leadership 1835-1895</a>, olddutchchurchnyc.org.  
 </cite>
 </figcaption>
 </figure>
@@ -435,11 +438,10 @@ Some facts listed on the Church's website:
 </blockquote>
 <figcaption>
 <cite>—
-<a href="https://www.olddutchchurchnyc.org/">Reformed Protestant Dutch Church on Staten Island</a>.
+<a href="https://www.olddutchchurchnyc.org/">Reformed Protestant Dutch Church on Staten Island</a>, olddutchchurchnyc.org.
 </cite>
 </figcaption>
 </figure>
-
 
 <div class="cols">
 {{% fig "staten-island/RDC/sketchbook-staten-island-p113" "350" /%}}
@@ -463,7 +465,7 @@ The following table is from [Presbyterian churches and their founding](http://ww
 
 {{% fig "staten-island/sketchbook-staten-island-p72" "500" /%}}
 
-I have looked through transcriptions of the Reformed Church's graveyard and could not find an entry to James Wheelock Mills. I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find the Mills there. 
+I have looked through transcriptions of the Reformed Church's graveyard and could not find an entry for James Wheelock Mills. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find him there. 
 
   
 

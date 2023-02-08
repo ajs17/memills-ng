@@ -46,8 +46,7 @@ The last paragraph borrows liberally from <em>A Documentary History of the Famil
 </div> 
 </figure>
 
-
-The original Mills family home built by Timothy Mills still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." ([Mills Pond Gallery](https://www.millspondgallery.org/))  
+The original Mills Homestead, now more commonly called the Mills Pond House, built by Timothy Mills and added onto by William Wickham Mills, still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." ([Mills Pond Gallery](https://www.millspondgallery.org/), millspondgallery.org.) The Mills Pond District, which includes nine buildings, the Mills Pond House among them, was added to the National Register of Historic Places in 1973. ([Mills Pond District (St. James, New York)](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)), wikipedia.org.) 
 
 {{% fig "mills-pond-house-1" /%}}
 
@@ -100,7 +99,7 @@ Edward H. Mills has partial entries on the following Mills family genealogies:
 
 2. *Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene*, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, familysearch.org. This genealogy is dated 1919.
 
-3. *A Documentary History of the Family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939 and appears to use #2 above as a source. "With notes on the Miller and Hawkins families compiled for Frances Paton Mills (Mrs. Robert B. Carnahan, Jr.) of New York City."
+3. *A Documentary History of the Family of Mills : descended from George Mills of Hempstead and Jamaica*, familysearch.org. This genealogy is dated 01 May 1939 and appears to use #2 above as a source. "With notes on the Miller and Hawkins families compiled for Frances Paton Mills (Mrs. Robert B. Carnahan, Jr.) of New York City."
 
 {{% fig  "genealogy/Genealogies-of-Long-Island-Families-p109" "800" /%}}
 
@@ -171,7 +170,15 @@ Several of the marriages above and below are referenced in the volume *Early mar
 {{% fig "genealogy/mills-marriages-36" "350" /%}}
 </div>
 
-It is perhaps interesting to note that in *Genealogies of Long Island Families*, the following is said about [William Henry Mills](https://www.findagrave.com/memorial/23872257/william-henry-mills) (03 Apr 1836 to 28 Dec 1900), grandson of Jedediah and Elizabeth Mills, Mary Platt's parents: "At the age of nineteen William Henry Mills engaged in the mercantile business in Staten Island and continued thusly for four years when he returned to Smithtown." (p109) In other words, William's time in Staten Island, approximately 1855 to 1859, is a period during which Edward Mills' family was known to be living in Staten Island, Edward himself engaged in what might be described as "the mercantile business". In fact, Edward's career was described in a strikingly similar way on 31 Dec 1895, The Daily News, Batavia NY, p1, in Mary Ann Mills' obituary, which describes Edward's move from Corfu to Mott's Corners as him "re-engaging in mercantile pursuits".
+It is perhaps interesting to note that in *Genealogies of Long Island Families*, it is said about [William Henry Mills](https://www.findagrave.com/memorial/23872257/william-henry-mills) (03 Apr 1836 to 28 Dec 1900), grandson of Jedediah and Elizabeth Mills, Mary Platt's parents: "At the age of nineteen William Henry Mills engaged in the mercantile business in Staten Island and continued thusly for four years when he returned to Smithtown" (p109). This is corroborated by *A Documentary History of the Family of Mills*:
+
+<div class="cols">
+{{% fig "genealogy/Genealogies-L-I-Families-p111-william-henry" "350" /%}}
+{{% fig "long-island/A-Documentary-History-Mills-p62" "350" /%}}
+</div>
+
+In other words, William Henry's time in Staten Island, approximately 1855 to 1859, is a period during which Edward Mills' family was known to be living in Staten Island, Edward himself engaged in what might be described as "the mercantile business". In fact, Edward's career was described in a strikingly similar way on 31 Dec 1895, The Daily News, Batavia NY, p1, in Mary Ann Mills' obituary, which describes Edward's move from Corfu to Mott's Corners as him "re-engaging in mercantile pursuits".
+
 
 {{% fig "long-island/1882-02-06-The-New-York-Times-p8" "500" /%}}
 {{% fig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "500" /%}}

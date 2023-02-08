@@ -151,6 +151,12 @@ In his will, Samuel Mills lists "brother Charles M. Pine" as one of the executor
 
 {{% fig "pine/will-samuel-pine-p2" "500" /%}}
 
+And one of Charles Pine's obituaries mentions he "had four sisters all of whom are dead".
+
+{{% fig "staten-island/1897-10-21-Queens-County-Sentinel-Hempstead-NY-p1" "500" /%}}
+
+Read more about Charles M. Pine in [The Mills Family in Staten Island NY]({{% relref "staten-island" %}}).
+
 According to [Samuel Mills Pine's](https://www.findagrave.com/memorial/180274612/samuel-mills-pine) entry on findagrave.com :
 
 <figure class="quote-only">
@@ -164,9 +170,7 @@ When Edward married Hannah, an announcement in the Hempstead Sentinel states tha
 
 {{% fig "1897-01-14-The-Sentinel-Hempstead-NY-p2" "500" /%}}
 
-Read more about Charles M. Pine in [The Mills Family in Staten Island NY]({{% relref "staten-island" %}}).
-
-A portrait of Mary Ann's brother Samuel Mills Pine survives and currently in the family collection of Jacqueline Igliozzi, great-great-great grandaughter of Samuel.
+A portrait of Samuel Mills Pine survives and currently in the family collection of Jacqueline Igliozzi, great-great-great grandaughter of Samuel.
 
 {{% fig "pine/samuel-mills-pine-1" "800" /%}}
 
