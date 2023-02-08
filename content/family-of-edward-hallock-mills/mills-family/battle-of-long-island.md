@@ -59,7 +59,7 @@ Yet another William Mills also fought in the battle.
 
 {{% fig "long-island/p110-william" "500" /%}}
 
-The soldiers' ages on the day the battle began:
+The soldiers' ages on the day the battle be gan:
 
 | | |
 | --- | --- |
