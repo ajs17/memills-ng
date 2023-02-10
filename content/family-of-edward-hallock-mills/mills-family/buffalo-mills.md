@@ -8,7 +8,7 @@ This section introduces the family of William Mills, a first cousin of Edward Mi
 <!--more-->
 
 
-Portraits of William Mills' family were digitally scanned by Queens Public Library archives Jun 2022 from print photographs in their collection: The Mills Family of Jamaica and Mills Pond, Long Island, Archives at Queens Library, Queens Borough Public Library. The backs of the photographs were also scanned and are shown beside the fronts. 
+Portraits of William Mills' family were digitally scanned by Queens Public Library archives Jun 2022 from print photographs in their collection: The Mills Family of Jamaica and Mills Pond, Long Island, Archives at Queens Library, Queens Borough Public Library. The backs of the photographs were also scanned and are shown beside the fronts. The following is my attempt to identify the subjects of these photos and provide historical context for their lives. 
 
 These portraits are typical examples of *Cartes de Visite* or visiting cards, also called "card portraits" among several other similar and commonly used names,  and in the 20th century they began being referred to by the acronym CDV. CDV's were typically 2.5"x4", and judging the sizes of these particular Mills family portraits based on the scanned image metadata, the average size is 2.4"x3.97". 
 
@@ -144,7 +144,7 @@ The photographer's name and initials appear to confirm that the photographer for
 {{% fig "mills-family/buffalo/1866-thomas-directory-p192" "350" /%}}
 </div>
 
-The two most logical candidates for the identity of the older woman is either James D. Warren's mother [Nancy (Joslyn) Warren](https://www.findagrave.com/memorial/180634896/nancy-warren) (20 Oct 1800 to 08 Jul 1843) or his wife Mary (Mills) Warren’s mother [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY). Because Nancy died years before the existence of CDVs, I therefore presume the photo of the older woman is most likely Deborah (Smith) Mills who moved to Buffalo in 1865, the year before the photo print was sold.
+The two most logical candidates for the identity of the older woman is either James D. Warren's mother [Nancy (Joslyn) Warren](https://www.findagrave.com/memorial/180634896/nancy-warren) (20 Oct 1800 to 08 Jul 1843) or his wife Mary (Mills) Warren’s mother [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1798, Smithtown NY to 13 Jun 1882, Clarence NY). Because Nancy died years before the existence of CDVs, I therefore presume the photo of the older woman is most likely Deborah (Smith) Mills who moved to Buffalo in 1865, the year before the photo print was sold.
 
 The older man is likely Deborah’s husband [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY), but it could also be James D. Warren’s father [Orsamus Warren](https://www.findagrave.com/memorial/180634786/orsamus-warren) (07 Jun 1800 to 16 Feb 1876), although I would argue that the man’s apparent age is closer to William’s at the time the photograph was likely taken.
 
@@ -383,7 +383,7 @@ The reverse side of the 111 Park Street photo:
 
 {{% fig "mills-family/buffalo/Park-111-Back" "800" /%}}
 
-[William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) who was married on 19 Jan 1819 to [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), is Jonas Davis Mills' first cousin. William, Deborah, and their descendants lived in the Clarence and Buffalo areas during a time when Edward H. Mills' family was living in Corfu, a short distance away.
+[William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) who was married on 19 Jan 1819 to [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1798, Smithtown NY to 13 Jun 1882, Clarence NY), is Jonas Davis Mills' first cousin. William, Deborah, and their descendants lived in the Clarence and Buffalo areas during a time when Edward H. Mills' family was living in Corfu, a short distance away.
 
 William was born at Mills Pond specifically, and he was a soldier in the War of 1812. (Index of Awards on Claims of the Soldiers of the War of 1812, New York Adjutant General's Office, New York State Archives, Albany NY, ancestry.com.) 
 
