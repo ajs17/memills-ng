@@ -11,9 +11,11 @@ James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun
 
 Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name, which I had initially speculated could be a mis-transcription of "Hallock". 
 
+{{% fig "staten-island/RDC/rdcpr-cover" "500" /%}}
+
 <div class="cols">
-{{% fig "staten-island/RDC/rdcpr-cover" "350" /%}}
 {{% fig "staten-island/RDC/rdcpr-spine" "350" /%}}
+{{% fig "staten-island/RDC/rdcpr-spine2" "350" /%}}
 </div>
 
 {{% fig "staten-island/RDC/rdcpr-james3" "800" /%}}
@@ -34,4 +36,7 @@ I cannot find any other records for James in *The Records of the Reformed Protes
 I am attempting to get more information on James, especially birth and death dates, confirmation on where he is buried and a possible cause of death. I have reached out to both the Reformed Dutch Church and Moravian Cemetery, the two most likely places for James to be buried. Upon inquiring, Moravian Cemetery did not have a record for James. I have looked through transcriptions of the Reformed Church's graveyard and could not find an entry for James. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find the Mills there. 
 
 I expect to find James on Staten Island, however, other logical places to look include Hempstead (Mary Ann's original home) and Mills Pond (Edward's original home).
+
+Finally, I had initially speculated that perhaps James' middle name was a mis-transcription of "Hallock" but the photographed original entries show it is indeed Wheelock. Although there is perhaps a non-zero chance that the name was a mis-recording of Hallock, that is mere speculation. Assuming Wheelock is correct, this may be a very significant clue, as the tradition among the Mills was to reuse a relatively small number of names repeatedly through the generations, yet Wheelock is unique as far as I know. (Horace's middle name Franklin is rare, but not unique, in the Mills genealogy.) 
+
 

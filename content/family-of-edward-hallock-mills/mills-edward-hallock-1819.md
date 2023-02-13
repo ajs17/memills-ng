@@ -103,7 +103,7 @@ Hempstead is also referred to historically as South Hempstead, and was part of Q
 
 For Edward to move to Hempstead at that time fits with other known facts and greatly adds to our understanding not only of his early adulthood, but the rest of his life. In Hempstead, Edward met two very important residents: Mary Ann Pine, who became Edward's first wife and mother of Emily Mills, and Mary Ann's brother, Charles M. Pine, who became Edward's mentor in the grocery business.
  
-A few years prior to the Mills' move to Hempstead, Charles M. Pine was already living there, a newly married co-proprietor of the general store Weekes, Seaman & Pine. Hempstead was presumably when Edward's and Charles' paths first crossed. To understand Edward's life, one must understand the life of Charles Pine, which Edward emulated in many ways.  
+A few years prior to the Mills' move to Hempstead, Charles M. Pine was already living there, a newly married co-proprietor of the general store Weekes, Seaman & Pine. Hempstead was presumably when Edward's and Charles' paths first crossed, and it would seem likely that Edward may have initially worked at Weekes, Seaman & Pine. To understand Edward's life, one must understand the life of Charles Pine, which Edward emulated in many ways.  
 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 

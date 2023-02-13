@@ -11,9 +11,11 @@ Horace Franklin Mills, born 04 Aug 1854, Staten Island NY, died 21 October 1876,
 
 Horace was baptized in the Reformed Dutch Church of Port Richmond:
  
-{{% fig "staten-island/rdc/rdc-scan_070" "800" /%}}
+{{% fig "staten-island/RDC/rdc-scan_070" "800" /%}}
 
-Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
+{{% fig "staten-island/RDC/rdcpr-horace" "800" /%}}
+
+Horace's died by a gunshot wound a few years before the Mills moved to Motts Corners.
 
 <div class="cols">
 {{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}

@@ -65,4 +65,4 @@ Children of WILLIAM WICKHAM MILLS AND ELIZA MILLS.
 
 1. WASHINGTON. Unmarried.
 
-
+2. AMANDA MOSCROP married EDMUND THOMAS SMITH. Lived at Nissequogue, St. James, Suffolk Co. L.I.
