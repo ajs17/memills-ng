@@ -153,6 +153,11 @@ I have not found a photo of Harriet, but there is a photograph of her brother Si
 {{% fig "mills-family/buffalo/portrait-comparisons/silas-durkee-tiffany" "350" /%}}
 </div>
 
+<div class="cols">
+{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-006-0-face" "350" /%}}
+{{% fig "mills-family/buffalo/portrait-comparisons/silas-durkee-tiffany-face" "350" /%}}
+</div>
+
 The older man is likely Deborah’s husband [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY), but it could also be James D. Warren’s father [Orsamus Warren](https://www.findagrave.com/memorial/180634786/orsamus-warren) (07 Jun 1800 to 16 Feb 1876), although I would argue that the man’s apparent age is closer to William’s at the time the photograph was likely taken. Another possibility is George Love, who died in 1870 and so overlaps the likely timeframe of the CDV's. Again, I know very little about George Love, including his exact birthdate, although it was likely near the turn of the 19th century.
 
 <div class="cols">
