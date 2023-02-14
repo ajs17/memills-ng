@@ -144,9 +144,16 @@ The photographer's name and initials appear to confirm that the photographer for
 {{% fig "mills-family/buffalo/1866-thomas-directory-p192" "350" /%}}
 </div>
 
-The two most logical candidates for the identity of the older woman is either James D. Warren's mother [Nancy (Joslyn) Warren](https://www.findagrave.com/memorial/180634896/nancy-warren) (20 Oct 1800 to 08 Jul 1843) or his wife Mary (Mills) Warren’s mother [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1798, Smithtown NY to 13 Jun 1882, Clarence NY). Because Nancy died years before the existence of CDVs, I therefore presume the photo of the older woman is most likely Deborah (Smith) Mills who moved to Buffalo in 1865, the year before the photo print was sold.
+This photograph cannot be of James D. Warren's mother [Nancy (Joslyn) Warren](https://www.findagrave.com/memorial/180634896/nancy-warren) (20 Oct 1800 to 08 Jul 1843), as she died years before the existence of CDV's. Therefore, most logical candidates for the identity of this older woman are either James' father's second wife [Harriet (Tiffany) Warren](https://www.findagrave.com/memorial/180634971/harriet-warren) (1802 to 27 Sept 1875) or his wife Mary (Mills) Warren’s mother [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1798, Smithtown NY to 13 Jun 1882, Clarence NY). Another possibility could be the wife of George Love, who I currently don't know anything about.
 
-The older man is likely Deborah’s husband [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY), but it could also be James D. Warren’s father [Orsamus Warren](https://www.findagrave.com/memorial/180634786/orsamus-warren) (07 Jun 1800 to 16 Feb 1876), although I would argue that the man’s apparent age is closer to William’s at the time the photograph was likely taken.
+I have not found a photo of Harriet, but there is a photograph of her brother Silas.
+
+<div class="cols">
+{{% fig "portraits/QPL/m020-0907-040-006-0" "350" /%}}
+{{% fig "mills-family/buffalo/portrait-comparisons/silas-durkee-tiffany" "350" /%}}
+</div>
+
+The older man is likely Deborah’s husband [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY), but it could also be James D. Warren’s father [Orsamus Warren](https://www.findagrave.com/memorial/180634786/orsamus-warren) (07 Jun 1800 to 16 Feb 1876), although I would argue that the man’s apparent age is closer to William’s at the time the photograph was likely taken. Another possibility is George Love, who died in 1870 and so overlaps the likely timeframe of the CDV's. Again, I know very little about George Love, including his exact birthdate, although it was likely near the turn of the 19th century.
 
 <div class="cols">
 {{% fig "portraits/QPL/m020-0907-040-001-0" "350" /%}}
@@ -164,7 +171,10 @@ For comparison, William's mother [Martha (Helme) Mills](https://www.findagrave.c
 
 I have not found a matching portrait for Martha's husband, [William Mills](https://www.findagrave.com/memorial/68721245/william-mills) (27 Aug 1857 to 12 June 1837) of Mills Pond, but note that Martha's portrait was purportedly painted the same year he died.
 
-{{% fig "mills-family/buffalo/1876-02-20-The-Buffalo-Sunday-Buffalo-NY-p1" "500" /%}}
+<div class="cols">
+{{% fig "mills-family/buffalo/History-of-Chautauqua-County-p422" "350" /%}}
+{{% fig "mills-family/buffalo/1876-02-20-The-Buffalo-Sunday-Buffalo-NY-p1" "350" /%}}
+</div>
 
 Portraits of two younger women are included, and affixed to one is a tax stamp cancelled with an asterisk, fixing the date the print was sold to between August 1864 and August 1866. Also note that the fact that CDVs simply did not exist in America prior to 1860 rules out James D. Warren's first wife, Laura (Love) Warren, Orsamus George Warren's mother, who died in 1850. 
 
@@ -250,7 +260,7 @@ Comparing this photo alongside other known, or presumed Mills:
 {{% fig "mills-family/buffalo/portrait-comparisons/william-c-warren1" "200" "img" /%}}
 </div>
 
-And if we agree that this is a daughter of the older woman, because the older woman cannot be James D. Warren’s mother, as argued above, then it follows, this cannot be a photo of any of James D. Warren’s sisters. And if we further accept the older woman is mostly likely Deborah Mills, then we do not need to consider that this is a photo of James D. Warren’s in-laws:
+And if we agree that this is a daughter of the older woman, because the older woman cannot be James D. Warren’s mother, as argued above, then it follows, this cannot be a photo of any of James D. Warren’s sisters, who are all daughters of Nancy. (It appears Harriet (Tiffany) Warren had no children.) And if we further accept the older woman is mostly likely Deborah Mills, then we do not need to consider that this is a photo of James D. Warren’s in-laws:
 
   - [Mary M. (Everhart) Warren](https://www.findagrave.com/memorial/59608825/mary-m-warren) (Oct 1843 to 12 May 1911), married to James’ brother [Horatio Nelson Warren](https://www.findagrave.com/memorial/59608784/horatio-nelson-warren) (26 Oct 1838 to 22 Aug 1916), shown in photos below.
   
@@ -997,3 +1007,6 @@ Weeks later, the *Commercial Advertiser* still carried his name:
 
 
 
+ 
+
+By the way, you may not know that Horatio compiled a book, Rally Round the Flag Boys, that includes a his play Tilmon Joy, the Emancipator. It prefigures the diversity pre-occupations of our day, but I doubt it is fodder for Broadway. I hope he kept his day job.

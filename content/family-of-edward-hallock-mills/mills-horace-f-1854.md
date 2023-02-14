@@ -15,7 +15,7 @@ Horace was baptized in the Reformed Dutch Church of Port Richmond:
 
 {{% fig "staten-island/RDC/rdcpr-horace" "800" /%}}
 
-Horace's died by a gunshot wound a few years before the Mills moved to Motts Corners.
+Horace worked as a clerk in his father's dry goods store in Corfu, E. H. Mills & Co. Horace died by a gunshot wound a few years before the Mills moved to Motts Corners.
 
 <div class="cols">
 {{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}
