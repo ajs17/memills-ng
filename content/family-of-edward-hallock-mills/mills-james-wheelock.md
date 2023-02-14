@@ -39,4 +39,28 @@ I expect to find James on Staten Island, however, other logical places to look i
 
 Finally, I had initially speculated that perhaps James' middle name was a mis-transcription of "Hallock" but the photographed original entries show it is indeed Wheelock. Although there is perhaps a non-zero chance that the name was a mis-recording of Hallock, that is mere speculation. Assuming Wheelock is correct, this may be a very significant clue, as the tradition among the Mills was to reuse a relatively small number of names repeatedly through the generations, yet Wheelock is unique as far as I know. (Horace's middle name Franklin is rare, but not unique, in the Mills genealogy.) 
 
+<!--
+Index to births, Richmond County, New York, 1847-1897
+https://www.familysearch.org/search/catalog/109306?availability=Family%20History%20Library
+(only nine entries for years 1859-1879)
+
+Index to deaths, Richmond County, New York, 1847-1897
+https://www.familysearch.org/search/catalog/109225?availability=Family%20History%20Library
+
+Moravian Cemetery Interment records, 1866-1967; interment index, 1874-1963
+https://www.familysearch.org/search/catalog/187569?availability=Family%20History%20Library
+
+Cemetery and church records, New Dorp, Richmond County, New York, 1742-1892
+https://www.familysearch.org/search/catalog/215996?availability=Family%20History%20Library
+
+Moravian Church Records, 1749-1965
+https://www.familysearch.org/search/catalog/187573?availability=Family%20History%20Library
+
+not found in: 
+Records of the Dutch Reformed Church of Port Richmond, S.I., baptisms from 1696 to 1772; United Brethren Congregation, births and baptisms: 1749 to 1853, marriages: 1764 to 1863, deaths and burials: 1758 to 1828; St. Andrew's Church, Richmond, births and baptisms from 1752 to 1795, marriages from 1754 to 1808
+Author: Wright, Tobias Alexander, ed; Reformed Church on Staten Island (Staten Island, New York, N.Y.); Moravian Church (New Dorp, N.Y.); St. Andrew's Church (Richmond, N.Y)
+Publication date: 1909
+Publisher: New York, Printed for the Society
+Number of Pages: 376
+https://ldsgenealogy.com/NY/Records-of-the-Dutch-Reformed-Church-of-Port-Richmond-SI-baptisms-1696-to-1772-United-Brethren-births-baptisms-1749-to-1853-marriages-1764-to-1863-deaths-burials-1758-to-1828.htm
 
