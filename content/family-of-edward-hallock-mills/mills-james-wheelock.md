@@ -64,3 +64,41 @@ Publisher: New York, Printed for the Society
 Number of Pages: 376
 https://ldsgenealogy.com/NY/Records-of-the-Dutch-Reformed-Church-of-Port-Richmond-SI-baptisms-1696-to-1772-United-Brethren-births-baptisms-1749-to-1853-marriages-1764-to-1863-deaths-burials-1758-to-1828.htm
 
+
+Samuel J. Wood Library at Weill Cornell Medicine has records starting from 1854 from the Nursery and Child’s Hospital, and I contacted them about a search for James. This was a unlikelihood anyway, and became moot as to search, they required the very information I was looking for: exact date of death, death certificate, etc., and even then, I would have to sign and agreement to de-identify the information, defeating the purpose.
+
+(The Staten Island “country branch” of the hospital didn’t open until 1869.)
+
+
+
+
+Staten Island Cemetery about 1847 and Trinity Cemetery about 1800 both are located in West New Brighton.
+
+It is very difficult to find a burial from 1850 if it is not on any known burial list. The original records from Fountain & Staten Island cemetery are old and brittle. The burials prior to 1880 were not well kept and it seems semi literate recordings. There are very few documented deaths at that time as well. No death certificates were issued.
+
+Children were not always buried by name. Staten Island Cemetery has an area for less expensive child burials, they are recorded as "lot of 5 childs" or Mrs. Mills child, John M's child, etc. If the child you are seeking was buried there, no exact record will be found.
+
+20 Feb 2023, personal correspondence via email with Friends of Abandoned Cemeteries of Staten Island.
+
+
+
+According to [information compiled by FACSI](http://www.nygenweb.net/richmond/cemeteries.html), Church of the Ascension Cemetery, located at “Richmond Terrace adjoining Staten Island Cemetery, between Tompkins Court and Alaska Street, West Brighton, (formerly Castleton)” contains known burials from 1802 to 1860. 
+
+
+Moravian Cemetery, located at 2205 Richmond Road, opened in 1740 and is the largest and oldest active cemetery on Staten Island.
+
+<figure>
+<blockquote>
+In what was a purely farming community, the 113-acre (46 ha) cemetery was originally made available as a free cemetery for the public in order to discourage families from using farm burial plots. The Moravian Cemetery is the burial place for a number of famous Staten Islanders, including members of the Vanderbilt family.
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://en.wikipedia.org/wiki/Moravian_Cemetery">Moravian Cemetery</a>, wikipedia.org.
+</cite>
+</figcaption>
+</figure>
+
+The Vanderbilt family were members of the Reformed Dutch Church of Port Richmond, and Wikipedia also notes that “After the closure in the 1880s of the South Reformed Dutch Church in Richmondtown the graves of that church's graveyard were reinterred at Moravian.” Charles Pine and his family are also buried at Moravian, however, these burials took place decades after the Mills had left Staten Island. 
+
+
+-->

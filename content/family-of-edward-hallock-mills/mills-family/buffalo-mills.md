@@ -10,7 +10,15 @@ This section introduces the family of William Mills, a first cousin of Edward Mi
 
 Portraits of William Mills' family were digitally scanned by Queens Public Library archives Jun 2022 from print photographs in their collection: The Mills Family of Jamaica and Mills Pond, Long Island, Archives at Queens Library, Queens Borough Public Library. The backs of the photographs were also scanned and are shown beside the fronts. The following is my attempt to identify the subjects of these photos and provide historical context for their lives. 
 
-These portraits are typical examples of *Cartes de Visite* or visiting cards, also called "card portraits" among several other similar and commonly used names,  and in the 20th century they began being referred to by the acronym CDV. CDV's were typically 2.5"x4", and judging the sizes of these particular Mills family portraits based on the scanned image metadata, the average size is 2.4"x3.97". 
+First a note on the process I used to make my determinations, which involves a few simple assumptions as well as judging probabilities and a process of elimination in addition to the direct physical evidence of the photographs.
+
+To begin, I regard as proof of identify either direct identification on the photographic media itself, or a clear match to a different identified portrait of the people in question, which fortunately, are both satisfied for James D. Warren and his son Orsamus George Warren. The identifications of the portraits with California imprints are compelling based on their unique overlap with the known family history of Daniel and Martha Helme Baker. 
+
+I am also considering the portraits as at least a loosely related set, which is shakier ground given that we don't know exactly how they came to be preserved originally. A Mills or Warren descendant may have donated Mills family photographs along with those of other ancestors that are not related to the Mills or Warrens. The more recent history of the portraits is clearer, however, as they were in a Mills family collection at the Buffalo History Museum along with other items related to William and Deborah Mills and their son James Harrison Mills, before being transferred to Queens Public Library. I will also make a case for separately identifying Deborah and William in the portraits of the two older individuals, despite no direct evidence on the photographic media themselves for viewing them as a couple.
+
+Therefore, based on the portraits that can be identified, and what is known of the related families in western New York at the time, that the remaining portraits are more likely than not other Mills or Warren family members, and if that is true, it suggests that the likelihood of identifying them increases the closer we are to the subjects of the portraits that can be identified. With this in mind, I will focus on first degree relatives of James D. Warren and his two wives, Laura Love and Mary Mills, including in-laws married to those first degree relatives. Within this set of candidates, the vast majority can be eliminated for various reason that will be shown, and that, along with the direct evidence provided by the photographs themselves, will point to the most likely identities.  
+
+These portraits are typical examples of *Cartes de Visite* or visiting cards, also called "card portraits" among several other similar and commonly used names,  and in the 20th century they began being referred to by the acronym CDV. CDVs were typically 2.5"x4", and judging the sizes of these particular Mills family portraits based on the scanned image metadata, the average size is 2.4"x3.97". 
 
 CDVs replaced earlier tintypes and daguerreotypes, formats which resulted in unique photographs that could only be copied by photographing the original photograph. CDVs were produced by exposing photographic paper to a glass negative and then mounting the thin paper on a stiff card, and as a result, it was possible to create multiple copies of a single photograph for the first time. The paper was also much less expensive than the previous media, were easier for the customer to handle, and CDVs created higher quality images and looked more elegant as well, and due to technological advances of the time, exposures could be completed in as little as one second or less in bright light. All of these factors, along with the American Civil War, which caused widespread separation of families, created a sudden increase in demand for photography. CDVs were introduced to America in 1860 and were at peak popularity from 1863 to 1878, gradually displaced by the larger cabinet card format to the point that CDVs had virtually disappeared by 1890.
 
@@ -111,9 +119,7 @@ There are also several known portraits of James D. Warren's only other son with 
 
 {{% fig "mills-family/buffalo/1935-11-27-The-Buffalo-News-buffalo-ny-p10" "350" /%}}
 
-As for identifying the remaining photographs, I will be assuming that most likely, these photographs are, either first degree relatives of either James D. Warren or his second wife Mary (Mills) Warren, or are married to one of those first degree relatives. Although I will be considering all of these candidates in my analysis, I will acknowledge that the fact these photographs are in a Mills family collection would seem to imply that these photographs are more likely to be people on the Mills side of the family than the Warren side.
-
-The clearest evidence for dating the photographs comes from the inclusion of Civil War tax stamps on several of the photographs, such as appears on James D. Warren's above:
+The clearest evidence for dating the remaining portraits comes from the inclusion of Civil War tax stamps on several, such as appears on James D. Warren's above:
 
 <figure>
 <blockquote>
@@ -137,14 +143,14 @@ Notice that on each of the above photos with an accompanying stamp, the stamp is
 
 > The photographer selling the taxed images was supposed to cancel the stamp with his initials and the date. Although this can be a benefit to today's researcher, investigation has shown that less than 25% of stamps have a date recorded on them. Cancellations may include an "X", initials, a name, or some illegible scribble. (KG, p23.)
 
-The photographer's name and initials appear to confirm that the photographer for each is G. A. Douglass (and explicit in the faded imprint on the back of James D. Warren's print), who, along with the other Buffalo photographers indicated in the scanned portraits, is listed in Thomas' Buffalo City Directory in 1866:    
+The photographer's name and initials appear to confirm that the photographer for each is G. A. Douglass (and explicit in the faded imprint on the back of James D. Warren's portrait), who, along with the other Buffalo photographers indicated in the scanned portraits, is listed in Thomas' Buffalo City Directory in 1866:    
 
 <div class="cols">
 {{% fig "mills-family/buffalo/1866-thomas-directory-p367" "350" /%}}
 {{% fig "mills-family/buffalo/1866-thomas-directory-p192" "350" /%}}
 </div>
 
-This photograph cannot be of James D. Warren's mother [Nancy (Joslyn) Warren](https://www.findagrave.com/memorial/180634896/nancy-warren) (20 Oct 1800 to 08 Jul 1843), as she died years before the existence of CDV's. Therefore, most logical candidates for the identity of this older woman are either James' father's second wife [Harriet (Tiffany) Warren](https://www.findagrave.com/memorial/180634971/harriet-warren) (1802 to 27 Sept 1875) or his wife Mary (Mills) Warren’s mother [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1798, Smithtown NY to 13 Jun 1882, Clarence NY). Another possibility could be the wife of George Love, who I currently don't know anything about.
+This photograph cannot be of James D. Warren's mother [Nancy (Joslyn) Warren](https://www.findagrave.com/memorial/180634896/nancy-warren) (20 Oct 1800 to 08 Jul 1843), as she died years before the existence of CDVs. Therefore, most logical candidates for the identity of this older woman are either James' father's second wife [Harriet (Tiffany) Warren](https://www.findagrave.com/memorial/180634971/harriet-warren) (1802 to 27 Sept 1875) or his wife Mary (Mills) Warren’s mother [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1798, Smithtown NY to 13 Jun 1882, Clarence NY). Another possibility could be the wife of George Love, who I currently don't know anything about.
 
 I have not found a photo of Harriet, but there is a photograph of her brother Silas.
 
@@ -158,16 +164,27 @@ I have not found a photo of Harriet, but there is a photograph of her brother Si
 {{% fig "mills-family/buffalo/portrait-comparisons/silas-durkee-tiffany-face" "350" /%}}
 </div>
 
-The older man is likely Deborah’s husband [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY), but it could also be James D. Warren’s father [Orsamus Warren](https://www.findagrave.com/memorial/180634786/orsamus-warren) (07 Jun 1800 to 16 Feb 1876), although I would argue that the man’s apparent age is closer to William’s at the time the photograph was likely taken. Another possibility is George Love, who died in 1870 and so overlaps the likely timeframe of the CDV's. Again, I know very little about George Love, including his exact birthdate, although it was likely near the turn of the 19th century.
+Further below, I will make a case for this woman being the mother of one of the young women. If that relationship is correct, then this would strongly indicate that this is Deborah Mills. Although I currently don't know the name or vital dates of George Love's wife, Laura Love's mother, and although George Love had several daughters whose vital dates are also currently unknown to me (listed below in his brief biography), Laura Love cannot be in the portraits as she died years before the existence of CDVs, and it seems unlikely on its face this this collection would contain portraits of James D. Warren's mother-in-law and sister-in-law compared to the likelihood of it being Deborah Mills and one of her daughters. Further consider the relative unlikelihood that this could be the mother of one of James D. Warren's sisters-in-law.
+
+The older man is likely Deborah’s husband [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY), but it could also be James D. Warren’s father [Orsamus Warren](https://www.findagrave.com/memorial/180634786/orsamus-warren) (07 Jun 1800 to 16 Feb 1876), although I offer the following subjective opinons: the man’s apparent age seems closer to William’s at the time the photograph was likely taken, and further, I see no resemblance between James D. Warren (or James' brother Horatio, shown further below) and this gentleman. Another possibility is George Love, who died in 1870 and so overlaps the likely timeframe of the CDVs. Again, I know very little about George Love, including his exact birthdate, although it was likely near the turn of the 19th century. These three men alone exhaust the most likely candidates from that generation. 
 
 <div class="cols">
 {{% fig "portraits/QPL/m020-0907-040-001-0" "350" /%}}
 {{% fig "portraits/QPL/m020-0907-040-001-1" "350" /%}}
 </div>
 
+<div class="cols">
+{{% fig "mills-family/buffalo/History-of-Chautauqua-County-p422" "350" /%}}
+{{% fig "mills-family/buffalo/1876-02-20-The-Buffalo-Sunday-Buffalo-NY-p1" "350" /%}}
+</div>
+
+William Mills' life will be explored in more detail below.
+
 For comparison, William's mother [Martha (Helme) Mills](https://www.findagrave.com/memorial/68721187/martha-mills) (19 Feb 1761 to 23 Nov 1854) was painted by Shepard Alonzo Mount, William Sidney Mount's brother:
 
 {{% fig "portraits/martha-helme-mills" "500" /%}}
+
+Taking into account that one is a painting, I still believe there are similarities in the shapes of the eyes, nose and mouth. Notice in particular, how the corners of the mouths are downturned, which can also be seen in at least one of the portraits of the young women in the collection.
 
 <div class="cols">
 {{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-001-0-face" "350" /%}}
@@ -176,12 +193,7 @@ For comparison, William's mother [Martha (Helme) Mills](https://www.findagrave.c
 
 I have not found a matching portrait for Martha's husband, [William Mills](https://www.findagrave.com/memorial/68721245/william-mills) (27 Aug 1857 to 12 June 1837) of Mills Pond, but note that Martha's portrait was purportedly painted the same year he died.
 
-<div class="cols">
-{{% fig "mills-family/buffalo/History-of-Chautauqua-County-p422" "350" /%}}
-{{% fig "mills-family/buffalo/1876-02-20-The-Buffalo-Sunday-Buffalo-NY-p1" "350" /%}}
-</div>
-
-Portraits of two younger women are included, and affixed to one is a tax stamp cancelled with an asterisk, fixing the date the print was sold to between August 1864 and August 1866. Also note that the fact that CDVs simply did not exist in America prior to 1860 rules out James D. Warren's first wife, Laura (Love) Warren, Orsamus George Warren's mother, who died in 1850. 
+Portraits of two younger women are included, and affixed to one is a tax stamp cancelled with an asterisk, fixing the date the print was sold to between August 1864 and August 1866. Remember that CDVs simply did not exist in America prior to 1860, which rules out James D. Warren's first wife, Laura (Love) Warren, Orsamus George Warren's mother, who died in 1850. 
 
 <div class="cols">
 {{% fig "portraits/QPL/m020-0907-040-002-0" "350" /%}}
@@ -247,23 +259,25 @@ I believe the other young woman photographed in the collection is also a daughte
 {{% fig "portraits/QPL/m020-0907-040-008-1" "350" /%}}
 </div>
 
-Consider the following comparison to the presumed portrait of Deborah Mills, who is posed very similarly. I began by cropping and resizing the portraits until the pupils (as best I could judge) were aligned, then I drew additional parallel lines to see what other features might also align.
+Consider the following comparison to the presumed portrait of Deborah Mills, who is posed nearly identically. I began by cropping and resizing the portraits until the pupils (as best I could judge) were aligned both vertically and horizontally at the same scale, then I drew additional parallel lines to see what other features might also align, or not.
 
 {{% fig "mills-family/buffalo/portrait-comparisons/deborah-mary-mills-lines" "500" "img" /%}}
 
-Comparing this photo alongside other known, or presumed Mills:
- 
-<div class="cols">
-{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-006-0-face" "200" "img" /%}}
-{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-008-0-face" "200" "img" /%}}
-{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-002-0-face" "200" "img" /%}}
-</div>
+Although the portrait of Martha Helme (Mills) Baker is quite grainy, I believe I see points of similarity between the two. 
 
 <div class="cols">
-{{% fig "mills-family/buffalo/portrait-comparisons/william-c-warren2" "200" "img" /%}}
-{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-008-0-face" "200" "img" /%}}
-{{% fig "mills-family/buffalo/portrait-comparisons/william-c-warren1" "200" "img" /%}}
+{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-008-0-face" "350" "img" /%}}
+{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-002-0-face" "350" "img" /%}}
 </div>
+
+And where I did not find resemblance between the older man and James D. Warren, I see multiple points of similarity between the older man and the young woman.
+
+<div class="cols">
+{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-008-0-face" "350" /%}}
+{{% fig "mills-family/buffalo/portrait-comparisons/m020-0907-040-001-0-face" "350" /%}}
+</div>
+
+The shape of the nose and mouth, frowning at the edges, the shape of the upper eyelids, and the pronounced cheek bones all show similarities in my eyes.
 
 And if we agree that this is a daughter of the older woman, because the older woman cannot be James D. Warren’s mother, as argued above, then it follows, this cannot be a photo of any of James D. Warren’s sisters, who are all daughters of Nancy. (It appears Harriet (Tiffany) Warren had no children.) And if we further accept the older woman is mostly likely Deborah Mills, then we do not need to consider that this is a photo of James D. Warren’s in-laws:
 
@@ -290,8 +304,10 @@ This leaves only two remaining daughters not yet accounted for who could be cand
   - [Margaret Augusta Mills](https://www.findagrave.com/memorial/78770687/margaret-augusta-mills) (28 Nov 1822 to 02 Jun 1892), who was 43 in 1865.
   
   - [Mary Smith (Mills) Warren](https://www.findagrave.com/memorial/113110177/mary-smith-warren) (19 Jun 1831 to 06 Apr 1894) who was 34 in 1865.
-   
-Based on this process of elimination along with the circumstantial evidence, I believe [Mary Smith (Mills) Warren](https://www.findagrave.com/memorial/113110177/mary-smith-warren) (19 Jun 1831 to 06 Apr 1894), second wife of James D. Warren, is most likely the young woman photographed in Buffalo. 
+ 
+The older man could still be George Love and one of his other daughters, because the young woman cannot be Laura Love, consider the relative unlikelihood of retaining a photo of James D. Warren's former father-in-law and a former sister-in-law. 
+
+Based on this process of elimination along with the circumstantial evidence, I believe [Mary Smith (Mills) Warren](https://www.findagrave.com/memorial/113110177/mary-smith-warren) (19 Jun 1831 to 06 Apr 1894), second wife of James D. Warren, is most likely the young woman photographed in Buffalo. I would also argue that the likelihood of the proposed identifications of Mary Mills and her parents reinforce each other.  
 
 <figure>
 <blockquote>
@@ -327,6 +343,22 @@ Note that there are known photos of James D. Warren's brother Horatio, ruling hi
 {{% fig "mills-family/buffalo/portrait-comparisons/Horatio2" "350" "img,cite,link" /%}}
 </div>
 
+Colonel Horatio Warren of the 142d Pennsylvania Volunteers edited and compiled the book [*Rally Round the Flag Boys*](https://archive.org/details/03807178.3292.emory.edu/page/n11/mode/2up) that is more commonly cited by its descriptive subtitle: "The Declaration of Independence and war history, Bull Run to Appomattox: war songs, recitations, poems, familiar songs, Decoration Day poems and speeches, concluding with a war drama, in four acts, entitled 'Tilmon Joy, The Emancipator'". The four act play was written by the Colonel himself, although I have not found evidence of it being performed.
+
+<figure>
+<blockquote>
+<p>The "Battle Cry of Freedom", also known as "Rally 'Round the Flag", is a song written in 1862 by American composer George Frederick Root (1820–1895) during the American Civil War. A patriotic song advocating the causes of Unionism and abolitionism, it became so popular that composer H. L. Schreiner and lyricist W. H. Barnes adapted it for the Confederacy.
+<p>
+</p>
+A modified Union version was used as the campaign song for the Lincoln-Johnson ticket in the 1864 presidential election, as well as in elections after the war, such as for Garfield in the 1880 U.S. presidential election. The song was so popular that the music publisher had 14 printing presses going at one time and still could not keep up with demand. It is estimated that over 700,000 copies of this song were put in circulation. 
+</p>
+</blockquote>
+<figcaption>
+<cite>— <a href="https://en.wikipedia.org/wiki/Battle_Cry_of_Freedom">Battle Cry of Freedom</a>, wikipedia.org.
+</cite>
+</figcaption>
+</figure>
+
 And the following candidates can be ruled out, as they died as children before the existence of CDVs:
 
   - [Charles Warren](https://www.findagrave.com/memorial/180635042/charles-warren) (30 Mar 1834 to 29 Jul 1835).
@@ -337,7 +369,7 @@ Mary (Mills) Warren appears to only have one sister that married, Martha Helme (
 
 This leaves the following as the most likely candidates to be in the last two portraits, along with their ages in 1865, within the estimated timeframe of the photographs:
 
-  - [William Erastus Mills](https://www.findagrave.com/memorial/78770720/william-erastus-mills) (18 Apr 1820 to 28 Jul 1861), died at the age of 41 in 1861 when CDVs were still quite new, but several aspects of this photo (no border, vignette style, etc.) suggest the photo is quite likely to have been taken in the early 1860's.
+  - [William Erastus Mills](https://www.findagrave.com/memorial/78770720/william-erastus-mills) (18 Apr 1820 to 28 Jul 1861), died at the age of 41 in 1861 when CDVs were still quite new, but several aspects of this photo (no border, vignette style, etc.) suggest the photo quite possibly could been taken in the early 1860's.
   
   - [Seth William Warren](https://www.findagrave.com/memorial/113066557/seth-w-warren) (15 Mar 1841 to 19 May 1918), 24 years old in 1865.  
  
@@ -485,8 +517,9 @@ This James Harrison Mills, a real estate and loan broker of 446 Main St., Buffal
 </aside>
 </figure>
 
-Note that there is overlap of 2-3 years when [Edward's family lived in Corfu NY]({{% ref "corfu-eh-mills-co" %}}) (likely beginning sometime in the Fall of 1862 to the Spring of 1863) and William's family lived in Clarence (leaving for Buffalo in 1865). The distance between Corfu and Clarence is approximately 10 miles , and the distance between Corfu and Buffalo is approximately 30 miles. Yet the above mentioned genealogy that was a "review and amplification" of James' research only has [a partial listing]({{% ref "genealogy" %}}) for Edward, not even noting his first marriage. This suggests that Edward's and William's branches of the Mills family may not have been aware of each other.  
+Note that there is overlap of 2-3 years when [Edward's family lived in Corfu NY]({{% ref "corfu-eh-mills-co" %}}) (likely beginning sometime in the Fall of 1862 to the Spring of 1863) and William's family lived in Clarence (leaving for Buffalo in 1865). The distance between Corfu and Clarence is approximately 10 miles , and the distance between Corfu and Buffalo is approximately 30 miles. Yet the above mentioned genealogy that was a "review and amplification" of James' research only has [a partial listing]({{% ref "genealogy" %}}) for Edward, not even noting his first marriage. This initially suggested to me that Edward's and William's branches of the Mills family may not have been aware of each other, but this has since been tempered with the realization that in the same volume that that purportedly includes James' research, his own immediate family is underrepresented:  
 
+{{% fig "mills-family/buffalo/mills-history-p57" "800" /%}}
 
 The following resources are drawn from Thomas' Buffalo City Directory, published annually, beginning with a clarification of their abbreviations
 
@@ -1012,6 +1045,3 @@ Weeks later, the *Commercial Advertiser* still carried his name:
 
 
 
- 
-
-By the way, you may not know that Horatio compiled a book, Rally Round the Flag Boys, that includes a his play Tilmon Joy, the Emancipator. It prefigures the diversity pre-occupations of our day, but I doubt it is fodder for Broadway. I hope he kept his day job.

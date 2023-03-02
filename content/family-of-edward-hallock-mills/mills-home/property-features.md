@@ -1,12 +1,8 @@
----
-title: "Maps and Photographs of the Property"
-weight: 50
-draft: true
----
 
-This section explores features of the property, such as the mill race bridge, and shows historical photos of the property and neighborhood.
 
-<!--more-->
+
+
+
 
 
 1866, Photographic Atlas of Tompkins County, New York. Stone & Stewart, Philadelphia, p21.

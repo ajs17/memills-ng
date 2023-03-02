@@ -1,5 +1,5 @@
 ---
-title: "Edward H. Mills"
+title: "Edward Hallock Mills"
 weight: 10
 ---
 
@@ -55,7 +55,7 @@ These tradesmen made wheels for carts (cartwheels), wagons (wains), traps and co
 </figcaption>
 </figure>
 
-Ten years later, when Edward was roughly 18 years old, the Mills family moved to Hempstead NY, according to Jonas' obituary. (10 Feb 1882, The Long-Islander, Huntington NY, p3, nyshistoricnewspapers.org.) Jonas' obituary also mentions that he "took up farming in Queens County" (Hempstead was in Queens County at the time, as Nassau County was not incorporated until 1898, created from the eastern 70% of Queens County), and in 1850, he was farming in Islip, according to the Federal census.  It appears likely that Edward followed the rest of the family to Hempstead at that time, as it is noted in the Hempstead Sentinel that Edward lived there at one time.
+Ten years later, when Edward was roughly 18 years old, the Mills family moved to Hempstead NY, according to Jonas' obituary. (10 Feb 1882, The Long-Islander, Huntington NY, p3, nyshistoricnewspapers.org.) It appears likely that Edward followed the rest of the family to Hempstead, as it is noted in the Hempstead Sentinel that Edward lived there at one time. 
 
 <div class="cols">
 <figure style="max-width: 350px;">
@@ -101,7 +101,7 @@ Hempstead is also referred to historically as South Hempstead, and was part of Q
 </figcaption>
 </figure>
 
-For Edward to move to Hempstead at that time fits with other known facts and greatly adds to our understanding not only of his early adulthood, but the rest of his life. In Hempstead, Edward met two very important residents: Mary Ann Pine, who became Edward's first wife and mother of Emily Mills, and Mary Ann's brother, Charles M. Pine, who became Edward's mentor in the grocery business.
+For Edward to move to Hempstead as a young man fits with other known facts and greatly adds to our understanding not only of his early adulthood, but the rest of his life. In Hempstead, Edward met two very important residents: Mary Ann Pine, who became Edward's first wife and mother of Emily Mills, and Mary Ann's brother, Charles M. Pine, who became Edward's employer and mentor in the grocery business.
  
 A few years prior to the Mills' move to Hempstead, Charles M. Pine was already living there, a newly married co-proprietor of the general store Weekes, Seaman & Pine. Hempstead was presumably when Edward's and Charles' paths first crossed, and it would seem likely that Edward may have initially worked at Weekes, Seaman & Pine. To understand Edward's life, one must understand the life of Charles Pine, which Edward emulated in many ways.  
 

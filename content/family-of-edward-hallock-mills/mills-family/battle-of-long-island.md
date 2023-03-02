@@ -69,7 +69,7 @@ The soldiers' ages on the day the battle began:
 | 19  | William Mills of Mills Pond |
 | 22  | William Mills, son of Jacob |
 
-Note that the battle took place on the 19th birthday of William Mills of Mills Pond, the father of William Mills of Erie County.
+Note that the battle began on the 19th birthday of William Mills of Mills Pond, the father of William Mills of Erie County.
 
 To try to make clearer the relationships among the Mills that are the primary subjects of this work, I created the following visual representation:
 

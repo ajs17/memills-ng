@@ -9,6 +9,9 @@ pages:  "1"
 source:  "newspapers.com"
 media:  ""
 quaddress:  ""
+notes: >-
+
+    - [Orsamus Warren](https://www.findagrave.com/memorial/180634786/orsamus-warren) (07 Jun 1800 to 16 Feb 1876).
 ---
 MORTUARY. 
 

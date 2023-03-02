@@ -214,3 +214,10 @@ A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Lope
 {{% fig "pine/luther-loper-will-2" "350" /%}}
 </div>
 
+
+<!--
+
+1922, [The New York Genealogical and Biographical Record](https://books.google.com/books?id=sdgUAAAAYAAJ&dq=%22History+and+Vital+Records+of+Christ%27s+First+Presbyterian+Church+of+Hempstead,+Long+Island,+New+York,%22&source=gbs_navlinks_s), Volume 53, 
+Richard Henry Greene, Henry Reed Stiles, Melatiah Everett Dwight, George Austin Morrison, Hopper Striker Mott, John Reynolds Totten, Harold Minot Pitman, Louis Effingham De Forest, Charles Andrew Ditmas, Conklin Mann, Arthur S. Maynard, New York Genealogical and Biographical Society, NY, Google Books. 
+-->
+

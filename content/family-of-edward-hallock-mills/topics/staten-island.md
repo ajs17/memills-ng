@@ -11,7 +11,7 @@ It appears that Edward Mills first met Mary Ann and Charles Pine when he moved w
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
-Multiple census records confirm that all the Mills' children were born in Staten Island, and they were baptized in the Reformed Dutch Church of Port Richmond, where Charles Pine was a longtime member of the consistory.
+Multiple census records confirm that all the Mills' children were born in Staten Island, and they were baptized in the Reformed Dutch Church of Port Richmond.
 
 <div class="cols">
 {{% fig "staten-island/rdc/rdc-scan_067" "350" /%}}
@@ -76,6 +76,12 @@ Closer views:
 The representation of the property on some maps does seem to show these two buildings were "adjoined" in later years.
 
 {{% fig "staten-island/topo-brown" "500" /%}}
+
+The following are Google Maps street view images of Bartlett Brown's property, captured in 2022.
+
+{{% fig "staten-island/2022-Aug-google-maps-brown2" "800" /%}}
+{{% fig "staten-island/2022-Aug-google-maps-brown" "800" /%}}
+{{% fig "staten-island/2022-Aug-google-maps-brown3" "800" /%}}
 
 Webb's Consolidated Directory of Staten Island from 1886 lists Brown’s general store, referencing 114 Broadway, the address mentioned in his obituary,  as well as a reference to the home on State Street "near" Castleton Avenue. This description opens the possibility of a different interpretation of which building was the home: as the directory legend below shows, there is an abbreviation for "corner" which would seem to be more appropriate than "near" in this case, and the Beers map indicates Bartlett owned the other lots on that block (although those other lots could have been purchased after the Mills left Staten Island, obviously), so perhaps the home the Mills lived in was the building immediately below the highlighted one, number 424 on the Sanborn map, which is also describe as a "DWG". (Or perhaps Brown moved into that home at a later time?)
 
@@ -198,7 +204,35 @@ Charles Pine's store was opened in 1848, and was known at different times as C. 
 
 {{% fig "staten-island/1850-us-census-castleton" "800" /%}}
 
-This census shows [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. George became an architect and builder and in 1872 built St. Andrews Church on Staten Island. His son [George R. Mersereau](https://www.findagrave.com/memorial/182610163/george-r-mersereau) (24 Jul 1867 to 16 May 1905) owned a successful furniture business. Interestingly, in the 1910 United States Federal Census, James Hillyer and wife Phoebe are renting a home on Cary Avenue on Staten Island, and James lists his occupation as "furniture salesman", which is a bit inconsistent with his obituary below. 
+This census shows [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles. George went on to become successful in business himself and is credited with rebuilding St. Andrews Church. 
+
+{{% fig "staten-island/1896-05-16-Richmond-County-Advance-WNB-ny-p8" "800x500" "" "top" /%}}
+
+<figure>
+<blockquote>
+<p>
+Anglicans established the Church of St. Andrew at the head of the Fresh Kills in the early 18th century. A graveyard and church were begun by 1709 and the stone church building completed in 1712, adding a major institutional presence to the growing hamlet of Richmond. The church was granted its charter by Queen Anne in 1713.
+</p>
+<p>
+In 1770 the original church building was enlarged and a tall, elegant steeple was added. The steeple followed a design published by the English architect James Gibbs. With its location on a hill adding to the effect of the tall steeple, the church became an important monument that was visible from miles away.
+</p>
+<p>
+During the American Revolution, the church was a center of military activity. Rev. Richard Charlton, who was a rector of St. Andrew’s at the start of the Revolution (until 1777), is remembered as the grandfather of Saint Elizabeth Ann Bayley Seton, who was the first native-born U.S. citizen to be canonized by the Roman Catholic Church; Charlton and Seton family members are among the distinguished early citizens whose graves can be found in the church’s cemetery.
+</p>
+<p>
+The early church building was severely damaged by fire on March 29, 1867 and again in October 1872. During the periods of rebuilding, services were held in the nearby Reformed Dutch Church.
+</p>
+<p>
+Today, the Episcopal Church of St. Andrew is an active faith community. The current structure, attributed to builder George Mersereau in 1872, is noted for the English influences in its design. It was designated a New York City landmark in 1967 and was added to the National Register of Historic Places in 2000. The adjoining Burch Hall was built in 1924.
+</p>
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://www.historicrichmondtown.org/historic-houses/2018/7/26/saint-andrews-church">Saint Andrew's Church #41</a>, Historic Richmond Town.
+</cite>
+</figcaption>
+</figure>
+
 
 In 1865, Mark Hartley is also living with Charles M. Pine, occupation "clerk", presumably in Pine's general store. Later, Mark Hartley co-owned the general store Hillyer & Hartley, along with James Hillyer's brother Abraham Hillyer.
 
@@ -224,6 +258,13 @@ The structural notations in the Sanborn map confirms what can be seen in the fol
 {{% fig "staten-island/pine-residence" "800" /%}}
 
 Although I don't have documentary evidence for this currently, I think it is reasonably likely that the Mills family lived at the Pine residence at some point. Other of Charles' employees, proteges, and extended family lived there over the years.
+
+The following are Google Maps street view images from Richmond Terrace captured in 2022 that show the buildings in the footprint of Pine's store and residence. "Apollo Intl." is in the area of Pine's residence, but the brick building to the left may be Pine's store intact.
+
+{{% fig "staten-island/2022-oct-google-maps-pines-store4" "800" /%}}
+{{% fig "staten-island/2022-oct-google-maps-pines-store" "800" /%}}
+{{% fig "staten-island/2022-oct-google-maps-pines-store2" "800" /%}}
+{{% fig "staten-island/2022-oct-google-maps-pines-store3" "800" /%}}
 
 It is also interesting to note that the tail of the Factory Lake (sometimes referred to as Factory Pond) raceway flows to the rear of Pine's store, approaching the stables before presumably going underground and into Kill Van Kull. Factory Lake became quite polluted and was filled in by the early 1900's, and is the location today of Corporal Thompson park, named after the first African-American from Staten Island to be killed in action in the Vietnam War, in 1967.
 
@@ -372,6 +413,8 @@ Despite many decades of success in varied endeavors that were important in the g
 
 {{% fig "pine/590040034-orville-pine-portrait" "500" /%}}
 
+Interestingly, in the 1910 United States Federal Census, James Hillyer and wife Phoebe are renting a home on Cary Avenue on Staten Island, and James lists his occupation as "furniture salesman", which is a bit inconsistent with his obituary below. 
+
 {{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "500" /%}}
 {{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "500" /%}}
  
@@ -468,5 +511,7 @@ The following table is from [Presbyterian churches and their founding](http://ww
 I have looked through transcriptions of the Reformed Church's graveyard and could not find an entry for James Wheelock Mills. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find him there. 
 
   
+
+
 
 

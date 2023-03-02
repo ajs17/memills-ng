@@ -1,7 +1,6 @@
 ---
 citation: "ca. 1880-1890, C. M. Pine & Son Trade Card, front side, Catalog Number X12.0033, Staten Island Historical Society, Historic Richmond Town, [historicrichmondtown.org](https://www.historicrichmondtown.org)."
 
-citation: "ca. 1880-1890, C. M. Pine & Son Trade Card, back side, Catalog Number X12.0033, Staten Island Historical Society, Historic Richmond Town, [historicrichmondtown.org](https://www.historicrichmondtown.org)."
 notes: >- 
 
   - The following information is from Historic Richmond Town:

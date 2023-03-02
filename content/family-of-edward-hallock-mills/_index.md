@@ -21,7 +21,7 @@ This publication attempts to document all extant information on the family of Ed
 
 [Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills), [Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills), [Jonas](https://www.findagrave.com/memorial/75958930/jonas-e-mills ) and [Horace](https://www.findagrave.com/memorial/75958913/horace-f-mills) are interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.
 
-James is presumably buried on Staten Island, although I have not yet found him. James is not at Moravian Cemetery, based on an inquiry with that office. The Reformed Dutch Church of Port Richmond is also being searched.
+James is presumably buried on Staten Island, although I have not yet found him. James' page linked above summarizes my search for his final resting place.
 
 [Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca NY 14850.
 
