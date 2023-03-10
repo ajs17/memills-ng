@@ -1,5 +1,5 @@
 ---
-title: "Genealogy and Long Island Origins"
+title: "Mills Pond NY and Mills Genealogy"
 weight: 500 
 ---
 Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town of Smithtown on Long Island, and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them.
@@ -204,6 +204,8 @@ And so, the cited genealogical entries can be updated accordingly:
 
 {{% fig "long-island/1915-04-23-The-Long-Islander-Huntington-NY-p5" "800x500" "" "top" /%}}
 </div>
+
+As he was then a child, presumably James moved with his family to Hempstead in the mid-1830's, where the Mills and the Pines attended Christ's First Presbyterian Church in Hempstead, and where the surname Watts can be found.
 
 Several of James' children died in infancy, and were *re-buried* at Huntington Rural Cemetery on 22 May 1857:
 

@@ -7,7 +7,7 @@ Edward and Mary Ann began their marriage in Staten Island NY where they lived th
 
 <!--more-->
 
-It appears that Edward Mills first met Mary Ann and Charles Pine when he moved with his family to Hempstead in the mid-late 1830's and Edward's move to Staten Island may have coincided with the establishment of Charles Pine's grocery store, incorporated there in 1848. When Edward and Mary Ann married in 1850, Edward is said to be "of Factoryville", the Staten Island neighborhood where Charles Pine's store is located. 
+It appears that Edward Mills first met Mary Ann and Charles Pine when he moved with his family to [Hempstead]({{% relref "hempstead" %}}) in the mid-late 1830's and Edward's move to Staten Island may have coincided with the establishment of Charles Pine's grocery store, incorporated there in 1848. When Edward and Mary Ann married in 1850, Edward is said to be "of Factoryville", the Staten Island neighborhood where Charles Pine's store is located. 
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
@@ -60,7 +60,8 @@ He set a fine example with regard to everything in which he was engaged during t
 [Partial transcription, emphasis added. Click on the accompanying link to view the full article.]
 {{% /fig %}}
 
-Based on the 1860 census, and assuming Bartlett's obituary is accurate, we can surmise the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue.
+Based on the 1860 census, and assuming Bartlett's obituary is accurate, we can surmise the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" referred to may be the structure shown at the corner of State Street and Castleton Avenue, or possibly the one next to it, both of which are labelled as "DWG." on the 1885 Sanborn map.
+
 {{% fig "staten-island/1874-beers-map" "800" /%}}
 
 Closer views: 
@@ -151,7 +152,7 @@ As already mentioned, Charles M. Pine and James A. Hillyer (1831/2 to 20 Mar 192
 
 Charles M. Pine is Mary Ann Mills' brother. He married Elmira (sometimes spelled as "Almira") Jane Loper in 1835 in South Hempstead, New York. It was just two years later that Edward likely moved with his father Jonas to Hempstead, also known as South Hempstead. 
 
-{{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
+{{% fig "staten-island/1835-02-21-charles-pine" "800" /%}}
 
 Weekes, Seaman & Pine was a general store in Hempstead, possibly with some of the same partners as the previous firm of Weekes, Seaman & Co. in the same village:
 
@@ -206,7 +207,7 @@ Charles Pine's store was opened in 1848, and was known at different times as C. 
 
 This census shows [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles. George went on to become successful in business himself and is credited with rebuilding St. Andrews Church. 
 
-{{% fig "staten-island/1896-05-16-Richmond-County-Advance-WNB-ny-p8" "800x500" "" "top" /%}}
+{{% fig "staten-island/1896-05-23-Richmond-County-Advance-WNB-ny-p4" "500x300" "" "top" /%}}
 
 <figure>
 <blockquote>
@@ -232,7 +233,6 @@ Today, the Episcopal Church of St. Andrew is an active faith community. The curr
 </cite>
 </figcaption>
 </figure>
-
 
 In 1865, Mark Hartley is also living with Charles M. Pine, occupation "clerk", presumably in Pine's general store. Later, Mark Hartley co-owned the general store Hillyer & Hartley, along with James Hillyer's brother Abraham Hillyer.
 
@@ -376,6 +376,7 @@ Charles M. Pine was also one of the incorporators of The  Staten Island Savings 
 Despite many decades of success in varied endeavors that were important in the growth of Staten Island, both Charles M. Pine and his son Theodore were financially ruined by the actions of Charles’ other son Alverade. Note the role that Mark Hartley played in the aftermath.
 
 {{% fig "staten-island/1891-01-12-New-York-Tribune-New-York-NY-p3" "500" /%}}
+
 <div class="cols">
 {{% fig "staten-island/1891-01-12-The-Sun-New-York-NY-p1" "350" /%}}
 {{% fig "staten-island/1891-01-15-The-Sun-New-York-NY-p3" "350" /%}}
@@ -405,6 +406,8 @@ Despite many decades of success in varied endeavors that were important in the g
 {{% fig "staten-island/1892-03-12-Richmond-County-Advance-WNB-NY-p4" "350" /%}}
 </div>
 
+{{% fig "staten-island/1893-02-11-Richmond-County-Advance-WNB-NY-p4" "500" /%}}
+
 {{% fig "staten-island/1895-06-01-Richmond-County-Advance-WNB-p4" "800x300" "" "top" /%}}
 
 {{% fig "staten-island/1897-10-09-The-New-York-Daily-Tribune-p7" "500" /%}}
@@ -412,6 +415,8 @@ Despite many decades of success in varied endeavors that were important in the g
 {{% fig "staten-island/1897-10-21-Queens-County-Sentinel-Hempstead-NY-p1" "500" /%}}
 
 {{% fig "pine/590040034-orville-pine-portrait" "500" /%}}
+
+Read more about the Pine family in the [Hempstead]({{% relref "hempstead" %}}) section.
 
 Interestingly, in the 1910 United States Federal Census, James Hillyer and wife Phoebe are renting a home on Cary Avenue on Staten Island, and James lists his occupation as "furniture salesman", which is a bit inconsistent with his obituary below. 
 

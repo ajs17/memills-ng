@@ -1,5 +1,14 @@
 ---
-citation: "16 May 1896, Richmond County Advance, West New Brighton NY, p8, nyshistoricnewspapers.org."
+# citation: "23 May 1896, Richmond County Advance, West New Brighton NY, p4, nyshistoricnewspapers.org."
+pubdate:  "1896-05-23"
+author: 
+title: 
+voltitle:  "Richmond County Advance"
+publocation:  "West New Brighton  NY"
+pages:  "4"
+source:  "nyshistoricnewspapers.org"
+media:  ""
+quaddress:  ""
 media: "Emphasis added."
 notes: >-
 

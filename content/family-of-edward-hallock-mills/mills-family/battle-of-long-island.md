@@ -3,7 +3,7 @@ title: "The Battle of Long Island"
 weight: 250
 ---
 
-In the Battle of Long Island, the first major battle of the American Revolution after the United States declared independence from England, the British overwhelmingly defeated the Continental Army. Both Jedediah Mills (father of Mary Platt Mills) and William Mills (father of William Mills of Erie County) fought alongside other Mills family members in Captain Nathaniel Platt’s Smithtown Regiment of Minute Men of Suffolk County, under the command of General Nathaniel Woodhull. 
+In the Battle of Long Island, the first major battle of the American Revolution after the United States declared independence from England, the British overwhelmingly defeated the Continental Army. Both Jedediah Mills (father of Mary Platt Mills) and William Mills (father of William Mills of Erie County) fought in the battle alongside other Mills family members in Captain Nathaniel Platt’s Smithtown Regiment of Minute Men of Suffolk County, under the command of General Nathaniel Woodhull. 
 
 <!--more-->
 
@@ -29,7 +29,7 @@ The Battle of Long Island, also known as the Battle of Brooklyn and the Battle o
 
 {{% fig "long-island/battle-of-long-island-retreat" "800" /%}}
 
-Several members of the Mills family fought as Minute Men in the Revolution, and based on strikingly similar accounts of each in the published Mills genealogies that make note of it, they each "signed the Association in May 1775" joining "Capt. Nathaniel Platt's Smithtown company of Col. Josiah Smith's First Regiment of Suffolk County Minute Men".  
+Several members of the Mills family fought as Minute Men in the Continental Army, and specifically fought in the Battle of Long Island. Based on strikingly similar accounts of each in the published Mills genealogies that make note of it, they each "signed the Association in May 1775" joining "Capt. Nathaniel Platt's Smithtown company of Col. Josiah Smith's First Regiment of Suffolk County Minute Men".  
 
 [**Sergeant Jonas Mills**](https://www.findagrave.com/memorial/68730750/jonas-mills) (19 Mar 1753 to 06 May 1811), Jedediah Mills' brother.
 
@@ -69,7 +69,7 @@ The soldiers' ages on the day the battle began:
 | 19  | William Mills of Mills Pond |
 | 22  | William Mills, son of Jacob |
 
-Note that the battle began on the 19th birthday of William Mills of Mills Pond, the father of William Mills of Erie County.
+Note that the battle began on the 19th birthday of William Mills of Mills Pond.
 
 To try to make clearer the relationships among the Mills that are the primary subjects of this work, I created the following visual representation:
 

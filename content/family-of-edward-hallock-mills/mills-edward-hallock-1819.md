@@ -15,7 +15,7 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton,
 
 {{% table "/static/data/census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Edward" %}}
 
-That Edward was born in Smithtown NY is corroborated by two sources explored further below: Edward's marriage registration to Hannah in Caroline, and his obituary in the notes of Brookton Congregational Church. The 1875 New York State census only specifies Long Island as his birthplace. Generally speaking, whenever Smithtown is referenced in relation to the Mills, it is quite likely referring specifically to Mills Pond. 
+That Edward was born in Smithtown NY is corroborated by two sources explored further below: Edward's marriage registration to Hannah in Caroline, and his obituary in the notes of Brookton Congregational Church. The 1875 New York State census only specifies Long Island as his birthplace. Generally speaking, whenever Smithtown is referenced in relation to the Mills, it is quite likely referring specifically to [Mills Pond]({{% relref "genealogy" %}}). 
 
 The family's whereabouts in 1827 are given in the obituary of Edward's brother, James Thomas Mills:
 
@@ -31,7 +31,9 @@ Mr. [James Thomas] Mills was not born in Suffolk County, but he was only two wee
 
 The Mills' return to Smithtown, "two weeks and two days" after James' birth on 13 Feb 1827 was 01 Mar, the day before James' and Edward's mother Mary Hallock died, and just a few weeks before Edward's eighth birthday. 
 
-25 Apr 1831, Jonas married Mary Platt (Mills) Mills, whose parents were also members of Smithtown Presbyterian. Thomas Hallock and Sarah (Hallock) Mills, Mary Hallock's father and sister, are also listed as members of Smithtown Presbyterian, where at different times, their names were spelled as both "Hallock" and "Halliock". 
+Thomas Hallock and Sarah (Hallock) Mills, Mary Hallock's father and sister, are listed as members of Smithtown Presbyterian, where at different times, their names were spelled as both "Hallock" and "Halliock". 
+
+25 Apr 1831, Jonas married Mary Platt (Mills) Mills, whose parents were also members of Smithtown Presbyterian. 
 
 {{% fig "genealogy/smithtown-presbyterian/46" "800" /%}}
 
@@ -55,7 +57,7 @@ These tradesmen made wheels for carts (cartwheels), wagons (wains), traps and co
 </figcaption>
 </figure>
 
-Ten years later, when Edward was roughly 18 years old, the Mills family moved to Hempstead NY, according to Jonas' obituary. (10 Feb 1882, The Long-Islander, Huntington NY, p3, nyshistoricnewspapers.org.) It appears likely that Edward followed the rest of the family to Hempstead, as it is noted in the Hempstead Sentinel that Edward lived there at one time. 
+Ten years later, when Edward was approximately 18 years old, the Mills family moved to Hempstead NY, according to Jonas' obituary. (10 Feb 1882, The Long-Islander, Huntington NY, p3, nyshistoricnewspapers.org.) It appears likely that Edward followed the rest of the family to Hempstead, as it is noted in the Hempstead Sentinel that Edward lived there at one time. 
 
 <div class="cols">
 <figure style="max-width: 350px;">

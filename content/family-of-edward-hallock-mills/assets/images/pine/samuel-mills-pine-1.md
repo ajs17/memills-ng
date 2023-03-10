@@ -4,4 +4,4 @@ citation: "Portrait of Samuel Mills Pine digitally photographed by Jacqueline Ig
 
 Samuel M. Pine 
 
-my Grandfather
+My Grandfather

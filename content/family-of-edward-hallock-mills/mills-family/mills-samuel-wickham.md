@@ -1,5 +1,5 @@
 ---
-title: "Samuel Wickham Mills’ Genealogical Research"
+title: "Reverend Samuel Wickham Mills’ Genealogical Research"
 weight: 100
 ---
 
