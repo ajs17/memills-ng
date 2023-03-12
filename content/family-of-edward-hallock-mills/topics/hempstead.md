@@ -3,7 +3,7 @@ title: "Hempstead NY and Pine Genealogy"
 weight: 450
 ---
 
-Edward presumably moved to Hempstead with his family in 1837. There, he met his first wife, Mary Ann Pine, and her brother and Edward's mentor in business, Charles Mills Pine. The Mills and the Pines attended Christ's First Presbyterian Church.
+Edward presumably moved to Hempstead with his family in 1837. There, he met his first wife, Mary Ann Pine, and her brother and Edward's mentor in business, Charles Mills Pine. The Mills and the Pines attended Christ's First Presbyterian Church. In this section, Captain John Seaman is also introduced.
 
 <!--more-->
 
@@ -57,7 +57,9 @@ Weekes, Seaman & Pine was possibly owned by some of the same partners as the pre
 
 {{% fig "hempstead/seaman-family-america-p176" "500" /%}}
 
-Jonas' obituary noted that he lived in Hempstead "with the exception of a few years", which included 1850, where he is recorded in the United States Federal Census in Islip NY, at age 55, a "farmer". The family appears to return to Smithtown by 1851, when Mary Platt is readmitted to Smithtown Presbyterian on 03 Jan 1851 and then returns to Hempstead as evidenced by her removal from the church, "by certificate to Hempstead" 05 Jun 1858. Less than two months later, Edward's half-brother Robert marries in Hempstead 
+Read more about the Seaman family in the section on [Captain John Seaman]({{% relref "hempstead#the-legacy-of-captain-john-seaman" %}}) further below.
+
+Jonas' obituary noted that he lived in Hempstead "with the exception of a few years", which included 1850, where he is recorded in the United States Federal Census in Islip NY, at age 55, a "farmer". The family appears to return to Smithtown by 1851, when Mary Platt is readmitted to Smithtown Presbyterian on 03 Jan 1851 and then returns to Hempstead as evidenced by her removal from the church, "by certificate to Hempstead" 05 Jun 1858. The very next day, Edward's brother Robert is baptized in Hempstead along with his future wife, whom he marries several weeks later.
 
 {{% fig "long-island/1850-United-States-Federal-Census-islip-NY" "800" /%}}
 
@@ -175,6 +177,8 @@ Reuben and Jerusha's son Nicholas is Mary Ann's father:
 
 {{% fig "hempstead/seaman-family-america-p110" "500" /%}}
 
+Read more about the Seaman family in the section on [Captain John Seaman]({{% relref "hempstead#the-legacy-of-captain-john-seaman" %}}) further below.
+
 And Nicholas and Rhoda's children are:
 
   - **Lois Almy (Pine) Snedeker** (1805? to 07 Nov 1890) married William Snedeker (sometimes spelled "Snediker") in 1831 in South Hempstead. Their children include [Livingston Snedeker](https://www.findagrave.com/memorial/180916294/livingston-snedeker) (May 1836 to 10 Aug 1906). 
@@ -275,7 +279,116 @@ Jacqueline also has several photos of Samuel's descendants:
 
 A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Loper of Clarence NY, at one point further specified as Newstead NY, coinciding with when [William and Deborah Mills]({{% relref "buffalo-mills" %}}) lived in Newstead.  
 
+<div class="cols">
 {{% fig "pine/luther-loper-will-0" "350" /%}}
 {{% fig "pine/luther-loper-will-2" "350" /%}}
 </div>
+
+## The Legacy of Captain John Seaman
+
+The descendants of Mary Ann's Pine's mother, Rhoda (Seaman) Pine, are descended from the American progenitor of the Long Island Seamans, Captain John Seaman, who was one of the original settlers of Hempstead. The Seaman family history is summarized in 1928, [The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island](https://archive.org/details/seamanfamilyinam00seam/page/n15/mode/2up) by Mary Thomas Seaman, archive.org. Selections from this work will be cited as "Seaman" below. 
+
+<figure>
+<blockquote>
+The Seaman family was originally Danish. In old Norse times the members of families banded together, and sailed the wide seas over in their ships of beauty, getting what they might and holding what they could. On one of their excursions they landed off the eastern coast of England, whipped the natives and held the land. They remained in possession until subdued by the Norman Conqueror, 1066. They passed under the name of “Sea Men” (men of the sea). One of these leaders joined the Crusaders in the Third Crusade, 1187, under Richard Coeur de Lion, gained renown in the Holy Land, and on his return from Jerusalem was knighted by the king and given a Coat-of-Arms and a Crest. This Coat-of-Arms and Crest consists of a shield crossed by wavy bars of azure and gold, emblazoned with a Crescent and surmounted with a Crest, a demi sea horse, arising out of the Crescent. The wavy bars of azure and gold and the sea horse represent the sea or calling of the family. The crescent represents the part taken in the Crusade.
+</blockquote>
+<figcaption>
+<cite>— Seaman, p2. </cite>
+</figcaption>
+</figure>
+
+{{% fig "hempstead/seaman-crest" "500" /%}}
+
+<figure>
+<blockquote>
+Barry wavy, i.e., composed waved bars or wavey lines Guillim says “They may put us in mind that as in a tempestuous storm, one wave succeeds high above the other in immediate succession, so God has ordained one trouble should succeed another, to keep his chosen in continual exercise, and that His faithful may have manifold experience of His great providence, and Fatherly care in preserving them in all their troubles, giving them a comfortable event, and happy end in all their afflictions.” 
+</blockquote>
+<figcaption>
+<cite>— Seaman, p3.</cite>
+</figcaption>
+</figure>
+
+
+<figure>
+<blockquote>
+In the New Haven Records of 1646 we find that Captain John Seaman (later of Hempstead, Long Island) bore arms with a demi-seahorse for crest. 
+</blockquote>
+<figcaption>
+<cite>— Seaman, p8.</cite>
+</figcaption>
+</figure>
+
+
+<figure>
+<blockquote>
+The Seaman Families coming directly from England included three distinct lines...And those who came from Essex, Old England, to New England, moved through Massachusetts, Connecticut and New York to Long Island, where they settled at Hempstead, and from there spread through almost all regions of what is not the United States of America, and into Nova Scotia, and New Brunswick. "Three brothers came over, one went back, and two remained." Of these two who remained one was Captain John Seaman, the pioneer settled on Long Island.
+</blockquote>
+<figcaption>
+<cite>— Seaman, p8.</cite>
+</figcaption>
+</figure>
+
+
+<figure>
+<blockquote>
+<p>The Progenitor of the Seaman Family on Long Island:
+</p>
+
+1\. Captain John Seaman, was born in Essex, England, between 1603 and 1610, came to America in 1630 with the Winthrop fleet of ten vessels, nine hundred immigrants, and died early in 1695 in Hempstead, Long Island. His will is dated August 5, 1694, and was proved March 20, 1695.
+
+In 1631 and 1632, John Seaman, Thomas Moore, William Cooper, John Underhill and others were co-operating with Captain John Mason, John Winthrop and Sir Richard Saltoustall, in the efforts to effect settlements in New Hampshire and these colonizations efforts not being successful, we next find all of these, a little later on, in Connecticut and Long Island.
+
+They were not Pilgrims, but were a Puritanic section still adhering to the Church of England.
+
+Captain John Seaman and others went from their first landing to Watertown, Massachusetts, which they left to escape the imposition of a tax, which the Massachusetts Bay Colony proposed to levy on all the settlers for the purpose of fortifying Newtown (now Cambridge). From Watertown they went to Wethersfield, Connecticut, where they stayed but a short time, having some dissensions concerning church matters. In 1636 John Seaman owned two acres of land at Wrights Island in Wethersfield.
+
+In the Catalogue of Puritanic settlers of Connecticut we find it recorded: "John Seaman, one of the original purchasers of the town of Stamford, where he settled in 1641. It is supposed he moved from Wethersfield to Stamford." The settlers at New Haven who had no charter has purchased property in various places, among them being what is now called Stamford, Connecticut, and an arrangement was then made with these discontented settlers of Wethersfield and the settlement at New Haven, by which the Colony from Wethersfield obtained right to settle Stamford, then called Rippowam. The list of these settlers included the name of John Seaman, the purchase price being on hundred bushels of corn, and John Seaman obtained six acres.
+
+"From Roxbury, Massachusetts, he (John Carman) went to Wethersfield, Connecticut, and thence in company with John Seaman whose ancestors were also burned at the stake in England." 
+
+John Seaman owned land in Salem, Mass., in 1643.
+
+In 1646 John Seaman and his brother Caleb are recorded in New Haven, Conn. At this period came the Pequod Indian War, and Captain John Mason was given chief command (as Major) of the Connecticut Troops. To John Seaman he gave command of one of the Companies and John Strickland (who later became his father-in-law) was lieutenant of John Seaman's company. Hence John Seaman's title of Captain. The histories of the day record "John Seaman, later of Hempstead, Long Island, bore arms with demi-seahorse for crest." Another record states that on October 6, 1646, Caleb Seaman was fined 10 shillings for not carrying arms, and on November 3, 1646, "Caleb Seaman desired his fine might be remitted for defect of arms, he going shortly for England. Upon his request it was remitted provided he goe [sic] for England."
+
+Captain John Seaman was one of the sixty-two original signers (in Connecticut) of the Hempstead compact of land, and in 1647 we find him settled in Hempstead, Long Island, where he became on of the most prominent men for half a century "and had left such a host of descendants as to be remarkable, genealogically.
+
+The Town Records of Hempstead, Long Island, state: 
+
+"It seems probable that in the previous year Captain John Seaman coming from the eastern end of the island, had settled land adjoining what was subsequently the eastern boundary of the Hempstead Purchase, and had secured title to a tract com prising more than twelve thousand acres, which, in 1685, under the Dongan patent, became part of the town of Hempstead." 
+
+From that time on we find his name in many pages of history, recording a life of ceaseless activity in the establishment of his section of America.
+
+"Once he signed an agreement or pledged his faith he never disclaimed his share of it."
+</blockquote>
+<figcaption>
+<cite>— Seaman, p13-15.</cite>
+</figcaption>
+<aside>
+<ul>
+<li>An uncorroborated source indicates that *Ambrose* was the name of the ship in the Winthrop fleet on which John Seaman was a passenger.</li>
+</ul> 
+</aside>
+</figure>
+
+The *Town Records of Hempstead* mentioned above, contains the following note on the documentation of the early history of Hempstead: 
+
+<figure>
+<blockquote>
+The earlier volume of records, covering the first ten years of the town’s history, and comprising the entries for the years 1643 to 1653, is unfortunately lost. It was in existence as recently as twenty years ago, and is mentioned by Onderdonk as “The Mouse Eaten Book.”
+</blockquote>
+<figcaption>
+<cite>— 1896, <a href="https://archive.org/details/cu31924092207764/page/8/mode/2up">Records of the Towns of North and South Hempstead, Long Island, N.Y.</a>), v1, preface, archive.org.</cite>
+</figcaption>
+</figure>
+
+<figure>
+<blockquote>
+In 1665 he became Captain of Queens County Troop of Province of New York. October 2, 1665, Captain John Seaman served on a Grand Jury at Hempstead in a charge of witchcraft, "but–let it be recorded to the credit of John Seaman–the accused was not convicted."
+</blockquote>
+<figcaption>
+<cite>— Seaman, p16.</cite>
+</figcaption>
+</figure>
+
+
 

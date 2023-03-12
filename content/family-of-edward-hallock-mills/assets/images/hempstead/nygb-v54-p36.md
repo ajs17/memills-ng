@@ -4,6 +4,9 @@ notes: >-
 
     - Baptism records.
 
+    - [William Hinman Mills](https://www.findagrave.com/memorial/29943391/william-hinman-mills) (08 Jan 1860 to 10 Jul 1938), who went by Bill.
+
+    - [George Bunker Mills](https://www.findagrave.com/memorial/94308299/george-bunker-mills) (26 Sep 1865 to 04 Sep 1894).
 ---
 1861\. 
 
