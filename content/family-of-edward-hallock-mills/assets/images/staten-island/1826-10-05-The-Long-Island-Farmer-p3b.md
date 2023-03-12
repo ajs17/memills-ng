@@ -16,7 +16,7 @@ WEEKES, SEAMAN & CO.
 
 is this day dissolved by mutual consent. 
 
-Dated, Hempstead, September.27, 1826.
+Dated, Hempstead, September 27, 1826.
 
   - NATHANIEL SEAMAN,
 

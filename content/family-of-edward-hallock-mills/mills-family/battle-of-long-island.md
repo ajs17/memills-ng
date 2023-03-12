@@ -42,7 +42,7 @@ Several members of the Mills family fought as Minute Men in the Continental Army
 {{% fig "long-island/A-Documentary-History-Mills-p53-54" "350" /%}}
 </div>
 
-Jedediah Mills married [Elizabeth (Mills) Mills](https://www.findagrave.com/memorial/68731488/elizabeth-mills) (22 Apr 1763 to [12 or 15] Jul 1826), William Mill's sister. Jedediah Mills was the father of [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) (30 Jan 1801 to 18 Jun 1881) who may take her middle name from Captain Nathaniel Platt. Mary Platt was Jonas Davis Mills' second wife, step-mother to Edward Mills. 
+Jedediah Mills married [Elizabeth (Mills) Mills](https://www.findagrave.com/memorial/68731488/elizabeth-mills) (22 Apr 1763 to [12 or 15] Jul 1826), William Mill's sister. Jedediah Mills was the father of [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) (30 Jan 1801 to 18 Jun 1881), Jonas Davis Mills' second wife, step-mother to Edward Mills. 
 
 [**William Mills**](https://www.findagrave.com/memorial/68721245/william-mills) (27 Aug 1757 to 12 Jun 1837), Elizabeth Mills' brother. 
 

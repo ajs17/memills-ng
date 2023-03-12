@@ -41,7 +41,7 @@ Hempstead is also referred to historically as South Hempstead, and was part of Q
 
 For Edward to move to Hempstead as a young man fits with other known facts and greatly adds to our understanding not only of his early adulthood, but the rest of his life. In Hempstead, Edward met two very important residents: Mary Ann Pine, who became Edward's first wife and mother of Emily Mills, and Mary Ann's brother, Charles Mills Pine, who became Edward's employer and mentor in the grocery business.
  
-A few years prior to the Mills' move to Hempstead, Charles was already living there, a newly married co-proprietor of the general store Weekes, Seaman & Pine. Hempstead was presumably when Edward's and Charles' paths first crossed, and it would seem likely that Edward may have initially worked at Weekes, Seaman & Pine. To understand Edward's life, one must understand the life of Charles Pine, which Edward emulated in many ways.  
+A few years prior to the Mills' move to Hempstead, Charles was already living there, newly married to Elmira Loper whose family also lived in Hempstead and attended Christ's First Presbyterian Church. Charles is presumably the Pine (or perhaps it is his father Nicholas?) of the general store Weekes, Seaman & Pine. Hempstead was presumably when Edward's and Charles' paths first crossed, and it would seem likely that Edward may have initially worked at Weekes, Seaman & Pine. To understand Edward's life, one must understand the life of Charles Pine, which Edward emulated in many ways.  
 
 {{% fig "staten-island/1835-02-21-charles-pine" "800" /%}}
 {{% fig "hempstead/NY-gbr-p250" "500" /%}}
@@ -55,15 +55,22 @@ Weekes, Seaman & Pine was possibly owned by some of the same partners as the pre
 {{% fig "staten-island/1826-10-05-The-Long-Island-Farmer-p3b" "350" /%}}
 </div>  
 
+{{% fig "hempstead/seaman-family-america-p176" "500" /%}}
+
 Jonas' obituary noted that he lived in Hempstead "with the exception of a few years", which included 1850, where he is recorded in the United States Federal Census in Islip NY, at age 55, a "farmer". The family appears to return to Smithtown by 1851, when Mary Platt is readmitted to Smithtown Presbyterian on 03 Jan 1851 and then returns to Hempstead as evidenced by her removal from the church, "by certificate to Hempstead" 05 Jun 1858. Less than two months later, Edward's half-brother Robert marries in Hempstead 
 
 {{% fig "long-island/1850-United-States-Federal-Census-islip-NY" "800" /%}}
 
 {{% fig "genealogy/smithtown-presbyterian/158" "800" /%}}
 
-{{% fig "hempstead/NY-gbr-p257" "500" /%}}
+<div class="cols">
+{{% fig "hempstead/nygb-v54-p35" "350" /%}}
+{{% fig "hempstead/NY-gbr-p257" "350" /%}}
+</div>
 
-In 1850, Edward was living in Factoryville (West New Brighton) [Staten Island]({{% ref "staten-island" %}}), and he married his first wife [Mary Ann (Pine) Mills (08 Feb 1819 to 28 Dec 1895)]({{% ref "mills-mary-ann-1819" %}}) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
+{{% fig "hempstead/nygb-v54-p36" "500" /%}}
+
+In 1850, Edward was living in Factoryville (West New Brighton) [Staten Island]({{% ref "staten-island" %}}), and he married his first wife [Mary Ann (Pine) Mills]({{% ref "mills-mary-ann-1819" %}}) (08 Feb 1819 to 28 Dec 1895) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 {{% fig "hempstead/NY-gbr-p256" "500" /%}}
@@ -82,11 +89,24 @@ Interestingly, Reverend Locke is buried in Batavia NY, exactly 13 miles (accordi
 {{% fig "hempstead/1862-08-02-Brooklyn-Times-Brooklyn-ny-p2" "350" /%}}
 </div>
 
-Both the Mills and Pines attended Christ's First Presbyterian Church in Hempstead. Many other family names can be found in the Church's records that are either relatives of Mills and Pines or otherwise connected with them, including Seaman, Gildersleave, Higbie, Weekes (also Weeks), Hawkins, Bedell and Mersereau. It is perhaps relevant that the surname "Watts" is also present and may provide context for understanding Edward's nephew's middle name (which he commonly went by).
+{{% fig "hempstead/nygb-v54-p141" "500" /%}}
+
+Both the Mills and Pines attended Christ's First Presbyterian Church in Hempstead. Many other family names can be found in the Church's records that are either relatives of Mills and Pines or otherwise connected with them, including Seaman, Gildersleeve, Higbie, Weekes (also Weeks), Hawkins, Bedell and Mersereau. It is perhaps relevant that the surname "Watts" is also present and may provide context for understanding Edward's nephew's middle name (which he commonly went by).
 
 {{% fig "hempstead/christs-first-presbyterian" "500" /%}}
 
-Edward and his half-brother Robert are the only relevant Mills I have found in the Church records, and coverage of the Pine family in the records is also uneven. And unfortunately, Church records only exist from approximately 1805 onward, not even noting the marriage of Mary Ann's parents.
+<figure>
+<blockquote>
+The history of Christ's First Presbyterian Church is closely identified with the history of Hempstead. In 1643, the Rev. Robert Fordham and John Carman found a suitable location for settlement here and purchased land from the Native Americans. Families came to settle the next year. They received a patent from the Dutch governor of the New Netherlands and the church was organized under Rev. Richard Denton. Rev. Denton had first settled in the Massachusetts May Colony, but left for Weathersfield, Connecticut in 1635 in order to practice Presbyterianism. Later, he and his followers came to Long Island for religious reasons. They established Christ's First Presbyterian Church in 1644. It is one of the oldest Presbyterian Churches in the country.
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://www.cfpcny.com/history">History of Our Church</a>, cfpcny.com
+</cite>
+</figcaption>
+</figure>
+
+Edward and his half-brother Robert are the only relevant Mills I have found in the Church records, and coverage of the Pine family in the records is also uneven. And unfortunately, Church records only exist from approximately 1805 onward.
 
 <figure>
 <blockquote>
@@ -153,14 +173,7 @@ Reuben and Jerusha's son Nicholas is Mary Ann's father:
 
   - **[Rhoda (Seaman) Pine](https://www.findagrave.com/memorial/108776309/rhoda-pine)** (24 May 1786 to 26 Sep 1859).
 
-<figure class="quote-only">
-<blockquote>
-586.  Rhoda  Seaman,  born  May  24,  1786 ;  married  January 30,  1804,  Nicholas  Pine. 
-</blockquote>
-<figcaption>
-From "The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island" available at the <a href="https://archive.org/stream/seamanfamilyinam00seam/seamanfamilyinam00seam_djvu.txt">Internet Archive</a> and ancestry.com .
-</figcaption>
-</figure>
+{{% fig "hempstead/seaman-family-america-p110" "500" /%}}
 
 And Nicholas and Rhoda's children are:
 
@@ -184,6 +197,8 @@ And Nicholas and Rhoda's children are:
 {{% fig "hempstead/NY-gbr-p251" "500" /%}}
 
   - **[Mary Ann (Pine) Mills](https://www.findagrave.com/memorial/75958702/mary-ann-mills)** (08 Feb 1819 to 28 Dec 1895), 8 years old when her father died.
+
+{{% fig "hempstead/nygb-v54-p30" "500" /%}}
 
 Although some birthdates are missing, the birth order is likely correct based on the following, which is also the most complete documentary evidence of the family members, linking together Mary Ann, Charles M., and Samuel M., in the will of their father, Nicholas Pine:
 
@@ -260,7 +275,6 @@ Jacqueline also has several photos of Samuel's descendants:
 
 A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Loper of Clarence NY, at one point further specified as Newstead NY, coinciding with when [William and Deborah Mills]({{% relref "buffalo-mills" %}}) lived in Newstead.  
 
-<div class="cols">
 {{% fig "pine/luther-loper-will-0" "350" /%}}
 {{% fig "pine/luther-loper-will-2" "350" /%}}
 </div>
