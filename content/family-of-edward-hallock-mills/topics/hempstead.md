@@ -3,7 +3,7 @@ title: "Hempstead NY and Pine Genealogy"
 weight: 450
 ---
 
-Edward presumably moved to Hempstead with his family in 1837. There, he met his first wife, Mary Ann Pine, and her brother and Edward's mentor in business, Charles Mills Pine. The Mills and the Pines attended Christ's First Presbyterian Church. In this section, Captain John Seaman is also introduced.
+Edward presumably moved to Hempstead with his family in 1837. There, he met his first wife, Mary Ann Pine, and her brother and Edward's mentor in business, Charles Mills Pine. The Mills and the Pines attended Christ's First Presbyterian Church. This section also introduces Captain John Seaman.
 
 <!--more-->
 
@@ -356,7 +356,7 @@ The Town Records of Hempstead, Long Island, state:
 
 "It seems probable that in the previous year Captain John Seaman coming from the eastern end of the island, had settled land adjoining what was subsequently the eastern boundary of the Hempstead Purchase, and had secured title to a tract com prising more than twelve thousand acres, which, in 1685, under the Dongan patent, became part of the town of Hempstead." 
 
-From that time on we find his name in many pages of history, recording a life of ceaseless activity in the establishment of his section of America.
+From that time on we find his name in many pages of history, recording a life of ceaseless activity in the establishment of this section of America.
 
 "Once he signed an agreement or pledged his faith he never disclaimed his share of it."
 </blockquote>
