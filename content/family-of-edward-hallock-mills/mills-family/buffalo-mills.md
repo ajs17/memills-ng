@@ -95,7 +95,7 @@ About the year 1868 the young man took about a year’s vacation and spent the t
 </aside>
 </figure>
 
-Orsamus’s death notice in the Brooklyn Eagle also mentions a summer home on an island town on the eastern end of Long Island, in Suffolk County.
+Orsamus’ death notice in the Brooklyn Eagle also mentions a summer home on an island town on the eastern end of Long Island, in Suffolk County.
 
 <figure>
 <blockquote>

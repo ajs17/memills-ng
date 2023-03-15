@@ -23,6 +23,21 @@ Multiple census records confirm that all the Mills' children were born in Staten
 {{% fig "staten-island/rdc/rdc-scan_077" "350" /%}}
 </div>
 
+<figure>
+<blockquote>
+<p>
+The "Old Town" collection contains record of births that occurred in the Towns of Northfield, Southfield and Westfield for 1847-1865. The births were recorded in libers (not certificates) and are available on microfilm in room 103. The Municipal Archives does not have records for the rest of Richmond County for the period in question. 
+<p>
+</p>
+I have researched the records available here for the three births and unfortunately found none of them. Despite the law passed in 1847 mandating recordkeeping of vital records in NY State, and subsequent updates to the law, it wasn't until after new legislation in 1919  that the recording of births were enforced. Knowing that, there may not be a NY State birth record. 
+</p>
+</blockquote>
+<figcaption>
+<cite>— 2023 Jan 17, personal correspondence, Marcia Kirk, NYC Department of Records and Information Services. 
+</cite>
+</figcaption>
+</figure>
+
 James Wheelock Mills apparently died as a young child sometime between his 31 July 1857 baptism and the 1860 United States Federal Census in Castleton, Staten Island NY which shows the Mills family otherwise complete except for James, living at the residence of [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), another protege of Charles M. Pine in the grocery business, and later, Bartlett succeeded Charles as President of the Richmond County Mutual Insurance Company.
 {{% fig "census/census-1860-us" "800" /%}}
 
@@ -74,7 +89,7 @@ Closer views:
 
 {{% fig "staten-island/1885-sanborn-p1" "500" /%}}
 
-The representation of the property on some maps does seem to show these two buildings were "adjoined" in later years.
+The representation of the property on some maps does seem to show these two corner buildings were "adjoined" in later years.
 
 {{% fig "staten-island/topo-brown" "500" /%}}
 
