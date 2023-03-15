@@ -48,7 +48,7 @@ Genealogical data accumulated through this research can be <a href="data/genealo
 
 This research was made possible by the generosity of many people who have patiently offered their time, their knowledge, and access to their materials.
 
-Descendants of historical subjects: Carol Coggshall, great-great granddaughter of Ellen Jane (Andrews) Predmore Gould. Jacqueline Igliozzi, great-great-great granddaughter of Samuel Mills Pine. Charles D. Warren, great-great grandson of James Dunlap. Warren. Joan Taber, Fred Estabrook, and Ed Croop, great-great grandchildren of David Thatcher. Jodi Leaf, great-great-great granddaughter of Charles C. Eastman. 
+Descendants of historical subjects: Carol Coggshall, great-great granddaughter of Ellen Jane (Andrews) Predmore Gould. Jacqueline Igliozzi, great-great-great granddaughter of Samuel Mills Pine. Charles D. Warren, great-great grandson of James Dunlap Warren. Joan Taber, Fred Estabrook, and Ed Croop, great-great grandchildren of David Thatcher. Jodi Leaf, great-great-great granddaughter of Charles C. Eastman. 
 
 Former owners of 475 Brooktondale Road: Clara and Luke Jones, Larry and Janet Lattin, and Andrea Talmadge and John Callaghan.
 

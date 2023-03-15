@@ -89,7 +89,7 @@ Closer views:
 
 {{% fig "staten-island/1885-sanborn-p1" "500" /%}}
 
-The representation of the property on some maps does seem to show these two corner buildings were "adjoined" in later years.
+The representation of the property on some maps does seem to show these two corner structures were "adjoined" in later years.
 
 {{% fig "staten-island/topo-brown" "500" /%}}
 
