@@ -295,7 +295,7 @@ A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Lope
 
 ## The Legacy of Captain John Seaman
 
-The descendants of Mary Ann's Pine's mother, Rhoda (Seaman) Pine, are descended from the American progenitor of the Long Island Seamans, Captain John Seaman, who was one of the original settlers of Hempstead. The Seaman family history is summarized in 1928, [The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island](https://archive.org/details/seamanfamilyinam00seam/page/n15/mode/2up) by Mary Thomas Seaman, archive.org. Selections from this work will be cited as "Seaman" below. 
+Mary Ann (Pine) Mills, through her mother Rhoda (Seaman) Pine, is descended from Captain John Seaman, the American progenitor of the Long Island Seaman families and one of the original settlers of Hempstead. The Seaman family history is summarized in 1928, [The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island](https://archive.org/details/seamanfamilyinam00seam/page/n15/mode/2up) by Mary Thomas Seaman, archive.org. Selections from this work will be cited as "Seaman" below. 
 
 <figure>
 <blockquote>
@@ -374,7 +374,7 @@ From that time on we find his name in many pages of history, recording a life of
 </figcaption>
 <aside>
 <ul>
-<li>An uncorroborated source indicates that *Ambrose* was the name of the ship in the Winthrop fleet on which John Seaman was a passenger.</li>
+<li>An uncorroborated source indicates that <em>Ambrose</em> was the name of the ship in the Winthrop fleet on which John Seaman was a passenger.</li>
 </ul> 
 </aside>
 </figure>
