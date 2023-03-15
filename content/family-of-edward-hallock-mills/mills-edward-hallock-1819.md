@@ -120,6 +120,7 @@ Jonas' obituary, shown further below, noted that he lived in Hempstead "with the
 In 1850, Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "staten-island" %}}), and he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
+{{% fig "hempstead/NY-gbr-p256" "500" /%}}
 
 All of the Mills children were born in Staten Island, and by 1860, the family was living with another of Charles Pine's proteges Barlett Brown in a home adjoining a general store Bartlett had recently purchased. 
 

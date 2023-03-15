@@ -18,9 +18,15 @@ Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookto
 
 {{% table "/static/data/census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Mary" %}}
 
-Mary Ann Pine of [Hempstead]({{% relref "hempstead" %}}) Long Island married Edward Hallock Mills, then of Castleton Staten Island, on 29 Dec 1850:
+Mary Ann Pine was born and raised in [Hempstead]({{% relref "hempstead" %}}) Long Island NY, the daughter and youngest child of [Nicholas Ludlow Pine](https://www.findagrave.com/memorial/108776395/nicholas-ludlow-pine) (? to 03 Sep 1828), and [Rhoda (Seaman) Pine](https://www.findagrave.com/memorial/108776309/rhoda-pine) (24 May 1786 to 26 Sep 1859). The family attended Christ's First Presbyterian Church in Hempstead. Mary Ann was nine years old when her father died. 
+
+{{% fig "pine/will-nicholas-pine-5" "800" /%}}
+{{% fig "hempstead/nygb-v54-p30" "500" /%}}
+
+Mary Ann married Edward Hallock Mills, then of Castleton Staten Island, on 29 Dec 1850:
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
+{{% fig "hempstead/NY-gbr-p256" "500" /%}}
 
 Read more about the Pine family in the [Hempstead]({{% relref "hempstead" %}}) section. 
 

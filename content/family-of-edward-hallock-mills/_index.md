@@ -46,8 +46,17 @@ Genealogical data accumulated through this research can be <a href="data/genealo
 
 ## Acknowledgements
 
-This research was made possible by the generosity of many people who have offered their time, their knowledge, and access to their materials, to allow me to start putting together the puzzle pieces of Emily's life. I apologize to anyone I have forgotten; these I recall in no particular order: Barbara Kone, Diane Moore, Allan Starkweather, Al Chafee, Ted Sobel, Betsy Abramson, Linda Tucker, Carli DeFillo, Andrea Squeri, David Kerns, Ken Rumble, Richard Wines, Margaret Wegener, Bea Szekely, Ralph Conant, Carol Coggshall, Joan Taber, Fred Estabrook, Ed Croop, Jodi Leaf, Edward Dibble, Charles D. Warren, Alanna Congdon, Rob Bernhardt, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church, Southworth Library, Jen Shulman, Bernard Vascotto, Nancy Conod, Ruth Ellis, Eric Huber, Cynthia Van Ness, Adam Rubin, Debra Rogers, Kathleen Langdon, Jacqueline Igliozzi, Annie Doubleday, Friends of Abandoned Cemeteries of Staten Island. 
+This research was made possible by the generosity of many people who have patiently offered their time, their knowledge, and access to their materials.
 
-In gratitude to those throughout the years who specifically preserved precious memories of Emily: Gertrude Conant, E. D. Shurter, Jessie Brewer, and Molly Adams.
+Descendants of historical subjects: Carol Coggshall, great-great granddaughter of Ellen Jane (Andrews) Predmore Gould. Jacqueline Igliozzi, great-great-great granddaughter of Samuel Mills Pine. Charles D. Warren, great-great grandson of James Dunlop. Warren. Joan Taber, Fred Estabrook, and Ed Croop, great-great grandchildren of David Thatcher. Jodi Leaf, great-great-great granddaughter of Charles C. Eastman. 
 
-And finally, the living former owners of 475 Brooktondale Road who have patiently entertained my curiosity: Clara and Luke Jones, Larry and Janet Lattin, and Andrea Talmadge and John Callaghan.
+Former owners of 475 Brooktondale Road: Clara and Luke Jones, Larry and Janet Lattin, and Andrea Talmadge and John Callaghan.
+
+Historians and archivists: Barbara Kone, Caroline Town Historian. Diane Moore, Family History Center, Church of Jesus Christ of Latter Day Saints.  Allan Starkweather, Corfu Village Historian. Al Chafee, Newfield Historical Society. Alanna Congdon, Tompkins County Clerk's Office. Diana Reding, Corfu Free Library. Linda Tucker and Betsy Abramson, Evergreen Hill Cemetery, Corfu. Bea Szekely, Cayuga Heights Village Historian. Southworth Library. Carli DeFillo, Historic Richmond Town. Andrea Squeri, Long Island Museum of American Art, History, & Carriages. Nancy Conod, Minisink Valley Historical Society. Cynthia Van Ness and Adam Rubin, Buffalo History Museum. Erik Huber and Grace de Sagun, Queens Public Library. Jen Shulman, Historical Programs and Collections at American Red Cross. Richard Wines, Hallockville Farm Museum. Bernard Vascotto, General Motors Heritage Center. David Kerns, Pottstown Historical Society, PA.
+
+Churches and cemeteries: Elaine Sapp, Mike Scaglione, Pastor Kayti Dean, and the council of Caroline Valley Community Church, specifically. Emily Adams and Bill Besemer of Brookton (formerly Quick) Cemetery. Kathleen Langdon, Reformed Dutch Church at Port Richmond. Friends of Abandoned Cemeteries of Staten Island. Rob Bernhardt, Pleasant Grove Cemetery, Cayuga Heights. Margaret Wegener, Calvary Presbyterian Church, West New Brighton. Ken Rumble, Corfu United Presbyterian Church.   
+
+Caroline community members and collectors: Lois Lounsbery, Bea Raponi, Ted Sobel, Ralph Conant, Debra Rogers, Edward Dibble, Ruth Ellis, Annie Doubleday.
+
+Those throughout the years who specifically preserved precious memories of Emily: Gertrude Conant, E. D. Shurter, Jessie Brewer, and Molly Adams.
+

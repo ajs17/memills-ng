@@ -276,6 +276,17 @@ Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were i
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
+Edward's half-brother Robert appears to have lived most of his life in Hempstead, a married farmer. Note that Robert's birth year is generally given as 1835, although one obituary reports 1834. Robert's middle name is generally spelled with a "y", however it should be noted that the records of Christ's First Presbyterian Church at Hempstead consistently spell it with an "i" which may in fact be correct, as that is the spelling used by relative William Sidney Mount.
+
+<div class="cols">
+{{% fig "hempstead/1911-01-31-The-Brooklyn-Daily-Eagle-ny-p12" "350" /%}}
+{{% fig "hempstead/robert-mills-obit" "350" /%}}
+<div>
+<div class="cols">
+{{% fig "hempstead/1912-01-18-The-Brooklyn-Daily-Eagle-ny-p12" "350" "img,link,cite" /%}}
+{{% fig "hempstead/1912-01-26-South-Side-Signal-Babylon-NY-p8" "350" "img,link,cite" /%}}
+</div>
+
 The Long Island Museum of American Art, History, & Carriages, owns many works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), who is another descendant of Timothy Mills and who is "generally considered the first major artist to paint the activities of everyday American life". In the mid-1800's, Mount painted many portraits, including members of the Mills family. 
 
 

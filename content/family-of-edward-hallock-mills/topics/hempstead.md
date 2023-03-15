@@ -122,7 +122,16 @@ The records of the 18th Century are not preserved for us because they were consu
 
 The 1895 Souvenir book shows Robert Mills still listed as an active member (p71).
 
+<div class="cols">
+{{% fig "hempstead/1911-01-31-The-Brooklyn-Daily-Eagle-ny-p12" "350" /%}}
+{{% fig "hempstead/robert-mills-obit" "350" /%}}
+<div>
+<div class="cols">
+{{% fig "hempstead/1912-01-18-The-Brooklyn-Daily-Eagle-ny-p12" "350" "img,link,cite" /%}}
+{{% fig "hempstead/1912-01-26-South-Side-Signal-Babylon-NY-p8" "350" "img,link,cite" /%}}
+</div>
 
+Note that Robert's birth year is generally given as 1835, although one obituary reports 1834. Robert's middle name is generally spelled with a "y", however it should be noted that the records of Christ's First Presbyterian Church at Hempstead consistently spell it with an "i" which may in fact be correct, as that is the spelling used by relative William Sidney Mount.
 
 I know of no formal histories or genealogies of the Pines, and initial searches starting with Mary Ann resulted in very little, so I have had to reconstruct this branch of the Pine tree from remaining documentary evidence. 
 
@@ -200,7 +209,7 @@ And Nicholas and Rhoda's children are:
 
 {{% fig "hempstead/NY-gbr-p251" "500" /%}}
 
-  - **[Mary Ann (Pine) Mills](https://www.findagrave.com/memorial/75958702/mary-ann-mills)** (08 Feb 1819 to 28 Dec 1895), 8 years old when her father died.
+  - **[Mary Ann (Pine) Mills](https://www.findagrave.com/memorial/75958702/mary-ann-mills)** (08 Feb 1819 to 28 Dec 1895), nine years old when her father died.
 
 {{% fig "hempstead/nygb-v54-p30" "500" /%}}
 

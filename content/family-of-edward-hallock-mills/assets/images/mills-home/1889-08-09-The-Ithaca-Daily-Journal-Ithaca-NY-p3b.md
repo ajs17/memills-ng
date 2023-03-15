@@ -10,7 +10,7 @@ source:  "nyshistoricnewspapers.org"
 ---
 BROOKTON. 
 
-Miss Flora Norwood spent several days recently with ber brother Henry. 
+Miss Flora Norwood spent several days recently with her brother Henry. 
 
 Mrs. Clara Tobey and two children were guests of Mrs. Ellen Lounsberry over Sunday. 
 
@@ -26,5 +26,5 @@ Ernest Reed, who has the typhoid fever, has been removed to the house of Leroy G
 
 Mrs. Helen Thomas and Miss Knettles, of Lansing, were guests of Mrs. R. L. Denman Tuesday. They climbed Bald Hill while here and viewed the country from that elevated standpoint. 
 
-Cameron Vorhis died at his home here Monday night, aged about 65 years. Mr. Vorhis bas been a resident of Brookion for several years and was highly respected by all. He was buried at Spencer Wednesday.
+Cameron Vorhis died at his home here Monday night, aged about 65 years. Mr. Vorhis bas been a resident of Brookton for several years and was highly respected by all. He was buried at Spencer Wednesday.
 
