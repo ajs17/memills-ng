@@ -22,7 +22,7 @@ Because this is the only information I presently have for James, I asked Kathlee
 
 {{% fig "staten-island/RDC/rdcpr-james2" "800" /%}}
 
-The name "Wheelock" seems to be a very significant clue, as the tradition among the Mills was to reuse a relatively small number of names repeatedly through the generations, yet Wheelock is unique as far as I know. (Horace's middle name Franklin is rare, but not unique, in the Mills genealogy.) This is apparently a surname, likely of someone from either Staten Island or Hempstead, but as yet, I cannot link someone with this name to the Mills. 
+The name "Wheelock" seems to be a very significant clue, as the tradition among the Mills was to reuse a relatively small number of names repeatedly through the generations, yet Wheelock is unique as far as I know. (Horace's middle name Franklin is rare, but not unique, in the Mills genealogy.) This is apparently a surname, likely of someone from either Staten Island or Hempstead, but as yet, I cannot link someone with this name to the Mills.  
 
 Note several bounding dates for James' birth and death: he was presumably born sometime after Edward and Mary Ann married on 29 Dec 1850, and presumably died between the date of his baptism, 31 Jul 1857 , and before the United States Federal Census recorded on 19 Jun 1860 which includes the entire Mills family except James. As yet, I have not found the Mills family in the 1850 United States Federal Census or the 1855 New York State Census, but I suspect that he was born after the 1855 census. 
 
@@ -91,3 +91,115 @@ Finally, Samuel J. Wood Library at Weill Cornell Medicine has records starting f
 
 (The Staten Island “country branch” of the hospital didn’t open until 1869.)
 
+## Exploring "Wheelock"
+
+Initially, I explored the theory that "Wheelock" could be a mis-transcription of the much less surprising "Hallock", given how similar the two names might look written in script, however Kathleen Langdon's photographs of the originally written entry prove that wrong. However, I am still intrigued by the similarity of the two names, and they are even more similar phonetically, leading me to wonder if the church secretary misheard "Hallock" as "Wheelock". Obviously this theory is purely speculation without evidence and can't be proved or disproved.
+
+<figure>
+<blockquote>
+<p>
+The most common accepted definition of the name is as follows:
+</p>
+<p>
+The name of the village is first recorded as <strong>Hoileck</strong>, and <strong>Hoiloch</strong>  in the Domesday book then Changed in 1316 to Quelock and again in 1382 to Whelock, in 1384 to Welock, finally in 1390 it sees to have settled, and recorded as Wheelock as it is known today. The main reason for changes stem from people spelling as they sound it.
+</p>
+<p>
+The word come from the word Chevel-og meaning winding, twisting, turning and the conclusions seem to be the river with its many twists and turns until they reach the central body of the river outside the village
+</p>
+<p>
+The second but more obscure definition is as follows:
+</p>
+<p>
+The development of Wellock via Wailock, Wallock from walok in 1379. This is the form which requires explanation and the evidence suggests that it was a diminutive of a personal or Christian name 'Wal'. This may have been meaningless when used in the 1300s, but etymologically it is probably the Old English word 'walh' meaning 'stranger' or 'foreigner'.
+</p>
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://one-name.org/name_profile/wheelock/">Wheelock One-Name Study</a>, One-name.org. Emphasis added.
+</cite>
+</figcaption>
+</figure>
+
+<figure>
+<blockquote>
+<p>
+The surname Wheelock was first found in Cheshire as Wheelock, a township, in the parish of Sandbach, union of Congleton, hundred of Northwich. 
+</p>
+<p>
+The township dates back to the Domesday Book or 1086, when it was listed as <strong>Hoiloch</strong>, "named from the River Wheelock, a Celtic river-name meaning 'winding'".
+<p>
+</p>
+</blockquote>
+<figcaption>
+<cite>— <a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com. Emphasis added.
+</cite>
+</figcaption>
+</figure>
+
+<figure>
+<blockquote>
+Spelling variations of this family name include: Weelock, Wheelock, Wellock, Whellock, Whillock, Whealock and many more.
+</blockquote>
+<figcaption>
+<cite>— <a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com.
+</cite>
+</figcaption>
+</figure>
+
+Assuming the name "Wheelock" is correct, as the evidence indicates, why was Wheelock chosen? Presumably he is named for someone, a tradition that was followed to an extreme by the Mills, yet through my exploration of not only the Mills genealogy, but those of many of the related families and even the families of business associates, fellow church members, etc., I have seen many thousands of individual names over dozens of family names on Long Island, and I don't recall encountering Wheelock even once. 
+
+Ironically, I have not yet thoroughly explored the Hallock genealogy, although I plan to, and this is obviously a current blind spot and a potential source for as-yet unfamiliar related names. But, setting the Hallock genealogy aside as a consideration for the moment, the lack of Wheelocks on Long Island could suggest that the name is more likely to be found on Staten Island, although I have also explored many individual and family names there as well, that exploration has not been nearly as deep as that for Long Island.
+
+The distinctiveness of Wheelock should make finding the answer more likely. Like the Mills and Seaman names, Wheelock has English origins
+
+<figure>
+<blockquote>
+In the United States, the name Wheelock is the 9,173rd most popular surname with an estimated 2,487 people with that name.
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com.
+</cite>
+</figcaption>
+</figure>
+
+<figure>
+<blockquote>
+<p>Wheelock Settlers in United States in the 19th Century</p>
+
+  - Charles Wheelock, aged 25, who arrived in New York in 1812 
+  
+  - Alice Wheelock, who landed in New York, NY in 1816 
+
+  - A G Wheelock, who arrived in San Francisco, California in 1850
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com.
+</cite>
+</figcaption>
+<aside>
+<ul>
+<li>
+The original source is given as: Filby, P. William, Meyer, Mary K., Passenger and immigration lists index : a guide to published arrival records of about 500,000 passengers who came to the United States and Canada in the seventeenth, eighteenth, and nineteenth centuries. 1982-1985 Cumulated Supplements in Four Volumes Detroit, Mich. : Gale Research Co., 1985, Print (ISBN 0-8103-1795-8)
+</li>
+</ul>
+</aside> 
+</figure>
+
+I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
+
+<figure>
+<blockquote>
+Cyrus Hubbard Wheelock (February 28, 1813 – October 11, 1894) was an early missionary and leader in the Church of Jesus Christ of Latter-day Saints. He wrote the words to the Latter-day Saint hymn "Ye Elders of Israel". Wheelock was born at Henderson, Jefferson County, New York.
+</blockquote>
+<figcaption>
+<cite>—
+<a href="https://en.wikipedia.org/wiki/Cyrus_H._Wheelock">Cyrus H. Wheelock</a>, Wikipedia.org.
+</cite>
+</figcaption>
+</figure>
+
+In the 1800's, there are a number of Wheelocks in Brooklyn, central New York and Erie County. By 1890, there are Wheelocks in North Hempstead, notably, Daniel Wheelock, a farmer.
+
+Wheelock is overwhelmingly used as a surname, but I have found rare instances of it being used as a first name. 

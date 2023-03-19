@@ -37,7 +37,7 @@ All of the Mills children were born in [Staten Island]({{% ref "staten-island" %
 
 Mary Ann's mother Rhoda died 26 Sep 1859, and on 31 Aug 1860, Mary Ann's sister Jerusha died. 
 
-The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863, where  Edward opened a new general store E. H. Mills & Co. and Mary Ann became a member of the Presbyterian Church of Corfu.
+The family arrived in [Corfu NY]({{% ref "corfu" %}}) sometime between 01 Sept 1862 and 01 May 1863, where  Edward opened a new general store E. H. Mills & Co. and Mary Ann became a member of the Presbyterian Church of Corfu.
 
 [Horace]({{% ref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 
 1876. 

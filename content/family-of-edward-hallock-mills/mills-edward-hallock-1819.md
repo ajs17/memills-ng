@@ -3,7 +3,7 @@ title: "Edward Hallock Mills"
 weight: 10
 ---
 
-Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% ref "corfu-eh-mills-co" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% ref "me-mills" %}}) in Motts Corners/Brookton NY.
+Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% ref "corfu" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% ref "me-mills" %}}) in Motts Corners/Brookton NY.
 
 <!--more-->
 
@@ -15,7 +15,7 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton,
 
 {{% table "/static/data/census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Edward" %}}
 
-That Edward was born in Smithtown NY is corroborated by two sources explored further below: Edward's marriage registration to Hannah in Caroline, and his obituary in the notes of Brookton Congregational Church. The 1875 New York State census only specifies Long Island as his birthplace. Generally speaking, whenever Smithtown is referenced in relation to the Mills, it is quite likely referring specifically to [Mills Pond]({{% relref "genealogy" %}}). 
+That Edward was born in Smithtown NY is corroborated by two sources explored further below: Edward's marriage registration to Hannah in Caroline, and his obituary in the notes of Brookton Congregational Church. The 1875 New York State census only specifies Long Island as his birthplace. Generally speaking, whenever Smithtown is referenced in relation to the Mills, it is quite likely referring specifically to [Mills Pond]({{% relref "smithtown" %}}). 
 
 The family's whereabouts in 1827 are given in the obituary of Edward's brother, James Thomas Mills:
 
@@ -124,7 +124,7 @@ In 1850, Edward was living in [Factoryville (West New Brighton) Staten Island]({
 
 All of the Mills children were born in Staten Island, and by 1860, the family was living with another of Charles Pine's proteges Barlett Brown in a home adjoining a general store Bartlett had recently purchased. 
 
-The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863. Partnering with Charles Pine, Edward co-owned [E. H. Mills & Co.]({{% ref "corfu-eh-mills-co" %}}) "cash store" in Corfu, "Dealers in General Merchandise, Groceries and Provisions, Yankee Notions and General Variety Store." Of Edward’s children, there is only evidence that Horace clerked at his father’s store.
+The family arrived in [Corfu NY]({{% ref "corfu" %}}) sometime between 01 Sept 1862 and 01 May 1863. Partnering with Charles Pine, Edward co-owned [E. H. Mills & Co.]({{% ref "corfu" %}}) "cash store" in Corfu, "Dealers in General Merchandise, Groceries and Provisions, Yankee Notions and General Variety Store." Of Edward’s children, there is only evidence that Horace clerked at his father’s store.
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 

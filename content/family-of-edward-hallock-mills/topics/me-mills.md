@@ -1,5 +1,5 @@
 ---
-title: "E. H. Mills and M. E. Mills General Stores"
+title: "Mills' Store, Brookton NY"
 weight: 100
 ---
 
@@ -18,7 +18,7 @@ Mills' store, Summer 2021:
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
 
-Long-time community members call this building "the old post office" referring to when it was used as such after it was M. E. Mills and then Jessie Brewer's store. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. 
+Long-time community members call this building "the old post office" referring to when it was used as such starting in 1961 under postmaster Charles Vorhis. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. 
 
 <div class="cols">
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "350" /%}}
@@ -32,7 +32,7 @@ It appears [George H. Richardson](https://www.findagrave.com/memorial/189275611/
 {{% fig "george-richardson/1905-04-26-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "350" /%}}
 </div>
 
-More details on [George Richardson]({{% ref "richardson-george" %}}).
+A section of this site is devoted to [George Richardson]({{% ref "richardson-george" %}}). [Edward's page]({{% relref "mills-edward-hallock-1819" %}}) has more information on his time as postmaster, including examples of his postmark on envelopes from the time.  
 
 It seems likely Mills' store was always in this building. The following are some of the earliest references to Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
 
@@ -273,7 +273,7 @@ Frank speculates that the upstairs rear room may have been used for masonic meet
 
 A summary of some of the Mills' store deeds: 
 
-{{% table "/static/data/deeds.csv" "mills-store-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount" "" "property" "=" "Mills Store" %}}
+{{% table "/static/data/deeds.csv" "mills-store-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee" "" "property" "=" "Mills Store" %}}
 
 In the Caroline History Room in Slaterville Springs, there are a set of similar looking general store sales journals that belong to the general store of Frank C. Vorhis that was in the same location as Brookton's Market today.
 

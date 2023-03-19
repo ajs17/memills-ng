@@ -2,7 +2,7 @@
 citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 notes: >-
 
-    - Libbie Peck was the wife of George Peck.
+    - Libbie Peck was the wife of [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916).
 
     - The final two entries are underlined. The list itself is crossed out twice.
 

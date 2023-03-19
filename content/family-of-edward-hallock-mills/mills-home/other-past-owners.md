@@ -501,7 +501,7 @@ The first three names of possible heirs listed in the [Mills' home deeds]({{% re
   - George E. Mills (Feb 1856 to 10 Apr 1944). 
   - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds, and elsewhere has been spelled "Edsall".)
 
-[Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) is another cousin of Emily's, the daughter of Edward's sister, Emily Tabitha (Mills) Huntting. For more information on these branches of the Mills family, see the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}). 
+[Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) is another cousin of Emily's, the daughter of Edward's sister, Emily Tabitha (Mills) Huntting. For more information on these branches of the Mills family, see the accompanying account of the Mills' [Long Island origins]({{% ref "smithtown" %}}). 
 
 {{% fig "1937-11-26-ithaca-journal" "500" /%}}
 

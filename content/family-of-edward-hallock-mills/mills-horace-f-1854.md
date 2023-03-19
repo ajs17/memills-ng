@@ -41,7 +41,7 @@ Horace is [interred](https://www.findagrave.com/memorial/75958913/horace-f-mills
 
 There is another Horace F. Mills in upstate New York in the 1800's, who was of some prominence, but who does not appear to be closely related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos of this Horace Mills can be found online.
 
-This Horace Mills may actually be a distant relative, as there are archival materials on the Mills Family at Queens Public Library that suggests that some branches of the family were in Naples NY and Buffalo NY. If true, this might also be a clue to the family's move to [Corfu]({{% ref "corfu-eh-mills-co" %}}).
+This Horace Mills may actually be a distant relative, as there are archival materials on the Mills Family at Queens Public Library that suggests that some branches of the family were in Naples NY and Buffalo NY. If true, this might also be a clue to the family's move to [Corfu]({{% ref "corfu" %}}).
 
 Yet another Horace F. Mills lived in Wawayanda NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old. 
 

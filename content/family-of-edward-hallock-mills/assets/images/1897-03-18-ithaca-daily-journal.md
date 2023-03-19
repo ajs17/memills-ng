@@ -9,7 +9,7 @@ pages:  "6"
 source:  "nyshistoricnewspapers.org"
 notes: >-
 
-    - C. R. Wolcott is Clarence Reed Wolcott (1864-1950).
+    - C. R. Wolcott is [Clarence Reed Wolcott](https://www.findagrave.com/memorial/100452488/clarence-r-wolcott) (1864 to 1950).
 ---
 **COURT RECORD**
 

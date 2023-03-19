@@ -7,6 +7,9 @@ voltitle:  "Ithaca Daily Journal"
 publocation:  "Ithaca NY"
 pages:  "6"
 source:  "nyhistoricnewspapers.org"
+notes: >-
+
+    - C. R. Wolcott is [Clarence Reed Wolcott](https://www.findagrave.com/memorial/100452488/clarence-r-wolcott) (1864 to 1950).
 ---
 
 Tompkins County vs. E. H. Mills. Edward N. Burdick for plff. C. R. Wolcott for deft.

@@ -3,7 +3,7 @@ title: "Reverend Samuel Wickham Mills’ Genealogical Research"
 weight: 100
 ---
 
-This section presents some of the extensive research into the Mills genealogical record done by [Reverend Samuel Wickham Mills](https://www.findagrave.com/memorial/58270648/samuel-wickham-mills) (05 Apr 1820 to 22 Nov 1902) of Orange County NY. Biographical information on Reverend Mills is also presented, along with details of Horatio W. Mills’ death in the Seawanhaka disaster.
+This section presents some of the extensive research into the Mills genealogical record done by [Reverend Samuel Wickham Mills](https://www.findagrave.com/memorial/58270648/samuel-wickham-mills) (05 Apr 1820 to 22 Nov 1902) of Orange County NY. Biographical information on Reverend Mills is also presented, along with details of Horatio W. Mills’ death in the Seawanhaka disaster. Both of these Mills are descended from Timothy Mills of Mills Pond, and they are in the same generation as Edward's father Jonas.
 
 <!--more-->
 
@@ -84,7 +84,7 @@ Prepared by Samuel Wickham Mills, and provided courtesy of Nancy Conod, Executiv
 
 ## The Seawanhaka Disaster
 
-As Reverend Mills notes in *Mills Genealogy* above, his cousin [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880), son of [William Wickham Mills](https://www.findagrave.com/memorial/68729507/william-wickham-mills) (03 Sep 1797 to 06 Jan 1865) of [Mills Pond]({{% relref "genealogy" %}}), “drowned in Seawanhaka disaster in Long Island Sound”. 
+As Reverend Mills notes in *Mills Genealogy* above, his cousin [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880), son of Samuel Wickham's uncle, [William Wickham Mills](https://www.findagrave.com/memorial/68729507/william-wickham-mills) (03 Sep 1797 to 06 Jan 1865) of [Mills Pond]({{% relref "smithtown" %}}), “drowned in Seawanhaka disaster in Long Island Sound”. 
 
 <figure>
 <blockquote>

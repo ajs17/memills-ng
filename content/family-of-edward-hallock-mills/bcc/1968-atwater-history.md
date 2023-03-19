@@ -383,7 +383,9 @@ The Preceding Addendum Compiled on the occasion of THE 125TH ANNIVERSARY CELEBRA
 
 ## Errata
 
-The pastor in 1885 to 1887 is [Reverend Isaac R. Bradnack](https://www.findagrave.com/memorial/166430500/isaac-r-bradnack) (1813 to 1897).
+  - The pastor from 1885 to 1887 is [Reverend Isaac R. Bradnack](https://www.findagrave.com/memorial/166430500/isaac-r-bradnack) (1813 to 1897).
+
+  - "George T. Saunders" is [George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders) (14 Nov 1818 to 04 May 1887), Amanda (Sanders) Lounsbery's father.
 
 ## Source
 
