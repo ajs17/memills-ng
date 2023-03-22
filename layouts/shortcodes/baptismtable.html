@@ -1,8 +1,9 @@
 
 {{ $csvfile := .Get 0  }}
 {{ $theyear := 1907 }}
-
-<table id="baptism">
+{{ $id := "baptism" }}
+    
+<table id="{{ $id }}">
     {{ range $i, $r := getCSV "," $csvfile }}
         {{ if eq $i 0 }}
 <thead>
@@ -46,7 +47,7 @@
 
 <script>
     jQuery(document).ready(function () {
-        $("#baptism").stupidtable();
+            $("#{{ $id }}").stupidtable();
     });
 </script>
 
