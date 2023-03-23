@@ -593,9 +593,11 @@ Note that in the tables that follow the rows can be re-sorted by clicking the ap
 <footer>
 Notes:
 
-  - "Charter" indicates someone listed in the 25 Apr 1868 meeting. "Atwater" indicates additional names listed as charter members in her *[History of the Congregational Church]({{% relref "1968-atwater-history" %}})*. Finally "Smith" are my additions, acknowledging the recorded names of others involved in the founding of the Church that were not already included in other lists.
+  - "Charter" indicates someone listed in the 25 Apr 1868 meeting. "Atwater" indicates additional names listed as charter members in her *[History of the Congregational Church]({{% relref "1968-atwater-history" %}})*. Finally "Smith" are my additions, to acknowledge the recorded names of others involved in the founding of the Church that were not already included in the other lists.
 
-  - It was at a meeting on Saturday 02 May 1868 when Alamanza Perry and Richard Sloughter "presented themselves for membership on profession of faith". Amy Atwater notes that “the first Lord’s Supper was administered to the congregation on May 2, 1868, at the 10:30 a.m. service”. (This is a misprint, and 02 May 1868 fell on a Saturday, and a separate entry for 03 May 1868 in the volume describes the Lord’s Supper.)
+  - Note that the “Manual”, 100 copies of which were printed in 1868 as mentioned in the 25 April 1868 meeting, corroborates the number of people listed by Amy Atwater in her *History*, stating: “The original members, 55 in number, came from the Methodist E. Church, of Mott’s Corners, N. Y., and from the Reformed Church of America, in the town of Caroline, Tompkins Co., N. Y.”.
+
+  - It was at a meeting on Saturday 02 May 1868 when Alamanza Perry and Richard Sloughter "presented themselves for membership on profession of faith".
  
   - Urena Genung was present at the 12 Mar 1868 meeting, but apparently not at the 25 Apr 1868 meeting. 
 </footer>

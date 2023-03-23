@@ -387,6 +387,12 @@ The Preceding Addendum Compiled on the occasion of THE 125TH ANNIVERSARY CELEBRA
 
   - "George T. Saunders" is [George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders) (14 Nov 1818 to 04 May 1887), Amanda (Sanders) Lounsbery's father.
 
+<!-- 
+  - According the “Manual” quoted by Amy Atwater above, “The Society (Congregational) met March 28, 1868 and elected the following named persons trustees: Edward Lounsbery, Walker V. Personius, and John Wolcott.”. However, [John W. Wolcott](https://www.findagrave.com/memorial/99636644/john-w-wolcott) (1830 to 1897) is not mentioned in the notes of that meeting, and instead the election of officers on that day, later indicated to be Deacons, went to William Personius, Benjamin Losey, George T. Sanders and George W. White. Committee was also chosen (by motion, not elected) that day,
+  
+When on motion made and carried S. B. Landon, Thomas H. Griffith and N. G. Edwards were chosen church committee for the ensuing year. Also H. C. Ostrander, Cantine Lounsbery and George Wolcott.
+-->  
+
   - The first Lord’s Supper is recorded in church records as occurring at Sunday services 03 May 1868, and not on Saturday 02 May 1868.
 
 ## Source
