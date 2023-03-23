@@ -560,9 +560,33 @@ April 25, 1868
 {{% fig "bcc/founding/2023-02-28_09.49.49" "200" "img,link,blockquote,aside" /%}}
 </div>
 
+
+<figure>
+<blockquote>
+The Congregational Church of Mott's Corners, Tompkins County, in the State of New York, completed its organization on March 28, 1868.
+
+The original members, 55 in number, came from the Methodist E. Church, of Mott's Corners, N. Y., and from the Reformed Church of America, in the town of Caroline, Tompkins Co., N. Y. When the following Brethren were chosen Deacons: William Personius, Benjamin Losey, George T. Saunders, and George W. White.
+
+Also the following Brethren were chosen Church Committee: Sextus B. Landon, Thomas H. Griffith, N. G. Edwards, Herman C. Ostrander, George Wolcott, and Cantine Lounsbery.
+
+When the Rev. William S. Hills, of Pottersville, Bradford County, Penn., was called to the work of Pastor and teacher in the church. (April 1st, 1868 — Dec. 1, 1868). 
+
+The Society (Congregational) met March 28, 1868 and elected the following named persons trustees: Edward Lounsbery, Walker V. Personius, and John Wolcott. The certificate of incorporation was placed on file in the County Clerk’s office in Tompkins Co., N. Y., April 20, 1868.”
+
+(The above is copied from a Manual, 100 copies of which were printed in 1868, containing church Discipline, Principles of church policy, Articles of Faith, Rule and By-laws, Profession of Religion. Names of charter members were also listed.)
+</blockquote>
+<figcaption>
+<cite>— <em>History of the Congregational Church, Brooktondale, New York.</em> Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.
+</cite>
+</figcaption>
+</figure>
+
+
 ## The Founders
 
 The following are my attempts to identify each person mentioned in the initial meetings, which includes the charter members as well as others including William Hills, the first pastor of the Church. 
+
+Note that in the tables that follow the rows can be re-sorted by clicking the appropriate column header.
 
 <figure>
 {{% bcc-founders-table "static/data/bcc-founders.csv" %}}
@@ -571,12 +595,13 @@ Notes:
 
   - "Charter" indicates someone listed in the 25 Apr 1868 meeting. "Atwater" indicates additional names listed as charter members in her *[History of the Congregational Church]({{% relref "1968-atwater-history" %}})*. Finally "Smith" are my additions, acknowledging the recorded names of others involved in the founding of the Church that were not already included in other lists.
 
-  - It was at a meeting on Saturday 02 May 1868 when Alamanza Perry and Richard Sloughter "presented themselves for membership on profession of faith". 
-
+  - It was at a meeting on Saturday 02 May 1868 when Alamanza Perry and Richard Sloughter "presented themselves for membership on profession of faith". Amy Atwater notes that “the first Lord’s Supper was administered to the congregation on May 2, 1868, at the 10:30 a.m. service”. (This is a misprint, and 02 May 1868 fell on a Saturday, and a separate entry for 03 May 1868 in the volume describes the Lord’s Supper.)
+ 
   - Urena Genung was present at the 12 Mar 1868 meeting, but apparently not at the 25 Apr 1868 meeting. 
 </footer>
 </figure>
 
+More information on the Founders: 
 
 <figure>
 {{% bcc-founders-table2 "static/data/bcc-founders.csv" %}}
@@ -588,9 +613,19 @@ More information on Charles W. Personius can be found in the section on [Deeds a
 
 [Nathaniel. J. Roe](https://www.findagrave.com/memorial/24800811/nathaniel-j-roe) (11 May 1831 to 09 Sep 1908) is a farmer in Caroline at the time the church was formed, he would eventually move to Michigan where his occupation is "grocer". He fought in the Civil War, mustering 31 Oct 1864 in Company U of the 179th Infantry Regiment. 
 
-Although the exact spelling is unclear, how “Mariette” is pronounced is clear from how it is spelled in the 1870 census. She is the daughter of James and Cynthia Perry. At that time, she is a domestic servant living in the town of Taylor, Cortland County NY.
+Although the exact spelling is unclear, how “Mariette” is pronounced is clear from how it is spelled in the 1870 census. She is the daughter of James Perry (04 Dec 1810 to 06 Jun 1898) and [Cynthia (German) Perry](https://www.findagrave.com/memorial/96483658/cynthia-perry) (26 Apr 1808 to 02 Jan 1857). At that time, she is a domestic servant living in the town of Taylor, Cortland County NY.
 
 The first pastor of the Congregational Church of Mott's Corners was Rev. William S. Hills (16 May 1834 to 26 Oct 1906), who had most recently come from Pottersville PA. His wife is [Julia Ann (Fuller) Hills](https://www.findagrave.com/memorial/195170803/julia-ann-hills) (18 Feb 1834 to 10 Jan 1907).
+
+<figure>
+<blockquote>
+Before Rev. Hills took up his duties, a committee of three was appointed to solicit subscriptions for the pastor’s salary. No figures are given on this, but the pastor hired in 1872 was given a salary of $600, a donation, and a parsonage.
+</blockquote>
+<figcaption>
+<cite>— <em>History of the Congregational Church, Brooktondale, New York.</em> Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.
+</cite>
+</figcaption>
+</figure>
 
 {{% fig "bcc/pastors/1906-11-02-The-Longton-Gleaner-Longton-KS-p2" "800" /%}}
 {{% fig "bcc/pastors/1907-01-18-The-Longton-Gleaner-Longton-KS-p2" "500" /%}}

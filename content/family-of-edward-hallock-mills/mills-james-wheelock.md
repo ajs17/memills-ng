@@ -200,6 +200,6 @@ Cyrus Hubbard Wheelock (February 28, 1813 – October 11, 1894) was an early mis
 </figcaption>
 </figure>
 
-In the 1800's, there are a number of Wheelocks in Brooklyn, central New York and Erie County. By 1890, there are Wheelocks in North Hempstead, notably, Daniel Wheelock, a farmer.
+The second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). In the 1800's, there are a number of Wheelocks in Brooklyn, central New York and Erie County. By 1890, there are Wheelocks in North Hempstead, notably, Daniel Wheelock, a farmer.
 
 Wheelock is overwhelmingly used as a surname, but I have found rare instances of it being used as a first name. 

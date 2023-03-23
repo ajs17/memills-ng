@@ -387,6 +387,8 @@ The Preceding Addendum Compiled on the occasion of THE 125TH ANNIVERSARY CELEBRA
 
   - "George T. Saunders" is [George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders) (14 Nov 1818 to 04 May 1887), Amanda (Sanders) Lounsbery's father.
 
+  - The first Lord’s Supper is recorded in church records as occurring at Sunday services 03 May 1868, and not on Saturday 02 May 1868.
+
 ## Source
 
 The following digital photographs were taken at Caroline Valley Community Church, Fall 2021, and used for the transcription above. 
