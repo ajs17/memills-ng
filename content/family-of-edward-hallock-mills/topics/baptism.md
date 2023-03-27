@@ -61,13 +61,23 @@ The Deacons listed are:
   - **[Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery)** (1831-1910)
   - **[Harvey Smiley](https://www.findagrave.com/memorial/24763291/harvey-smiley)** (?-1917)
   - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
-      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Church records indicate that Orange Munson "was granted a letter by of the Ch Aug [unclear] 1908 to unite with the Methodist Ch at Erin N.Y." (**Congregational Church 1868-1933 Minutes of Meetings and Membership**) 
+      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Church records indicate that Orange Munson "was granted a letter by of the Ch Aug [unclear] 1908 to unite with the Methodist Ch at Erin N.Y." (*Congregational Church 1868-1933 Minutes of Meetings and Membership*) 
+
+<div class="cols">
+{{% fig "bcc/obituaries/1910-03-29-orange-munson-obit" "350" /%}}
+{{% fig "bcc/obituaries/1910-03-30-Ithaca-Daily-Journal-Ithaca-NY-p6" "350" "img,blockquote,cite,link" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/obituaries/1910-03-30-Star-Gazette-Elmira-NY-p10" "350" "img,blockquote,cite,link" /%}}
+{{% fig "bcc/obituaries/1910-03-31-Ithaca-Daily-Journal-Ithaca-NY-p9" "350" "img,blockquote,cite,link" /%}}
+</div>
 
 Selected data on the participants:
 
 **Jessie (Shurter) Brewer** (1881-1974)
 
-  - Married Lewis William Brewer (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. According to the Permanent Membership Roll Book 2 of Caroline Valley Federated Church Records 1930-1960, "Mrs. Jessie Brewer and Mrs. Susie Lawrence have the longest membership records in church and Ladies' Aid." — **History of the Congregational Church, Brooktondale, New York.** Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.
+  - Married Lewis William Brewer (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. According to the Permanent Membership Roll Book 2 of Caroline Valley Federated Church Records 1930-1960, "Mrs. Jessie Brewer and Mrs. Susie Lawrence have the longest membership records in church and Ladies' Aid." — *History of the Congregational Church, Brooktondale, New York.* Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.
   - Jessie M. (Shurter) Brewer lived in the Shurter House, which originally sat between Six Mile Creek and M. E. Mills. Jessie eventually purchased the Mills' home and continued Emily's store under her own name after Emily's death.
 
 **Susie C. (Westfall) Lawrence** (1885-1977)
@@ -79,6 +89,10 @@ Selected data on the participants:
   - Lettie Personius died at City Hospital Ithaca of gangrenous appendicitis when she was only 16. Lettie was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on 14 Dec 1906. Lettie's death is noted in the journals of George Jansen. 
 
 {{% fig "1909-06-26-bcc-personius-lettie-obit" "800" /%}}
+<div class="cols">
+{{% fig "bcc/obituaries/1909-02-02-Ithaca-Daily-Journal-Ithaca-NY-p9" "350" /%}}
+{{% fig "bcc/obituaries/1909-01-26-lettie-personius-obit" "350" /%}}
+</div>
 
 **[Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe)** (02 Aug 1893 to 19 May 1964)
 

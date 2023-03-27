@@ -43,6 +43,7 @@ In the 1892 census, Ellen Gould, listed as Ellen J. Predmore, is apparently livi
 The first (presumed) mention of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
 
 {{% fig "ellen-gould/1909-03-06-Alfred-Gould-Died"  "500" /%}}
+{{% fig "1909-03-12-The-Ithaca-Daily-Journal-Ithaca-NY-p2" "500" /%}}
 
 It isn't clear when exactly Ellen started living in the Mills' home, but she may have lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in the "gossip columns" in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement not only helped Emily care for Hannah, but also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from both the Baptist Church, and her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is presently.
 
@@ -61,6 +62,7 @@ My mother was born in 1916 and had only two memories of Ellen. That she was very
 </blockquote>
 <figcaption>
 — <cite>18 May 2021, personal correspondence with Carol Coggshall, great great granddaughter of Ellen Gould.</cite>
+{{% fig "1909-03-12-The-Ithaca-Daily-Journal-Ithaca-NY-p2" "500" /%}}
 </figcaption>
 </figure>
 

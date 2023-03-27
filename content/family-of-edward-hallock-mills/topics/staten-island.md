@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 400
 ---
 
-Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward likely learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. Pine's general store was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was at different times known as C. M. Pine & Co., Pine Hillyer & Co., and C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles Pine was a longtime member of the church consistory.
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. Pine's general store was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was at different times known as C. M. Pine & Co., Pine Hillyer & Co., and C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles Pine was a longtime member of the church consistory.
 
 <!--more-->
 

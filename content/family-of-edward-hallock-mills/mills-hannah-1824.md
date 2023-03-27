@@ -99,7 +99,7 @@ A few months later, Hannah became ill and the first mentions of [Ellen Gould]({{
 
 {{% fig "1914-11-12-ithaca-journal" "500" /%}}
 
-At this time, there is a marked increase in the number of prayer and temperance meetings reported held in the Mills' home, which is perhaps not surprising as all three women of the household were so actively involved, and this would also accommodate Hannah's limited mobility. Hannah was clearly viewed as an important community leader to these women.
+At that time, there was a marked increase in the number of prayer and temperance meetings reported held in the Mills' home, which is perhaps not surprising as all three women of the household were so actively involved, and this would also accommodate Hannah's limited mobility. Hannah was clearly viewed as an important community leader to these women.
 
 {{% fig "1914-12-05-ithaca-journal" "500" /%}}
 

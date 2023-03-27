@@ -16,6 +16,24 @@ The Mills on Long Island were of English descent and it would seem quite clear t
 </figcaption>
 </figure>
 
+The following two account of George Mills are presented for completeness, but note there are inconsistent points between them:
+
+<figure>
+<blockquote>
+George Mills, the progenitor of this family of Mills in America, was born in 16[??] in a parish in England, the name of which has not been recovered in this essay, and he came over in or before 1631-1632 (in which year his son Samuel Mills was born in this Country...) George Mills appears first in contemporary records, as a resident of the town of Hempstead, Long Island, in 1656, a town which had been settled in 1644 by some thirty or forty families from Stamford, Connecticut. Evidently, he had joined this settlement between those two years, but coming from what previous place, supposedly in New England, searches made for this account have not discovered.    
+</blockquote>
+<figcaption>
+<cite>—
+01 May 1939, A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica, p64, familysearch.org.
+</cite>
+</figcaption>
+<aside>
+<ul><li>
+Among those from Stamford CT who settled Hempstead Long Island are <a href="/family-of-edward-hallock-mills/topics/hempstead/#the-legacy-of-captain-john-seaman">Captain John Seaman</a>, an ancestor of Mary Ann (Pine) Mills.  
+</li></ul>
+<aside>
+</figure>
+
 <figure class="quote-only">
 <blockquote>
 <p>
@@ -260,7 +278,7 @@ The last name listed as a possible heir in the Mills' home deeds, Mary Huntting 
   - their child [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875 to 1924), married James M. Cross.
 
 
-Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932), and her birth is presumably related to Emily T. Huntting's death nine days later. I believe it is Emily Mills Huntting who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
+Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932), and her birth is presumably related to Emily T. Huntting's death nine days later. Presumably, it is Emily Mills Huntting who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
 
 {{% fig "genealogy/1849-04-18-The-Corrector-Sag-Harbor-NY-p3" "500" /%}}
 
@@ -356,7 +374,7 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
 
 After further investigation, to see if the 1880 Robert Mills could possibly be Edward H. Mills' half brother Robert Sydney Mills, I confirmed the photo is of [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (unknown to 11 Dec 1890), an "Ex-Police Commissioner" and also "one of the most prominent builders and operators in lake vessels at this port", including one shipped named "Robert Mills" (11 Dec 1890, The Buffalo Commercial, Buffalo NY, p8). [More information on this Robert Mills here.]({{% ref "mills-robert" %}})
 
-A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor. (A copy of his will can be found in ) And in addition to materials related to Buffalo,the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
+A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor. (A copy of his will can be found in the volume *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica*.) And in addition to materials related to Buffalo,the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 
 The collection also contains genealogies and other information on the following surnames that can be found, often multiple times, throughout the Mills genealogy: 
   

@@ -12,8 +12,9 @@
 <thead>
     <tr>
     <th data-sort="string" data-sort-default="desc">Identity</th>
-    <th data-sort="int" data-sort-default="desc">Approx Age at<br/>Founding</th>
+    <th data-sort="int" data-sort-default="desc">Approx Age<br/>at Founding</th>
     <th data-sort="string" data-sort-default="desc">Occupation in<br/>1870 US Census</th>
+    <th data-sort="string" data-sort-default="desc">Church Position<br/>at Founding</th>
     </tr>
 </thead>
 <tbody>
@@ -28,12 +29,16 @@
 {{ else }} <td>&nbsp;</td> {{ end }}
 
 {{ with index $r 4 }}
-<td data-sort-value="{{ . }}" style="text-align: center;">
+<td data-sort-value="{{ . }}">
 {{ sub $theyear (int (index $r 4)) }}
 </td>
 {{ else }} <td>&nbsp;</td> {{ end }}
 
 {{ with index $r 8 }}
+<td data-sort-value="{{ . }}"> {{ . }} </td>
+{{ else }} <td>&nbsp;</td> {{ end }}
+
+{{ with index $r 7 }}
 <td data-sort-value="{{ . }}"> {{ . }} </td>
 {{ else }} <td>&nbsp;</td> {{ end }}
 

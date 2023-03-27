@@ -1,6 +1,5 @@
 ---
-citation: "1887, Arthur's Home Magazine, Volume 56, p106, https://books.google.com/books?id=5S4ZAAAAYAAJ&pg=PA106&lpg=PA106"
-notes: "This artifact was discovered using a generic internet search and suggests there may be similar references to Emily in other publications."
+citation: "1887, Arthur's Home Magazine, v56, p106, books.google.com." 
 ---
 SOLVERS.
 

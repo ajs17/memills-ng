@@ -7,9 +7,21 @@ The process of the founding of the Congregational Church is recorded in the volu
 
 <!--more-->
 
-> “All are gone now.”
+> “I shall always have a very kindly feeling for the dear old Church of our Fathers and Mothers.”
+>
+> “He was one of three trustees elected Mar 28, 1868. All are gone now.”
 
 {{% toc  %}}
+
+<figure>
+<blockquote>
+In 1868 the CONGREGATIONAL CHURCH was formed at Brooktondale by members of the BROOKTON METHODIST and the REFORMED CHURCH OF AMERICA. A foundation had been created for a Methodist Church, but when the new organization was formed, the Varna Presbyterian Church building was purchased and moved to the Methodist Foundation. The building is in active use by the CAROLINE VALLEY FEDERATED CHURCH. The steeple was blown down during a wind storm in 1925. A fiberglass steeple was lifted to its platform by a crane from H. D. Besemer Co. on 22 June 1977. The bell was bought from the Dutch Reformed Church by the Congregationalists, and is probably the oldest bell in this area.
+</blockquote>
+<figcaption>
+<cite>— 1994, <em>A History of the Town of Caroline Tompkins County, New York United States of America</em>, revised and compiled by Barbara B. M. Kone, Town of Caroline Historian.</cite>
+</figcaption>
+</figure>
+
 
 A history of the first 65 years of the Church, beginning weeks before their official organization, are found in one volume:
 
@@ -29,17 +41,17 @@ Also see Amy Atwater's [History of the Congregational Church, Brooktondale, New 
 
 The initial inside pages of the book:
 
-{{% fig "bcc/founding/2023-02-28_09.44.57" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.44.57" "800" "img,link" /%}}
 
-{{% fig "bcc/founding/inside-cover" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/inside-cover" "800" "img,link,blockquote" /%}}
 
-{{% fig "bcc/founding/2021-11-02_10.59.07" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_10.59.07" "800" "img,link,blockquote" /%}}
 
 ## Thursday 05 Mar 1868
 
-{{% fig "bcc/founding/2023-02-28_09.45.07" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.45.07" "800" "img,link" /%}}
 
-{{% fig "bcc/founding/1" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/1" "800" "img,link" /%}}
 
 <figure>
 <blockquote>
@@ -86,33 +98,33 @@ W. V. Personius, Secretary
 </figure>
 
 <div class="cols">
-{{% fig "bcc/founding/2021-05-20_11.25.10-1" "200" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-05-20_11.25.13" "200" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.00.48" "200" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-05-20_11.25.10-1" "200" "img,link" /%}}
+{{% fig "bcc/founding/2021-05-20_11.25.13" "200" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.00.48" "200" "img,link" /%}}
 </div>
 
 It appears that the originally written date, subsequently crossed out, reads "28th".
 
-{{% fig "bcc/founding/2021-11-02_11.00.53" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.00.53" "800" "img,link" /%}}
 
 <div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.00.56" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.01.04" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.00.56" "350" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.04" "350" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.01.02" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.01.07" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.02" "350" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.07" "350" "img,link" /%}}
 </div>
 
 ## Thursday 12 Mar 1868
 
-{{% fig "bcc/founding/2021-11-02_11.01.24" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.24" "800" "img,link" /%}}
 
-{{% fig "bcc/founding/2021-11-02_11.02.20" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.20" "800" "img,link" /%}}
 
-{{% fig "bcc/founding/2" "800" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2-1" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2" "800" "img,link" /%}}
+{{% fig "bcc/founding/2-1" "800" "img,link" /%}}
 
 {{% fig "bcc/founding/3" "800" /%}}
 
@@ -246,45 +258,40 @@ W. V. Personius, Secretary
 
   - The word "deceased" was written by a few names at a later time.
 
+{{% fig "bcc/founding/2021-11-02_11.01.29" "500" "img,link" /%}}
 
 <div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.01.29" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.01.34" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.34" "200" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.36" "200" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.39" "200" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.01.36" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.01.39" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.41" "350" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.45" "350" "img,link" /%}}
+</div>
+
+{{% fig "bcc/founding/2021-11-02_11.01.49" "500" "img,link" /%}}
+
+<div class="cols">
+{{% fig "bcc/founding/2021-11-02_11.01.54" "200" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.01.59" "200" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.01" "200" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.01.41" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.01.45" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.03" "350" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.05" "350" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.01.49" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.01.54" "350" "img,link,blockquote,aside" /%}}
-</div>
-
-<div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.01.59" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.02.01" "350" "img,link,blockquote,aside" /%}}
-</div>
-
-<div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.02.03" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.02.05" "350" "img,link,blockquote,aside" /%}}
-</div>
-
-<div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.02.25" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.02.27" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.25" "350" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.27" "350" "img,link" /%}}
 </div>
  
 ## Thursday 19 Mar 1868
 
-{{% fig "bcc/founding/2021-11-02_11.02.20" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.20" "800" "img,link" /%}}
 {{% fig "bcc/founding/3" "800" /%}}
 
 <figure>
@@ -305,18 +312,18 @@ W. V. Personius, Secretary
 
 
 <div class="cols">
-{{% fig "bcc/founding/2021-11-02_11.02.32" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2021-11-02_11.02.34" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.32" "350" "img,link" /%}}
+{{% fig "bcc/founding/2021-11-02_11.02.34" "350" "img,link" /%}}
 </div>
 
 
 ## Saturday 28 Mar 1868
 
-{{% fig "bcc/founding/2023-02-28_09.46.09" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.46.09" "800" "img,link" /%}}
 
-{{% fig "bcc/founding/4" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/4" "800" "img,link" /%}}
 
-{{% fig "bcc/founding/2023-02-28_09.47.18" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.47.18" "800" "img,link" /%}}
 
 <figure>
 <blockquote>
@@ -367,28 +374,28 @@ George T. Sanders, Moderator
 >
 > Error: James H. McWhorter, Harriet A. McWhorter, and the name of Mrs. Catherine was also placed on the role of membership by her request or consent.
 
-<div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.46.14" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.46.19" "350" "img,link,blockquote,aside" /%}}
-</div>
-
-{{% fig "bcc/founding/2023-02-28_09.46.25" "500" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.46.14" "500" "img,link" /%}}
 
 <div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.47.56" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.47.59" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.46.19" "350" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.46.25" "350" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.47.41" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.47.44" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.47.56" "350" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.47.59" "350" "img,link" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/founding/2023-02-28_09.47.41" "350" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.47.44" "350" "img,link" /%}}
 </div>
 
 ## Saturday 25 April 1868
 
-{{% fig "bcc/founding/2023-02-28_09.48.18" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.48.18" "800" "img,link" /%}}
 
-{{% fig "bcc/founding/2023-02-28_09.49.05" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.05" "800" "img,link" /%}}
 
 <figure>
 <blockquote>
@@ -520,46 +527,43 @@ April 25, 1868
 </blockquote>
 </figure>
 
-{{% fig "bcc/founding/2023-02-28_09.48.46" "800" "img,link,blockquote,aside" /%}}
-
-{{% fig "bcc/founding/2023-02-28_09.47.18" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.48.46" "800" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.47.18" "800" "img,link" /%}}
 
 <div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.48.01" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.48.04" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.48.01" "300" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.48.04" "200" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.47.49" "200" "img,link" /%}}
+</div>
+
+{{% fig "bcc/founding/2023-02-28_09.48.11" "500" "img,link" /%}}
+
+<div class="cols">
+{{% fig "bcc/founding/2023-02-28_09.48.23" "200" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.48.26" "200" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.48.29" "200" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.47.49" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.48.11" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.48.31" "200" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.15" "200" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.24" "200" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.48.23" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.48.26" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.18" "350" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.22" "350" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.48.29" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.48.31" "350" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.44" "200" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.47" "200" "img,link" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.49" "200" "img,link" /%}}
 </div>
 
-<div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.49.15" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.49.24" "350" "img,link,blockquote,aside" /%}}
-</div>
+## Incorporation of the Congregational Church of Motts Corners
 
-<div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.49.18" "350" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.49.22" "350" "img,link,blockquote,aside" /%}}
-</div>
-
-<div class="cols">
-{{% fig "bcc/founding/2023-02-28_09.49.44" "200" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.49.47" "200" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.49.49" "200" "img,link,blockquote,aside" /%}}
-</div>
-
+{{% fig "bcc/Congregational-church-motts-corners-incorporation-p371" "800" /%}}
 
 <figure>
 <blockquote>
@@ -581,12 +585,30 @@ The Society (Congregational) met March 28, 1868 and elected the following named 
 </figcaption>
 </figure>
 
+## Reverend William S. Hills
 
+The first pastor of the Congregational Church of Mott's Corners was Rev. William S. Hills (16 May 1834 to 26 Oct 1906), who had most recently come from Pottersville PA. His wife is [Julia Ann (Fuller) Hills](https://www.findagrave.com/memorial/195170803/julia-ann-hills) (18 Feb 1834 to 10 Jan 1907).
+
+<figure>
+<blockquote>
+Before Rev. Hills took up his duties, a committee of three was appointed to solicit subscriptions for the pastor’s salary. No figures are given on this, but the pastor hired in 1872 was given a salary of $600, a donation, and a parsonage.
+</blockquote>
+<figcaption>
+<cite>— <em>History of the Congregational Church, Brooktondale, New York.</em> Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.
+</cite>
+</figcaption>
+</figure>
+
+{{% fig "bcc/pastors/1906-11-02-The-Longton-Gleaner-Longton-KS-p2" "800" /%}}
+{{% fig "bcc/pastors/1907-01-18-The-Longton-Gleaner-Longton-KS-p2" "500" /%}}
+ 
 ## The Founders
 
-The following are my attempts to identify each person mentioned in the initial meetings, which includes the charter members as well as others including William Hills, the first pastor of the Church. 
+The following are my attempts to identify each person mentioned in the initial meetings, which includes the charter members as well as others recorded helping to organize the church. (Reverend William S. Mills is explored above.)
 
 Note that in the tables that follow the rows can be re-sorted by clicking the appropriate column header.
+
+Starting with their identities and relationships:
 
 <figure>
 {{% bcc-founders-table "static/data/bcc-founders.csv" %}}
@@ -611,28 +633,178 @@ More information on the Founders:
 </footer>
 </figure>
 
-More information on Charles W. Personius can be found in the section on [Deeds and Other Past Owners]({{% relref "other-past-owners" %}}).
 
-[Nathaniel. J. Roe](https://www.findagrave.com/memorial/24800811/nathaniel-j-roe) (11 May 1831 to 09 Sep 1908) is a farmer in Caroline at the time the church was formed, he would eventually move to Michigan where his occupation is "grocer". He fought in the Civil War, mustering 31 Oct 1864 in Company U of the 179th Infantry Regiment. 
+#### Edward and Amanda Lounsbery
+
+[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Edward was also a member of the Independent Order of Good Templars in Brookton. He died within the Congregational Church while addressing the Christian Endeavor Society.
+
+{{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "500x300" "" "top" /%}}
+
+Edward fought in the 179th Infantry: "Enrolled, August 31, 1864, at Caroline, to serve one year; mustered in as private, Co. B, October 1, 1864; as first lieutenant, October 28, 1864; mustered out with company, June 8, 1865, near Alexandria, Va. Commissioned first lieutenant, November 19, 1864, with rank from October 9, 1864, vice G. Cook promoted." ([179th Infrantry Regiment Unit Roster](https://museum.dmna.ny.gov/unit-history/infantry-2/179th-infantry-regiment), New York State Military Museum and Veterans Research Center.)
+
+{{% fig "mills-home/edward-lounsbery-portrait" "350" /%}}
+
+Edward married [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand. (She signed many meeting minutes, for example, and the handwriting matches many other handwritten records in the church.) Edward and Amanda also owned the Mills' Store building for many years, and after Amanda's death, Mills' store passed to Amanda's sister Libbie Peck.
+
+{{% fig "mills-home/1921-11-14-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+
+#### Walker Voorhis and Ella M. Personius
+
+{{% fig "bcc/obituaries/1914-personius-walker-v-obit-bcc" "800" /%}}
+
+From Molly Adams’ research notes in the Caroline History Room: “Walker Personius was a Civil War veteran and the village postmaster in 1882. He seems to have been the owner of Mott’s original store which he called Personius Hall. The building had a large meeting space on the second floor, with seats that folded down from the wall. Memorial Day (then called Decoration Day) processions always formed in front of that building (see photo) and perhaps the David Ireland Post of Civil War Veterans met in that building. It seems clear that the post office was still at 559 Brooktondale Road in 1882.” I don’t know what photo was being referenced in the preceding passage. 
+
+From “Tour 3 - P8” in A Drive-by Tour of the Town of Caroline: “1st Post Office & store, left – 559 Brooktondale Road. We think this building was built by Mr. Mott, who owned most of the land at that time. …The G.A.R. lined up here to march to the [Quick, presently Brookton] cemetery to put flowers on the graves. There was a tannery between this house and the next before 1853 owned by Silsbury & [Edward] Lounsbery.” 
+
+[Walker Voorhis Personius](https://www.findagrave.com/memorial/98386104/walker-voorhis-personius) (1836 to 1914). “Enrolled, August 22, 1861, at Millport; mustered in as captain, Co. G, September 14, 1861, to serve three years; mustered out, September 20, 1864, at Elmira, N.Y.; commissioned captain, October 14, 1861, with rank from September 16, 1861, original.” ([50th Engineer Regiment Unit Roster](https://museum.dmna.ny.gov/unit-history/other-units/50th-engineer-regiment), New York State Military Museum and Veterans Research Center.)
+
+The 50th Engineer Regiment of New York, which also included Walker's brother Charles (below), as well as others from Caroline, organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The Regiment participated in the Chancellorsville, Fredericksburg and Gettysburg campaigns, but they were not on the battlefield at Gettysburg. The Regiment was present at the surrender of General Lee at Appomattox Court House 09 Apr 1865.
+
+{{% fig "bcc/obituaries/1909-03-14-ella-personius-obit" "500" /%}}
+
+#### Charles Personius
+
+[Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924) was the owner of Personius Flouring Mills in Brookton, on the present site of Dalebrook. Charles sold a portion of the mill property to to William Wolcott, what would become known as “the Wolcott lot” and later, “the Mills place”. 
+
+Charles Personius was a Civil War veteran, having enlisted and mustered in 25 Aug 1862 at Middletown NY to Company G of the 50th Engineers Regiment with the rank of Private. He mustered out 13 Jun 1865, Fort Barry VA, under Colonel Pettes, with the rank of Sergeant, having been promoted twice. (New York: Report of the Adjutant-General 1893-1906, ancestry.com)
+
+More information on Charles Personius can be found in the section on [Deeds and Other Past Owners]({{% relref "other-past-owners" %}}).
+
+{{% fig "mills-home/1924-02-04-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+
+<div class="cols">
+{{% fig "mills-home/1924-02-11-The-Ithaca-Journal-Ithaca-NY-p11" "350" /%}}
+{{% fig "mills-home/1924-02-12-The-Ithaca-Journal-Ithaca-NY-p11" "350" /%}}
+</div>
+
+The following photograph purportedly shows Charles Personius as well as John Mandeville, likely taken in front of "Personius Hall".
+
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "800" "img,blockquote,cite,link" /%}}
+
+<div class="cols">
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "350" "img" /%}}
+{{% fig "mills-home/2022-559-brooktondale-road" "350" /%}}
+</div>
+ 
+#### Mariette Perry
 
 Although the exact spelling is unclear, how “Mariette” is pronounced is clear from how it is spelled in the 1870 census. She is the daughter of James Perry (04 Dec 1810 to 06 Jun 1898) and [Cynthia (German) Perry](https://www.findagrave.com/memorial/96483658/cynthia-perry) (26 Apr 1808 to 02 Jan 1857). At that time, she is a domestic servant living in the town of Taylor, Cortland County NY.
+  
+#### Sextus Barnes and Abbie Landon
+ 
+{{% fig "bcc/obituaries/1909-03-27-abbie-landon-obit" "500" /%}}
+{{% fig "bcc/obituaries/1909-04-05-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
 
-The first pastor of the Congregational Church of Mott's Corners was Rev. William S. Hills (16 May 1834 to 26 Oct 1906), who had most recently come from Pottersville PA. His wife is [Julia Ann (Fuller) Hills](https://www.findagrave.com/memorial/195170803/julia-ann-hills) (18 Feb 1834 to 10 Jan 1907).
+<div class="cols">
+{{% fig "bcc/obituaries/1909-04-02-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "bcc/obituaries/1909-04-03-Ithaca-Daily-Journal-Ithaca-NY-p9" "350" /%}}
+</div> 
+
+{{% fig "bcc/obituaries/1925-05-25-The-Ithaca-Journal-Ithaca-NY-p5" "800x300" "" "top" /%}}
+
+#### Robert W. Edwards
+
+{{% fig "bcc/general/1880-06-13-robert-edward-departs" "500" /%}}
+ 
+#### Thomas Huston and Amanda Latta Griffith
+
+<div class="cols">
+{{% fig "bcc/obituaries/1910-deaths" "350" /%}}
+{{% fig "bcc/obituaries/1914-deaths" "350" /%}}
+</div> 
+
+#### Nathaniel J. Roe
+
+[Nathaniel J. Roe](https://www.findagrave.com/memorial/24800811/nathaniel-j-roe) (11 May 1831 to 09 Sep 1908) is a farmer in Caroline at the time the church was formed, he would eventually move to Michigan where his occupation is "grocer". He fought in the Civil War, mustering 31 Oct 1864 in Company U of the 179th Infantry Regiment, along with Edward Lounsbery (above). 
+
+#### Alamanza A. and Sara A. Perry
+
+{{% fig "bcc/obituaries/1909-05-06-Ithaca-Daily-Journal-Ithaca-NY-p9" "500" /%}}
+
+#### Richard Middaugh Sloughter
+
+{{% fig "bcc/general/1909-04-12-Ithaca-Daily-Journal-Ithaca-NY-p9" "500" /%}}
+
+#### Funerary Poems 
+
+Finally, the following two poems were also clipped out of newspapers and stored along with similarly clipped obituaries of church members, some of which are shown above. Apparently, they had special significance.
+
+{{% fig "bcc/obituaries/poem" "500" /%}}
+
+{{% fig "bcc/obituaries/poem2" "500" /%}}
+
+Variations of these lines are quoted often not only in relation to funerals, but also by temperance organizations like the Women's Christian Temperance Union in their proceedings and publications. Typically, two final lines are also quoted. 
+
+<div class="cols">
+{{% fig "bcc/obituaries/1889-04-27-The-Recorder-Greenfield-MA-p8" "350" /%}}
+{{% fig "bcc/obituaries/1897-09-24-Norwich-Courant-Norwich-KS-p4" "350" /%}}
+</div>
 
 <figure>
 <blockquote>
-Before Rev. Hills took up his duties, a committee of three was appointed to solicit subscriptions for the pastor’s salary. No figures are given on this, but the pastor hired in 1872 was given a salary of $600, a donation, and a parsonage.
+<pre>
+Passing Away 
+Poet: Unknown
+<br/>
+
+The fragrance of the rose,
+Whose dewy leaves in morning's light unclose,
+Goes not more sweetly up
+From its rich heart, as from an incense cup,
+Than thy freed spirit from its earthly shrine
+Passed with the still angel to the rest divine.
+
+Oh no! Thou didst not die!
+Thou hast but lain the soul's frail vesture by,
+And soared to that pure height
+Where day serene is followed by no night,
+And where the discipline of mortal woe
+No shadow over thee can ever throw.
+
+Death never comes to such
+With chillness in the mystery of his touch:
+They gently pass away
+As melts the morning star in golden day;
+They leave the places they have known below,
+And through the white gates of the morning go.
+
+We would not call thee back
+To the frail flowers that wither on our track,
+Perhaps to have thy feet
+Pierced by the thorns that we so often meet:
+For thou art in that fairer world than ours
+Where love mourns not the fading of the flowers.
+
+Why should we weep for thee
+When thy pure soul from every ill is free?
+Our only tears should flow
+For those, the loved, who linger still below,
+From whom the light of thy dear smile is fled,
+Who feel indeed that thou art with the dead.
+
+We know the gloomy grave
+Holds not the spirit which our Father gave;
+That loving, lustrous light,
+That made the sphere in which it moved so bright,
+Is shining with a clear and quenchless flame.
+Rekindled at the source from whence it came.
+
+Thou art not dead! For death
+Can only take away the mortal breath;
+And life, commencing here.
+Is but the prelude to its full career;
+And Hope and Faith the blest assurance give -
+"We do not live to die! We die to live!"
+</pre>
 </blockquote>
 <figcaption>
-<cite>— <em>History of the Congregational Church, Brooktondale, New York.</em> Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.
+<cite>—
+<a href="https://www.weddingjm.com/weddingwishesfromsomeoneinheaven.htm">Best Wishes</a>, weddingjm.com
 </cite>
 </figcaption>
 </figure>
 
-{{% fig "bcc/pastors/1906-11-02-The-Longton-Gleaner-Longton-KS-p2" "800" /%}}
-{{% fig "bcc/pastors/1907-01-18-The-Longton-Gleaner-Longton-KS-p2" "500" /%}}
 
-{{% fig "bcc/obituaries/1914-personius-walker-v-obit-bcc" "800" /%}}
 
 <!--
 
@@ -692,4 +864,5 @@ Before Rev. Hills took up his duties, a committee of three was appointed to soli
 {{% fig "bcc/founding/2023-02-28_09.54.50" "500" "img,link,blockquote,aside" /%}}
 {{% fig "bcc/founding/2023-02-28_09.54.53" "500" "img,link,blockquote,aside" /%}}
 
+    
 -->

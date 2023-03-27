@@ -1,5 +1,5 @@
 ---
-title: "Mills' Store, Brookton NY"
+title: "Mills' Store in Brookton NY"
 weight: 100
 ---
 

@@ -137,7 +137,7 @@ In the years immediately preceding this purchase, William had spent three years 
 | 30&nbsp;Aug&nbsp;1862 | William married Ellen A. Shurter. |
 | 25&nbsp;Sep&nbsp;1862 | William mustered in at Binghamton NY. |
 | 09&nbsp;Jun&nbsp;1865 | William mustered out near Bladensburg MD. |
-| 26&nbsp;Jun&nbsp;1865 | The day the NY census is taken in Caroline, the census records William was living in the home of Josiah Shurter, Ellen's parents. |
+| 26&nbsp;Jun&nbsp;1865 | The day the NY census is taken in Caroline, the census records William was living in the home of Josiah and Jane (Shutt) Shurter, Ellen's parents. |
 | 14&nbsp;Apr&nbsp;1866 | Willis B. Wolcott was born, 10 months after his father mustered out. |
 | 22&nbsp;May&nbsp;1869 | William purchased the "Wolcott lot" from Jacob Vandemark and Charles Personius. |
 
@@ -324,7 +324,7 @@ Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial
 {{% fig "mills-home/1918-06-24-The-Ithaca-Journal-Ithaca-NY-p3" "800x500" "" "top" /%}}
 
 <div class="cols">
-{{% fig "mills-home/1917-09-25-Mary-mccandlish-zoomed" "350" /%}}
+{{% fig "mills-home/1917-09-25-Mary-mccandlish-zoomed" "350" "img,cite,link" /%}}
 {{% fig "mills-home/1917-09-25-Mary-mccandlish" "350" /%}}
 </div>
 
@@ -455,7 +455,7 @@ This shows the first mention of the Mills family. This confirms that Edward and 
 
 {{% fig "mills-home/edward-lounsbery-portrait" "350" /%}}
 
-Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the official organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921), are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personeus was chosen chairman and Walker V. Personius secretary." Edward died within the Congregational Church while addressing the Christian Endeavor Society.
+Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921), are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personeus was chosen chairman and Walker V. Personius secretary." Edward died within the Congregational Church while addressing the Christian Endeavor Society. For more context on the founding of the Congregational Church of Mott's Corners, see [this section]({{% relref "founding-documents" %}}).
 
 {{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
 
