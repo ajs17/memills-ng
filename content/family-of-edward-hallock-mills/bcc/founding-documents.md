@@ -563,7 +563,7 @@ April 25, 1868
 
 ## Incorporation of the Congregational Church of Motts Corners
 
-{{% fig "bcc/Congregational-church-motts-corners-incorporation-p371" "800" /%}}
+{{% fig "bcc/CC-incorporation-p371" "800" /%}}
 
 <figure>
 <blockquote>
