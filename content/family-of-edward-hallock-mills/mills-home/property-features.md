@@ -15,6 +15,8 @@ https://library.artstor.org/#/asset/SS33631_33631_1660255;prevRouteTS=1671222614
 1853, L. Fagan, Map of Tompkins County, New York from actual surveys. Cornell University Library Maps and Geospatial Information Collection.
 
 
+{{% toc "Jump To:" %}}
+
 <figure>
 <blockquote>
 <p>

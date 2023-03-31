@@ -11,6 +11,8 @@ A compilation of information and photographs from the late 1960's to the mid 200
 >
 > “When a student is disruptive something is troubling this person. He's saying, 'Look at me–I’m here, I count.’”
 
+{{% toc "Jump To:" %}}
+
 I have been in contact with the previous three sets of owners, and with each, I have offered to publish with this material any memories of their time in the home that they were willing to share with me. I left it completely open as to what to write about, how much to write, and when to get the information to me. I will add any such information I receive from them in a timely manner.
 
 It appears that Jessie and Lewis Brewer never lived in the Mills home, but rented it until it was purchased by the Jones family. Beginning with one of the photographs left behind by Andrea Talmadge:
@@ -30,6 +32,8 @@ The condition of those steps in 2022:
 {{% fig "today/adams-photos/2022-12-14_13.27.29" "350" "img,link" /%}}
 {{% fig "today/adams-photos/2022-12-14_13.27.59" "350" "img,link" /%}}
 </div>
+
+## C. Dalton and Clara B. Jones
 
 Jessie Brewer sold the home to Clarence Dalton Jones, known professionally as C. Dalton Jones, and his wife Clara Brown Jones on 12 Jul 1969 (Deeds 482, p528, Tompkins County Clerk, Ithaca NY.) The Jones family initially moved to the Ithaca area in 1966 to pursue graduate degrees at Cornell University.
 
@@ -114,11 +118,25 @@ I was born in 1967, my folks had moved in earlier that year (or was it actually 
 </figure>
 -->
 
+## Larry and Janet Lattin
+ 
 Lawrence E. and Janet L. Lattin purchased the home on 14 Nov 1979. 16 Aug 2022, I reached out to Larry and Janet by telephone, introducing myself for the first time and asking them about the history of the home. 
 
 Larry mentioned that he “gutted the house” and rewired much of it. He put on the rear addition as I know it, and added the basement steps. He also added the present tool shed, and as I write this, “Lattin” (or possibly "Larry") is still just visible, etched into the floor immediately inside the entrance, while the cement was drying. It appears there might be more letters etched in this way, but at this point, it is too faded for me to distinguish.
 
 {{% fig "today/adams-photos/2022-12-13_14.51.12" "800" "img,link" /%}}
+
+Alternate photos:
+
+<div class="cols">
+{{% fig "today/adams-photos/2022-04-12_16.53.54" "350" /%}}
+{{% fig "today/adams-photos/2022-04-12_16.54.08" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "today/adams-photos/2022-12-14_12.57.40" "350" /%}}
+{{% fig "today/adams-photos/2022-12-14_12.57.46" "350" /%}}
+</div>
 
 Larry also told a remarkable story. While replacing the front door, items stored in a space above the door fell out. The items included old medicine bottles, post cards, and what Larry described as “a Civil War belt”! Larry still has the belt, and he recalls that it identified the regiment, but could not recall the regiment number. He was going to find it again to let me know the number, to see if it matches William Benton Wolcott’s, and I need to follow up with him on this.
 
@@ -144,6 +162,8 @@ I'm fairly certain that Larry Lattin rewired the entire house - but I could be w
 </cite>
 </figcaption>
 </figure>
+
+## Andrea Talmadge
 
 Andrea Talmadge purchased the home from the Lattins on 27 Aug 1992. This day was also the first day of instruction of the Fall semester at Cornell University, where Adam Smith was starting his junior year. (Cornell University Courses of Study Vol. 83 1991/92, ecommons.cornell.edu.) 
 

@@ -7,6 +7,7 @@ This section introduces the family of William Mills, a first cousin of Edward Mi
 
 <!--more-->
 
+{{% toc "Jump To:" %}}
 
 Portraits of William Mills' family were digitally scanned by Queens Public Library archives Jun 2022 from print photographs in their collection: The Mills Family of Jamaica and Mills Pond, Long Island, Archives at Queens Library, Queens Borough Public Library. The backs of the photographs were also scanned and are shown beside the fronts. The following is my attempt to identify the subjects of these photos and provide historical context for their lives. 
 

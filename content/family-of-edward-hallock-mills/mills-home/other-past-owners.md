@@ -16,6 +16,8 @@ This section explores the historical deeds and the lives of some of the other fo
 </p>
 </blockquote>
 
+{{% toc "Jump To:" %}}
+
 <figure class="image" width="500px">
     <img src="/family-of-edward-hallock-mills/assets/images/mills-home/hero.jpg" width="500" />
     <figcaption style="max-width: 500px">02 Jan 1964 entry in the Mills' home deeds. Andrea Talmage, who owned the Mills' home in the 1990’s, had the opportunity to talk with both Carl English and Grace Vandemark who confirmed that the Mills' home had been commonly called “The Mills' Place” for many years.</figcaption>
@@ -32,6 +34,8 @@ Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on
 A summary of the historical deeds referenced below, up to the time it was owned by Jessie Brewer:
 
 {{% table "/static/data/deeds.csv" "mills-home-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount" "" "property" "=" "Mills Home" %}}
+
+## Charles W. Personius
 
 I believe this may be the first deed for the property after it was sub-divided from the grist mill lot. Thanks to Alanna Congdon at the Tompkins County Clerks Office, who provided an alternative scan of the original to the one already available online. I present both as each is clear in areas where the other is not:
 
@@ -126,6 +130,8 @@ It isn't clear exactly when or at which crossing the following photos were taken
 {{% fig "mills-home/1924-02-11-The-Ithaca-Journal-Ithaca-NY-p11" "350" /%}}
 {{% fig "mills-home/1924-02-12-The-Ithaca-Journal-Ithaca-NY-p11" "350" /%}}
 </div>
+
+## William Benton Wolcott
 
 My current understanding is that the deed above shows the likely first owner of the parcel that became known as The Mills' Place was [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of [George Wolcott](https://www.findagrave.com/memorial/89338779/george-wolcott) (23 Dec 1801 to 09 Dec 1860) and [Sarah A. (Reed) Wolcott](https://www.findagrave.com/memorial/89338780/sarah-a-wolcott) (23 Dec 1804 to 07 May 1886). (George and Sarah died years apart and are not buried next to each other in Brookton Cemetery. As of Summer 2022, both of their stones are broken in half.)
 
@@ -370,6 +376,9 @@ She died in April 1982 in Thibodaux, LaFouche, Louisiana.
 {{% fig "mills-home/1918-10-07-The-Ithaca-Journal-Ithaca-NY-p1" "350" /%}}
 </div>
 
+
+## Reverend Horace N. Humiston Sr.
+
 {{% fig "mills-home/car-deeds-5-70" "800" /%}}
 
 [Reverend Horace N. Humiston Sr.](https://www.findagrave.com/memorial/113971483/horace-n-humiston) (08 Jun 1806 to 26 Feb 1888), is described in census records as "minister" in 1870 and "Preacher M. E." in 1875, both years in Candor. Given how briefly he owned the home, and the fact that his son was in the real estate business, I am not confident that the Reverend ever occupied the home. I have not found much information on the Reverend, but his son [Horace N. Humiston Jr.](https://www.findagrave.com/memorial/113830259/horace-n-humiston) (11 Aug 1826 to 29 Jun 1889) was a high profile lawyer in Ithaca by the late 1800's, and in the census data, he is described as "carpenter" in 1860 and 1865, "lawyer" in 1875, and "detective" in 1880. Many stories were reported on Horace Jr. in the Ithaca papers, particularly around his court cases, and the Ithaca City Directory in 1883 shows the breadth of his professional activities. 
@@ -377,6 +386,8 @@ She died in April 1982 in Thibodaux, LaFouche, Louisiana.
 {{% fig "mills-home/1883-1884-williams-ithaca-directory-p24" "500" /%}}
 
 {{% fig "mills-home/1889-07-1-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+## Esther C. (Cary) and Frank Cameron Vorhis
 
 {{% fig "mills-home/car-deeds-5-138" "800" /%}}
 
@@ -447,6 +458,8 @@ Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charl
 
 {{% fig "mills-home/1974-09-17-The-Ithaca-Journal-Ithaca-NY-p30" "500" /%}}
 
+## Edward and Amanda Lounsbery
+ 
 {{% fig "mills-home/138-329" "800" /%}}
 
 This shows the first mention of the Mills family. This confirms that Edward and Amanda never occupied this home themselves.
@@ -462,6 +475,8 @@ Records of what is known today as Caroline Valley Community Church show that Edw
 Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand. (She signed many meeting minutes, for example, and the handwriting matches many other handwritten records in the church.) Edward and Amanda also owned the Mills' Store building for many years, and after Amanda's death, Mills' store passed to Amanda's sister Libbie Peck.
 
 {{% fig "mills-home/1921-11-14-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+
+## Edward H. Mills
 
 {{% fig "mills-home/157-593" "800" /%}}
 
@@ -482,6 +497,8 @@ In 1903 Charlie Jones set up the Caroline Farmers Telephone Company in Slatervil
 Edward H. Mills died without a will on 01 Jan 1908, and it would take some time for Hannah and Emily to fully establish ownership of the home.
 
 {{% fig "mills-home/1918-03-08-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+
+## Hannah and Emily Mills
 
 {{% fig "mills-home/1909-deeds-mills-172-306" "800" /%}}
 {{% fig "mills-home/475-deed-pg-1" "800" /%}}
@@ -512,6 +529,7 @@ There are many variations of the published legal notices over many months, a few
 {{% fig "1938-07-06-Tompkins-County-Rural-News-Dryden-NY-p6" "800" /%}}
 {{% fig "1938-12-09-Tompkins-County-Rural-News-Dryden-NY-p6" "500" /%}}
 
+## Lewis and Jessie Brewer
 
 {{% fig "mills-home/deeds-book-248-p238-001" "800" /%}}
 {{% fig "mills-home/deeds-book-248-p238-002" "800" /%}}

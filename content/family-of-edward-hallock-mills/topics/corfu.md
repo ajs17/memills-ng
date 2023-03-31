@@ -7,6 +7,8 @@ Before calling Mott's Corners home, the Mills moved to Corfu NY in the early 186
 
 <!--more-->
 
+{{% toc "Jump To:" %}}
+
 The Mills, including Emily at just over one year old, are included in the 19 June 1860 Federal Census in Staten Island:
 
 {{% fig "census/census-1860-us" "800" /%}}

@@ -3,16 +3,11 @@ title: "Hempstead NY and Pine Genealogy"
 weight: 450
 ---
 
-
-
-
-
-
-
-
 Edward presumably moved to Hempstead with his family in 1837. There, he met his first wife, Mary Ann Pine, and her brother and Edward's mentor in business, Charles Mills Pine. The Mills and the Pines attended Christ's First Presbyterian Church. This section also introduces Captain John Seaman.
 
 <!--more-->
+
+{{% toc "Jump To:" %}}
 
 In 1837, when Edward was approximately 18 years old, the Mills family moved to Hempstead NY, according to Jonas' obituary. It appears likely that Edward followed the rest of the family to Hempstead, as it is noted in the Hempstead Sentinel that Edward lived there at one time. 
 

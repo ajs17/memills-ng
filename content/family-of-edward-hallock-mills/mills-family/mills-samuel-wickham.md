@@ -11,6 +11,8 @@ This section presents some of the extensive research into the Mills genealogical
 >
 > “Christ law he preached, but first he followed it himself.”
 
+{{% toc  %}}
+
 {{% fig "portraits/swmillsportrait" "500" /%}}
 
 <figure>
@@ -63,7 +65,7 @@ His obiturary, which republishes significant portions of his Mills genealogical 
 
 {{% fig "genealogy/1902-12-04-tri-states-union-port-jervis-ny-p1" "800x500" "" "top" /%}}
 
-### Mills Genealogy.  
+## Mills Genealogy  
 
 Prepared by Samuel Wickham Mills, and provided courtesy of Nancy Conod, Executive Director of Minisink Valley Historical Society, Port Jervis NY, from their collections, used with permission. Typewritten with handwritten corrections.
  
