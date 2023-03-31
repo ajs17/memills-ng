@@ -11,7 +11,7 @@ This section presents some of the extensive research into the Mills genealogical
 >
 > “Christ law he preached, but first he followed it himself.”
 
-{{% toc  %}}
+{{% toc "Jump To:" %}}
 
 {{% fig "portraits/swmillsportrait" "500" /%}}
 
