@@ -12,6 +12,8 @@ notes: >-
   - Jonas and Mary Platt are cousins.  They share common grandparents [Isaac Mills Jr.](https://www.findagrave.com/memorial/68730036/isaac-mills) (19 Feb 1727 to 23 Apr 1783) and [Sarah (Phillips) Mills](https://www.findagrave.com/memorial/187300487/sarah-mills) (26 Feb 1731 to 29 Apr 1790), who are themselves first cousins. (Sarah Phillips' parents are [George Phillips](https://www.findagrave.com/memorial/25501640/george-phillips) (1698 to 21 Nov 1771) and [Elizabeth (Mills) Phillips](https://www.findagrave.com/memorial/25501594/elizabeth-phillips) (1706 to 19 Apr 1775).) Isaac and Sarah's son [George Phillips Mills](https://www.findagrave.com/memorial/25193050/george-phillips-mills) (23 Aug 1765 to 18 Mar 1846) is Jonas' father and Isaac and Sarah's daughter [Elizabeth (Mills) Mills](https://www.findagrave.com/memorial/68731488/elizabeth-mills) (17 Apr 1763 to [12 or 15] Jul 1826) is Mary Platt's mother. Elizabeth's grandfather, Isaac Mills Sr. was her husband Jedediah Mills' father's half brother. 
 
   - More than one source corroborates that Emily Tabitha Mills married John Smith Huntting on 14 Dec 1843.
+
+  - As noted elsewhere, Edward H. Mills' brother, born 13 Feb 1827, is James Thomas Mills.
 ---
 
 CHILDREN OF GEORGE MILLS<sup>6</sup> (Isaac,<sup>5</sup> Isaac,<sup>4</sup> Timothy<sup>3</sup>) AND TABITHA DAVIS HIS WIFE. 

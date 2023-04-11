@@ -1,5 +1,5 @@
 ---
-title: "Hempstead NY and Pine Genealogy"
+title: "Hempstead NY and Pine, Seaman Genealogies"
 weight: 450
 ---
 
@@ -58,6 +58,7 @@ Weekes, Seaman & Pine was possibly owned by some of the same partners as the pre
 </div>  
 
 {{% fig "hempstead/seaman-family-america-p176" "500" /%}}
+
 
 Read more about the Seaman family in the section on [Captain John Seaman]({{% relref "hempstead#the-legacy-of-captain-john-seaman" %}}) further below.
 
@@ -151,19 +152,42 @@ Before moving onto what I believe is overwhelming evidence that Charles M. Pine 
 
 {{% fig "pine/1865-census-nys" "800" /%}}
 
-I have also been unable to definitively identify Julia Soper, the 20 year old niece listed. There is a [Julia E. (Oakes) Soper](https://www.findagrave.com/memorial/199166807/julia-e-soper) (Nov 1844 to 01 Apr 1910), born in Huntington, who, despite being the correct age, was married to Ezra Soper in 1867, so in the 1865 census she would not have the name Soper. 
+I have also been unable to definitively identify Julia Soper, the 20 year old niece listed. There is a [Julia E. (Oakes) Soper](https://www.findagrave.com/memorial/199166807/julia-e-soper) (Nov 1844 to 01 Apr 1910), born in Huntington (in Suffolk County, which corresponds to the census entry), who, despite being the correct age, was married to Ezra Soper in 1867, so in the 1865 census she would not have the name Soper. There is also a Julia Soper in Hempstead who was five years old in the 1850 United States Federal Census, matching the age of this Julia, but this appears to be a coincidence as nothing else suggests that this is the Julia being referenced.
 
 I have a theory as to what might be happening, although with some noticeable counterpoints which I will also explore. Taking into account all the evidence I have available, I believe the most logical conclusion is that these two census entries in 1865 are referring to relatives of Charles Pine's wife [Elmira Jane (Loper) Pine](https://www.findagrave.com/memorial/199952046/elmira-j-pine) (1813 to 07 Mar 1890). Elmira's parents are:  
 
-  - [Luther Loper](https://www.findagrave.com/memorial/178362810/luther-loper) (04 Jun 1780 to 05 Apr 1856), married,
+  - [Luther Loper](https://www.findagrave.com/memorial/178362810/luther-loper) (04 Jun 1780 to 05 Apr 1856), a farmer in the 1850 United States Federal Census in Hempstead, married,
 
-  - [Sarah (Bishop) Loper](https://www.findagrave.com/memorial/141069644/sarah-loper) (1783 to 06 Jan 1870). Although the exact birthdates are unknown for both Sarah Loper and "Sarah Soper" (above), Sarah Loper's entry on FindAGrave states she died in her 86th year, which would make her approximately 82 in 1865, mismatching Sarah Soper's reported age in the 1865 census. And admittedly, the census entries certainly look more like "S" than "L", and the surname "Soper" can be found on Staten Island and Hempstead.
+  - [Sarah (Bishop) Loper](https://www.findagrave.com/memorial/141069644/sarah-loper) (Nov 1786 to 06 Jan 1870). Although admittedly, the census entries certainly look more like "S" than "L", and the surname "Soper" can be found on Staten Island and Hempstead.
 
-All that said, I believe that the apparent "Sarah Soper", "mother" in the 1865 census above is Sarah Loper, Charles' mother-in-law, a widow at the time.
+All that said, I believe that the apparent "Sarah Soper", "mother" in the 1865 census above is Sarah Loper, Charles' mother-in-law, a widow at the time. Sarah apparently began living with Charles and Elmira after Luther's death in 1856, as Sarah is also accounted for in the 1860 census in the Pine residence on Staten Island, with her name appearing to be "Laper". 
 
-Elmira also had a niece, [Juliet (Loper) Shepard](https://www.findagrave.com/memorial/36665791/juliet-shepard) (06 Jan 1845 to 02 Apr 1911), who is the daughter of Elmira's brother [Erastus Harvey Loper](https://www.findagrave.com/memorial/33057122/erastus-harvey-loper) (1813 to 1860). Juliet was 20 in when the census was taken in 1865, matching the age of "Julia". Her obituaries state that "she was married to Mr. Shepard November 28, 1872", and so would still have the name Loper in 1865.
+{{% fig "staten-island/1860-06-15-US-Census-Castleton-NY-p96-pine" "800" /%}}
 
-However, this may be somewhat obscured by two of Juliette's obituaries, that agree that "her early life was spent in New York City, and following the death of her father in 1860, the family moved to this place [Huntington]." Although, I would point out the vagueness of the relative time reference as well as the phrase "the family".
+And, Sarah Loper dies in 1870 at the Pine residence in Staten Island.
+
+<div class="cols">
+{{% fig "staten-island/01-1870-New-York-Tribune" "350" /%}}
+{{% fig "staten-island/1870-01-08-New-York-Daily-Tribune-New-York-NY" "350" /%}}
+</div>
+
+In other words, if this is not Sarah Loper in the 1865 census, then we need to explain why she isn't listed as living in the Pine residence at that time. 
+
+Sarah's age is independently specified in her obituaries as "83 yrs 2 months" and "83 years, 1 month and 27 days" which is early Nov 1786. Using this to calculate an expected age at the time of each census, we can compare the ages specified in each relevant census (ancestry.com):
+
+<figure>
+
+| Census Date | Location | Name Recorded | Age Recorded  | Age Expected |
+| --- | --- | --- | --- | --- |
+| 1850-08-19 | Hempstead | Sarah Loper | 64 | 64 |
+| 1860-06-15 | Castleton | Sarah L[a?]per | 74 | 74 |
+| 1865-06-12 | Castleton | Sarah [S?]oper | 78 | 79 | 
+
+</figure>
+
+Elmira also had a niece, [Juliet (Loper) Shepard](https://www.findagrave.com/memorial/36665791/juliet-shepard) (06 Jan 1845 to 02 Apr 1911), who is the daughter of Elmira's brother [Erastus Harvey Loper](https://www.findagrave.com/memorial/33057122/erastus-harvey-loper) (1813 to 1860). Juliet was 20 when the census was taken in 1865, matching the age of "Julia". Her obituaries state that "she was married to Mr. Shepard November 28, 1872", and so would still have the name Loper in 1865.
+
+However, this may be somewhat obscured by two of Juliette's obituaries, that agree that "her early life was spent in New York City, and following the death of her father in 1860, the family moved to this place [Huntington]." Although, I would point out the vagueness of the relative time reference as well as the phrase "the family". Also note that in the census "Julia" gives her birthplace as Suffolk County, and Farmingdale overlaps the Suffolk County border.
 
 <div class="cols">
 {{% fig "pine/1911-04-07-The-Long-Islander-Huntington-NY-p4" "350" /%}}
@@ -192,14 +216,14 @@ Read more about the Seaman family in the section on [Captain John Seaman]({{% re
 
 And Nicholas and Rhoda's children are:
 
-  - **Lois Almy (Pine) Snedeker** (1805? to 07 Nov 1890) married William Snedeker (sometimes spelled "Snediker") in 1831 in South Hempstead. Their children include [Livingston Snedeker](https://www.findagrave.com/memorial/180916294/livingston-snedeker) (May 1836 to 10 Aug 1906). 
+  - **Lois Almy (Pine) Snedeker** (1805? to 07 Nov 1890) married William Snedeker (sometimes spelled "Snediker") in 1831 in South Hempstead. Their children include [Livingston Snedeker](https://www.findagrave.com/memorial/180916294/livingston-snedeker) (May 1836 to 10 Aug 1906). William was also involved in the dry goods business in Manhattan, and later, Staten Island where he moved the family. More can be learned about them in [that section]({{% relref "staten-island" %}}).
 
 <div class="cols">
 {{% fig "hempstead/NY-gbr-p392" "350" /%}}
 {{% fig "hempstead/NY-gbr-p248" "350" /%}}
 </div>
 
-  - **[Abigail Seaman (Pine) Higbie](https://www.findagrave.com/memorial/108830062/abby-s-higby)** (15 Feb 1805 to 05 May 1877), spelled "Abby" in the Church records and on her tombstone, but "Abbey" is also used. Both Emily and Edward Mills appear to be mentioned in the Last Will and Testament of Abby's husband Henry Higbie (? to 30 Oct 1881), dated 21 Oct 1881. Abby and Henry were married in 1852 in South Hempstead.
+  - **[Abigail Seaman (Pine) Higbie](https://www.findagrave.com/memorial/108830062/abby-s-higby)** (15 Feb 1805 to 05 May 1877), spelled "Abby" in the Church records and on her tombstone, but "Abbey" is also used. Both Emily and Edward Mills appear to be mentioned in the Last Will and Testament of Abby's husband Henry Higbie (? to 30 Oct 1881), dated 21 Oct 1881. In the 1850 United States Federal Census in Hempstead, Henry is listed as a farmer. Abby and Henry were married in 1852 in South Hempstead.
 
 {{% fig "hempstead/NY-gbr-p388" "500" /%}}
 
@@ -297,7 +321,7 @@ A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Lope
 
 ## The Legacy of Captain John Seaman
 
-Mary Ann (Pine) Mills, through her mother Rhoda (Seaman) Pine, is descended from Captain John Seaman, the American progenitor of the Long Island Seaman families and one of the original settlers of Hempstead. The Seaman family history is summarized in 1928, [The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island](https://archive.org/details/seamanfamilyinam00seam/page/n15/mode/2up) by Mary Thomas Seaman, archive.org. Selections from this work will be cited as "Seaman" below. 
+Mary Ann (Pine) Mills, through her mother Rhoda (Seaman) Pine, is descended from Captain John Seaman, the American progenitor of the Long Island Seaman families and one of the original settlers of Hempstead. The Seaman family history is summarized in 1928, *The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island* by Mary Thomas Seaman, archive.org. Selections from this work will be cited as "Seaman" below. 
 
 <figure>
 <blockquote>
@@ -308,7 +332,7 @@ The Seaman family was originally Danish. In old Norse times the members of famil
 </figcaption>
 </figure>
 
-{{% fig "hempstead/seaman-crest" "500" /%}}
+{{% fig "hempstead/seaman-arms" "500" /%}}
 
 <figure>
 <blockquote>
@@ -381,6 +405,13 @@ From that time on we find his name in many pages of history, recording a life of
 </aside>
 </figure>
 
+
+Note that George Mills, the Mills family progenitor in America was also associated with the early history of Hempstead:
+
+{{% fig "long-island/documentary-history-of-family-mills-p1" "800" /%}}
+
+{{% fig "long-island/documentary-history-of-family-mills-p1a" "800" /%}}
+
 The *Town Records of Hempstead* mentioned above, contains the following note on the documentation of the early history of Hempstead: 
 
 <figure>
@@ -394,7 +425,7 @@ The earlier volume of records, covering the first ten years of the town’s hist
 
 <figure>
 <blockquote>
-In 1665 he became Captain of Queens County Troop of Province of New York. October 2, 1665, Captain John Seaman served on a Grand Jury at Hempstead in a charge of witchcraft, "but–let it be recorded to the credit of John Seaman–the accused was not convicted."
+In 1665 [John Seaman] became Captain of Queens County Troop of Province of New York. October 2, 1665, Captain John Seaman served on a Grand Jury at Hempstead in a charge of witchcraft, "but–let it be recorded to the credit of John Seaman–the accused was not convicted."
 </blockquote>
 <figcaption>
 <cite>— Seaman, p16.</cite>

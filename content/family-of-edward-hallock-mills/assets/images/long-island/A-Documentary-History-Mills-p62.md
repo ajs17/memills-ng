@@ -1,5 +1,5 @@
 ---
-citation: "01 May 1939, A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica, p62, familysearch.org."
+citation: "01 May 1939, A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica by Lewis D. Cook, p62, familysearch.org."
 notes: >-
 
   - Note the correct dates for his time on Staten Island were 1855-9.

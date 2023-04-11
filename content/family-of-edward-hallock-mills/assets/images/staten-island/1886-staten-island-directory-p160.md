@@ -2,7 +2,7 @@
 citation: "1886 Webb's Consolidated Directory of the North and South Shores Staten Island, p160, ancestry.com."
 notes: >-
 
-  - Abram (Abraham) Hillyer of Hillyer & Hartley is James Hillyer's uncle.
+  - Abram (Abraham) Hillyer of Hillyer & Hartley is James Hillyer's brother.
 
   - Horace Hillyer is James Hillyer's son.
 

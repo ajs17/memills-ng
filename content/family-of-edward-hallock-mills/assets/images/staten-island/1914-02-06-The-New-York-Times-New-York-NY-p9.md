@@ -9,7 +9,7 @@ pages:  "9"
 source:  "newspapers.com"
 notes: >-
 
-  - Phoebe Hillyer (22 Jul 1834, Staten Island NY to 05 Feb 1914, New York City NY).
+  - Phoebe Anna "Annie" Hillyer (22 Jul 1834, Staten Island NY to 05 Feb 1914, New York City NY).
 ---
 
 HILLYER.—Thursday, Feb. 5, 1914, suddenly, Phoebe A., Wife of James A. Hillyer, in her 80th year. Funeral services at Trinity Church, Prospect St., West New Brighton, on Saturday, at 3 P. M. 

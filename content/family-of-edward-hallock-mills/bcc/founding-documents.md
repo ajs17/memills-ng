@@ -11,7 +11,7 @@ The process of the founding of the Congregational Church is recorded in the volu
 >
 > “He was one of three trustees elected Mar 28, 1868. All are gone now.”
 
-{{% toc  %}}
+{{% toc  "Jump To:" %}}
 
 <figure>
 <blockquote>
@@ -707,6 +707,8 @@ Although the exact spelling is unclear, how “Mariette” is pronounced is clea
 {{% fig "bcc/general/1880-06-13-robert-edward-departs" "500" /%}}
  
 #### Thomas Huston and Amanda Latta Griffith
+
+{{% fig "bcc/1905-08-25-Ithaca-Daily-Journal-Ithaca-NY-p7" "500" /%}}
 
 <div class="cols">
 {{% fig "bcc/obituaries/1910-deaths" "350" /%}}

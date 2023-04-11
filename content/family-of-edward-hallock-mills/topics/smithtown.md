@@ -16,53 +16,13 @@ The Mills on Long Island were of English descent and it would seem quite clear t
 </figcaption>
 </figure>
 
-The following two account of George Mills are presented for completeness, but note there are inconsistent points between them:
+The following two accounts of George Mills are presented for completeness, but note there are inconsistent points between them:
 
-<figure>
-<blockquote>
-George Mills, the progenitor of this family of Mills in America, was born in 16[??] in a parish in England, the name of which has not been recovered in this essay, and he came over in or before 1631-1632 (in which year his son Samuel Mills was born in this Country...) George Mills appears first in contemporary records, as a resident of the town of Hempstead, Long Island, in 1656, a town which had been settled in 1644 by some thirty or forty families from Stamford, Connecticut. Evidently, he had joined this settlement between those two years, but coming from what previous place, supposedly in New England, searches made for this account have not discovered.    
-</blockquote>
-<figcaption>
-<cite>—
-01 May 1939, A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica, p64, familysearch.org.
-</cite>
-</figcaption>
-<aside>
-<ul><li>
+{{% fig "long-island/documentary-history-of-family-mills-p1" "800" /%}}
+
 Among those from Stamford CT who settled Hempstead Long Island are <a href="/family-of-edward-hallock-mills/topics/hempstead/#the-legacy-of-captain-john-seaman">Captain John Seaman</a>, an ancestor of Mary Ann (Pine) Mills.  
-</li></ul>
-<aside>
-</figure>
 
-<figure class="quote-only">
-<blockquote>
-<p>
-Among the early settlers of Jamaica L. I. was GEORGE MILLS<sup>1</sup> born in 1585 and died aged 89, Oct. 17, 1674 at Jamaica. He was probably a descendant of John Mills who was made freeman of Boston in 1632. Children were Samuel<sup>2</sup> and Nathaniel<sup>2</sup> who d. Nov. 4, 1728.
-</p>
-<p>
-SAMUEL MILLS<sup>2</sup> was born in 1631, md. in 1658 and was reputed to have had 16 children. He died at Jamaica March 9, 1726, aged 95. Among his children was Timothy.<sup>3</sup> 
-</p>
-<p>
-TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the progenitor of the Suffolk Co. Mills and moved to that part of Smithtown since called Mills Pond in 1693. He died March 30th 1751 aged 84. His will bears date of March 16, 1741. He married first Elizabeth, family name unknown and secondly Sarah Longbotham. 
-</p>
-<p>
-The settlement of Mills Pond is a collection of dignified old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor. 
-</p>
-</blockquote>
-<figcaption>
-<cite>— 1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p105, Logan Utah FamilySearch Library, familysearch.org.
-</cite>
-</figcaption>
-<aside>
-<div class="notes">
-<ul><li>Timothy Mills' will exists presently in the Mills Family Collection of Queens Public Library. The will is also transcribed in the volume <em>A Documentary History of the Family of Mills</em>, beginning p33a.</li>
-<li>
-The last paragraph borrows liberally from <em>A Documentary History of the Family of Mills</em>, p30. The only difference being that the original source begins: "The settlement known as Mills Pond, so named for this Timothy Mills, is a collection of dignified old houses..."
-</li>
-</ul>  
-<aside>
-</div> 
-</figure>
+{{% fig "long-island/genealogies-long-island-families-p105" "800" /%}}
 
 The original Mills Homestead, now more commonly called the Mills Pond House, built by Timothy Mills and added onto by William Wickham Mills, still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." ([Mills Pond Gallery](https://www.millspondgallery.org/), millspondgallery.org.) The Mills Pond District, which includes nine buildings, the Mills Pond House among them, was added to the National Register of Historic Places in 1973. ([Mills Pond District (St. James, New York)](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)), wikipedia.org.) 
 
@@ -117,14 +77,12 @@ Edward H. Mills has partial entries on the following Mills family genealogies:
 
 2. *Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene*, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, familysearch.org. This genealogy is dated 1919.
 
-3. *A Documentary History of the Family of Mills : descended from George Mills of Hempstead and Jamaica*, familysearch.org. This genealogy is dated 01 May 1939 and appears to use #2 above as a source. "With notes on the Miller and Hawkins families compiled for Frances Paton Mills (Mrs. Robert B. Carnahan, Jr.) of New York City."
+3. *A Documentary History of the Family of Mills : descended from George Mills of Hempstead and Jamaica* by Lewis D. Cook, familysearch.org. This genealogy is dated 01 May 1939 and appears to use #2 above as a source. "With notes on the Miller and Hawkins families compiled for Frances Paton Mills (Mrs. Robert B. Carnahan, Jr.) of New York City."
 
 {{% fig  "genealogy/Genealogies-of-Long-Island-Families-p109" "800" /%}}
-
-<div class="cols">
-{{% fig "genealogy/1939-source2-pagea" "350" /%}}
-{{% fig "genealogy/1939-source2-pageb" "350" /%}}
-</div>
+ 
+{{% fig "genealogy/1939-source2-pagea" "800" /%}}
+{{% fig "genealogy/1939-source2-pageb" "800" /%}}
 
 What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from other sources in brackets, beginning with Edward's parents: 
 
@@ -167,14 +125,14 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born Hawkhurst, Kent, En
   - No children.
 
 Notes:
-  - According to [WikiTree](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas, but gives his birth year as 1775.
+  - According to [WikiTree](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas, but gives his birth year as 1775. Read more about Thomas Hallock's identity in the [Hallock section]({{% ref "hallock" %}}) of this research.
   - That there are conflicting accounts for the month of Jonas and Mary Hallock's marriage is suggestive, as December would mean that Edward was conceived before his parents were married, February would not.
-  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". For example, in the Smithtown Presbyterian Church records, where Thomas Hallock and Sarah (Hallock) Mills, Mary Hallock's father and sister, are listed as members, their names are spelled as both "Hallock" and "Halliock".) According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (Personal correspondence, 21 Jul 2021.) The spelling "Halliock" can be found throughout the records of the First Presbyterian Church of Smithtown.
-  - According to James' obituary (below), Mary Hallock died the day after the family returned to her hometown of Smithtown in Suffolk County, just 17 days after James was born "at Cherry street, New York City", and after the family then "came up to Smithtown on a large sailing vessel".   
+  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". For more information on the various spellings of Hallock see [this section]({{% ref "hallock#alternate-spellings-of-hallock" %}}).
   - Mary Platt's parents were also members of Smithtown Presbyterian Church. 
   - Emily's and Hannah's birth dates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over a decade before Emily was born. 
   - More than one source corroborates that Emily Tabitha Mills married John Smith Huntting on 14 Dec 1843.
+  - Further below, I will demonstrate that Edward's brother, listed in each genealogy as "Thomas James Mills" was in fact James Thomas Mills, born 13 Feb 1827. According to James' obituary, his mother Mary (Hallock) died the day after the family returned to Smithtown "on a large sailing vessel" just 17 days after James was born "at Cherry street, New York City". (23 Apr 1915, The Long-Islander, Huntington NY, p5, nyhistoricnewspapers.org.)   
 
 Several of the marriages above and below are referenced in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
@@ -207,11 +165,7 @@ Jonas' obituary, noted that he lived in Hempstead "with the exception of a few y
 
 {{% fig "genealogy/smithtown-presbyterian/158" "800" /%}}
 
-It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it seems, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
-
-1827 as James' birth year is corroborated by multiple sources, and suggests his birth may have had something to do with his mother's death a few weeks later. So, James was Edward's younger brother, not older, as some genealogies indicate. 
-
-And so, the cited genealogical entries can be updated accordingly:
+It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it seems that he commonly wrote his name as "J. Thomas Mills", and based on the obituary for his son Watts, this was apparently often shortened to just "Thomas". Also, in some census records, it does appear that his name is written as Thomas J. Otherwise, the only places that give "Thomas" as his first name are the two main Mills genealogies cited as 2 and 3 in the list above, and source 3 likely transcribed this from source 2, as a close examination of the each will show that source 3 itself relies heavily on source 2. That 1827 is James' birth year is corroborated by multiple sources, and suggests his birth may have had something to do with his mother's death a few weeks later. And so, the cited genealogical entries can be updated accordingly:
 
 - M iii [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
 
@@ -374,7 +328,7 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
 
 After further investigation, to see if the 1880 Robert Mills could possibly be Edward H. Mills' half brother Robert Sydney Mills, I confirmed the photo is of [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (unknown to 11 Dec 1890), an "Ex-Police Commissioner" and also "one of the most prominent builders and operators in lake vessels at this port", including one shipped named "Robert Mills" (11 Dec 1890, The Buffalo Commercial, Buffalo NY, p8). [More information on this Robert Mills here.]({{% ref "mills-robert" %}})
 
-A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor. (A copy of his will can be found in the volume *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica*.) And in addition to materials related to Buffalo,the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
+A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor. (A copy of his will can be found in the volume *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* by Lewis D. Cook.) And in addition to materials related to Buffalo,the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 
 The collection also contains genealogies and other information on the following surnames that can be found, often multiple times, throughout the Mills genealogy: 
   
@@ -439,7 +393,7 @@ Also note that James Harrison Mills of Buffalo was also researching the Mills fa
 This James Harrison Mills, a real estate and loan broker of 446 Main St., Buffalo, N.Y., compiled an extensive pedigree of the Mills Family, and corresponded on the subject in the years 1893-1895 with Mr. Thomas Morton Paton Mills of New York City on that subject. His letters and pedigree outlines, of which this present compilation is a review and amplification, are in the possession of the latter's daughter, Mrs. Robert B. Carnahan, Jr., The Croydon, N.Y.C., 1939. 
 </blockquote>
 <figcaption>
-<cite>— A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica, p57-58, familysearch.org.
+<cite>— A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica by Lewis D. Cook, p57-58, familysearch.org.
 </figcaption>
 <aside>
 <div class="notes">

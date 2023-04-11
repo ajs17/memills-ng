@@ -1,0 +1,174 @@
+---
+title: Hallocks in Caroline and the Hallock Genealogy
+weight: 550
+---
+
+Edward H. Mills (25 Mar 1819 to 01 Jan 1908) was distantly related to [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901), a prominent farmer in Caroline, and later Danby, who is closely associated with Thomas H. Howell, of Howell Brothers general store, also in Danby. Eventually, Hallock and Howell partnered on a dry goods store in Willseyville. Edward and William share the ancestor William Hallock (1610? to 1684), who was the only son of Peter Hallock, “the original” Hallock in America.
+
+<!--more-->
+
+
+> “Our ancestors were undoubtedly of Puritan stock and strongly religious in their beliefs and practices.”
+ 
+
+According to the Mills genealogy, Edward's mother Mary Hallock is the daughter of Thomas Hallock. 
+
+{{% fig "genealogy/1939-source2-pagea" "800" /%}}
+
+{{% fig  "genealogy/Genealogies-of-Long-Island-Families-p109" "800" "img,blockquote,cite,link" /%}}
+
+Yet neither Mary, nor the similarly identified Sarah Hallock, are listed in the volume *A Hallock genealogy: an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck* by Lucius Henry Hallock, 1928, familysearch.org. 
+
+However, when looking into the Hallock genealogy, one is immediately struck by the lack of wives and daughters listed in earlier generations. Lucius Hallock explains this:  
+
+{{% fig "hallock/hallock-genealogy-tabulation-p16" "800" /%}}
+
+But I believe I have compelling circumstantial evidence that demonstrates that Sarah and Mary are sisters who married the Mills brothers. 
+
+There are exactly two dozen Thomas Hallocks in *A Hallock Genealogy*, however, I believe Mary Hallock's father can be confidently identified among them and her place in the genealogy can be restored. Beginning with the complete inventory of Thomas Hallocks across all generations as given in *A Hallock Genealogy*, summarized below:
+
+<figure>
+{{% table "/static/data/thomas-hallock.csv" "thomas-hallocks" "page,gen,dob,dod,locations,married,wife,notes" "Data taken from 1928, *A Hallock Genealogy* by Lucius Henry Hallock, ancestry.com" "" "Summary of Thomas Hallocks in the *Hallock Genealogy*" %}}
+</figure>
+
+Of these Thomas Hallocks, two are known to be living in Smithtown during the correct time period, as they are in the same generation:
+    
+  - [Thomas Hallock](https://www.findagrave.com/memorial/36331658/thomas-hallock) (06 Jan 1766 to 10 Mar 1845), son of Noah and Nancy (Hendrickson) Hallock. He also had a son Thomas who was a farmer in Smithtown. 
+
+  - [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of James and Mary (Post) Hallock.
+
+It is Thomas, son of Noah, who is is found in the early of the First Presbyterian Church in Smithtown in the late 1700's and early 1800's. He, along with Jedediah Mills were among the members that "revolted" in Oct 1808. Although he also has daughters named Sarah and Mary, the birthdates and married names do not match what we know of either Sarah or Mary Hallock, the daughters of Thomas who married the Mills. 
+
+<div class="cols">
+{{% fig "hallock/hallock-genealogy-tabulation-p602" "350" /%}}
+<div>
+{{% fig "hallock/hallock-genealogy-tabulation-p485" "350" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p575" "350" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p603" "350" /%}}
+</div>
+</div>
+
+{{% fig "long-island/1759-1808-smithtown-presb-p15" "800" /%}}
+
+This leaves [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of [James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 to 27 Sep 1775) and [Mary (Post) Hallock](https://www.findagrave.com/memorial/240647149/mary-hallock) (1734 to 31 May 1810), as the only possible father of both Sarah and Mary Hallock, sisters who married Mills brothers George and Jonas. 
+
+{{% fig "hallock/hallock-genealogy-tabulation-p601" "800" /%}}
+
+This Thomas Hallock did not officially join First Presbyterian Church of Smithtown until 06 July 1828.
+
+{{% fig "long-island/1800-1860-smithtown-presb-p9" "800" /%}}
+
+However, several entries for this Thomas Hallock, son of James, in the LongIslandSurnames.com database show his marriage to Sarah (25 Nov 1780 to 18 Jan 1847) occurred 08 Mar 1797 in Smithtown Long Island NY, confirming that Mary Hallock is indeed a "Smithtown woman" when she married Jonas, as stated in her son James' obituary. (23 Apr 1915, The Long-Islander, Huntington NY, p5, nyhistoricnewspapers.org.) This Thomas Hallock is noted in the same database as having the following children, corroborating that he is the father of James born 04 Aug 1800 and Sarah Ann:
+
+>  1. James Hallock,   b. 4 Aug 1800, Smithtown, Suffolk Co., LI, NY  d. 4 May 1882, Smithtown, Suffolk Co., LI, NY (Age 81 years)  [natural]
+>
+>  2. Alma Hallock,   b. 3 Jul 1804, Smithtown, Suffolk Co., LI, NY  d. 26 Jul 1877, Smithtown, Suffolk Co., LI, NY (Age 73 years)  [natural]
+>    
+>  3. Sarah A Hallock,   b. 29 Aug 1812, Smithtown, Suffolk Co., LI, NY,  d. 22 Apr 1897, Patchogue, Suffolk Co., LI, NY (Age 84 years)  [natural]
+
+Therefore, I conclude that this Thomas Hallock must be Edward H. Mills' grandfather.
+
+Thankfully, the history and genealogy of the Hallock family in America has been painstakingly researched and documented over multiple generations of Hallocks, starting with [Reverend William Allen Hallock](https://www.findagrave.com/memorial/146144870/william-allen-hallock) (02 Jun 1794 to 02 Oct 1880), a Congregational pastor whose 1866 work *Hallcok Ancestry* was extended in 1906 by his nephew [Charles Hallock, M. A.](https://www.findagrave.com/memorial/136091127/charles-hallock) (1834 to 1917) (for whom the city of Hallock MN is named) , finally culminating in the 1928 *Hallock Genealogy* by [Lucius Henry Hallock](https://www.findagrave.com/memorial/86053988/lucius-henry-hallock) (1853 to 01 Dec 1933). 
+
+{{% fig "hallock/hallock-genealogy-tabulation-p15b" "800" /%}}
+
+The Hallock name was brought to America Peter Hallock "the original", who was a pilgrim fleeing persecution. The Hallock name began branching in the third generation, with the four sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
+
+{{% fig "hallock/hallock-genealogy-tabulation-p9" "800" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p532" "800" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p533" "800" /%}}
+
+{{% fig "hallock/hallock-genealogy-tabulation-p621" "800" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p21" "800" /%}}
+
+The Hallock family name spread quickly throughout New York State, including Staten Island, Central and Western New York, and even Caroline in Tompkins county, and continued across the country.
+
+<figure>
+<blockquote>
+William B. and Sarah Lived in Caroline, Tompkins County, N.Y. Later moved to Danby, where they lived the latter part of their lives. 
+</blockquote>
+<figcaption>
+<cite>— 1928, <em>A Hallock genealogy : an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck</em> by Lucius Henry Hallock, p625-626, familysearch.org.
+</cite>
+</figcaption>
+</figure>
+
+William B. Hallock owned considerable lands in the town of Caroline at a time when the Mills were living in Corfu, for example:
+
+<div class="cols">
+{{% fig "hallock/CAROLINE-DEEDS-1-258" "350" /%}}
+{{% fig "hallock/CAROLINE-DEEDS-1-319" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "hallock/CAROLINE-DEEDS-1-349" "350" /%}}
+{{% fig "hallock/CAROLINE-DEEDS-1-513" "350" /%}}
+</div>
+
+Edward H. Mills and William B. Hallock are both in the eighth generation of the Hallock family, although their branches diverge immediately from their origin and to the greatest extent possible.
+
+<figure>
+
+| Gen |	Years |	<span style="white-space: nowrap">Edwards H. Mills’ Ancestry</span> | <span style="white-space: nowrap">William B. Hallock’s Ancestry</span> |
+| :-: | :-: | --- | --- | 
+| 8 |	<span style="white-space: nowrap">1820 to 1840</span> |	[Edward H. Mills](https://www.findagrave.com/memorial/75958691/edward-h-mills) (1819 - 1908) |	[William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (1822 - 1901)</span>  |
+| 7 |	<span style="white-space: nowrap">1790 to 1810</span> |	Mary (Hallock) Mills (1798 - 1827) |	[Martin Hallock](https://www.findagrave.com/memorial/90295898/martin-hallock) (1782 - 1847) |
+| 6 |	<span style="white-space: nowrap">1760 to 1780</span> |	[Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (1768 - 1854) |	Daniel Hallock (1732 - 1847) |
+| 5 |	<span style="white-space: nowrap">1730 to 1750</span> |	[James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 - 1775) |	John Hallock, 3rd (1710 - 1757) |
+| 4 |	<span style="white-space: nowrap">1700 to 1720</span> |	Zerubabel Hallock (1696 - 1761) |	John Hallock, 2nd (1679 - 1765) |
+| 3 |	<span style="white-space: nowrap">1670 to 1690</span> |	Thomas Hallock (1660? - ?) |	John Hallock (1658 - 1737) |
+| 2 |	<span style="white-space: nowrap">1640 to 1660</span> |	**William Hallock** (1610? - 1684) (Only son of Peter The Original, father of Thomas and John Hallock in generation 3.) | |  
+| 1 |	<span style="white-space: nowrap">1610 to 1630</span> |	Peter Hallock (1600? - ?) (“The original” Hallock in America.) |
+<figcaption>
+<cite>— 1928, <em>A Hallock genealogy : an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck</em> by Lucius Henry Hallock, familysearch. The years of the generations are taken from p17, “Placing the Generations”. 
+</figcaption>
+
+</figure>
+
+William B. was under the "John Branch" of the Hallock tree which was said to be the most prolific of the Four Sons of William, and as Lucius Hallock noted "the ten daughters of the first John have been most difficult to place". John converted to Quakerism, to the great dismay of his father.
+
+{{% fig "hallock/hallock-genealogy-tabulation-p410" "800" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p411" "800" /%}}
+
+
+William Hallock’s family moved from Caroline to Danby sometime between 30 Jun 1865, when they are listed in the New York State Census in Caroline (ancestry.com) and 02 Jul 1870, when they are listed in the United States Federal Census in Danby (ancestry.com), at least a decade before Edward Mills’ family moves to Caroline. 
+
+What follows is a sampling of some of the more interesting news items related to William Hallock.
+
+{{% fig "hallock/1876-03-02-The-Ithaca-Journal-p4" "500" /%}}
+{{% fig "hallock/1876-05-17-The-Ithaca-Journal-p4" "500" /%}}
+{{% fig "hallock/1876-06-17-The-Ithaca-Journal-p4" "500" /%}}
+{{% fig "hallock/1877-01-27-The-Ithaca-Journal-p4" "500" /%}}
+{{% fig "hallock/1877-01-29-The-Ithaca-Journal-p4" "500" /%}}
+{{% fig "hallock/1877-06-02-The-Ithaca-Journal-p4" "500" /%}}
+{{% fig "hallock/1877-06-07-The-Ithaca-Journal-p4" "500" /%}}
+{{% fig "hallock/1901-04-04-The-Ithaca-Daily-Journal-p5" "500" /%}}
+
+## Alternate Spellings of Hallock
+
+Edward H. Mills' middle name "Hallock" is spelled "Hallioch" in his obituary in the records of Caroline Valley Community Church.
+
+{{% fig "mills-edward-mary-cvcc-obit" "800" "img,blockquote,cite,link" /%}}
+
+Records of the Mattituck Presbyterian Church, which Edward's grandfather Thomas attended as a young made prior to his marriage, contain multiple spellings of "Hallock" including "Halloc", "Halock", "Haliock", "Halliock", and even "Hallaock". Records of the Smithtown Presbyterian Church, where several members of the Hallock family are listed as members, including Edward's grandparents later in life, also contain spelling variations,  including both "Hallock" and "Halliock". Spelling variations exist even within the Hallock genealogy itself.
+
+<figure>
+<blockquote>
+Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings.
+</blockquote>
+<figcaption>
+<cite>— 21 Jul 2021, personal correspondence with Richard Wines, Hallockville Farm Museum board member. 
+</cite>
+</figcaption>
+</figure>
+
+The Hallock name is believed to be derived from the English "Holyoke", and Peter The Original may have changed it to "Hallock" to "facilitate his departure" from England. It is then reasoned that all other spellings among the descendants in America are "diatonics of Holyoke". These variations are so common even within the family, that it has led to questions about the very existence of Peter The Original, which is not helped by the fact that his and his only son William's burial locations are unknown. 
+
+{{% fig "hallock/hallock-genealogy-tabulation-p13" "800" /%}}
+
+{{% fig "hallock/hallock-genealogy-tabulation-p12" "800" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p15" "800" /%}}
+
+{{% fig "hallock/Hallock-Coat-of-Arms" "800" /%}}
+{{% fig "hallock/hallock-genealogy-tabulation-p18" "800" /%}}
+

@@ -30,15 +30,15 @@ Mr. [James Thomas] Mills was not born in Suffolk County, but he was only two wee
 </figcaption>
 </figure>
 
-The Mills' return to Smithtown, "two weeks and two days" after James' birth on 13 Feb 1827 was 01 Mar, the day before James' and Edward's mother Mary Hallock died, and just a few weeks before Edward's eighth birthday. 
+The Mills' return to Smithtown, "two weeks and two days" after James' birth on 13 Feb 1827, was 01 Mar, the day before James' and Edward's mother Mary (Hallock) purportedly died, and just a few weeks before Edward's eighth birthday. 
 
-Thomas Hallock and Sarah (Hallock) Mills, Mary Hallock's father and sister, are listed as members of Smithtown Presbyterian, where at different times, their names were spelled as both "Hallock" and "Halliock". 
+(The precise day of Mary (Hallock) Mills' death is given in only one of [the three known Mills genealogies]({{% ref "smithtown" %}}), and although it can also be found in a number of user created family trees on Ancestry.com, I have not found one that cites a source for it. I have not yet found documentation independently corroborating this day in my own research.)
 
 25 Apr 1831, Jonas married Mary Platt (Mills) Mills, whose parents were also members of Smithtown Presbyterian. 
 
 {{% fig "genealogy/smithtown-presbyterian/46" "800" /%}}
 
-The ceremony was conducted by [Reverend Ithama Pillsbury](https://www.findagrave.com/memorial/54257823/ithamar-pillsbury) (22 Aug 1794 to 20 Apr 1862), who was a veteran of the War of 1812, and was witnessed by [Benjamin Mills](https://www.findagrave.com/memorial/23873051/benjamin-mills) (21 Jul 1791 to 31 Jul 1886), Mary Platt's brother, and Elizabeth Mills, Mary Platt's sister, as Mary Platt's mother Elizabeth died in either 1826 or 1828, depending on the source used. Further down the page, Jonas and Mary Platt are witnesses to Benjamin Mills' marriage to his third wife, [Charity (Smith) Mills](https://www.findagrave.com/memorial/23873106/charity-mills) (25 Feb 1799 to 14 Oct 1870). 
+The ceremony was conducted by [Reverend Ithamar Pillsbury](https://www.findagrave.com/memorial/54257823/ithamar-pillsbury) (22 Aug 1794 to 20 Apr 1862), who was a veteran of the War of 1812, and was witnessed by [Benjamin Mills](https://www.findagrave.com/memorial/23873051/benjamin-mills) (21 Jul 1791 to 31 Jul 1886), Mary Platt's brother, and Elizabeth Mills, Mary Platt's sister, as Mary Platt's mother Elizabeth died in either 1826 or 1828, depending on the source used. Further down the page, Jonas and Mary Platt are witnesses to Benjamin Mills' marriage to his third wife, [Charity (Smith) Mills](https://www.findagrave.com/memorial/23873106/charity-mills) (25 Feb 1799 to 14 Oct 1870). 
 
 At the time of his marriage to Mary Platt, Jonas lists his occupation as "carpenter" and in his obituary, it is said that "in his young days he learned the wheelwright trade, which at that time included the undertaking business." (10 Feb 1882, The Long-Islander, Huntington NY, p3, nyshistoricnewspapers.org.) 
 

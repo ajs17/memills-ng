@@ -9,7 +9,7 @@ James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun
 
 {{% fig "staten-island/rdc/rdc-scan_073" "800" /%}}
 
-Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name, which I had initially speculated could be a mis-transcription of "Hallock". 
+Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name as it is originally recorded, which I had initially speculated could be a mis-transcription of "Hallock". This possibility is explored [further below]({{% ref "#exploring-wheelock" %}}). 
 
 {{% fig "staten-island/RDC/rdcpr-cover" "500" /%}}
 
@@ -22,9 +22,8 @@ Because this is the only information I presently have for James, I asked Kathlee
 
 {{% fig "staten-island/RDC/rdcpr-james2" "800" /%}}
 
-The name "Wheelock" seems to be a very significant clue, as the tradition among the Mills was to reuse a relatively small number of names repeatedly through the generations, yet Wheelock is unique as far as I know. (Horace's middle name Franklin is rare, but not unique, in the Mills genealogy.) This is apparently a surname, likely of someone from either Staten Island or Hempstead, but as yet, I cannot link someone with this name to the Mills.  
 
-Note several bounding dates for James' birth and death: he was presumably born sometime after Edward and Mary Ann married on 29 Dec 1850, and presumably died between the date of his baptism, 31 Jul 1857 , and before the United States Federal Census recorded on 19 Jun 1860 which includes the entire Mills family except James. As yet, I have not found the Mills family in the 1850 United States Federal Census or the 1855 New York State Census, but I suspect that he was born after the 1855 census. 
+Note several bounding dates for James' birth and death: he was presumably born sometime after Edward and Mary Ann married on 29 Dec 1850, and presumably died between the date of his baptism, 31 Jul 1857, and before the United States Federal Census recorded on 19 Jun 1860 which includes the entire Mills family except James. As yet, I have not found the Mills family in the 1850 United States Federal Census or the 1855 New York State Census, but I suspect that he was born after the 1855 census. 
 
 {{% fig "census/census-1860-us" "800" /%}}
 
@@ -32,7 +31,7 @@ The order of the Mills baptisms strongly suggests that James was born between Ho
 
 This would mean that the Mills left Staten Island within a few years of James' death, just as they left Corfu a few years after Horace's. If my speculation holds, even if James died at the latest possible time, Emily would likely have not had memories of him.
  
-I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions, with the exception of the single baptism record shown above. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find the Mills there. 
+Aside from his baptism record, I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find evidence of the Mills there. 
 
 I have not found James in any records on FindAGrave, FamilySearch, or Ancestry.  
 
@@ -58,7 +57,7 @@ The Vanderbilt family were members of the Reformed Dutch Church of Port Richmond
 
 I contacted Moravian Cemetery, and they had no record of James there.
 
-Friends of Abandoned Cemeteries of Staten Island (FACSI), have [lists](http://richmond.nygenweb.net/facsi/facsi_cemeteries_m2.shtml) of many Staten Island cemetery burials. There is a James C. W. Mills in Fountain Cemetery, who died at age 47 (FACSI ID 353), and a James Mills buried in the Fountain Cemetery Public Grounds who died 13 Jun 1889. There are also two unnamed Mills in Fountain Cemetery, in lot 080 and lot 095 (FACSI IDs 665 and 709 respectively), ages and death dates are unknown, but FACSI indicates that there are known burials in Fountain Cemetery from the 1860's, so these last two cannot be ruled out.
+Friends of Abandoned Cemeteries of Staten Island (FACSI), have [lists](http://richmond.nygenweb.net/facsi/facsi_cemeteries_m2.shtml) of many Staten Island cemetery burials. There is a James C. W. Mills in Fountain Cemetery, who died at age 47 on 18 Apr 1893 (FACSI ID 353), and a James Mills buried in the row 5, grave 11 of the Fountain Cemetery Public Grounds who died 13 Jun 1889. There are also two unnamed Mills in Fountain Cemetery, in lot 080 and lot 095 (FACSI IDs 665 and 709 respectively), ages and death dates are unknown, but FACSI indicates that there are known burials in Fountain Cemetery from the 1860's, so these last two cannot be ruled out.
 
 <figure>
 <blockquote>
@@ -79,7 +78,19 @@ Children were not always buried by name. Staten Island Cemetery has an area for 
 </figcaption>
 </figure>
 
-Trinity would later be called Church of the Ascension. 
+The "Trinity Cemetery" mentioned above is presently known as Trinity Chapel Burying Ground:
+
+<figure>
+<blockquote>
+Trinity Chapel Burying Ground est. abt. 1799 was at one time attached to Trinity Church which became Church of the Ascension abt 1870 -and is one of FACSI abandoned cemeteries. Also at this location is Staten Island and Fountain Cemeteries (2 cemeteries). S.I. Cemetery took over the care of Trinity . Now FACSI takes care of the lot of them.<br/><br/>
+
+Trinity Methodist Church Cemetery - is now part of St. Johns Lutheran church in Port Richmond. It is a tiny cemetery attached to a tiny church that is still active today - not part of FACSI
+</blockquote>
+<figcaption>
+<cite>— 08 Apr 2023, personal correspondence via email with Friends of Abandoned Cemeteries of Staten Island.
+</cite>
+</figcaption>
+</figure>
 
 FACSI also notes a number of burials identified simply as being on "Van Street". No Mills are listed there, and the dates of the burials at that location were decades after the Mills left Staten Island.  
 
@@ -91,9 +102,38 @@ Finally, Samuel J. Wood Library at Weill Cornell Medicine has records starting f
 
 (The Staten Island “country branch” of the hospital didn’t open until 1869.)
 
+For now, little James is lost, but at least he is no longer forgotten.
+
 ## Exploring "Wheelock"
 
-Initially, I explored the theory that "Wheelock" could be a mis-transcription of the much less surprising "Hallock", given how similar the two names might look written in script, however Kathleen Langdon's photographs of the originally written entry prove that wrong. However, I am still intrigued by the similarity of the two names, and they are even more similar phonetically, leading me to wonder if the church secretary misheard "Hallock" as "Wheelock". Obviously this theory is purely speculation without evidence and can't be proved or disproved.
+Initially, I explored the theory that "Wheelock" could be a mis-transcription of the much less surprising "Hallock", given how similar the two names might look written in script, however Kathleen Langdon's photographs of the originally written entry prove that wrong. However, I am still intrigued by the similarity of the two names, and they are even more similar phonetically, leading me to wonder if the church secretary misheard "Hallock" as "Wheelock". Obviously this theory is purely speculation without evidence and can't be proved or disproved, but I present the following for consideration.
+
+
+<figure>
+<blockquote>
+Spelling variations of this family name include: Weelock, Wheelock, Wellock, Whellock, Whillock, Whealock and many more.
+</blockquote>
+<figcaption>
+<cite>— <a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com.
+</cite>
+</figcaption>
+</figure>
+
+<figure>
+<blockquote>
+<p>
+The surname Wheelock was first found in Cheshire as Wheelock, a township, in the parish of Sandbach, union of Congleton, hundred of Northwich. 
+</p>
+<p>
+The township dates back to the Domesday Book or 1086, when it was listed as <strong>Hoiloch</strong>, "named from the River Wheelock, a Celtic river-name meaning 'winding'".
+<p>
+</p>
+</blockquote>
+<figcaption>
+<cite>— <a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com. Emphasis added.
+</cite>
+</figcaption>
+</figure>
 
 <figure>
 <blockquote>
@@ -120,45 +160,58 @@ The development of Wellock via Wailock, Wallock from walok in 1379. This is the 
 </figcaption>
 </figure>
 
-<figure>
-<blockquote>
-<p>
-The surname Wheelock was first found in Cheshire as Wheelock, a township, in the parish of Sandbach, union of Congleton, hundred of Northwich. 
-</p>
-<p>
-The township dates back to the Domesday Book or 1086, when it was listed as <strong>Hoiloch</strong>, "named from the River Wheelock, a Celtic river-name meaning 'winding'".
-<p>
-</p>
-</blockquote>
-<figcaption>
-<cite>— <a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com. Emphasis added.
-</cite>
-</figcaption>
-</figure>
+Similarly, many variations of the family name "Hallock" are known and were even used by the families within the Hallock genealogy. The Hallock family genealogists spent considerable effort accounting for this very issue: 
+
+{{% fig "hallock/hallock-genealogy-tabulation-p13" "800" /%}}
+
+For a fuller treatment of these Hallock spelling variations, read [this section]({{% ref "hallock#alternate-spellings-of-hallock" %}}) and consider the possibility that Wheelock is a perhaps previously unknown "diatonic" of Hallock.
+
+Assuming the name "Wheelock" is correct as written, as the evidence indicates, why was Wheelock chosen? My initial expectation was that the distinctiveness of the Wheelock name would make it easier to find the answer. Presumably he is named for someone, a tradition that was followed to an extreme by the Mills, who tended to re-use a small pool of names repeatedly, and usually the names of those very close to them, yet I cannot find the name in the available genealogical data for the Mills, Pine, Hallock and Seaman families. The inverse is also true: a search of *The Wheelock family in America, 1637-1969* compiled by Walter T. Wheelock (familysearch.org), reveals one reference to an unrelated Mills family in Hartford CT, and no references whatsoever to the names Pine, Hallock or Seaman. 
+
+(For comparison, Horace's middle name "Franklin" is rare, but not unique in the Mills genealogy.)
+
+Nor do I recall encountering Wheelock in the genealogical data I have reviewed for related families such as Hawkins and Brown, nor among the names of known business associates, fellow church members, etc., nor in the available census records I have reviewed, although admittedly, I only discovered James once I was a few years into this research, so I may have encountered the name at a time when it would not have caught my attention.
+
+Searching more broadly for Wheelocks, in the 1800's, there are a number of Wheelocks in Brooklyn, central New York and Erie County. By 1890, there are Wheelocks in North Hempstead, notably, Daniel Wheelock, a farmer.
+
+The Wheelocks living in Erie County, included in the following list, lived in Clarence at and around the time that the [Mills Family of Erie County]({{% relref "buffalo-mills" %}}) are living in Clarence, and Edward's family are in Staten Island and later Corfu in Genesee County, perhaps 10 miles from Clarence:
+
+  - [Jeanette Wheelock](https://www.findagrave.com/memorial/79798619/jeanette-wheelock) (1845 to 1903).
+
+  - [Jesse Wheelock](https://www.findagrave.com/memorial/79798512/jesse-wheelock) (15 Feb 1804 to 24 Nov 1887) who married [Anna A. (Young) Wheelock](https://www.findagrave.com/memorial/79798526/anna-a-wheelock) (1812 to 23 Jul 1858). Their children:
+        
+    - [John G. Wheelock](https://www.findagrave.com/memorial/160105705/john-g-wheelock) (12 Sep 1839 to 11 Oct 1909).
+
+    - [Eugene J. Wheelock](https://www.findagrave.com/memorial/79798548/eugene-j-wheelock) (1848 to 02 Feb 1866).
+
+Perhaps it is worth further investigation to search for a possible heretofore unknown business relationship between the West New Brighton grocers and the following Wheelock, whose identity I have not yet confirmed:
+
+<div class="cols">
+{{% fig "staten-island/1858-09-04-The-Evening-Post-New-York-NY-p2" "350" /%}}
+{{% fig "staten-island/1859-02-17-The-New-York-Times-New-York-NY-p5" "350" /%}}
+</div>
+
+Bliss, Douglass, Wheelock & Co. and the successor firm of Bliss Wheelock & Kelly were dry goods jobbers that operated concurrently with Mary Ann's brother-in-law William Snedeker's business, also listed as dry goods jobbers, several blocks south of Bliss et. al.
+
+{{% fig "staten-island/1859-New-York-City-Business-Directory-p87" "800" /%}}
+
+{{% fig "staten-island/snedeker-wheelock-jobbers" "800" /%}}
+
+Interestingly, not only the street names, but their relative numbering scheme is the same presently as they were in the 1850's, and according to Google Maps, it is a six minute walk from Bliss, Wheelock & Kelly to Wm. Snedeker & Co. Snedeker's establishment was just a few blocks northeast of the future site of 1 World Trade Center and 2 World Trade Center, the "Twin Towers" that collapsed in the September 11 attacks of 2001. 
+
+{{% fig "staten-island/lower-manhattan-2000s" "800" /%}}
+
+It is also perhaps worth noting that the second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). 
+
+I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, as the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
 
 <figure>
 <blockquote>
-Spelling variations of this family name include: Weelock, Wheelock, Wellock, Whellock, Whillock, Whealock and many more.
-</blockquote>
-<figcaption>
-<cite>— <a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com.
-</cite>
-</figcaption>
-</figure>
-
-Assuming the name "Wheelock" is correct, as the evidence indicates, why was Wheelock chosen? Presumably he is named for someone, a tradition that was followed to an extreme by the Mills, yet through my exploration of not only the Mills genealogy, but those of many of the related families and even the families of business associates, fellow church members, etc., I have seen many thousands of individual names over dozens of family names on Long Island, and I don't recall encountering Wheelock even once. 
-
-Ironically, I have not yet thoroughly explored the Hallock genealogy, although I plan to, and this is obviously a current blind spot and a potential source for as-yet unfamiliar related names. But, setting the Hallock genealogy aside as a consideration for the moment, the lack of Wheelocks on Long Island could suggest that the name is more likely to be found on Staten Island, although I have also explored many individual and family names there as well, that exploration has not been nearly as deep as that for Long Island.
-
-The distinctiveness of Wheelock should make finding the answer more likely. Like the Mills and Seaman names, Wheelock has English origins
-
-<figure>
-<blockquote>
-In the United States, the name Wheelock is the 9,173rd most popular surname with an estimated 2,487 people with that name.
+Cyrus Hubbard Wheelock (February 28, 1813 – October 11, 1894) was an early missionary and leader in the Church of Jesus Christ of Latter-day Saints. He wrote the words to the Latter-day Saint hymn "Ye Elders of Israel". Wheelock was born at Henderson, Jefferson County, New York.
 </blockquote>
 <figcaption>
 <cite>—
-<a href="https://www.houseofnames.com/wheelock-family-crest#Citations-Info">Wheelock History, Family Crest & Coats of Arms</a>, Houseofnames.com.
+<a href="https://en.wikipedia.org/wiki/Cyrus_H._Wheelock">Cyrus H. Wheelock</a>, Wikipedia.org.
 </cite>
 </figcaption>
 </figure>
@@ -187,19 +240,23 @@ The original source is given as: Filby, P. William, Meyer, Mary K., Passenger an
 </aside> 
 </figure>
 
-I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
 
-<figure>
-<blockquote>
-Cyrus Hubbard Wheelock (February 28, 1813 – October 11, 1894) was an early missionary and leader in the Church of Jesus Christ of Latter-day Saints. He wrote the words to the Latter-day Saint hymn "Ye Elders of Israel". Wheelock was born at Henderson, Jefferson County, New York.
-</blockquote>
-<figcaption>
-<cite>—
-<a href="https://en.wikipedia.org/wiki/Cyrus_H._Wheelock">Cyrus H. Wheelock</a>, Wikipedia.org.
-</cite>
-</figcaption>
-</figure>
+Finally, I looked into the previously mentioned James C. W. Mills, to see exactly what the "W" stands for, but I have not found documentation that spells out these initials. As far as I can tell, this is an unrelated Mills, not a descendant of Timothy Mills of Mills Pond or of George Mills of Jamaica. 
 
-The second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). In the 1800's, there are a number of Wheelocks in Brooklyn, central New York and Erie County. By 1890, there are Wheelocks in North Hempstead, notably, Daniel Wheelock, a farmer.
+<div class="cols">
+{{% fig "staten-island/1893-04-22-Richmond-County-Advance-WNB-NY-p5" "350" /%}}
+{{% fig "staten-island/james-cw-mills-cemetery" "350" /%}}
+</div>
 
-Wheelock is overwhelmingly used as a surname, but I have found rare instances of it being used as a first name. 
+[Margaret Maria (Neal) Mills Robb](https://www.findagrave.com/memorial/195175327/margaret-maria-robb) (185[2/4?] to 27 Feb 1922), whose parents were Henry Neal and Mary (Wi[Y?]lie) Neal, married James C. W. Mills ( to 18 Apr 1893) 18 Mar 1873, then Matthew Robb Jr. (1835 to ?) on 05 Sep 1894, whose parents were Matthew Robb Sr. and Sarah (King) Robb. Margaret died at 350 Taylor Street, West New Brighton. James' and Margaret's daughter Claribel (Mills) Logan (Mar 1885 to ?) married James Elwood Logan (1883-1948), and their son is Robert Elwood Logan (13 Nov 1910 to 20 Mar 1991).
+
+{{% fig "staten-island/james-mills-civil-war-pension" "800" /%}}
+
+<div class="cols">
+{{% fig "staten-island/1907-11-09-Richmond-County-Advance-WNB-NY-p1" "350" /%}}
+{{% fig "staten-island/1991-03-23-The-Tampa-Tribune-Tampa-FL-p12" "350" /%}}
+</div>
+
+Wheelock is overwhelmingly used as a surname, but I have found rare instances of it being used as a first name. Like the Mills and Seaman names, Wheelock has English origins.
+
+

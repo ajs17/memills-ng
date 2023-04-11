@@ -2,8 +2,8 @@
 title: "The Mills Family in Staten Island NY"
 weight: 400
 ---
-
-Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. Pine's general store was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was at different times known as C. M. Pine & Co., Pine Hillyer & Co., and C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles Pine was a longtime member of the church consistory.
+ 
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles Pine was a longtime member of the church consistory.
 
 <!--more-->
 
@@ -216,7 +216,19 @@ Charles Pine was a prominent and prolific business man who was a central figure 
 
 {{% fig "pine/charles-t-pine" "350" /%}}
 
-Charles Pine's store was opened in 1848, and was known at different times as C. M. Pine and Co., Pine Hillyer & Co., and C. M. Pine & Son, and presumably, Edward Mills worked for Charles at least some of that time, and it seems likely Edward moved to Castleton because of Charles. Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably also working in Charles' store. Note that roughly coinciding with the establishment of Charles Pine's store James Hillyer's grandfather John Hillyer as well as Nathaniel Seaman, both died in 1848.
+Charles Pine's store was opened in 1848, and was known as Pine Hillyer & Co. and then C. M. Pine & Son, and presumably, Edward Mills worked for Charles at least some of that time, and it seems likely Edward moved to Castleton because of Charles. 
+
+ <figure>
+<blockquote>
+"Squire John" [Bodine] owned considerable property on the North Shore, among which was the mill, and the pond, and the land east of it, including the old Dongan Manor house, which he subsequently sold to his father, who died in that house in 1835. He also owned the property now occupied by the store of Pine, Hillyer & Co., the residence of Mr. C. M. Pine, and the dwelling west of it, in which he lived at the time of his decease.
+</blockquote>
+<figcaption>
+<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p345.
+</cite>
+</figcaption>
+</figure>
+
+Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably also working in Charles' store. Note that roughly coinciding with the establishment of Charles Pine's store James Hillyer's grandfather John Hillyer as well as Nathaniel Seaman, both died in 1848.
 
 {{% fig "staten-island/1850-us-census-castleton" "800" /%}}
 
@@ -291,7 +303,7 @@ The following are Google Maps street view images from Richmond Terrace captured 
 {{% fig "staten-island/2022-oct-google-maps-pines-store2" "800" /%}}
 {{% fig "staten-island/2022-oct-google-maps-pines-store3" "800" /%}}
 
-It is also interesting to note that the tail of the Factory Lake (sometimes referred to as Factory Pond) raceway flows to the rear of Pine's store, approaching the stables before presumably going underground and into Kill Van Kull. Factory Lake became quite polluted and was filled in by the early 1900's, and is the location today of Corporal Thompson park, named after the first African-American from Staten Island to be killed in action in the Vietnam War, in 1967.
+It is also interesting to note that the Factory Lake (sometimes referred to as Factory Pond) raceway flows behind Pine's store, where stables are indicated. Factory Lake became quite polluted and was filled in by the early 1900's, and is the location today of Corporal Thompson park, named after the first African-American from Staten Island to be killed in action in the Vietnam War, in 1967.
 
 <figure class="quote-only">
 <blockquote>
@@ -326,15 +338,59 @@ It appears that by 1878, James Hillyer had left Pine's store and started a new s
 {{% fig "staten-island/1890-staten-island-directory-p388" "350" /%}}
 </div> 
 
-<figure class="quote-only">
+<figure>
 <blockquote>
-HILLYER. John Hillyer, sometimes written Hilliard, lived on Staten Island in 1693, and married Elizabeth Dey in 1714. their children were : John, Elizabeth, Mary, James, William, Nathaniel, Simon and Lawrence. The present families of the name are descended from the youngest son Lawrence. His son John was born in July, 1763, and died in July, 1848. His wife Elsie Merrill was born in November, 1768, and died in August, 1858. <strong>Their children were : Lawrence, and John B., the father of James A., late of the firm of Pine, Hillyer & Co., of West New Brighton; and Abraham, of the firm of Hillyer & Hartley, of New Brighton, beside several other children</strong>.
+John Hillyer, sometimes written Hilliard, lived on Staten Island in 1693, and married Elizabeth Dey in 1714.
+
+Their children were John, (supervisor in 1767) Elizabeth, Mary, James, William, Nathaniel, Simon and Lawrence.
+
+The present families of the name are descended from the youngest son Lawrence. His son John (sheriff in 1799 and 1819), was born in July, 1763, and died in July, 1848. His wife Elsie Merrill was born in November, 1768, and died in August, 1858. Their children were Lawrence, (sheriff in 1831 and Member of Assembly 1835 and 1837.) John B. (Member of Assembly 1873.)
+
+**John B. is the father of James A., late of the firm of Pine, Hillyer & Co., of West New Brighton; and Abraham, of the firm of Hillyer and Hartley, of New Brighton, beside several other children.** 
+
+Other Hillyers are mentioned in the records of St. Andrew's Church, as follows
+
+John and Esther his wife had
+
+  - A daughter, born Sept. 19, 1756.
+
+  - A son, Nathaniel, born Oct. 2, 1765.
+
+  - A daughter, born Nov. 14, 1768.
+
+John, Jr., had a son Abraham, born Jan. 20, 1759.
+
+William and Dinah his wife had
+
+  - A daughter, born Dec. 24, 1748.
+
+  - A daughter, born Sept. 11, 1756.
+
+John and Mary his wife had
+
+  - A daughter, born Mar. 29, 1774.
+
+  - A son John, born April 18, 1776.
+
+Lawrence and Ann Larzalere married Dec. 4, 1808.
 </blockquote>
 <figcaption>
-<cite>— 1877, <a href="https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya/page-53-history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya.shtml">Annals of Staten Island, from Its Discovery to the Present Time,</a> Volume 2 By J. J. Clute, p390. Emphasis added.</cite> 
-<figcaption>
-</figure>
+<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p389-390.
+</cite>
+</figcaption>
+<aside>
+<ul>
+<li><a href="https://www.findagrave.com/memorial/7201761/lawrence-william-hillyer">Lawrence William Hillyer</a> (24 Feb 1734 to 20 Jul 1809) married <a href="https://www.findagrave.com/memorial/7201759/ann-hillyer">Ann (Lakerman) Hillyer</a> (Apr 1739 to 12 May 1804). Lawrence is the son of John Hillyer Sr. (1693 to 1775) and Elizabeth Dey (1696 to 1764)</li>
 
+<li><a href="https://www.findagrave.com/memorial/149999448/john-jones-hillyer">John Jones Hillyer</a> (02 Jul 1763 to 1848) married <a href="https://www.findagrave.com/memorial/149999418/elsee-lambert-hillyer">Elsee Lambert (Merrell) Hillyer</a> (04 Nov 1768 to 11 Aug 1858). John Jones Hillyer is the son of Lawrence William Hillyer.</li>
+
+<li><a href="https://www.findagrave.com/memorial/105596531/john-blake-hillyer">John Blake Hillyer</a> (06 Oct 1808 to 28 Jan 1909) married <a href="https://www.findagrave.com/memorial/105596573/joanna-hillyer">Joanna (Simonson) Hillyer</a> (? to 1880). John Blake Hillyer is the son of John Jones and Elsee Lambert Hillyer and the father of James A. Hillyer.</li>
+
+<li> <a href="https://www.findagrave.com/memorial/9143966/abram-crocheron-hillyer">Abraham Crocheron Hillyer</a>  (25 Dec 1842 to 14 Oct 1932) is the brother James A. Hiller and co-proprietor of Hillyer & Hartley grocers, with Mark Hartely.</li>
+</ul>
+
+
+</figure>
 <figure class="quote-only">
 <blockquote>
 <p>Along  the  north  shore  we  note  the  following  at  New  Brighton: </p>
@@ -363,6 +419,83 @@ HILLYER. John Hillyer, sometimes written Hilliard, lived on Staten Island in 169
 
 {{% fig "staten-island/sketchbook-staten-island-p81" "800" /%}}
 {{% fig "staten-island/sketchbook-staten-island-p85" "800" /%}}
+
+<div class="cols">
+{{% fig "staten-island/hillyer-egbert-card-front" "350" "img,cite,link" /%}}
+{{% fig "staten-island/hillyer-egbert-card-back" "350" /%}}
+</div>
+
+James A. Hillyer's business partner is his brother-in-law [Barnett Egbert Jr.](https://www.findagrave.com/memorial/118458051/barnett-egbert) (1837 to 1916), who married James' sister  [Alice Elizabeth (Hillyer) Egbert](https://www.findagrave.com/memorial/118458007/alice-e-egbert) (1841 to 1915).
+
+{{% fig "staten-island/hillyer-egbert-marriage-cert" "800" /%}}
+
+<div class="cols">
+{{% fig "staten-island/barnet-egbert-portrait" "350" /%}}
+{{% fig "staten-island/alice-ebert-portrait" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "staten-island/joanna-hillyer-egbert-portrait" "350" /%}}
+{{% fig "staten-island/benjamin-children" "350" /%}}
+</div>
+
+James Hillyer appears to be connected with William Snedeker, who married Charles' and Mary Ann's sister Lois Almy (Pine) Snedeker (1805? to 07 Nov 1890). William and Lois moved to Staten Island in the 1850's, and William was also in the dry goods business. William Snedeker and James A. Hillyer were also leaders withing the congregation of the Trinity Methodist Episcopal Church, near James' home.
+
+The 1870 US Census and the 1875 NY Census show William Snedeker's family living closely to James Hillyer's family, and near the methodist church, which is confirmed by the Beers map of West New Brighton, which also shows a location labelled "C. M. Pine & Co." which is sometimes referenced in descriptions of Charles Pine's business affairs. 
+
+{{% fig "staten-island/1874-beers-map-cm-pine-co" "800" /%}}
+
+<div class="cols">
+{{% fig "staten-island/1860-06-14-US-census-castleton-ny-p82" "350" /%}}
+{{% fig "staten-island/1865-06-07-NY-Census-Castleton-p66" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "staten-island/1870-07-07-US-Census-Castleton-NY-p122" "350" /%}}
+{{% fig "staten-island/1875-06-US-census-castleton-ny-p33" "350" /%}}
+</div>
+
+(As evident from these census entries, James A. Hillyer's wife Phoebe (22 Jul 1834 to 05 Feb 1914) had the middle name "Anna" and apparently had the nickname "Annie".)
+
+A summary of the census data for William Snedeker during the relevant time period: 
+
+| Year | Location | Age | Occupation|
+| --- | --- | --- | ---|
+| 1850 | NY Ward 17 | 39 | hosiery |
+| 1860 | Castleton  | 48 | merchant (son and neighbor, Livingston is "merchants clerk") |
+| 1870 | Castleton  | 59 | dry goods merchant |
+| 1875 | Castleton  | 60 | dry goods (son Livingston and wife are "boarders") |
+| 1880 | Castleton  | 69 | boarder (living with son Livingston) |
+
+(At different times, Livingston was a reporter for the *Richmond County Advance* as well as a "slate dealer" among other careers.)  
+
+Before he moved to Staten Island, the firm of Wm. Snedeker & Co. "dry goods jobbers" was located in the Manhattan financial district just a few blocks northeast of the future site of 1 World Trade Center and 2 World Trade Center, the "Twin Towers" that collapsed in the September 11 attacks of 2001.
+
+{{% fig "staten-island/1859-New-York-City-Business-Directory-p87" "800" /%}}
+
+<figure>
+<blockquote>
+A dry-goods jobber is a wholesale buyer and seller, for cash or for approved credit, of all manner of goods, wares, and materials, large and small, coarse and fine, foreign and domestic, which pertain to the clothing, convenience, and garnishing, by night and by day, of men, women, and children: from a button to a blanket; from a calico to a carpet; from stockings to a bead-dress; from an inside handkerchief to a waterproof; from a piece of tape to a thousand bales of shirtings; not forgetting linen, silk, or woollen fabrics, for drapery or upholstery, for bed or table, including hundreds of items which time would fail me to recite. All these the dry-goods jobber provides for his customer, the retailer, who in his turn will dispense them to the consumer.
+</blockquote>
+<figcaption>
+<cite>— 1861 Feb, "A Dry-Goods Jobber in 1861", The Atlantic, p200.
+</cite>
+</figcaption>
+</figure>
+
+
+<figure>
+<blockquote>
+A factory having produced a stock of goods from the best designs to be obtained by its agents here and abroad, the next step is to sell at a profit. Twenty-five years ago the mill or factory sold all its goods to the jobbers, who in turn distributed them to the retailers throughout the country. Each mill had its selling agents who undertook to dispose of its product to the jobbers. A retailer could buy nothing directly from the agent of the mill. Within the last ten or fifteen years the small jobber has been eliminated. In 1850 there were half a hundred dry-goods jobbers in New York City and as many in Boston all doing a good business. Today the number has dwindled to half a dozen in each city. The same thing is true of Philadelphia and Chicago. Only a few of the very largest jobbing houses have survived. The selling agents of the mills now go direct to the retailer, because the retailers have in many instances become buyers upon a much larger scale than the small jobber of former days. Go into the Boston or New York office of the agent of any important mill, and you will find plenty of samples and clerks, but almost no buyers. The agent now goes to the buyer. The agent of the largest cotton-mill in western Massachusetts told me that he sent his men to every large drygoods shop in Boston every day, and his partner in New York did the same thing there. At certain seasons Boston and New York, twenty-five or thirty years ago, were overrun with the buyers of dry-goods houses from all parts of the country. There were hotels and even newspapers devoted to these buyers and their doings. Much of this business has passed away. To-day the travelling men, “drummers,” of the mills and the few large jobbing houses that have survived, scour the country, taking their samples to the retailer. A few large jobbers, doing an immense business, still survive in all our large centres because they have the machinery for the distribution of goods in channels where it is not worth the while of the agent to enter—small shops in small towns. The small jobber who gave up business when he found the mills selling directly to the retail shops who could buy even more goods at a time than he could, had neither the capital nor the army of travelling men necessary to do business upon this scale. The jobber who could buy five thousand cases of goods at a time, and had the machinery and the means for disposing of it, survives because the mills sell cheapest to the largest buyer, and the jobber who buys on this scale is more important that even the largest retail store. But the small jobber, buying one hundred cases of the same goods, gets no better terms than the big retailer and has therefore no excuse for being. Some of the big department stores now obtain a monopoly of certain patterns or designs by taking the whole output of the mill, thus doing what was formerly in the power of only the greatest of jobbers.
+</blockquote>
+<figcaption>
+<cite>— 1897, "The Business of a Factory", Scribners, v21,
+</cite>
+</figcaption>
+</figure>
+
+
+{{% fig "staten-island/1890-11-08-Richmond-County-Advance-WNB-NY-p5" "500" /%}}
 
 Charles and his son Theodore also had significant business dealings beyond their store. According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles M. Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. 
 
@@ -460,7 +593,17 @@ Regarding your search, we do not have any identified images of the Pine store, t
 
 ## Churches in Staten Island
  
-The families of Edward Mills, Charles Pine (including his siblings and their descendants, such as Livingston Snedeker) and Bartlett Brown, along with several Hillyers, including [Abraham Crocheron Hillyer](https://www.findagrave.com/memorial/9143966/abram-crocheron-hillyer) (25 Dec 1842 to 14 Oct 1932) of Hillyer & Hartley, and [Alice E. (Hillyer) Egbert](https://www.findagrave.com/memorial/118458007/alice-e-egbert) (1841 to 1915), are all members of the Reformed Dutch Church of Port Richmond. Alice is James Hillyer's sister, and she married his business partner, Barnet Egbert—spelled “Barnett” on his grave stone–also a member of the Church. (Barnet Egbert's father Barnet Egbert Sr. was a Church elder.) Other familiar family names associated with the church include the Bedell's and Mersereau's. 
+The families of Edward Mills, Charles Pine (including his siblings and their descendants, such as Livingston Snedeker) and Bartlett Brown, along with several Hillyers, including [Abraham Crocheron Hillyer](https://www.findagrave.com/memorial/9143966/abram-crocheron-hillyer) (25 Dec 1842 to 14 Oct 1932) of Hillyer & Hartley, and [Alice E. (Hillyer) Egbert](https://www.findagrave.com/memorial/118458007/alice-e-egbert) (1841 to 1915), are all members of the Reformed Dutch Church of Port Richmond. Alice is James Hillyer's sister, and she married his business partner, Barnett Egbert—sometimes spelled “Barnet”–also a member of the Church. (Barnett Egbert's father Barnett Egbert Sr. was a Church elder.) Other familiar family names associated with the church include the Bedell's and Mersereau's. 
+
+<figure>
+<blockquote>
+The Crocheron family have been prominent in the county ; Henry was Member of Congress 1815—'17. Jacob was Member of Congress 1829—'31 ; Presidential elector in 1836; Sheriff 1802, 1811 and 1821. Nicholas was Member of Assembly, 1854. Richard was County Treasurer, and Surrogate, 1836, and for several years thereafter. The family is of French descent.
+</blockquote>
+<figcaption>
+<cite>— *Annals of Staten Island*, p365-366.
+</cite>
+</figcaption>
+</figure>
 
 In the *Records of the Reformed Protestant Dutch Church on Staten Island*, there are the following entries for members with the family name of Mills, that as far as I can tell, are unrelated to Edward Mills:
 
@@ -468,6 +611,16 @@ In the *Records of the Reformed Protestant Dutch Church on Staten Island*, there
   - 08 July 1864, John B. Martling marries Helen Louisa Mills.
   
 The Vanderbilt family is the most famous of the Reformed Church's past congregants. 
+
+<figure>
+<blockquote>
+The old brick church, having proved inadequate to the necessities of the congregation, the present church edifice was built upon the site of the former one, and dedicated in February, 1846.
+</blockquote>
+<figcaption>
+<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p259.
+</cite>
+</figcaption>
+</figure>
 
 {{% fig "staten-island/RDC/rdc-postcard" "800" /%}}
 
@@ -488,6 +641,19 @@ within Rev. James Brownlee's 60 years of Stable Leadership 1835-1895</a>, olddut
 </cite>
 </figcaption>
 </figure>
+
+<figure>
+<blockquote>
+KILL VAN KULL—ARTHUR KULL.
+
+The precise meaning of the Dutch word "Cull," we are unable to give, though it probably had some reference to the water, as Newark Bay was emphatically called "the Cull," and was universally known by that name. The Dutch word "Kill" meant a small stream or passage of water; therefore, the name Kill Van Kull means the stream or passage from the Cull, or Kull, as it is now spelled. Arthur Kull, or Kill, as it is now sometimes written, is a corruption of the Dutch word "achter," after, or behind; therefore, Achter Kull meant behind or beyond the Cull. An attempt has recently been made to change the orthography of the word Van, by substituting the letter O for A, thus, Von, which is neither Dutch nor English, and arises from ignorance of the fact that the Dutch A in this connection has the sound of the English O in the same connection; therefore, to spell the word correctly, it should be written Van, and pronounced Von. We give the above as the explanation of the origin of the Dutch names of these waters. </blockquote>
+<figcaption>
+<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p234.
+</cite>
+</figcaption>
+</figure>
+
+
 
 Some facts listed on the Church's website:
 

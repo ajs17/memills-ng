@@ -15,6 +15,8 @@ Horace was baptized in the Reformed Dutch Church of Port Richmond:
 
 {{% fig "staten-island/RDC/rdcpr-horace" "800" /%}}
 
+Note that James A. Hillyer also had a son named Horace who followed him in the grocery business. 
+
 Horace worked as a clerk in his father's dry goods store in Corfu, E. H. Mills & Co. Horace died by a gunshot wound a few years before the Mills moved to Motts Corners.
 
 <div class="cols">
@@ -31,7 +33,7 @@ Presumably, the fact that the family moved away from Corfu a few years after his
 And a very big mystery relevant to the Caroline audience in particular, is why they chose Mott's Corners as their next destination? At this point, I have only a few vague theories to explore.
 
   - If the Caroline area was a particularly active area for Temperance, that could have been a draw. But, it is unclear if anyone in Emily's family were involved in temperance in Corfu.
-  - They knew someone who lived Mott's Corners. One possibility I am exploring is the presence of (possibly related) [Hallocks in Caroline]({{% ref "caroline-hallocks"%}}) at the time.
+  - They knew someone who lived Mott's Corners. One possibility I am exploring is the presence of (possibly related) [Hallocks in Caroline]({{% ref "hallock"%}}) at the time.
   - Perhaps Edward sold products from the mills and factories of Mott's Corners in his store and knew of it that way?
   - As Edward Mills appeared to have multiple business relationships with Edward Lounsbery, perhaps that offers at least a partial explanation. 
 
