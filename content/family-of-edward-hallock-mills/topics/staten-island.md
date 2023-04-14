@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 400
 ---
  
-Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles Pine was a longtime member of the church consistory.
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles Pine was a longtime member of the church consistory.
 
 <!--more-->
 
@@ -39,6 +39,7 @@ I have researched the records available here for the three births and unfortunat
 </figure>
 
 James Wheelock Mills apparently died as a young child sometime between his 31 July 1857 baptism and the 1860 United States Federal Census in Castleton, Staten Island NY which shows the Mills family otherwise complete except for James, living at the residence of [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), another protege of Charles M. Pine in the grocery business, and later, Bartlett succeeded Charles as President of the Richmond County Mutual Insurance Company.
+
 {{% fig "census/census-1860-us" "800" /%}}
 
 The 1860 census indicates the town is Castleton. Castleton is the name of one of the original four towns of Staten Island and Factoryville was the colloquial name at the time of one its neighborhoods, West New Brighton.
@@ -216,7 +217,7 @@ Charles Pine was a prominent and prolific business man who was a central figure 
 
 {{% fig "pine/charles-t-pine" "350" /%}}
 
-Charles Pine's store was opened in 1848, and was known as Pine Hillyer & Co. and then C. M. Pine & Son, and presumably, Edward Mills worked for Charles at least some of that time, and it seems likely Edward moved to Castleton because of Charles. 
+Charles Pine's store was opened in 1848, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son, and presumably, Edward Mills worked for Charles at least some of that time, and it seems likely Edward moved to Castleton because of Charles. 
 
  <figure>
 <blockquote>
@@ -232,7 +233,9 @@ Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and J
 
 {{% fig "staten-island/1850-us-census-castleton" "800" /%}}
 
-This census shows [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles. George went on to become successful in business himself and is credited with rebuilding St. Andrews Church. 
+Both the 1850 and 1860 census show [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles for some time. George was a Civil War veteran and he went on to become successful in business himself; in several places he is credited with rebuilding St. Andrews Church, although is obituary doesn't explicitly mention this. 
+
+{{% fig "staten-island/1860-06-15-US-Census-Castleton-NY-p96-pine" "800" /%}}
 
 {{% fig "staten-island/1896-05-23-Richmond-County-Advance-WNB-ny-p4" "500x300" "" "top" /%}}
 
@@ -459,6 +462,8 @@ The 1870 US Census and the 1875 NY Census show William Snedeker's family living 
 
 A summary of the census data for William Snedeker during the relevant time period: 
 
+<figure>
+
 | Year | Location | Age | Occupation|
 | --- | --- | --- | ---|
 | 1850 | NY Ward 17 | 39 | hosiery |
@@ -466,6 +471,8 @@ A summary of the census data for William Snedeker during the relevant time perio
 | 1870 | Castleton  | 59 | dry goods merchant |
 | 1875 | Castleton  | 60 | dry goods (son Livingston and wife are "boarders") |
 | 1880 | Castleton  | 69 | boarder (living with son Livingston) |
+
+</figure>
 
 (At different times, Livingston was a reporter for the *Richmond County Advance* as well as a "slate dealer" among other careers.)  
 

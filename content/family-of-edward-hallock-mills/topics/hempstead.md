@@ -59,10 +59,13 @@ Weekes, Seaman & Pine was possibly owned by some of the same partners as the pre
 
 {{% fig "hempstead/seaman-family-america-p176" "500" /%}}
 
-
 Read more about the Seaman family in the section on [Captain John Seaman]({{% relref "hempstead#the-legacy-of-captain-john-seaman" %}}) further below.
 
-Jonas' obituary noted that he lived in Hempstead "with the exception of a few years", which included 1850, where he is recorded in the United States Federal Census in Islip NY, at age 55, a "farmer". The family appears to return to Smithtown by 1851, when Mary Platt is readmitted to Smithtown Presbyterian on 03 Jan 1851 and then returns to Hempstead as evidenced by her removal from the church, "by certificate to Hempstead" 05 Jun 1858. The very next day, Edward's brother Robert is baptized in Hempstead along with his future wife, whom he marries several weeks later.
+Charles and Elmira had a young son that died in Hempstead. 
+
+{{% fig "hempstead/hempstead-cemetery-inscriptions-p26" "500" /%}}
+
+Jonas' obituary noted that he lived in Hempstead "with the exception of a few years", which included 1850, where he is recorded in the United States Federal Census in Islip NY, at age 55, a "farmer". The family appears to return to Smithtown by 1851, when Mary Platt is readmitted to Smithtown Presbyterian on 03 Jan 1851 and then returns to Hempstead as evidenced by her removal from the church, "by certificate to Hempstead" 05 Jun 1858. The very next day, Edward's brother Robert was baptized in Hempstead along with his future wife, whom he married several weeks later.
 
 {{% fig "long-island/1850-United-States-Federal-Census-islip-NY" "800" /%}}
 
@@ -152,9 +155,9 @@ Before moving onto what I believe is overwhelming evidence that Charles M. Pine 
 
 {{% fig "pine/1865-census-nys" "800" /%}}
 
-I have also been unable to definitively identify Julia Soper, the 20 year old niece listed. There is a [Julia E. (Oakes) Soper](https://www.findagrave.com/memorial/199166807/julia-e-soper) (Nov 1844 to 01 Apr 1910), born in Huntington (in Suffolk County, which corresponds to the census entry), who, despite being the correct age, was married to Ezra Soper in 1867, so in the 1865 census she would not have the name Soper. There is also a Julia Soper in Hempstead who was five years old in the 1850 United States Federal Census, matching the age of this Julia, but this appears to be a coincidence as nothing else suggests that this is the Julia being referenced.
+I have also been unable to definitively identify Julia Soper, the 20 year old niece listed. There is a [Julia E. (Oakes) Soper](https://www.findagrave.com/memorial/199166807/julia-e-soper) (Nov 1844 to 01 Apr 1910), born in Huntington (in Suffolk County, which corresponds to the census entry), who, despite being the correct age, was married to Ezra Soper in 1867, so in the 1865 census she would not have the name Soper. There is also a Julia Soper in Hempstead who was five years old in the 1850 United States Federal Census, matching the age of this Julia, but this appears to be a coincidence as nothing else suggests that this is the Julia being referenced as a "Niece". The same 1860 Unites States Federal census in Hempstead shows a number of "Sarah Soper's" and some of these Sopers may be related to the Pines through marriage, but while this is clearly a common name, and it is possible these two apparent "Sopers" in Castleton are indeed correctly identified, and either distant relations or people otherwise known from Hempstead, that does not explain why they are identified as "Niece" and "Mother" in Castleton, instead of, say, "boarder" as Mark Hartley is. 
 
-I have a theory as to what might be happening, although with some noticeable counterpoints which I will also explore. Taking into account all the evidence I have available, I believe the most logical conclusion is that these two census entries in 1865 are referring to relatives of Charles Pine's wife [Elmira Jane (Loper) Pine](https://www.findagrave.com/memorial/199952046/elmira-j-pine) (1813 to 07 Mar 1890). Elmira's parents are:  
+I have an alternate theory as to what might be happening, although with some noticeable counterpoints which I will also explore. Taking into account all the evidence I have available, I believe the most logical conclusion is that these two census entries in 1865 are referring to relatives of Charles Pine's wife [Elmira Jane (Loper) Pine](https://www.findagrave.com/memorial/199952046/elmira-j-pine) (1813 to 07 Mar 1890). Elmira's parents are:  
 
   - [Luther Loper](https://www.findagrave.com/memorial/178362810/luther-loper) (04 Jun 1780 to 05 Apr 1856), a farmer in the 1850 United States Federal Census in Hempstead, married,
 
@@ -206,7 +209,7 @@ I now propose the true Pine genealogy, which I will show documentary evidence fo
 
 Reuben and Jerusha's son Nicholas is Mary Ann's father:  
 
-  - **[Nicholas Ludlow Pine](https://www.findagrave.com/memorial/108776395/nicholas-ludlow-pine)** (? to 03 Sep 1828), married,  
+  - **[Nicholas Ludlow Pine](https://www.findagrave.com/memorial/108776395/nicholas-ludlow-pine)** (? to 03 Sep 1828), a veteran of the War of 1812, married,  
 
   - **[Rhoda (Seaman) Pine](https://www.findagrave.com/memorial/108776309/rhoda-pine)** (24 May 1786 to 26 Sep 1859).
 
@@ -385,7 +388,7 @@ John Seaman owned land in Salem, Mass., in 1643.
 
 In 1646 John Seaman and his brother Caleb are recorded in New Haven, Conn. At this period came the Pequod Indian War, and Captain John Mason was given chief command (as Major) of the Connecticut Troops. To John Seaman he gave command of one of the Companies and John Strickland (who later became his father-in-law) was lieutenant of John Seaman's company. Hence John Seaman's title of Captain. The histories of the day record "John Seaman, later of Hempstead, Long Island, bore arms with demi-seahorse for crest." Another record states that on October 6, 1646, Caleb Seaman was fined 10 shillings for not carrying arms, and on November 3, 1646, "Caleb Seaman desired his fine might be remitted for defect of arms, he going shortly for England. Upon his request it was remitted provided he goe [sic] for England."
 
-Captain John Seaman was one of the sixty-two original signers (in Connecticut) of the Hempstead compact of land, and in 1647 we find him settled in Hempstead, Long Island, where he became on of the most prominent men for half a century "and had left such a host of descendants as to be remarkable, genealogically.
+Captain John Seaman was one of the sixty-two original signers (in Connecticut) of the Hempstead compact of land, and in 1647 we find him settled in Hempstead, Long Island, where he became one of the most prominent men for half a century "and had left such a host of descendants as to be remarkable, genealogically.
 
 The Town Records of Hempstead, Long Island, state: 
 

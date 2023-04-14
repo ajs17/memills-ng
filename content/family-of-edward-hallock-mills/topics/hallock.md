@@ -28,16 +28,16 @@ But I believe I have compelling circumstantial evidence that demonstrates that S
 There are exactly two dozen Thomas Hallocks in *A Hallock Genealogy*, however, I believe Mary Hallock's father can be confidently identified among them and her place in the genealogy can be restored. Beginning with the complete inventory of Thomas Hallocks across all generations as given in *A Hallock Genealogy*, summarized below:
 
 <figure>
-{{% table "/static/data/thomas-hallock.csv" "thomas-hallocks" "page,gen,dob,dod,locations,married,wife,notes" "Data taken from 1928, *A Hallock Genealogy* by Lucius Henry Hallock, ancestry.com" "" "Summary of Thomas Hallocks in the *Hallock Genealogy*" %}}
+{{% table "/static/data/thomas-hallock.csv" "thomas-hallocks" "page,gen,dob,dod,locations,married,wife,notes" "Data taken from 1928, *A Hallock Genealogy* by Lucius Henry Hallock, uncestry.com" "" "Summary of Thomas Hallocks in the *Hallock Genealogy*" %}}
 </figure>
 
-Of these Thomas Hallocks, two are known to be living in Smithtown during the correct time period, as they are in the same generation:
+Of these Thomas Hallocks, only two are known to be living in Smithtown during the correct time period, as they are in the same generation:
     
   - [Thomas Hallock](https://www.findagrave.com/memorial/36331658/thomas-hallock) (06 Jan 1766 to 10 Mar 1845), son of Noah and Nancy (Hendrickson) Hallock. He also had a son Thomas who was a farmer in Smithtown. 
 
   - [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of James and Mary (Post) Hallock.
 
-It is Thomas, son of Noah, who is is found in the early of the First Presbyterian Church in Smithtown in the late 1700's and early 1800's. He, along with Jedediah Mills were among the members that "revolted" in Oct 1808. Although he also has daughters named Sarah and Mary, the birthdates and married names do not match what we know of either Sarah or Mary Hallock, the daughters of Thomas who married the Mills. 
+It is Thomas, son of Noah, who is is found in the early records of the First Presbyterian Church in Smithtown in the late 1700's and early 1800's. He, along with Jedediah Mills were among the members that "revolted" in Oct 1808. Although he also has daughters named Sarah and Mary, the birthdates and married names do not match what we know of either Sarah or Mary Hallock, the daughters of Thomas who married the Mills. 
 
 <div class="cols">
 {{% fig "hallock/hallock-genealogy-tabulation-p602" "350" /%}}
@@ -97,15 +97,15 @@ William B. Hallock owned considerable lands in the town of Caroline at a time wh
 
 <div class="cols">
 {{% fig "hallock/CAROLINE-DEEDS-1-258" "350" /%}}
-{{% fig "hallock/CAROLINE-DEEDS-1-319" "350" /%}}
+{{% fig "hallock/CAROLINE-DEEDS-1-349" "350" /%}}
 </div>
 
 <div class="cols">
-{{% fig "hallock/CAROLINE-DEEDS-1-349" "350" /%}}
+{{% fig "hallock/CAROLINE-DEEDS-1-319" "350" /%}}
 {{% fig "hallock/CAROLINE-DEEDS-1-513" "350" /%}}
 </div>
 
-Edward H. Mills and William B. Hallock are both in the eighth generation of the Hallock family, although their branches diverge immediately from their origin and to the greatest extent possible.
+Edward H. Mills and William B. Hallock are both in the eighth generation of the Hallock family, although their branches diverge immediately from their origin, so the relationship is quite distant.
 
 <figure>
 
@@ -131,7 +131,7 @@ William B. was under the "John Branch" of the Hallock tree which was said to be 
 {{% fig "hallock/hallock-genealogy-tabulation-p411" "800" /%}}
 
 
-William Hallock’s family moved from Caroline to Danby sometime between 30 Jun 1865, when they are listed in the New York State Census in Caroline (ancestry.com) and 02 Jul 1870, when they are listed in the United States Federal Census in Danby (ancestry.com), at least a decade before Edward Mills’ family moves to Caroline. 
+William Hallock’s family moved from Caroline to Danby sometime between 30 Jun 1865, when they are listed in the New York State Census in Caroline (Ancestry.com) and 02 Jul 1870, when they are listed in the United States Federal Census in Danby (Ancestry.com), at least a decade before Edward Mills’ family moves to Caroline. 
 
 What follows is a sampling of some of the more interesting news items related to William Hallock.
 
@@ -144,13 +144,22 @@ What follows is a sampling of some of the more interesting news items related to
 {{% fig "hallock/1877-06-07-The-Ithaca-Journal-p4" "500" /%}}
 {{% fig "hallock/1901-04-04-The-Ithaca-Daily-Journal-p5" "500" /%}}
 
+So, while there is a good probability that the two men were at least aware of each other, living in nearby communities and in the same line of work, I also suspect that because the Hallock family relationship was so distant, it may have been unknown to them, and is unlikely to be a factor in the Mills' decision to move to Mott's Corners. 
+
+[William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901) married [Sarah (Fleming) Hallock](https://www.findagrave.com/memorial/66472059/sarah-hallock) (08 Dec 1829 to 19 Oct 1910). 
+
+Among William and Sarah's children, two died as children and are buried in Central Chapel Cemetery in Brooktondale: [Arthur Hallock](https://www.findagrave.com/memorial/66484016/arthur-hallock) (01 Jan 1859 to 09 Oct 1865) and [Sarah Hallock]()https://www.findagrave.com/memorial/66483928/sarah-hallock (23 Feb 1857 to 23 Oct 1865). Another son, [James Henry Hallock](https://www.findagrave.com/memorial/97675935/james-henry-hallock) (1852 to 02 Sep 1924) is buried in Garret Mandeville Cemetery, along with his son, [Ezra Ward "Ward" Hallock](https://www.findagrave.com/memorial/97714885/ezra-ward-hallock) (22 Mar 1896 to 1962).
+
+William came from Orange County NY. Two of William's siblings lived nearby: [John Hallock](https://www.findagrave.com/memorial/59251371/john-hallock) (27 Dec 1824 to 25 Mar 1884) whose descendants remained near Spencer, and [Almira L. (Hallock) Martin](https://www.findagrave.com/memorial/145482231/almira-l-martin) (07 Mar 1807 to 16 Oct 1865) of Dryden.
+
+
 ## Alternate Spellings of Hallock
 
 Edward H. Mills' middle name "Hallock" is spelled "Hallioch" in his obituary in the records of Caroline Valley Community Church.
 
 {{% fig "mills-edward-mary-cvcc-obit" "800" "img,blockquote,cite,link" /%}}
 
-Records of the Mattituck Presbyterian Church, which Edward's grandfather Thomas attended as a young made prior to his marriage, contain multiple spellings of "Hallock" including "Halloc", "Halock", "Haliock", "Halliock", and even "Hallaock". Records of the Smithtown Presbyterian Church, where several members of the Hallock family are listed as members, including Edward's grandparents later in life, also contain spelling variations,  including both "Hallock" and "Halliock". Spelling variations exist even within the Hallock genealogy itself.
+Records of the Mattituck Presbyterian Church, which Edward's grandfather Thomas attended as a young man prior to his marriage, contain multiple spellings of "Hallock" including "Halloc", "Halock", "Haliock", "Halliock", and even "Hallaock". Records of the Smithtown Presbyterian Church, where several members of the Hallock family are listed as members, including Edward's grandparents later in life, also contain spelling variations,  including both "Hallock" and "Halliock". Spelling variations exist even within the Hallock genealogy itself.
 
 <figure>
 <blockquote>

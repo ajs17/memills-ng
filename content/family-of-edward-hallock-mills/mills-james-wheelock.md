@@ -7,6 +7,8 @@ James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun
 
 <!--more-->
 
+{{% toc "Jump To:" %}}
+
 {{% fig "staten-island/rdc/rdc-scan_073" "800" /%}}
 
 Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name as it is originally recorded, which I had initially speculated could be a mis-transcription of "Hallock". This possibility is explored [further below]({{% ref "#exploring-wheelock" %}}). 
@@ -31,8 +33,8 @@ The order of the Mills baptisms strongly suggests that James was born between Ho
 
 This would mean that the Mills left Staten Island within a few years of James' death, just as they left Corfu a few years after Horace's. If my speculation holds, even if James died at the latest possible time, Emily would likely have not had memories of him.
  
-Aside from his baptism record, I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find evidence of the Mills there. 
-
+Aside from his baptism record, I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find evidence of the Mills there. Likewise, James is not within the volume: 1940, Cemetery Inscriptions from Hempstead, Long Island New York by Josephine C. Frost, familysearch.org.
+ 
 I have not found James in any records on FindAGrave, FamilySearch, or Ancestry.  
 
 Decades after the Mills left Staten Island, members of Charles Pine's family were buried in Moravian Cemetery in New Dorp. 
@@ -160,7 +162,7 @@ The development of Wellock via Wailock, Wallock from walok in 1379. This is the 
 </figcaption>
 </figure>
 
-Similarly, many variations of the family name "Hallock" are known and were even used by the families within the Hallock genealogy. The Hallock family genealogists spent considerable effort accounting for this very issue: 
+Similarly, many variations of the family name "Hallock" are known and were even used by the families within the Hallock genealogy. Records of the Mattituck Presbyterian Church, which Edward's grandfather Thomas attended as a young man prior to his marriage, contain multiple spellings of "Hallock" including "Halloc", "Halock", "Haliock", "Halliock", and even "Hallaock". Records of the Smithtown Presbyterian Church, where several members of the Hallock family are listed as members, including Edward's grandparents later in life, also contain spelling variations,  including both "Hallock" and "Halliock". The Hallock family genealogists spent considerable effort accounting for this very issue: 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p13" "800" /%}}
 
@@ -184,12 +186,14 @@ The Wheelocks living in Erie County, included in the following list, lived in Cl
 
     - [Eugene J. Wheelock](https://www.findagrave.com/memorial/79798548/eugene-j-wheelock) (1848 to 02 Feb 1866).
 
-Perhaps it is worth further investigation to search for a possible heretofore unknown business relationship between the West New Brighton grocers and the following Wheelock, whose identity I have not yet confirmed:
+Perhaps it is worth further investigation to search for a possible business relationship between the West New Brighton grocers and [William Almy Wheelock](https://www.findagrave.com/memorial/178689119/william-almy-wheelock) (23 Mar 1825 to 06 Jul 1905) who was a dry goods jobber throughout the 1850's in Manhattan, creating a fortune for himself at a young age. In the 1850 United States Federal Census in New York Ward 17 (Ancestry.com), William Snedecker's occupation appears to be "hosiery" and William Wheelock's dry goods businesses routinely featured hosiery among their advertised products. And note that William Wheelock's middle name is also that of William Snedeker's wife, Lois Almy (Pine) Snedeker, Mary Ann's sister. 
 
 <div class="cols">
 {{% fig "staten-island/1858-09-04-The-Evening-Post-New-York-NY-p2" "350" /%}}
 {{% fig "staten-island/1859-02-17-The-New-York-Times-New-York-NY-p5" "350" /%}}
 </div>
+
+{{% fig "wheelock/1862-04-14-New-York-Daily-Herald-p5" "500" /%}}
 
 Bliss, Douglass, Wheelock & Co. and the successor firm of Bliss Wheelock & Kelly were dry goods jobbers that operated concurrently with Mary Ann's brother-in-law William Snedeker's business, also listed as dry goods jobbers, several blocks south of Bliss et. al.
 
@@ -201,9 +205,18 @@ Interestingly, not only the street names, but their relative numbering scheme is
 
 {{% fig "staten-island/lower-manhattan-2000s" "800" /%}}
 
-It is also perhaps worth noting that the second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). 
+Perhaps William Wheelock was an investor in C. M. Pine & Co. in Staten Island, or E. H. Mills & Co., Corfu, as he was with Dale Dutcher & Co.
 
+{{% fig "wheelock/1881-01-01-The-New-York-Times-p6" "500" /%}}
+
+<div class="cols">
+{{% fig "wheelock/1905-07-07-The-New-York-Times-p7" "350" /%}}
+{{% fig "wheelock/1878-06-24-The-Brooklyn-Union-Brooklyn-NY-p2" "350" /%}}
+</div>
+  
 I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, as the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
+
+It is also perhaps worth noting that the second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). Also, the family of [Charles Wheelock](https://www.findagrave.com/memorial/85993460/charles-wheelock) (1787 to 12 Oct 1868) lived in Brooklyn NY before moving to the Trumansburg NY area. 
 
 <figure>
 <blockquote>
