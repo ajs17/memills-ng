@@ -186,7 +186,7 @@ The Wheelocks living in Erie County, included in the following list, lived in Cl
 
     - [Eugene J. Wheelock](https://www.findagrave.com/memorial/79798548/eugene-j-wheelock) (1848 to 02 Feb 1866).
 
-Perhaps it is worth further investigation to search for a possible business relationship between the West New Brighton grocers and [William Almy Wheelock](https://www.findagrave.com/memorial/178689119/william-almy-wheelock) (23 Mar 1825 to 06 Jul 1905) who was a dry goods jobber throughout the 1850's in Manhattan, creating a fortune for himself at a young age. In the 1850 United States Federal Census in New York Ward 17 (Ancestry.com), William Snedecker's occupation appears to be "hosiery" and William Wheelock's dry goods businesses routinely featured hosiery among their advertised products. And note that William Wheelock's middle name is also that of William Snedeker's wife, Lois Almy (Pine) Snedeker, Mary Ann's sister. 
+Perhaps it is worth further investigation to search for a possible business relationship between the West New Brighton grocers and [William Almy Wheelock](https://www.findagrave.com/memorial/178689119/william-almy-wheelock) (23 Mar 1825 to 06 Jul 1905) who was a dry goods jobber throughout the 1850's in Manhattan, creating a fortune for himself at a young age. In the 1850 United States Federal Census in New York Ward 17 (Ancestry.com), William Snedecker's occupation appears to be "hosiery" and William Wheelock's dry goods businesses routinely featured hosiery among their advertised products. And note that William Wheelock's middle name is also that of William Snedeker's wife, Lois Almy (Pine) Snedeker, Mary Ann's sister. But aside from this modest collection of coincidences, I don't have any direct evidence connecting William Wheelock to the Pines or Mills. 
 
 <div class="cols">
 {{% fig "staten-island/1858-09-04-The-Evening-Post-New-York-NY-p2" "350" /%}}
@@ -214,9 +214,8 @@ Perhaps William Wheelock was an investor in C. M. Pine & Co. in Staten Island, o
 {{% fig "wheelock/1878-06-24-The-Brooklyn-Union-Brooklyn-NY-p2" "350" /%}}
 </div>
   
-I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, as the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
+I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
 
-It is also perhaps worth noting that the second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). Also, the family of [Charles Wheelock](https://www.findagrave.com/memorial/85993460/charles-wheelock) (1787 to 12 Oct 1868) lived in Brooklyn NY before moving to the Trumansburg NY area. 
 
 <figure>
 <blockquote>
@@ -253,6 +252,7 @@ The original source is given as: Filby, P. William, Meyer, Mary K., Passenger an
 </aside> 
 </figure>
 
+It is also perhaps worth noting that the second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). Also, the family of [Charles Wheelock](https://www.findagrave.com/memorial/85993460/charles-wheelock) (1787 to 12 Oct 1868) lived in Brooklyn NY before moving to the Trumansburg NY area. 
 
 Finally, I looked into the previously mentioned James C. W. Mills, to see exactly what the "W" stands for, but I have not found documentation that spells out these initials. As far as I can tell, this is an unrelated Mills, not a descendant of Timothy Mills of Mills Pond or of George Mills of Jamaica. 
 
