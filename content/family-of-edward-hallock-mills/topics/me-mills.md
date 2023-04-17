@@ -176,7 +176,7 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 {{% fig "1922-09-George-Jansen" "800" /%}}
 {{% fig "1923-02-08-George-Jansen" "800" /%}}
 
-In 1925, Libbie Peck sells the Mills' store property to Dr. Benjamin Lockwood.
+In 1925, Libbie Peck sells the Mills' store property to [Dr. Benjamin Franklin Lockwood](https://www.findagrave.com/memorial/97943230/benjamin-franklin-lockwood) (01 Mar 1862 to 15 May 1934). 
 
 <div class="cols">
 {{% fig "me-mills/BF050069-001" "350" /%}}
@@ -189,6 +189,8 @@ Although I have only had limited access to the Mills' store journals--and theref
 {{% fig "1925-03-13-ithaca-journal" "350" /%}}
 {{% fig "1926-04-07-ithaca-journal" "350" /%}}
 </div>
+
+Shortly after Dr. Lockwood's death in 1934, his widow [Mittie A. (Peer) Lockwood](https://www.findagrave.com/memorial/97943261/mittie-a-lockwood) (10 Nov 1863 to 11 Oct 1939) sold the property to Jessie Brewer, days before Mills' store was burglarized.
 
 Two articles in the 14 Jul 1934 (p3) and 20 Nov 1934 (p5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendants of those accused.
 

@@ -216,7 +216,6 @@ Perhaps William Wheelock was an investor in C. M. Pine & Co. in Staten Island, o
   
 I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
 
-
 <figure>
 <blockquote>
 Cyrus Hubbard Wheelock (February 28, 1813 – October 11, 1894) was an early missionary and leader in the Church of Jesus Christ of Latter-day Saints. He wrote the words to the Latter-day Saint hymn "Ye Elders of Israel". Wheelock was born at Henderson, Jefferson County, New York.
