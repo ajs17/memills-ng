@@ -3,7 +3,7 @@ title: "Jonas Edward Mills"
 weight: 30
 ---
 
-Jonas Edward Mills, born 18 Feb 1852, Staten Island NY, died 14 October 1885, Brookton NY. Oldest child of Edward H. and Mary Ann Mills. Jonas worked as clerk in Mills' store in Mott's Corners/Brookton.
+Jonas Edward Mills, born 18 Feb 1852, Staten Island NY, died 14 October 1885, Brookton NY. Oldest child of Edward Hallock and Mary Ann Mills. Jonas worked as clerk in Mills' store in Mott's Corners/Brookton.
 
 <!--more-->
 

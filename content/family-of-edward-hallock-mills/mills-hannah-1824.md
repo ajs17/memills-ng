@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 70
 ---
 
-Hannah (Thatcher) Eastman Mills, born 21 May 1824, Hawkhurst, Kent, England, died 25 Feb 1917, Brookton NY. Second wife of Edward H. Mills, married 30 Dec 1896 and step-mother to Emily. Active member of Brookton Congregational Church, Ladies' Aid Society and Women's Christian Temperance Union. In this section, the Thatcher and Eastman genealogies are also explored.
+Hannah (Thatcher) Eastman Mills, born 21 May 1824, Hawkhurst, Kent, England, died 25 Feb 1917, Brookton NY. Second wife of Edward Hallock Mills, married 30 Dec 1896 and step-mother to Emily. Active member of Brookton Congregational Church, Ladies' Aid Society and Women's Christian Temperance Union. In this section, the Thatcher and Eastman genealogies are also explored.
 
 <!--more-->
 

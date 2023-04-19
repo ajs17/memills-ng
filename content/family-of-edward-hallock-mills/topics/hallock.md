@@ -37,7 +37,7 @@ Of these Thomas Hallocks, only two are known to be living in Smithtown during th
 
   - [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of James and Mary (Post) Hallock.
 
-It is Thomas, son of Noah, who is is found in the early records of the First Presbyterian Church in Smithtown in the late 1700's and early 1800's. He, along with Jedediah Mills were among the members that "revolted" in Oct 1808. Although he also has daughters named Sarah and Mary, the birthdates and married names do not match what we know of either Sarah or Mary Hallock, the daughters of Thomas who married the Mills. 
+It is Thomas, son of Noah, who is found in the early records of the First Presbyterian Church in Smithtown in the late 1700's and early 1800's. He, along with Mary Platt's father Jedediah Mills, were among the members that "revolted" in Oct 1808. Although he also has daughters named Sarah and Mary, the birthdates and married names do not match what we know of either Sarah or Mary Hallock, the daughters of Thomas who married the Mills. 
 
 <div class="cols">
 {{% fig "hallock/hallock-genealogy-tabulation-p602" "350" /%}}
@@ -50,7 +50,7 @@ It is Thomas, son of Noah, who is is found in the early records of the First Pre
 
 {{% fig "long-island/1759-1808-smithtown-presb-p15" "800" /%}}
 
-This leaves [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of [James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 to 27 Sep 1775) and [Mary (Post) Hallock](https://www.findagrave.com/memorial/240647149/mary-hallock) (1734 to 31 May 1810), as the only possible father of both Sarah and Mary Hallock, sisters who married Mills brothers George and Jonas. 
+So, by process of elimination among the known Thomas Hallocks, [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of [James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 to 27 Sep 1775) and [Mary (Post) Hallock](https://www.findagrave.com/memorial/240647149/mary-hallock) (1734 to 31 May 1810), is the only possible father of both Sarah and Mary Hallock, sisters who married Mills brothers George and Jonas. 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p601" "800" /%}}
 
@@ -58,7 +58,7 @@ This Thomas Hallock did not officially join First Presbyterian Church of Smithto
 
 {{% fig "long-island/1800-1860-smithtown-presb-p9" "800" /%}}
 
-However, several entries for this Thomas Hallock, son of James, in the LongIslandSurnames.com database show his marriage to Sarah (25 Nov 1780 to 18 Jan 1847) occurred 08 Mar 1797 in Smithtown Long Island NY, confirming that Mary Hallock is indeed a "Smithtown woman" when she married Jonas, as stated in her son James' obituary. (23 Apr 1915, The Long-Islander, Huntington NY, p5, nyhistoricnewspapers.org.) This Thomas Hallock is noted in the same database as having the following children, corroborating that he is the father of James born 04 Aug 1800 and Sarah Ann:
+However, several entries for this Thomas Hallock, son of James, in the LongIslandSurnames.com database show his marriage to Sarah (25 Nov 1780 to 18 Jan 1847) occurred 08 Mar 1797 in Smithtown Long Island NY, confirming that Mary Hallock was indeed a "Smithtown woman" when she married Jonas, as stated in her son James' obituary. (23 Apr 1915, The Long-Islander, Huntington NY, p5, nyhistoricnewspapers.org.) This Thomas Hallock is the father of Sarah A[nn], and also of James born 04 Aug 1800, corroborating the Hallock genealogy:
 
 >  1. James Hallock,   b. 4 Aug 1800, Smithtown, Suffolk Co., LI, NY  d. 4 May 1882, Smithtown, Suffolk Co., LI, NY (Age 81 years)  [natural]
 >
@@ -72,7 +72,7 @@ Thankfully, the history and genealogy of the Hallock family in America has been 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p15b" "800" /%}}
 
-The Hallock name was brought to America Peter Hallock "the original", who was a pilgrim fleeing persecution. The Hallock name began branching in the third generation, with the four sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
+The Hallock name was brought to America by Peter Hallock "the original", who was a pilgrim fleeing persecution. The Hallock name began branching in the third generation, with the four sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p9" "800" /%}}
 {{% fig "hallock/hallock-genealogy-tabulation-p532" "800" /%}}
@@ -148,7 +148,7 @@ So, while there is a good probability that the two men were at least aware of ea
 
 [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901) married [Sarah (Fleming) Hallock](https://www.findagrave.com/memorial/66472059/sarah-hallock) (08 Dec 1829 to 19 Oct 1910). 
 
-Among William and Sarah's children, two died as children and are buried in Central Chapel Cemetery in Brooktondale: [Arthur Hallock](https://www.findagrave.com/memorial/66484016/arthur-hallock) (01 Jan 1859 to 09 Oct 1865) and [Sarah Hallock]()https://www.findagrave.com/memorial/66483928/sarah-hallock (23 Feb 1857 to 23 Oct 1865). Another son, [James Henry Hallock](https://www.findagrave.com/memorial/97675935/james-henry-hallock) (1852 to 02 Sep 1924) is buried in Garret Mandeville Cemetery, along with his son, [Ezra Ward "Ward" Hallock](https://www.findagrave.com/memorial/97714885/ezra-ward-hallock) (22 Mar 1896 to 1962).
+Among William and Sarah's children, two died very young and are buried in Central Chapel Cemetery in Brooktondale: [Arthur Hallock](https://www.findagrave.com/memorial/66484016/arthur-hallock) (01 Jan 1859 to 09 Oct 1865) and [Sarah Hallock](https://www.findagrave.com/memorial/66483928/sarah-hallock) (23 Feb 1857 to 23 Oct 1865). Another son, [James Henry Hallock](https://www.findagrave.com/memorial/97675935/james-henry-hallock) (1852 to 02 Sep 1924) is buried in Garret Mandeville Cemetery, along with his son, [Ezra Ward "Ward" Hallock](https://www.findagrave.com/memorial/97714885/ezra-ward-hallock) (22 Mar 1896 to 1962).
 
 William came from Orange County NY. Two of William's siblings lived nearby: [John Hallock](https://www.findagrave.com/memorial/59251371/john-hallock) (27 Dec 1824 to 25 Mar 1884) whose descendants remained near Spencer, and [Almira L. (Hallock) Martin](https://www.findagrave.com/memorial/145482231/almira-l-martin) (07 Mar 1807 to 16 Oct 1865) of Dryden.
 

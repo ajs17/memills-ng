@@ -3,7 +3,7 @@ title: "James Wheelock Mills"
 weight: 50
 ---
 
-James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun 1860, Staten Island NY). The only evidence I have found for the existence of James Wheelock Mills is his baptism record in the Reformed Dutch Church of Port Richmond, Staten Island NY.
+James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun 1860, Staten Island NY). (Likely) third child of Edward Hallock and Mary Ann Mills. The only evidence I have found for the existence of James Wheelock Mills is his baptism record in the Reformed Dutch Church of Port Richmond, Staten Island NY.
 
 <!--more-->
 
@@ -186,7 +186,7 @@ The Wheelocks living in Erie County, included in the following list, lived in Cl
 
     - [Eugene J. Wheelock](https://www.findagrave.com/memorial/79798548/eugene-j-wheelock) (1848 to 02 Feb 1866).
 
-Perhaps it is worth further investigation to search for a possible business relationship between the West New Brighton grocers and [William Almy Wheelock](https://www.findagrave.com/memorial/178689119/william-almy-wheelock) (23 Mar 1825 to 06 Jul 1905) who was a dry goods jobber throughout the 1850's in Manhattan, creating a fortune for himself at a young age. In the 1850 United States Federal Census in New York Ward 17 (Ancestry.com), William Snedecker's occupation appears to be "hosiery" and William Wheelock's dry goods businesses routinely featured hosiery among their advertised products. And note that William Wheelock's middle name is also that of William Snedeker's wife, Lois Almy (Pine) Snedeker, Mary Ann's sister. But aside from this modest collection of coincidences, I don't have any direct evidence connecting William Wheelock to the Pines or Mills. 
+Perhaps it is worth further investigation to search for a possible business relationship between the West New Brighton grocers and [William Almy Wheelock](https://www.findagrave.com/memorial/178689119/william-almy-wheelock) (23 Mar 1825 to 06 Jul 1905) who was a dry goods jobber throughout the 1850's in Manhattan, creating a fortune for himself at a young age. In the 1850 United States Federal Census in New York Ward 17 (Ancestry.com), William Snedecker's occupation appears to be "hosiery" and William Wheelock's dry goods businesses routinely featured hosiery among their advertised products. By 1859, William Snedeker is also a dry goods jobber, operating several blocks away from William Wheelock.  And note that William Wheelock's middle name is also that of William Snedeker's wife, Lois Almy (Pine) Snedeker, Mary Ann's sister. But aside from this modest collection of coincidences, I don't have any direct evidence connecting William Wheelock to the Pines or Mills. 
 
 <div class="cols">
 {{% fig "staten-island/1858-09-04-The-Evening-Post-New-York-NY-p2" "350" /%}}

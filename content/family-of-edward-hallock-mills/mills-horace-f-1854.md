@@ -3,7 +3,7 @@ title: "Horace Franklin Mills"
 weight: 40
 ---
 
-Horace Franklin Mills, born 04 Aug 1854, Staten Island NY, died 21 October 1876, Corfu NY. Second child of Edward H. and Mary Ann Mills. Horace worked as clerk in E. H. Mills & Co., Corfu.
+Horace Franklin Mills, born 04 Aug 1854, Staten Island NY, died 21 October 1876, Corfu NY. Second child of Edward Hallock and Mary Ann Mills. Horace worked as clerk in E. H. Mills & Co., Corfu.
 
 <!--more-->
 

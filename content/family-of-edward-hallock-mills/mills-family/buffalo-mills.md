@@ -335,6 +335,8 @@ The identities of the remaining two men are most likely either brothers of eithe
 {{% fig "portraits/QPL/m020-0907-040-004-1" "350" /%}}
 </div>
 
+Notice that this is the same studio and border style as the presumed photograph of William Mills above. 
+
 > Lengthy frock coats prominently appear in early 1860s photographs, especially on older gentlemen. The end of the Civil War created an environment for change, clothing and style changes were swift. Less formal and shorter sack coats became popular throughout the decade. A casual look was brought to the photograph. (KG, p31.) 
 
 Note that there are known photos of James D. Warren's brother Horatio, ruling him out:
