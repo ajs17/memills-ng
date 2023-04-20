@@ -372,7 +372,7 @@ Mary (Mills) Warren appears to only have one sister that married, Martha Helme (
 
 This leaves the following as the most likely candidates to be in the last two portraits, along with their ages in 1865, within the estimated timeframe of the photographs:
 
-  - [William Erastus Mills](https://www.findagrave.com/memorial/78770720/william-erastus-mills) (18 Apr 1820 to 28 Jul 1861), died at the age of 41 in 1861 when CDVs were still quite new, but several aspects of this photo (no border, vignette style, etc.) suggest the photo quite possibly could been taken in the early 1860's.
+  - [William Erastus Mills](https://www.findagrave.com/memorial/78770720/william-erastus-mills) (18 Apr 1820 to 28 Jul 1861), died at the age of 41 in 1861 when CDVs were still quite new, but several aspects of the photo of the bearded man (no border, vignette style, etc.) suggest the photo quite possibly could been taken in the early 1860's. Note that the 1861 publication of *The Commercial Advertiser Directory for the City of Buffalo* (archive.org) does not list Powelson as a photographer at all, and the entry for the Buell photography studio is listed as "Buell, Chas. W. photographer, 214 Main, h. 128 N. Division." (p133).
   
   - [Seth William Warren](https://www.findagrave.com/memorial/113066557/seth-w-warren) (15 Mar 1841 to 19 May 1918), 24 years old in 1865.  
  
@@ -380,7 +380,7 @@ This leaves the following as the most likely candidates to be in the last two po
 
   - [Thomas Helme Mills](https://www.findagrave.com/memorial/78770701/thomas-helme-mills) (08 Feb 1829 to 17 Jun 1896), 36 years old in 1865.
 
-Based on this, I believe that it is most likely that the bearded man is John Smith Mills or possibly William Erastus Mills, and the clean shaven man is most likely Thomas Helme Mills. As will be shown below, Thomas's Buffalo Directory indicates Thomas Helme Mills lived in the family home at 111 Park Street in 1868, the year after his father William's death. Several John Mills are listed in the directories of the 1860s, although none can yet be confirmed as William's son.
+Based on this, I believe that it is most likely that the bearded man is John Smith Mills, and the clean shaven man is most likely Thomas Helme Mills. As will be shown below, Thomas's Buffalo Directory indicates Thomas Helme Mills lived in the family home at 111 Park Street in 1868, the year after his father William's death. Several John Mills are listed in the directories of the 1860s, although none can yet be confirmed as William's son.
 
 These portraits as well as other information on the Buffalo Mills that are in the Queens collection were transferred there from The Buffalo History Museum in Buffalo NY.
 

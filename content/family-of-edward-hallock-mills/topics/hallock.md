@@ -75,7 +75,7 @@ Thankfully, the history and genealogy of the Hallock family in America has been 
 The Hallock name was brought to America by Peter Hallock "the original", who was a pilgrim fleeing persecution. The Hallock name began branching in the third generation, with the four sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p9" "800" /%}}
-{{% fig "hallock/hallock-genealogy-tabulation-p532" "800" /%}}
+
 {{% fig "hallock/hallock-genealogy-tabulation-p533" "800" /%}}
 
 {{% fig "hallock/hallock-genealogy-tabulation-p621" "800" /%}}
@@ -128,8 +128,6 @@ Edward H. Mills and William B. Hallock are both in the eighth generation of the 
 William B. was under the "John Branch" of the Hallock tree which was said to be the most prolific of the Four Sons of William, and as Lucius Hallock noted "the ten daughters of the first John have been most difficult to place". John converted to Quakerism, to the great dismay of his father.
 
 {{% fig "hallock/hallock-genealogy-tabulation-p410" "800" /%}}
-{{% fig "hallock/hallock-genealogy-tabulation-p411" "800" /%}}
-
 
 William Hallock’s family moved from Caroline to Danby sometime between 30 Jun 1865, when they are listed in the New York State Census in Caroline (Ancestry.com) and 02 Jul 1870, when they are listed in the United States Federal Census in Danby (Ancestry.com), at least a decade before Edward Mills’ family moves to Caroline. 
 

@@ -1,8 +1,11 @@
 ---
-citation: "1928, <em>A Hallock genealogy: an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck</em> by Lucius Henry Hallock, p533, familysearch.org."
+citation: "1928, <em>A Hallock genealogy: an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck</em> by Lucius Henry Hallock, p532-533, familysearch.org."
 ---
+PETER HALLOCK. The Original. d. 1.
 
-pastor, and immediately set up a church, naming the place Southold, apparently after a Southwold in their native land. 
+Was born about 1600. Was probably an English Puritan, but his antecedents were unknown. 
+
+According to a well authenticated legend, he landed at Southold, L. L, about 1640, with 12 others, all members of a Presbyterian Church in Hingham, Norfolk Co., England, about 100 miles N.E. of London. They were accompanied by Rev, John Youngs, their pastor, and immediately set up a church, naming the place Southold, apparently after a Southwold in their native land. 
 
 Peter Hallock was accompanied later by his second wife, known as the Widow Howell. She had a son and a daughter by a former husband and he also had a son by a former wife. He promised her that if she would accompany him to this new world, her son should share equally with his in his estate. 
 
