@@ -145,7 +145,7 @@ Edward's father Jonas died in 1882.
 
 Edward's son Jonas died after a brief illness in Oct 1885.
 
-{{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}}
+{{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}} 
 
 Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. (As this is written, Cleveland is the only president to have two non-consecutive terms.) A partial list of Brooktondale postmasters from usps.gov, beginning with the very first, up to the 1970's:
 
@@ -172,6 +172,8 @@ William Mott II…deposed the postmaster [Willet Terry] at Terryville (on Coddin
 An example of a postmark a week before Edward became postmaster:
 
 {{% fig "postmarks/1885-07-20-front-closeup" "800" /%}}
+
+{{% fig "1885-07-30-Elmira-Daily-Advertiser-Elmira-NY-p5" "500" /%}}
 
 The following are examples of Edward's postmark during his time as postmaster:
 

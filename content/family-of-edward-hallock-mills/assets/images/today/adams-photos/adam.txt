@@ -12,12 +12,31 @@ Adam had no children. He was a life-long learner and enjoyed being physically ac
 
 13 Dec 2022
 
+
+---
+
+I didn't set out to create what this investigation has become, and I grossly underestimated the time and effort needed to attempt achieving my goals. I only added structure and "best practices" as they truly became needed, and even then, only when I felt confident in a solution. Organizing content initially by date, and eventually subject, and writing citations, quotes, and thinly connecting them with my notes, and similar practices, evolved over time as my current "system" started to become counterproductive to my research. Eventually, I wrote software to partially automate a digitization workflow that allowed me to efficiently move from research to collection and classification, and eventually, publication. I was constantly trying to push forward, anything that began to slow my progress was optimized.
+
+I put the information online initially just to facilitate communication with other historians, Mills descendants, etc. It seemed appropriate at the time to give Emily's store a website and host the information there.
+
+As a result, the images are an incongruent mix of organizational approaches, as one example. I accepted that I would learn and evolve my approach over time, and in many cases, I didn't go back to retoactively impose new standards, as I wanted to keep moving forward.
+
+I also had to accept that there would be a mix of citation styles, as some sources explictly provided their preferred citation format. So, for the citations I had control over, I eventually came up with my own standard approach that served my needs most efficiently.
+
+For a long time, I defined my work as simply collecting and cataloging the evidence I found, and I resisted drawing conclusions, making inferences, proposing theories. But eventually this too would come to limit my progress, so I gradually relented. I hope that I have made these clear in the text.
+
+After a while, I became aware that assuming my work was preserved, it could become a long letter to a person yet born. This person may read this and appreciate the time and effort it took from me, and my motivation for giving it. This person, perhaps a future 475er, might match my interest in these subjects and continue this effort, correcting my mistakes, furthering lines of research and solving new mysteries. 
+
+I don't think I can adequately convey what Emily has come to mean to me or why. Perhaps someday someone else will understand it as I do.
+
+
+
 -----
 My property is at 475 Brooktondale Rd, Brooktondale, NY 14817, tax map ID: 11.-1-16. In the 1860's it was subdivided from the property next door to the east, and it is that boundary line that is in question. The property next door is currently Dalebrook Apartments, but was originally a grist mill, its address is 487 Brooktondale Road, Brooktondale, NY 14817, tax map ID: 11.-1-15, owned currently by Frank Proto. As you will see, Brooktondale Road used to be called Creek Road, Route 330, and Cooks Corners-Brookton Highway, or a variation of that.
 
 Here is a summary of my deeds back to the beginning, I believe. Those deeds listed below starting with "*" contain survey maps.
 
-  - Caroline Deeds: 1/572, 1869-05-22/1869-11-27, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to William B. Wolcott
+  - Caroline Deeds: 1/572, 1869-05-22/1869-11-27, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to William B. Wolcott 
   - Caroline Deeds: 5/70, 1883-10-23/1883-11-10, William B. Wolcott and Ellen Wolcott, his wife to Horace N. Humiston senior
   - Caroline Deeds: 5/138, 1885-01-01/1885-04-11, Horace N. Humiston to Esther C. Vorhis
   - Deeds: 138/329, 1891-06-13/1891-06-30, Esther C. Vorhis and Frank C. Vorhis to Edward Lounsbery
@@ -31,9 +50,27 @@ Here is a summary of my deeds back to the beginning, I believe. Those deeds list
   * Deeds, 683/73, 1992-08-27/1992-08-31, Lawrence E. Lattin and Janet L. Lattin to Andrea Talmadge
   * My current deed. 
 
+
+27 Aug 1992, Boundary Line Agreement, Deeds 683, p70, Tompkins County Clerk, Ithaca NY.
+
+This means that the following 
+
+<figure>
+
+> WHEREAS, the easterly line of said Lattin adjoins the westerly line of said Proto; and 
+
+> WHEREAS, a corner of a shed and railroad tie retaining wall erected by Lattin projects over the common property line on to the Proto property according to a survey titled "Survey Map Showing House Location at 475 Brooktondale Rd., Town of Caroline, Tompkins Co., New York", which survey is attached hereto and which is being recorded herewith;
+
+<figcaption>
+<cite> 
+– 27 Aug 1992, Boundary Line Agreement Between Lawrence and Janet Lattin and Frank Proto, Deeds 683, p70. “Survey Map Showing House Location at 475 Brooktondale Rd., Town of Caroline, Tompkins Co., New York”  Howard Schlieder, p71. Tompkins County Clerk, Ithaca NY. Cropped."
+</cite>
+</figcaption>
+</figure>
+
 January 2023: A question regarding the eastern boundary line with Dalebrook:
 
-    A. Starting with an updated survey of my property prepared by Howard Schlieder for Deeds 577, p1058 from 1980, two eastern property lines are shown, and subsequently, Deeds 683, p70 from 1992 contains an updated survey still showing both lines along with an e ncroachment agreement between Frank Proto, owner of Dalebrook then and now, and previous owners of my property, Larry and Janet Lattin, acknowledging a shed existing at that time that is thought (incorrectly, as I will show) to now be over the property line. Both of these lines still appear on my current survey (from when I purchased the property), and the shed still exists in the same footprint presently. 
+    A. Starting with an updated survey of my property prepared by Howard Schlieder for Deeds 577, p1058 from 1980, two eastern property lines are shown, and subsequently, Deeds 683, p70 from 1992 contains an updated survey still showing both lines along with an encroachment agreement between Frank Proto, owner of Dalebrook then and now, and previous owners of my property, Larry and Janet Lattin, acknowledging a shed existing at that time that is thought (incorrectly, as I will show) to now be over the property line. Both of these lines still appear on my current survey (from when I purchased the property), and the shed still exists in the same footprint presently. 
 
     B. However, the following three surveys taken together prove very clearly that the encroachment agreement incorrectly identified the true boundary line:
 
@@ -93,8 +130,20 @@ I think we often speak loosely, perhaps implying #1 when we can only really mean
 
 
 
-To begin, is there any reason for me not to remove the orange tags near the streets, and discard that broken stone monument?
+Is there any reason for me not to remove the orange tags near the streets, and discard that broken stone monument?
 
+There is a note on the deed that says it was prepared without an abstract of title, which I could have easily provided had I known that might make a difference. Should this be reviewed now?
+
+Do I need to file the survey with the county clerk?
+
+This may now be inconsistent with the written deed description of the property. Should this be updated, and how?
+
+previous encroachment agreement should be vacated?
+
+
+
+
+ 
 Then my historical questions, mainly trying to understand more precisely where the barn and mill race bridge were based on the attached highway survey from 1912. I realize this was done at a very different time and for a very different purpose, but I am still hoping you can provide more insight based on your expertise.
 
 How accurately can I take the placement of the boundary lines and structures? Can I really assume that the western side of the barn on my property was roughly lined up with the eastern side of the home on the other side of the road?

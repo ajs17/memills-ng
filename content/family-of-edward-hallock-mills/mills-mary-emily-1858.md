@@ -265,7 +265,7 @@ Further research will obviously need to be done, but ultimately, Emily's exact d
 
 Understandably, histories of the Mills family have typically focused almost exclusively on Emily. All previous secondary sources of information on Emily accepted 1861 as her birth year.
 
-Emily is mentioned twice by Molly Adams (1936 to 23 Jun 2014) in her chapter *Town of Caroline* in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann:
+Emily is mentioned twice by Molly Adams (1936 to 23 Jun 2014) in her chapter "Town of Caroline" in *The Towns of Tompkins County: From Podunk to the Magnetic Springs* edited by Jane Marsh Dieckmann:
 
 <blockquote class="quote_only">
 ...[George Jansen] noted the death of Emily Mills, who had continued her father's store for thirty years, extending credit to many needy individuals. (p62)

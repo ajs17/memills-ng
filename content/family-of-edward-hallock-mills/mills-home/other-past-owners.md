@@ -3,7 +3,7 @@ title: "Deeds and Other Past Owners"
 weight: 100 
 ---
 
-This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's with the first presumed owner, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer.
+This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's with the first presumed owner, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer. It is unclear exactly when the Mills family first moved into the home. 
 
 <!--more-->
 
@@ -25,24 +25,24 @@ This section explores the historical deeds and the lives of some of the other fo
 
 The mid-2000’s real estate listing indicated the home was built in 1865, although I can’t confirm that. As noted in the deed descriptions, the Mills' home was originally part of the grist mill property next door, what is presently Dalebrook Apartments. 
 
-The grist mill was known as the "lower mill" and over the years, the lot was subdivided several times. The roof and foundation of Dalebrook are what survives today of the grist mill structure. Still present in the stone foundation are rings that horses were tied to while wagons were loaded and unloaded in the upper basement level.  Evidence of the mill pond and the course of the mill race can still be seen in the landscape in 2022.
+The grist mill was known as the "lower mill" and over the years, the lot was subdivided several times. The roof and foundation of Dalebrook are what survives today of the grist mill structure. Still present in the stone foundation are rings that horses were tied to while wagons were loaded and unloaded in the upper basement level. Evidence of the mill pond and the course of the mill race can still be seen in the landscape in 2022.
 
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
  
-Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on Emily Mills," including that the house was "part of the grist mill lot" and that it was "occupied by E. H. Mills as tenant."
+Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on Emily Mills," including that the house was "part of the grist mill lot" and that it was "occupied by E. H. Mills as tenant" prior to him purchasing the home. 
 
 A summary of the historical deeds referenced below, up to the time it was owned by Jessie Brewer:
 
 {{% table "/static/data/deeds.csv" "mills-home-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount" "" "property" "=" "Mills Home" %}}
 
-## Charles W. Personius
-
-I believe this may be the first deed for the property after it was sub-divided from the grist mill lot. Thanks to Alanna Congdon at the Tompkins County Clerks Office, who provided an alternative scan of the original to the one already available online. I present both as each is clear in areas where the other is not:
+The following is the first deed for the property after it was sub-divided from the grist mill lot. Thanks to Alanna Congdon at the Tompkins County Clerks Office, who provided an alternative scan of the original to the one already available online. I present both as each is clear in areas where the other is not:
 
 <div class="cols">
 {{% fig "mills-home/caroline-deeds-1-572" "350" /%}}
 {{% fig "mills-home/caroline-deeds-1-572-alt-scan" "350" /%}}
 </div>
+
+## Charles W. Personius
 
 It appears that the grist mill was co-owned by [Jacob Vandemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873) and [Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924). In 1868, Mills' store deeds describe the lot as "nearly on opposite side of the highway from Jacob Vandemark's Grist Mill" (Caroline Deeds 1, p556), and in 1874 the phrase is changed to "nearly on opposite side of the highway from Charles Personius Mills" (Caroline Deeds 3, p234). In 1934: "nearly opposite the mill formerly owned by Charles Personius, now occupied by the Lockwood apartment building" (Deeds 235, p84). Of course, the Lockwood apartment building is Dalebrook. Jacob's exact role is unclear, but Charles was described elsewhere as a miller, and he is often referred to as the owner of the grist mill in later years, and when it is sold to A. Cameron Vorhis, the mill was called Personius Flouring Mills.
 
@@ -85,6 +85,10 @@ The greatest difficulty which the engineers experienced was in transporting the 
 </cite>
 </figcaption>
 </figure>
+
+Among those who heard these words spoken was Charles' brother Walker who had the honor of "delivering the monument" of his regiment.
+
+{{% fig "mills-home/1890-09-09-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 
 {{% fig "mills-home/New_York_Engineers" "800" /%}}
 {{% fig "mills-home/rappahannock-bridge-fredericksburg" "800" /%}}
@@ -133,9 +137,11 @@ It isn't clear exactly when or at which crossing the following photos were taken
 
 ## William Benton Wolcott
 
-My current understanding is that the deed above shows the likely first owner of the parcel that became known as The Mills' Place was [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of [George Wolcott](https://www.findagrave.com/memorial/89338779/george-wolcott) (23 Dec 1801 to 09 Dec 1860) and [Sarah A. (Reed) Wolcott](https://www.findagrave.com/memorial/89338780/sarah-a-wolcott) (23 Dec 1804 to 07 May 1886). (George and Sarah died years apart and are not buried next to each other in Brookton Cemetery. As of Summer 2022, both of their stones are broken in half.)
+In the 1887 Dalebrook deed (Caroline Deeds 2, p510), the grist mill is described as it was originally "excepting and reserving herefrom the land heretofore conveyed by Jacob Vandemark and Charles W. Personius to Wm. B. Wolcott", the first owner of what was called "the Wolcott Lot" and eventually "the Mills' Place".
 
-In the years immediately preceding this purchase, William had spent three years as a Union soldier in the Civil War, mustering out 09 June 1865. The following Spring, William and his wife [Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928), had their only child [Willis B. Wolcott](https://www.findagrave.com/memorial/187989322/willis-b-wolcott) (14 Apr 1866 to 10 Nov 1903). The historical deeds for Dalebrook refer to the adjoining property as the "Wolcott lot". If William is indeed the first true owner of the divided lot, given the timing and his expertise, perhaps he had a direct role in its construction.
+[William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of [George Wolcott](https://www.findagrave.com/memorial/89338779/george-wolcott) (23 Dec 1801 to 09 Dec 1860) and [Sarah A. (Reed) Wolcott](https://www.findagrave.com/memorial/89338780/sarah-a-wolcott) (23 Dec 1804 to 07 May 1886). (George and Sarah died years apart and are not buried next to each other in Brookton Cemetery. As of Summer 2022, both of their stones are broken in half.)
+
+In the three years immediately preceding this purchase, William was a Union soldier in the Civil War, mustering out 09 June 1865. The following Spring, William and his wife [Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928), had their only child [Willis B. Wolcott](https://www.findagrave.com/memorial/187989322/willis-b-wolcott) (14 Apr 1866 to 10 Nov 1903). The historical deeds for Dalebrook refer to the adjoining property as the "Wolcott lot". If William is indeed the first true owner of the divided lot, given the timing and his expertise, perhaps he had a direct role in its construction.
 
 | | | 
 | --- | --- | 
@@ -462,7 +468,7 @@ Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charl
  
 {{% fig "mills-home/138-329" "800" /%}}
 
-This shows the first mention of the Mills family. This confirms that Edward and Amanda never occupied this home themselves.
+This deed contains the first mention of the Mills family, living in the home "as tenants" prior to owning it, at least by June 1891, and possibly earlier. It seems most likely that Edward and Amanda never occupied the home themselves.
 
 [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Edward was also a member of the Independent Order of Good Templars in Brookton.
 
@@ -561,6 +567,8 @@ I don't currently understand the apparent connection between Jessie Brewer and D
 
 See more information on the Jones family, the Lattins, and Andrea Talmadge [here]({{% relref "jones-lattin-talmadge" %}}).
 
+The evidence strongly suggests to me that of the owners of Mills' Home prior to the Jones family, only the Wolcotts and Mills actually occupied the home.
+
 ## Related Research
 
 The Mills' home is the only real estate that I can find official documentation for the Mills' owning. Mills' store was at different times owned by Edward and Amanda Lounsbery, Amanda's sister Libbie Peck, and then Dr. Lockwood. 
@@ -581,7 +589,6 @@ There is only one other deed unrelated to the Mills’ home that I found associa
 </div>
 
 Notice that these deeds include an affidavit from Dr. Lockwood.
-
 
 
 
