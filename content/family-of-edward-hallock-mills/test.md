@@ -2,16 +2,16 @@
 draft: true
 ---
 
-
 new photos of raceway today
 mulks radio
-
 
 John Mandeville on founders page
 emily's grave,
 emily, first to die in hospital
-Hallock page needs thorough proofreading and editing
 see store from home
+"bay" horses
+william and orsamus warren named after grandparents
+Hallock page needs thorough proofreading and editing
 
 — Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p61.
 52: garrett mandeville
@@ -33,13 +33,8 @@ brewer barn
 
 gar photo on bridge and founders page 
 
-Hallock page needs thorough proofreading and editing
 
 mary hallock's death date
-
-"bay" horses
-
-william and orsamus warren named after grandparents
 
 
 masons in 1865 NYS census

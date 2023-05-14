@@ -9,6 +9,8 @@ In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Roa
 
 > "As a young boy, [Carl English] and his brother had been part of a work crew hired to fill in the creek / stream that ran from the mill pond (between you and the Dalebrook)...across B'dale Rd...through what's now an empty field between the Andersson's and the Todi's property....into Six Mile Creek.  There was a bridge near 475 giving it the nickname "bridge's house" or something like that.  This fill-in, while successful, resulted in fairly unstable land."
 
+{{% toc "Jump To:" %}}
+
 First, some background on the grist mill/Dalebrook property itself, beginning with the deed history during the relevant time period that will be discussed.
 
 {{% table "/static/data/deeds.csv" "mills-home-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount" "" "property" "=" "Dalebrook" %}}
@@ -83,7 +85,7 @@ The transcribed legal property description:
 > Being a part of the grist mill lot and bounded as follows. **Beginning in the center of the Creek road, 71 links westerly from the center of the bridge over the race from the grist mill** and running thence south 81 degrees east 1 chain and 43 links to a stake; thence north nine degrees east, four chains & twenty links to the brow of the hill. Thence westerly along said brow of hill to the center of the aforesaid "Creek road". Thence easterly along said center of road three chains & ten links to the place of beginning.
 
 <figcaption>
-<cite>— 22 May 1869, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to William B. Wolcott, Caroline Deeds Book 1, p572, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
+<cite>— 22 May 1869, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to William B. Wolcott, Caroline Deeds 1, p572, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
 </figcaption>
 </figure>
 
@@ -162,7 +164,7 @@ The transcribed property description:
 > Being a part of the grist mill lot and bounded as follows. **Beginning in the center of the Creek road, eighty-two links easterly from the center of the bridge crossing the mill race;** running thence north nine degrees east, sixty-three links to a stake; thence north nine degrees east, four chains and twenty links to the brow of the hill; thence westerly along said brow of hill to the center of the aforesaid Creek Road; thence easterly along said center of road four chains and sixty-three links to the place of beginning.
 
 <figcaption>
-<cite>— 23 Oct 1883, William B. Wolcott and Ellen Wolcott, his wife to Horace N. Humiston Senior. Caroline Deeds Book 5, p70, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
+<cite>— 23 Oct 1883, William B. Wolcott and Ellen Wolcott, his wife to Horace N. Humiston Senior. Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
 </figcaption>
 </figure>
 
@@ -456,7 +458,7 @@ Yet Rice's place of beginning lived on in the written legal deed description of 
 
 <figcaption>
 <cite>
-– 01 Jul 1969, Jessie Brewer to C. Dalton Jones and Clara B. Jones, Deeds Book 482, p528, Tompkins County Clerk, Ithaca, NY. 
+– 01 Jul 1969, Jessie Brewer to C. Dalton Jones and Clara B. Jones, Deeds 482, p528, Tompkins County Clerk, Ithaca, NY. 
 </cite>
 </figcaption>
 </figure>
@@ -549,6 +551,13 @@ Overlaying only the 1869, 1883 and Tract III pseudo-surveys further suggests tha
 
 {{% fig "brookton/maps/surveys/1869-1883-t3" "800" /%}}
 
+Evidence of the mill pond and the mill race can still be seen in the landscape as I write this. A clear example can be found in the disturbed area of fencing along the eastern side of Todi's property in 2023, the property shown with the name Gardner Perry in the 1912 highway survey. In the following photographs, you can see the top of the fence dips in an area where wooden poles are reinforcing it. 
+
+{{% fig "today/adams-photos/mill-race/2023-05-06_15.14.30" "800" /%}}
+{{% fig "today/adams-photos/mill-race/2023-05-06_15.14.50" "800" /%}}
+{{% fig "today/adams-photos/mill-race/2023-05-06_15.14.55" "800" /%}}
+{{% fig "today/adams-photos/mill-race/closer" "800" /%}}
+
 ## 1869 and 1883 as Magnetic Bearings 
 
 A Dalebrook appropriation map from 1963 suggests the possibility that the mill race bridge, and therefore, the boundary line shared by Mills' Home and Dalebrook, may be approximately 82 links or 54 feet to the east of where it has generally been interpreted to be.
@@ -571,7 +580,7 @@ The 1869 Mills' home deed description, adjusted for magnetic declination:
 
 <figcaption>
 
-– Based on 22 May 1869, Jacob Vandemark, Charles W. Personius & Marcie E. his wife to William B. Wolcott, Caroline Deeds Book 1, p572, Tompkins County Clerk, Ithaca NY.
+– Based on 22 May 1869, Jacob Vandemark, Charles W. Personius & Marcie E. his wife to William B. Wolcott, Caroline Deeds 1, p572, Tompkins County Clerk, Ithaca NY.
 
 <figcaption>
 
@@ -593,7 +602,7 @@ Then, the same was done for 1883:
 | 5 | | thence easterly along said center of road four chains and sixty-three links to the place of beginning. | | S 64° 30' E |
 
 <figcaption>
-<cite>— 23 Oct 1883, William B. Wolcott to Horace N Humiston senior, Caroline Deeds Book 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
+<cite>— 23 Oct 1883, William B. Wolcott to Horace N Humiston senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
 <figcaption>
 
 </figure>
@@ -624,12 +633,6 @@ The overlay on Dresser is particularly interesting:
 But ultimately, the preponderance of evidence strongly suggests the original deeds were intended to be true bearings, and traditionally, this is how they have been interpreted, ultimately based on the existence of two iron pipes that appear to have been set in 1883 or after, that are in a 9° line that seems to originate on the brow of the hill at the location of point C in 1883.Rice describes the lower of the two pipes as an "old iron pipe" in 1969.
 
 
-<!--
-
-{{% toc "Jump To:" %}}
 
 
-M22 P30 is the reference to the appropriation Map 22 Parcel 30. This map is taking additional 0.064 acres of land and is referenced as Parcel 99 on Map 71 (at the top of the map).
-
-see instrument # BF162398-001, 11 Aug 1965, map drawer 545.  also, appropriation maps showing mills store, course of road, search under brewer.
 

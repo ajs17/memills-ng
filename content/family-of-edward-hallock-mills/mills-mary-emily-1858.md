@@ -172,7 +172,10 @@ It seems likely that Emily grew a garden not just for her own use, but to have f
   {{% fig "1918-10-15-ithaca-journal" "350x300" "" "top" /%}}
 </div>
 
-{{% fig "1923-04-24-ithaca-journal" "500" /%}}
+<div class="cols">
+{{% fig "1923-04-24-ithaca-journal" "350" /%}}
+{{% fig "1923-04-11-The-Ithaca-Journal-Ithaca-NY-p11" "350" /%}}
+</div>
 
 George Jansen painted Emily's home in the Summer of 1924: 
 
