@@ -17,13 +17,13 @@ According to the Mills genealogy, Edward's mother Mary Hallock is the daughter o
 
 {{% fig  "genealogy/Genealogies-of-Long-Island-Families-p109" "800" "img,blockquote,cite,link" /%}}
 
-Yet neither Mary, nor the similarly identified Sarah Hallock, are listed in the volume *A Hallock genealogy: an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck* by Lucius Henry Hallock, 1928, familysearch.org. 
+Yet neither Mary Hallock, nor the similarly identified Sarah Hallock, are listed in the volume *A Hallock genealogy: an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck* by Lucius Henry Hallock, 1928, familysearch.org. 
 
-However, when looking into the Hallock genealogy, one is immediately struck by the lack of wives and daughters listed in earlier generations. Lucius Hallock explains this:  
+However, when looking into the Hallock genealogy, one is immediately struck by the lack of wives and daughters listed in earlier generations. Lucius Hallock acknowledges this:  
 
 {{% fig "hallock/hallock-genealogy-tabulation-p16" "800" /%}}
 
-But I believe I have compelling circumstantial evidence that demonstrates that Sarah and Mary are sisters who married the Mills brothers. 
+But I believe I have compelling circumstantial evidence that demonstrates that Mary and  Sarah Hallock are sisters who married the Mills brothers. 
 
 There are exactly two dozen Thomas Hallocks in *A Hallock Genealogy*, however, I believe Mary Hallock's father can be confidently identified among them and her place in the genealogy can be restored. Beginning with the complete inventory of Thomas Hallocks across all generations as given in *A Hallock Genealogy*, summarized below:
 
@@ -31,13 +31,13 @@ There are exactly two dozen Thomas Hallocks in *A Hallock Genealogy*, however, I
 {{% table "/static/data/thomas-hallock.csv" "thomas-hallocks" "page,gen,dob,dod,locations,married,wife,notes" "Data taken from 1928, *A Hallock Genealogy* by Lucius Henry Hallock, uncestry.com" "" "Summary of Thomas Hallocks in the *Hallock Genealogy*" %}}
 </figure>
 
-Of these Thomas Hallocks, only two are known to be living in Smithtown during the correct time period, as they are in the same generation:
+Of these Thomas Hallocks, only two are known to be living in Smithtown during the correct time period, and they are in the same generation:
     
   - [Thomas Hallock](https://www.findagrave.com/memorial/36331658/thomas-hallock) (06 Jan 1766 to 10 Mar 1845), son of Noah and Nancy (Hendrickson) Hallock. He also had a son Thomas who was a farmer in Smithtown. 
 
   - [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of James and Mary (Post) Hallock.
 
-It is Thomas, son of Noah, who is found in the early records of the First Presbyterian Church in Smithtown in the late 1700's and early 1800's. He, along with Mary Platt's father Jedediah Mills, were among the members that "revolted" in Oct 1808. Although he also has daughters named Sarah and Mary, the birthdates and married names do not match what we know of either Sarah or Mary Hallock, the daughters of Thomas who married the Mills. 
+It is Thomas, son of Noah, who is found in the early records of the First Presbyterian Church in Smithtown in the late 1700's and early 1800's. He, along with Mary Platt's father Jedediah Mills, were among the members that "revolted" in Oct 1808. Although he also has daughters named Sarah and Mary, the birthdates and married names do not match what we know of either Sarah or Mary Hallock, who are the daughters of Thomas who married the Mills. 
 
 <div class="cols">
 {{% fig "hallock/hallock-genealogy-tabulation-p602" "350" /%}}
@@ -50,7 +50,7 @@ It is Thomas, son of Noah, who is found in the early records of the First Presby
 
 {{% fig "long-island/1759-1808-smithtown-presb-p15" "800" /%}}
 
-So, by process of elimination among the known Thomas Hallocks, [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of [James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 to 27 Sep 1775) and [Mary (Post) Hallock](https://www.findagrave.com/memorial/240647149/mary-hallock) (1734 to 31 May 1810), is the only possible father of both Sarah and Mary Hallock, sisters who married Mills brothers George and Jonas. 
+So, by process of elimination among the known Thomas Hallocks, [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854), son of [James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 to 27 Sep 1775) and [Mary (Post) Hallock](https://www.findagrave.com/memorial/240647149/mary-hallock) (1734 to 31 May 1810), is the only possible father of both Sarah and Mary Hallock, sisters who married the Mills brothers George and Jonas. 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p601" "800" /%}}
 
@@ -68,7 +68,7 @@ However, several entries for this Thomas Hallock, son of James, in the LongIslan
 
 Therefore, I conclude that this Thomas Hallock must be Edward H. Mills' grandfather.
 
-Thankfully, the history and genealogy of the Hallock family in America has been painstakingly researched and documented over multiple generations of Hallocks, starting with [Reverend William Allen Hallock](https://www.findagrave.com/memorial/146144870/william-allen-hallock) (02 Jun 1794 to 02 Oct 1880), a Congregational pastor whose 1866 work *Hallcok Ancestry* was extended in 1906 by his nephew [Charles Hallock, M. A.](https://www.findagrave.com/memorial/136091127/charles-hallock) (1834 to 1917) (for whom the city of Hallock MN is named) , finally culminating in the 1928 *Hallock Genealogy* by [Lucius Henry Hallock](https://www.findagrave.com/memorial/86053988/lucius-henry-hallock) (1853 to 01 Dec 1933). 
+The history and genealogy of the Hallock family in America has been painstakingly researched and documented over multiple generations of Hallocks, starting with [Reverend William Allen Hallock](https://www.findagrave.com/memorial/146144870/william-allen-hallock) (02 Jun 1794 to 02 Oct 1880), a Congregational pastor whose 1866 work *Hallcok Ancestry* was extended in 1906 by his nephew [Charles Hallock, M. A.](https://www.findagrave.com/memorial/136091127/charles-hallock) (1834 to 1917) (for whom the city of Hallock MN is named) , finally culminating in the 1928 *Hallock Genealogy* by [Lucius Henry Hallock](https://www.findagrave.com/memorial/86053988/lucius-henry-hallock) (1853 to 01 Dec 1933). 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p15b" "800" /%}}
 
@@ -93,7 +93,7 @@ William B. and Sarah Lived in Caroline, Tompkins County, N.Y. Later moved to Dan
 </figcaption>
 </figure>
 
-William B. Hallock owned considerable lands in the town of Caroline at a time when the Mills were living in Corfu, for example:
+William B. Hallock owned various properties in the town of Caroline at a time when the Mills were living in Corfu, for example:
 
 <div class="cols">
 {{% fig "hallock/CAROLINE-DEEDS-1-258" "350" /%}}
@@ -105,7 +105,7 @@ William B. Hallock owned considerable lands in the town of Caroline at a time wh
 {{% fig "hallock/CAROLINE-DEEDS-1-513" "350" /%}}
 </div>
 
-Edward H. Mills and William B. Hallock are both in the eighth generation of the Hallock family, although their branches diverge immediately from their origin, so the relationship is quite distant.
+Edward H. Mills and William B. Hallock are both in the eighth generation of the Hallock family, although their respective branches diverge immediately from their origin, so the relationship is quite distant.
 
 <figure>
 

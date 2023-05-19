@@ -247,7 +247,7 @@ Emily was the last in the line of Edward H. Mills, and it seems that her family'
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
 
-As is the case with Hannah, the date of birth on Emily's headstone is incorrect:
+As one is standing in front of the Emily's headstone, with back to the cemetery entrance on Lounsbery Road, the ground is disturbed on the left side of the two plots purchased for Emily, indicating where she rests. As is the case with Hannah, the date of birth on Emily's headstone is incorrect:
 
 {{% fig "today/grave-emily/feature" "800" /%}}
 

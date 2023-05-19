@@ -13,6 +13,19 @@ The process of the founding of the Congregational Church is recorded in the volu
 
 {{% toc  "Jump To:" %}}
 
+
+<figure>
+
+>The first church in Caroline was the Dutch Reformed, which organized in 1812 and put up a large building west of Boiceville in 1820. The minister for twenty-five years was Rev. Garrett Mandeville. Persuaded by his wife's cousin, Simeon DeWitt, to visit Ithaca, he came from Ulster County and served in Ithaca and Trumansburg until 1812, when he bought a farm in Caroline. A post office for Boiceville, opened in 1823, was named Slaterville after Levi Slater, the first town clerk. The village developed to the east with a Methodist church, stores, mills, and taverns to serve the farmers and turnpike traffic.
+
+<figcaption><cite>
+
+— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p52-53.
+
+</cite>
+</figcaption>
+</figure>
+
 <figure>
 <blockquote>
 In 1868 the CONGREGATIONAL CHURCH was formed at Brooktondale by members of the BROOKTON METHODIST and the REFORMED CHURCH OF AMERICA. A foundation had been created for a Methodist Church, but when the new organization was formed, the Varna Presbyterian Church building was purchased and moved to the Methodist Foundation. The building is in active use by the CAROLINE VALLEY FEDERATED CHURCH. The steeple was blown down during a wind storm in 1925. A fiberglass steeple was lifted to its platform by a crane from H. D. Besemer Co. on 22 June 1977. The bell was bought from the Dutch Reformed Church by the Congregationalists, and is probably the oldest bell in this area.
@@ -633,6 +646,18 @@ More information on the Founders:
 </footer>
 </figure>
 
+A number of the founders can be found on the 1866 Stone & Stewart Atlas that included Mott's Corners:
+
+{{% fig "brookton/maps/1866-atlas-motts-corners" "800" /%}}
+
+And several of the founding members were Civil War veterans. John Mandeville, William B. Wolcott and Charles Personius were photographed with other GAR members in 1906, in front of Personius Hall.
+
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "800" /%}}
+
+<div class="cols">
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "350" "img" /%}}
+{{% fig "mills-home/2022-559-brooktondale-road" "350" /%}}
+</div>
 
 #### Edward and Amanda Lounsbery
 
@@ -677,15 +702,41 @@ More information on Charles Personius can be found in the section on [Deeds and 
 {{% fig "mills-home/1924-02-12-The-Ithaca-Journal-Ithaca-NY-p11" "350" /%}}
 </div>
 
-The following photograph purportedly shows Charles Personius as well as John Mandeville, likely taken in front of "Personius Hall".
+#### John L. Mandeville
 
-{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "800" "img,blockquote,cite,link" /%}}
+[John L. Mandeville](https://www.findagrave.com/memorial/67292637/john-mandeville) (1836 to 29 Nov 1907) was the grandson of [Reverend Garrett Mandeville](https://www.findagrave.com/memorial/65244680/garrett-mandeville) (18 May 1775 to 11 Dec 1853), who was the minister of the Dutch Reformed Church that along with the Methodist, split to form the Congregational Church. John Mandeville was a Civil War veteran, and he was a "well-to-do and well known farmer".
+He is listed as "surveyor" on the 1866 Stone & Steward map of Mott's Corners.
+
+In *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4-P9, it is stated that in 1853, John Mandeville had a brickyard next to present-day 341 Brooktondale Road, on the eastern side. The brickyard is visible in the following map in 1853; note that Garrett Mandeville Jr. was John's father.
+
+{{% fig "brookton/maps/1853-06-28-map-cropped" "800" /%}}
+
+John Mandeville advocated for the improved roads throughout Tompkins County, including the macadam road constructed in 1912. 
+
+<figure>
+
+> John "Good Roads" Mandeville went to Scotland to study the macadam process before designing the road through Brookton in 1912.
+
+<figcaption>
+<cite>
+
+— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p61.
+
+</cite>
+</figcaption>
+<aside>
+
+  - According to [Wikipedia.org](https://en.wikipedia.org/wiki/Macadam): "Macadam is a type of road construction pioneered by Scottish engineer John Loudon McAdam around 1820, in which crushed stone is placed in shallow, convex layers and compacted thoroughly. A binding layer of stone dust (crushed stone from the original material) may form; it may also, after rolling, be covered with a cement or bituminous binder to keep dust and stones together. The method simplified what had been considered state-of-the-art at that point. ...McAdam's renown is his effective and economical construction, which was a great improvement over the methods used by his generation. He emphasized that roads could be constructed for any kind of traffic, and he helped to alleviate the resentment travelers felt toward increasing traffic on the roads. His legacy lies in his advocacy of effective road maintenance and management. He advocated a central road authority with trained professional officials who could be paid a salary that would keep them from corruption. These professionals could give their entire time to these duties and be held responsible for their actions."
+    
+</aside>
+</figure>
 
 <div class="cols">
-{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "350" "img" /%}}
-{{% fig "mills-home/2022-559-brooktondale-road" "350" /%}}
+{{% fig "bcc/obituaries/1907-11-30-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "bcc/obituaries/1907-12-05-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
- 
+
+
 #### Mariette Perry
 
 Although the exact spelling is unclear, how “Mariette” is pronounced is clear from how it is spelled in the 1870 census. She is the daughter of James Perry (04 Dec 1810 to 06 Jun 1898) and [Cynthia (German) Perry](https://www.findagrave.com/memorial/96483658/cynthia-perry) (26 Apr 1808 to 02 Jan 1857). At that time, she is a domestic servant living in the town of Taylor, Cortland County NY.
@@ -701,6 +752,9 @@ Although the exact spelling is unclear, how “Mariette” is pronounced is clea
 </div> 
 
 {{% fig "bcc/obituaries/1925-05-25-The-Ithaca-Journal-Ithaca-NY-p5" "800x300" "" "top" /%}}
+
+In the 1866 Stone & Stewart Atlas shown above, S. B. Landon is listed as a "butcher and dealer in all kinds of fresh meats, near Mott's Corners."
+
 
 #### Robert W. Edwards
 

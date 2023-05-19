@@ -3,13 +3,15 @@ title: "The Mill Race Bridge and Barn"
 weight: 200 
 ---
 
-In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Road was called Creek Road, the Personius Flouring Mills stood where Dalebrook apartments sit presently, almost directly across the street from Mills' Store, better known to many today as "The Old Postoffice". The Mills' Home parcel was sub-divided from the grist mill property, and it was originally referred to as "the Wolcott lot" for William Benton Wolcott, the first owner of record. The mill race bridge is one of the primary landmarks used to establish the place of beginning for the Mills' Home parcel from the time of its original sub-division from the grist mill to the end of Emily Mills' life. For a long time, I have wanted to know more about the location and size of this bridge, which is an interesting feature in itself, and obviously, its location is important to understanding the history of the property. 
+In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Road was called Creek Road, the Personius Flouring Mills stood where Dalebrook apartments sit presently, almost directly across the street from Mills' Store, better known to many today as "The Old Postoffice". The Mills' Home parcel was sub-divided from the grist mill property, and it was originally referred to as "the Wolcott lot" for William Benton Wolcott, the first owner of record. The mill race bridge is one of the primary landmarks used to establish the place of beginning for the Mills' Home parcel from the time of its original sub-division from the grist mill to the end of Emily Mills' life. 
 
 <!--more-->
 
 > "As a young boy, [Carl English] and his brother had been part of a work crew hired to fill in the creek / stream that ran from the mill pond (between you and the Dalebrook)...across B'dale Rd...through what's now an empty field between the Andersson's and the Todi's property....into Six Mile Creek.  There was a bridge near 475 giving it the nickname "bridge's house" or something like that.  This fill-in, while successful, resulted in fairly unstable land."
 
 {{% toc "Jump To:" %}}
+
+For a long time, I have wanted to know more about the location and size of this bridge, which is an interesting feature in itself, and obviously, its location is important to understanding the history of the property. 
 
 First, some background on the grist mill/Dalebrook property itself, beginning with the deed history during the relevant time period that will be discussed.
 
@@ -139,13 +141,19 @@ Interestingly, John Mandeville advocated for the improved road depicted in the 1
 
 </cite>
 </figcaption>
+<aside>
+
+  - According to [Wikipedia.org](https://en.wikipedia.org/wiki/Macadam): "Macadam is a type of road construction pioneered by Scottish engineer John Loudon McAdam around 1820, in which crushed stone is placed in shallow, convex layers and compacted thoroughly. A binding layer of stone dust (crushed stone from the original material) may form; it may also, after rolling, be covered with a cement or bituminous binder to keep dust and stones together. The method simplified what had been considered state-of-the-art at that point. ...McAdam's renown is his effective and economical construction, which was a great improvement over the methods used by his generation. He emphasized that roads could be constructed for any kind of traffic, and he helped to alleviate the resentment travelers felt toward increasing traffic on the roads. His legacy lies in his advocacy of effective road maintenance and management. He advocated a central road authority with trained professional officials who could be paid a salary that would keep them from corruption. These professionals could give their entire time to these duties and be held responsible for their actions."
+    
+</aside>
 </figure>
+
+{{% fig "brookton/maps/surveys/brooktondale-waterbound-macadam" "500" /%}}
 
 <div class="cols">
 {{% fig "bcc/obituaries/1907-11-30-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
 {{% fig "bcc/obituaries/1907-12-05-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
-
 
 In *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4-P9, it is stated that in 1853, John Mandeville had a brickyard next to present-day 341 Brooktondale Road, on the eastern side.
 
@@ -309,7 +317,7 @@ The 1869 pseudo-survey:
 
 {{% fig "brookton/maps/surveys/1869-only" "800" /%}}
 
-I overlaid my 1869 pseudo-survey on the 2023 Dresser survey that has also been adjusted to true north for its specific magnetic declination so that the road on each survey is parallel. To match the scale, I lined up the center-line of the road, which has been established as a stable landmark throughout all the referenced deeds and surveys, and scaled the 2023 survey until it overlapped point C on my map in the northeast corner of the brow of the hill, a point that also appears to be consistently located over the years. A dark blue, thick, dashed line drawn perpendicular to Brooktondale Road, shows that the place of beginning in 1869 is roughly in line with the southwestern corner of the original (and still current) footprint of Mills' Home. 
+I overlaid my 1869 pseudo-survey on the 2023 Dresser survey that has also been adjusted to true north for its specific magnetic declination so that the road on each survey is parallel. To match the scale, I lined up the center-line of the road, which has been established as a stable landmark throughout all the referenced deeds and surveys, and scaled the 2023 survey until it overlapped point C on my map in the northeast corner of the brow of the hill, a point that also appears to be consistently located over the years. A dark blue, thick, dashed line drawn perpendicular to Brooktondale Road, shows that the place of beginning in 1869 is roughly in line with the southwestern corner of the original (and still current) footprint of Mills' Home. The center of the mill race bridge falls on a line perpendicular to the road that falls just to the east of the stone patio steps. 
 
 {{% fig "brookton/maps/surveys/1869-overlaid-dresser" "800" /%}}
  
@@ -547,6 +555,8 @@ Also on Dresser in 2023:
 
 {{% fig "brookton/maps/surveys/1883-t3-overlaid-dresser" "800" /%}}
 
+Notice that the center of the mill race bridge is even closer to the dwelling in this scenario, falling on a line perpendicular to the road that is almost in line with the edge of the rear addition.
+
 Overlaying only the 1869, 1883 and Tract III pseudo-surveys further suggests that Tract III may have been an attempt to account for the differences between the 1869 and 1883 Mills' Home descriptions. This may help explain why Rice thought the highway monument was a property marker despite the fact that it did not fall on a straight line with the iron pipes that were already present–which were apparently based on the 1883 description–and it may explain why Charles Vorhis felt entitled to add the footnote to the deed with Frank Proto (499/981): to reconcile the 1869 and 1883 Mills' Home deed descriptions and re-establish the presumed 1869 boundary line, after more than a century. If true, then the Dresser survey, which corroborates Miller and Schlieder, may not provide much new information, as it is only a slightly more accurate corroboration of their surveys. 
 
 {{% fig "brookton/maps/surveys/1869-1883-t3" "800" /%}}
@@ -628,9 +638,9 @@ The overlay on Dresser is particularly interesting:
 
   - The stake at point B at the end of step 2 is deeper into the current Dalebrook parcel than expected, however, the line in step 2 in 1869 roughly intersects both the present location of the utility pole and the present location of the bent iron pipe found on the currently defined eastern property boundary. Note too that the lines representing steps 2 and 3 form a right angle.
 
-  - The center of the mill race bridge, appears to fall in an area that in 2023, is between a utility pole and the bent pipe on the currently defined eastern property boundary. 
+  - The center of the mill race bridge, appears to fall in an area that in 2023, is very close to a utility pole. 
 
-But ultimately, the preponderance of evidence strongly suggests the original deeds were intended to be true bearings, and traditionally, this is how they have been interpreted, ultimately based on the existence of two iron pipes that appear to have been set in 1883 or after, that are in a 9° line that seems to originate on the brow of the hill at the location of point C in 1883.Rice describes the lower of the two pipes as an "old iron pipe" in 1969.
+But ultimately, the preponderance of evidence strongly suggests the original deeds were intended to be true bearings, and traditionally, this is how they have been interpreted, ultimately based on the existence of two iron pipes that appear to have been set in 1883 or after, that are in a 9° line that seems to originate on the brow of the hill at the location of point C in 1883. Rice describes the lower of the two pipes as an "old iron pipe" in 1969.
 
 
 

@@ -9,7 +9,9 @@ pages:  "5"
 source:  "nyhistoricnewspapers.org"
 notes: >-
 
-  - The Mills' arrival in Smithtown, "two weeks and two days" from James' birth on 13 Feb 1827 was 01 Mar, the day before Edward's mother Mary Hallock died.
+  - The Mills' arrival in Smithtown, "two weeks and two days" from James' birth on 13 Feb 1827 was 01 Mar, the day before Edward's mother Mary Hallock died, although the exact date of her death is only given by one source that is currently defunct: MillsAncestry.org.
+  
+  According to James' obituary, his mother Mary (Hallock) died the day after the family returned to Smithtown "on a large sailing vessel" just 17 days after James was born "at Cherry street, New York City". (23 Apr 1915, The Long-Islander, Huntington NY, p5, nyhistoricnewspapers.org.) 
 ---
 
 Friday, April 23, 1915.

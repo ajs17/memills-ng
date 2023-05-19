@@ -2,7 +2,7 @@
 title: "Temperance Activity"
 weight: 600
 ---
-
+ 
 The temperance movement was a significant cultural phenomenon of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. Emily, Hannah and Ellen were all active in temperance.
 
 <!--more-->
@@ -69,6 +69,20 @@ The "Great Iron Bridge at Brookton" in the photograph below replaced the wooden 
 
 {{% fig "trestle/trestle_postcard" "800" /%}}
 
+The trestle was dismantled in the final years of Emily's life. The trestle was easily visible from both Mills' Store and Mills' Home.
+
+<figure>
+
+> As automobile and truck traffic increased, train traffic decreased. When the Brooktondale trestle was damaged in the 1935 flood, it was abandoned by the Lehigh Valley Railroad and demolished for scrap.The Brooktondale and Besemer stations closed.
+
+<figcaption><cite>
+
+— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p64.
+
+</cite>
+</figcaption>
+</figure>
+
 {{% fig "trestle/tearing-down-trestle-looking-SE" "800" /%}}
 
 {{% fig "1914-05-22-ithaca-journal" "500" /%}}
@@ -76,6 +90,7 @@ The "Great Iron Bridge at Brookton" in the photograph below replaced the wooden 
 {{% fig "1915-02-12-ithaca-journal" "500" /%}}
 {{% fig "1917-02-27-ithaca-journal" "500" /%}}
 
+ 
 <div class="cols">
     {{% fig "temperance/1917-wctu-directory-p8" "350" /%}}
     {{% fig "temperance/1917-wctu-directory-p9" "350" /%}}

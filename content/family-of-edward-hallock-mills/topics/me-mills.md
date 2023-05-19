@@ -271,9 +271,11 @@ The basement is accessed from a door that opens in the floor. This door is near 
 
 Frank speculates that the upstairs rear room may have been used for masonic meetings, and pointed out that an interior door contained a large peep-hole. 
 
+Mills' store is easily visible from most windows in most rooms of Mills' Home. 
+
 ## Notes for Future Researchers
 
-A summary of some of the Mills' store deeds: 
+A summary of Mills' store deeds: 
 
 {{% table "/static/data/deeds.csv" "mills-store-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee" "" "property" "=" "Mills Store" %}}
 

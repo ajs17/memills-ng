@@ -15,12 +15,20 @@ A compilation of information and photographs from the late 1960's to the mid 200
 
 I have been in contact with the previous three sets of owners, and with each, I have offered to publish with this material any memories of their time in the home that they were willing to share with me. I left it completely open as to what to write about, how much to write, and when to get the information to me. I will add any such information I receive from them in a timely manner.
 
-It appears that Jessie and Lewis Brewer never lived in the Mills home, but rented it until it was purchased by the Jones family. Beginning with one of the photographs left behind by Andrea Talmadge:
+It appears that Jessie and Lewis Brewer never lived in the Mills home, but rented it until it was purchased by the Jones family. While they owned the home, the following refrigerator was presumably purchased in Ithaca:
+ 
+{{% fig "mills-home/1959-10-23-The-Ithaca-Journal-Ithaca-NY-p13" "500" /%}}
+
+<div class="cols">
+{{% fig "mills-home/1951-coldspot-postcard" "350" /%}}
+{{% fig "mills-home/1951-10-17-The-Ithaca-Journal-Ithaca-NY-p10" "350" /%}}
+</div>
+ 
+This is a photograph left behind by Andrea Talmadge. 
+I am trying to locate Rich Thacher.
 
 {{% fig "today/talmadge/1950s3-photo-only" "800" /%}}
 {{% fig "today/talmadge/1950s1" "500" /%}}
-
-I am trying to locate Rich Thacher.
 
 Remnants of the stone steps outside the front door are beneath the current wooden porch, and can be seen in the following photograph, which I believe was taken when the Lattins lived here.
 

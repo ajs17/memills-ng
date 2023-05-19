@@ -82,7 +82,6 @@ Edward H. Mills has partial entries on the following Mills family genealogies:
 {{% fig  "genealogy/Genealogies-of-Long-Island-Families-p109" "800" /%}}
  
 {{% fig "genealogy/1939-source2-pagea" "800" /%}}
-{{% fig "genealogy/1939-source2-pageb" "800" /%}}
 
 What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from other sources in brackets, beginning with Edward's parents: 
 
@@ -132,7 +131,7 @@ Notes:
   - Emily's and Hannah's birth dates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over a decade before Emily was born. 
   - More than one source corroborates that Emily Tabitha Mills married John Smith Huntting on 14 Dec 1843.
-  - Further below, I will demonstrate that Edward's brother, listed in each genealogy as "Thomas James Mills" was in fact James Thomas Mills, born 13 Feb 1827. According to James' obituary, his mother Mary (Hallock) died the day after the family returned to Smithtown "on a large sailing vessel" just 17 days after James was born "at Cherry street, New York City". (23 Apr 1915, The Long-Islander, Huntington NY, p5, nyhistoricnewspapers.org.)   
+  - Further below, I will demonstrate that Edward's brother, listed in each genealogy as "Thomas James Mills" was in fact James Thomas Mills, born 13 Feb 1827. 
 
 Several of the marriages above and below are referenced in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 

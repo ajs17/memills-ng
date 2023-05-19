@@ -14,7 +14,7 @@ J. Vandemark...Carding Mill, Manufacturer of Woolen Cloths.
 
 W. Shurter....Dealer in all kinds of Grains and Mill Stuffs. Custom Grinding. 
 
-E. Loansbery...Tanner and Currier. Dealer in Hides and Leather. 
+E. Lounsbery...Tanner and Currier. Dealer in Hides and Leather. 
 
 R. G. Tucker...Dry, Goods, Groceries, &c.
 

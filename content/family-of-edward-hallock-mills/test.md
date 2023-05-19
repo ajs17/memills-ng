@@ -2,39 +2,10 @@
 draft: true
 ---
 
-new photos of raceway today
-mulks radio
 
-John Mandeville on founders page
-emily's grave,
-emily, first to die in hospital
-see store from home
-"bay" horses
-william and orsamus warren named after grandparents
-Hallock page needs thorough proofreading and editing
-
-— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p61.
-52: garrett mandeville
-64: train
-
-52-53
-The first church in Caroline was the Dutch Reformed, which organized in 1812 and put up a large building west of Boiceville in 1820. The minister for twenty-five years was Rev. Garrett Mandeville. Persuaded by his wife's cousin, Simeon DeWitt, to visit Ithaca, he came from Ulster County and served in Ithaca and Trumansburg until 1812, when he bought a farm in Caroline. A post office for Boiceville, opened in 1823, was named Slaterville after Levi Slater, the first town clerk. The village developed to the east with a Methodist church, stores, mills, and taverns to serve the farmers and turnpike traffic.
-
-
-64
-As automobile and truck traffic increased, train traffic decreased. When the Brooktondale trestle was damaged in the 1935 flood, it was abandoned by the Lehigh Valley Railroad and demolished for scrap.The Brooktondale and Besemer stations closed.
-
-
+entire brookton folder for brewer barn, shurter house, cars, etc.
 add dwelling info from surveys to jones et al
-new photos of oak,
-acknowledge emily crane
 
-brewer barn
-
-gar photo on bridge and founders page 
-
-
-mary hallock's death date
 
 
 masons in 1865 NYS census
@@ -89,4 +60,6 @@ Backlinks:
 
 
 
-
+find . -type f -size +5M -printf '%s %p\n' | sort -nr | head -10
+find . -type f -size +5M -exec du -h '{}' + | sort -hr | head -10
+https://stackoverflow.com/questions/8943154/command-to-print-out-large-files-sorted-with-sizes-in-human-readable-format
