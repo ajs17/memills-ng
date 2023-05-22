@@ -3,10 +3,15 @@ draft: true
 ---
 
 
+address large photo sizes, impose a standard
 entire brookton folder for brewer barn, shurter house, cars, etc.
 add dwelling info from surveys to jones et al
-
-
+photos today:
+  - my home
+  - fall photo of store
+  - home viewed from store, dalebrook from store, etc
+  - brewer barn, front and back (valley road)
+  - mills store from behind, Dalebrook, market
 
 masons in 1865 NYS census
     - Caroline, "first election dist in the town"
