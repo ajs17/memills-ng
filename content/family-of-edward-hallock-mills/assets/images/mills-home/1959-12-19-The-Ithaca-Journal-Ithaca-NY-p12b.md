@@ -18,7 +18,7 @@ notes: >-
   
   - [James E. Cole](https://www.findagrave.com/memorial/99762981/james-e-cole) (Aug 1844 to 1909). 144th Infantry Regiment. "COLE , JAME S E.—Age , 20 years. Enlisted, February 24, 1861, at Colchester, to serve three years; mustered in as private , Co . K, February 29, 1861; mustered out, May 31, 1865, at hospital, Albany, N . Y ."
 
-  - [John. L. Mandeville](https://www.findagrave.com/memorial/67292637/john-mandeville) (1836 to 29 Nov 1907). 50th Engineer Regiment. "MANDERVILLE , JOHN H.—Age, 21 years. Enlisted, September 6, 1861, at Caroline; mustered in as corporal, Co. G, September 6, 1861, to serve three years; discharged for disability, January 4,1862, at Washington, D. C." Despite the spelling difference, I believe there is enough corroborating evidence to make this identification.
+  - [John. L. Mandeville](https://www.findagrave.com/memorial/67292637/john-mandeville) (1836 to 29 Nov 1907). 50th Engineer Regiment. "MANDERVILLE , JOHN H.—Age, 21 years. Enlisted, September 6, 1861, at Caroline; mustered in as corporal, Co. G, September 6, 1861, to serve three years; discharged for disability, January 4, 1862, at Washington, D. C." Despite the spelling difference, I believe there is enough corroborating evidence to make this identification.
 
   - [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911). 137th Infantry Regiment. "WOLCOTT, WILLIAM B.—Age, 28 years. Enlisted, August 21, 1862, at Caroline, to serve three years; mustered in as sergeant, Co. K, August 23, 1862; promoted first sergeant, June 24, 1863; mustered out with company, June 9, 1865,” near Bladensburg, Md."
 

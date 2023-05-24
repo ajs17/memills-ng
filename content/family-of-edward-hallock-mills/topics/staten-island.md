@@ -7,7 +7,7 @@ Edward and Mary Ann began their marriage in Staten Island NY where they lived th
 
 <!--more-->
 
-It appears that Edward Mills first met Mary Ann and Charles Pine when he moved with his family to [Hempstead]({{% relref "hempstead" %}}) in the mid-late 1830's and Edward's move to Staten Island may have coincided with the establishment of Charles Pine's grocery store, incorporated there in 1848. When Edward and Mary Ann married in 1850, Edward is said to be "of Factoryville", the Staten Island neighborhood where Charles Pine's store is located. 
+It appears that Edward Mills first met Mary Ann and Charles Pine when he moved with his family to [Hempstead]({{% relref "hempstead" %}}) in the mid-late 1830's and Edward's move to Staten Island may have coincided with the establishment of Charles Pine's grocery business, incorporated there in 1848. When Edward and Mary Ann married in 1850, Edward is said to be "of Factoryville", the Staten Island neighborhood where Charles Pine's store is located. 
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
@@ -23,6 +23,8 @@ Multiple census records confirm that all the Mills' children were born in Staten
 {{% fig "staten-island/rdc/rdc-scan_077" "350" /%}}
 </div>
 
+I continue to search for the birth dates for James and Emily, but these may be lost forever.
+
 <figure>
 <blockquote>
 <p>
@@ -33,7 +35,7 @@ I have researched the records available here for the three births and unfortunat
 </p>
 </blockquote>
 <figcaption>
-<cite>— 2023 Jan 17, personal correspondence, Marcia Kirk, NYC Department of Records and Information Services. 
+<cite>— 17 Jan 2023, personal correspondence, Marcia Kirk, NYC Department of Records and Information Services. 
 </cite>
 </figcaption>
 </figure>
@@ -65,16 +67,7 @@ Bartlett Brown was born in Oak Farm on Long Island NY and according to the 1850 
 
 {{% fig "staten-island/1902-12-06-South-Side-Signal-Babylon-NY-p3" "500" /%}}
 
-{{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" %}}
-
-Mr. Brown was born at Oak Farm, Long Island, and was one of ten children. His parents were among the most intelligent and estimable people of that section, and he was trained to many kinds of usefulness on the farm from a very early age. Indeed, the experiences which then came to him were invaluable, and fitted him in a superior degree for the diligent, manly and honorable life which succeeded.
-
-He began business for himself as a coal and wood merchant in the city of Brooklyn, but later, <strong>in the year 1857, he accepted a position in the grocery store of Charles M. Pine at West Brighton, and remained there, highly esteemed by the proprietor and by the many customers, until the year 1859, when he purchased the valuable property at the corner of Broadway and Castleon avenue and began business in the same line for himself. He resided in the adjoining house with his family.</strong> He was a man of the very strictest integrity in all of his affairs, and with the merchants of the city with whom he dealt, and with the other people with whom he had financial relations, he was held in the highest regard. In 1892 he retired from active life.
-
-He set a fine example with regard to everything in which he was engaged during the forty-seven years when he made Staten Island his home. Beside the store he had a profitable cranberry business at Calverton, L.I., which he sold to a brother two years ago.
-
-[Partial transcription, emphasis added. Click on the accompanying link to view the full article.]
-{{% /fig %}}
+{{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" /%}}
 
 Based on the 1860 census, and assuming Bartlett's obituary is accurate, we can surmise the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" referred to may be the structure shown at the corner of State Street and Castleton Avenue, or possibly the one next to it, both of which are labelled as "DWG." on the 1885 Sanborn map.
 
@@ -217,7 +210,8 @@ Charles Pine was a prominent and prolific business man who was a central figure 
 
 {{% fig "pine/charles-t-pine" "350" /%}}
 
-Charles Pine's store was opened in 1848, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son, and presumably, Edward Mills worked for Charles at least some of that time, and it seems likely Edward moved to Castleton because of Charles. 
+Charles Pine continued his grocery business in Staten Island starting in 1848, and the Beers map (explored further below) confirms what other histories describe, that there are two stores associated with Charles Pine: C. M. Pine & Co., and the location next to his residence that was known earlier as Pine, Hillyer & Co. and later as C. M. Pine & Son. Presumably, Edward Mills worked for Charles at least some of the time that he lived in Staten Island, and it seems likely Edward moved to Castleton because of Charles. Edward may have worked at either or both locations.
+
 
  <figure>
 <blockquote>
@@ -233,7 +227,7 @@ Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and J
 
 {{% fig "staten-island/1850-us-census-castleton" "800" /%}}
 
-Both the 1850 and 1860 census show [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles for some time. George was a Civil War veteran and he went on to become successful in business himself; in several places he is credited with rebuilding St. Andrews Church, although is obituary doesn't explicitly mention this. 
+Both the 1850 and 1860 census show [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles for some time. George was a Civil War veteran, and he went on to become successful in business himself; in several places he is credited with rebuilding St. Andrews Church, although is obituary doesn't explicitly mention this. 
 
 {{% fig "staten-island/1860-06-15-US-Census-Castleton-NY-p96-pine" "800" /%}}
 
@@ -278,8 +272,7 @@ In 1865, Mark Hartley is also living with Charles M. Pine, occupation "clerk", p
 
 {{% fig "pine/1865-census-nys" "800" /%}}
 
-By 1859, Charles' general store is known as Pine, Hillyer & Co., co-owned with James Hillyer. The 1874 Beers map shows "General Store of Pine, Hillyer & Co.", in an area described below as "the bend between Van Street and Broadway" at 188 Richmond Terrace (also called "Shore Road", at least to the west of Pine's store). Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years, as exemplified by the bends in this stretch of Richmond Terrace. This is the store that Edward is presumed to have worked at for over a decade (and Bartlett Brown for several years):
-
+By 1859, Charles' general store is known as Pine, Hillyer & Co., co-owned with James Hillyer. The 1874 Beers map shows "General Store of Pine, Hillyer & Co.", in an area described below as "the bend between Van Street and Broadway" at 188 Richmond Terrace (also called "Shore Road", at least to the west of Pine's store). Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years, as exemplified by the bends in this stretch of Richmond Terrace.
 
 {{% fig "staten-island/2023-01-20-Google-Maps" "500" /%}}
 
@@ -297,7 +290,7 @@ The structural notations in the Sanborn map confirms what can be seen in the fol
 
 {{% fig "staten-island/pine-residence" "800" /%}}
 
-Although I don't have documentary evidence for this currently, I think it is reasonably likely that the Mills family lived at the Pine residence at some point. Other of Charles' employees, proteges, and extended family lived there over the years.
+Although I don't have documentary evidence for this currently, I think it is reasonably likely that the Mills family lived at the Pine residence at some point, as other employees, proteges, and extended family lived with Charles Pine over the years.
 
 The following are Google Maps street view images from Richmond Terrace captured in 2022 that show the buildings in the footprint of Pine's store and residence. "Apollo Intl." is in the area of Pine's residence, but the brick building to the left may be Pine's store intact.
 
@@ -444,7 +437,7 @@ James A. Hillyer's business partner is his brother-in-law [Barnett Egbert Jr.](h
 
 James Hillyer appears to be connected with William Snedeker, who married Charles' and Mary Ann's sister Lois Almy (Pine) Snedeker (1805? to 07 Nov 1890). William and Lois moved to Staten Island in the 1850's, and William was also in the dry goods business. William Snedeker and James A. Hillyer were also leaders withing the congregation of the Trinity Methodist Episcopal Church, near James' home.
 
-The 1870 US Census and the 1875 NY Census show William Snedeker's family living closely to James Hillyer's family, and near the methodist church, which is confirmed by the Beers map of West New Brighton, which also shows a location labelled "C. M. Pine & Co." which is sometimes referenced in descriptions of Charles Pine's business affairs. 
+The 1870 US Census and the 1875 NY Census show William Snedeker's family living near James Hillyer's family, and near both the Methodist Church and C. M. Pine & Co.
 
 {{% fig "staten-island/1874-beers-map-cm-pine-co" "800" /%}}
 

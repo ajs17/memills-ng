@@ -2,6 +2,16 @@
 draft: true
 ---
 
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
+
+
+
+
+
+find ./content -type f -size +5M -exec du -h '{}' + | sort -hr | head 
 
 address large photo sizes, impose a standard
 entire brookton folder for brewer barn, shurter house, cars, etc.

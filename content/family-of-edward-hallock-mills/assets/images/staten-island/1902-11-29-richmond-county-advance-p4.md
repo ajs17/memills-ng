@@ -7,6 +7,7 @@ voltitle:  "Richmond County Advance"
 publocation:  "West New Brighton NY"
 pages:  "4"
 source:  "newspapers.com"
+media: "Emphasis added."
 ---
 **BARTLETT BROWN**
 
@@ -14,7 +15,7 @@ Bartlett Brown Senior, died at his residence, No. 114 Broadway, West New Brighto
 
 Mr. Brown was born at Oak Farm, Long Island, and was one of ten children. His parents were among the most intelligent and estimable people of that section, and he was trained to many kinds of usefulness on the farm from a very early age. Indeed, the experiences which then came to him were invaluable, and fitted him in a superior degree for the diligent, manly and honorable life which succeeded.
 
-He began business for himself as a coal and wood merchant in the city of Brooklyn, but later, in the year 1857, he accepted a position in the grocery store of Charles M. Pine at West Brighton, and remained there, highly esteemed by the proprietor and by the many customers, until the year 1859, when he purchased the valuable property at the corner of Broadway and Castleon avenue and began business in the same line for himself. He resided in the adjoining house with his family. He was a man of the very strictest integrity in all of his affairs, and with the merchants of the city with whom he dealt, and with the other people with whom he had financial relations, he was held in the highest regard. In 1892 he retired from active life.
+He began business for himself as a coal and wood merchant in the city of Brooklyn, but later, **in the year 1857, he accepted a position in the grocery store of Charles M. Pine at West Brighton, and remained there, highly esteemed by the proprietor and by the many customers, until the year 1859, when he purchased the valuable property at the corner of Broadway and Castleon avenue and began business in the same line for himself.** He resided in the adjoining house with his family. He was a man of the very strictest integrity in all of his affairs, and with the merchants of the city with whom he dealt, and with the other people with whom he had financial relations, he was held in the highest regard. In 1892 he retired from active life.
 
 He set a fine example with regard to everything in which he was engaged during the forty-seven years when he made Staten Island his home. Beside the store he had a profitable cranberry business at Calverton, L.I., which he sold to a brother two years ago.
 
