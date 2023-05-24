@@ -3,7 +3,7 @@ title: "Deeds and Other Past Owners"
 weight: 100 
 ---
 
-This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's with the first presumed owner, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer. It is unclear exactly when the Mills family first moved into the home. 
+This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's with the first owner of record, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer. It is unclear exactly when the Mills family first moved into the home. 
 
 <!--more-->
 
@@ -584,8 +584,8 @@ I have not found a deed that corresponds to this date in the deed indexes for Ca
 There is only one other deed unrelated to the Mills’ home that I found associated with the Mills’ family, and it was a transaction that Emily helped facilitate between Willis Shurter and his wife Betsey:
 
 <div class="cols">
-    {{% fig "mills-home/deeds-171-334" "400" /%}}
-    {{% fig "mills-home/deeds-171-335" "400" /%}}
+{{% fig "mills-home/deeds-171-334" "350" /%}}
+{{% fig "mills-home/deeds-171-335" "350" /%}}
 </div>
 
 Notice that these deeds include an affidavit from Dr. Lockwood.

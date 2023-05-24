@@ -4,15 +4,15 @@ notes: >-
 
   - [Willis Shurter](https://www.findagrave.com/memorial/162159964/willis-shurter) (1840 to 17 Jan 1914). Civil War veteran. He took over the store (shown as “J. Shurter Store” on the map) from his father Josiah Shurter, and this is the store that was eventually taken over by E. H. Mills. 
 
-  - [Jacob Vandemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873).
+  - [Jacob Vandemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873), primarily known for his woolen (carding) mill. He was also a past owner of the lower grist mill, where Dalebrook Apartments sits presently.
 
-  - [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Edward was a founding member of the Congregational Church of Mott's Corners and also a member of the Independent Order of Good Templars in Brookton.
+  - [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a Civil War veteran and a founding member of the Congregational Church of Mott's Corners and of the David Ireland Post #158 in Brookton. He also a member of the Independent Order of Good Templars in Brookton, and a former owner of Mills' Home and Mills' Store.
 
   - [Walker Vorhis Personius](https://www.findagrave.com/memorial/98386104/walker-voorhis-personius) (1836 to 1914). Civil War veteran and founding member of the Congregational Church of Mott's Corners.
 
-  - [John. L. Mandeville](https://www.findagrave.com/memorial/67292637/john-mandeville) (1836 to 29 Nov 1907), the grandson of [Reverend Garrett Mandeville](https://www.findagrave.com/memorial/65244680/garrett-mandeville) (18 May 1775 to 11 Dec 1853), the minister of the Dutch Reformed Church of Caroline for 25 years. John Mandeville was a Civil War veteran and a founding member of the Congregational Church of Mott's Corners.
+  - [John. L. Mandeville](https://www.findagrave.com/memorial/67292637/john-mandeville) (1836 to 29 Nov 1907), the grandson of [Reverend Garrett Mandeville](https://www.findagrave.com/memorial/65244680/garrett-mandeville) (18 May 1775 to 11 Dec 1853), the minister of the Dutch Reformed Church of Caroline for 25 years. John Mandeville was a Civil War veteran and a founding member of the Congregational Church of Mott's Corners. He was a "well-to-do and well known farmer, but obtained prominence in his town, and throughout the country as well, chiefly by his efforts in behalf of the good roads movement." (30 Nov 1907, Ithaca Daily Journal, Ithaca NY, p3.)
 
-  - (Likely) [Henry Johnson Quick](https://www.findagrave.com/memorial/89338728/henry-johnson-quick) (09 Dec 1819 to 10 Jan 1897), a farmer who, as both his obituary and census entries confirm, commonly went by his middle name: Johnson (11 Jan 1897, Ithaca Daily Journal, Ithaca NY, p3). 
+  - (Likely) [Henry Johnson Quick](https://www.findagrave.com/memorial/89338728/henry-johnson-quick) (09 Dec 1819 to 10 Jan 1897), a farmer who, as both his obituary and census entries confirm, commonly went by his middle name: Johnson (11 Jan 1897, Ithaca Daily Journal, Ithaca NY, p3). "In 1864, Johnson Quick purchased 126 acres from William Mott which included the cemetery. In 1909, the name of the cemetery was changed to Quick Cemetery and it was incorporated. The Quick family began oversight of the cemetery in 1864." ([Brookton Cemetery, History](http://www.brooktoncemetery.com/history.html), brooktoncemetery.com.) 
 
   - J. Besemer is most likely [Josiah Besemer](https://www.findagrave.com/memorial/97408542/josiah-besemer) (28 Dec 1814 to 30 Nov 1894), "a prominent resident of the hamlet in Caroline named for him", who was the father of [Dr. Martin Besemer](https://www.findagrave.com/memorial/97409239/martin-besemer) (1847 to 1916). "During the active portion of [Josiah's] business career, he owned the grist mill, plaster mill and several farms at and near Besemer's, but later he sold the mill properties and settled down to the independent life of a well-to-do-farmer." (30 Nov 1894, Ithaca Daily Journal, Ithaca NY, p3.) It could also be [John J. Besemer](https://www.findagrave.com/memorial/97403608/john-j-besemer) (12 Jul 1822 to 20 Jul 1901), who "was born in Caroline in 1822 and in that town his entire life was passed. He was one of its best known and most exemplary citizens, his conduct always measuring up to the standard of a true, unassuming Christian." (20 Jul 1901, Ithaca Daily Journal, Ithaca NY, p3.)
 
@@ -24,7 +24,7 @@ notes: >-
 
   - [Sextus Barnes Landon](https://www.findagrave.com/memorial/63631163/sextus-barnes-landon) (20 Apr 1834 to 24 May 1925), a founding member of the Congregational Church of Mott's Corners.
 
-  - [Jonathon Francis Stoddard](https://www.findagrave.com/memorial/20675996/jonathon-francis-stoddard) (31 Dec 1845 to 30 Jul 1898), who was only 19 in the 1865 New York State Census.
+  - [Jonathon Francis Stoddard](https://www.findagrave.com/memorial/20675996/jonathon-francis-stoddard) (31 Dec 1845 to 30 Jul 1898), who was only 19 in the 1865 New York State Census, his father had died the year prior, in 1864.
 
   - [George W. Atwood](https://www.findagrave.com/memorial/52478428/george-w-atwood) (1822 to 27 Jun 1900), a farmer and section foreman on the railroad.
 

@@ -2,20 +2,10 @@
 draft: true
 ---
 
-{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
-{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
-{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
-{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
+{{% fig "mills-home/1906-06-21-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "mills-home/1906-06-21-Ithaca-Daily-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "mills-home/1906-06-22-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
 
-
-
-
-
-find ./content -type f -size +5M -exec du -h '{}' + | sort -hr | head 
-
-address large photo sizes, impose a standard
-entire brookton folder for brewer barn, shurter house, cars, etc.
-add dwelling info from surveys to jones et al
 photos today:
   - my home
   - fall photo of store
@@ -23,19 +13,9 @@ photos today:
   - brewer barn, front and back (valley road)
   - mills store from behind, Dalebrook, market
 
-masons in 1865 NYS census
-    - Caroline, "first election dist in the town"
-        - 5: Benjamin Maricle (?), 35  yo, wife Nancy, ch Phebe, Elias 
-        (28: "town election district No. 2" , our people start appearing by 38
-        - 29: George Hammon, 67 yo, wife Jane H. 45 yo
-        - 29: Levi Hawkins bricklayer
-        - 36: Cornelius Dolson, 55 yo, wife Amanda, ch George, Ophelia
-            https://www.findagrave.com/memorial/203104739/ophelia-l-vandemark
-        - 37: Bailey Evans, 57 yo, wife Charlotte
-            https://www.findagrave.com/memorial/67388143/bailey-evans
-        - 47: george richardson, father worked on rr, along with John, jerome miller, alfred gould 
 
 
+add dwelling info from surveys to jones et al
 
 smithtown library file on mills family
   We do, however, have a file on the Mills family as well as some genealogical resources.  
@@ -49,11 +29,6 @@ smithtown library file on mills family
     631-360-2480, ext. 197
     longislandroom@smithlib.org
 
-
-    Grace de Sagun
-    Digitization Supervisor
-
-    Metadata Services @ Queens Public Library
 
 william's property locations?
 
