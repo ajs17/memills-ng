@@ -20,7 +20,7 @@ source:  "nyshistoricnewspapers.org."
 
   - David B. Torrey, late of Caroline. 
 
-  - Jared 8, Halsey, late of Ulysses. 
+  - Jared S. Halsey, late of Ulysses. 
 
   - Charles C. Eastman, late of Caroline.
 

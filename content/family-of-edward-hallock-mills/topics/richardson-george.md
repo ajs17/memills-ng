@@ -4,8 +4,10 @@ weight: 900
 ---
 
 [George H. Richardson](https://www.findagrave.com/memorial/189275611/george-h-richardson) (May 1862 to 26 Feb 1938) was employed at E. H. Mills in Brookton during the time that Edward Mills was Brookton Postmaster. George subsequently opened his own grocery business in Personius Hall at present day 559 Brooktondale Road and also supplied groceries to farmers from his delivery wagon two days a week. George moved his family to Ithaca in 1905.
-
+ 
 <!--more-->
+
+George Richardson's father Jerome worked on the railroad alongside Jerome Miller's father John, and Alfred Gould, who was Ellen Gould's second husband. 
 
 George married [Emma Allen Richardson](https://www.findagrave.com/memorial/189275685/emma-richardson) (1868 to 18 May 1918) in 1886, and had the following children born in Brookton:
 

@@ -3,6 +3,7 @@ title: "Other Features of the Property"
 weight: 500 
 ---
 
+This section explores various features of the Mills’ Home property, including the stone foundation and the “large oak tree”.
 
 <!--more-->
 
@@ -18,7 +19,7 @@ Assuming the stone mason was more likely to have lived near the Wolcott Lot, I s
 
 {{% table "/static/data/stone-masons.csv" "stone-masons" "name,age-given,trade,census-location,page-seq,page-num,line-num" "1865 New York State Census, ancestry.com" %}}
 
-The census splits the Town of Caroline into two “districts” at this time: the “First Election District” focuses on Speedsville and Caroline Center and includes some easily recognizable names, including William B. Hallock, a distant relative of Edward H. Mills, as well as Nathaniel Tobey and Peter Webb. “Election District No. 2” focuses on Slaterville and Mott’s Corners, and starting with approximately page 21 of the second district (each district was numbered separately, so this is page 38 sequentially), many recognizable names begin to appear, such as those shown on the Mott’s Corners map published in the 1866 Photographic Atlas of Tompkins County by Stone & Stewart Mott’s Corners, as well as the founders of the Congregational Church just a few years later. 
+The census splits the Town of Caroline into two “districts” at this time: the “First Election District” focuses on Speedsville and Caroline Center and includes some easily recognizable names, including William B. Hallock, a distant relative of Edward H. Mills, as well as Nathaniel Tobey and Peter Webb. “Election District No. 2” focuses on Slaterville and Mott’s Corners, and starting with approximately page 21 of the second district (each district was numbered separately, so this is page 38 sequentially), many recognizable names begin to appear, such as those shown on the Mott’s Corners map published in the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, as well as the founders of the Congregational Church just a few years later. 
 
 It is among the recognizable names of residents of Mott's Corners that Alonzo B. Northrop appears, and among the stone masons recorded in the 1865 Census, he is uniquely listed on the 1886 Atlas. The Atlas shows "A. B. Northrup”, between the upper bridge over Six Mile Creek and the hill where Brookton (formerly Quick) Cemetery sits, at what is presently 231 Lounsbery Road, near the intersection with the section of Brooktondale Road formerly known as Back Road, or "Easy Street".
 
