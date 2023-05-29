@@ -28,15 +28,13 @@ This event and its recording are unusual in several respects, and deserving of f
 
 The following is a summary of information about the participants. Click on column headers to affect the sort order accordingly.
 
-<figure>
-{{% baptismtable "static/data/baptism.csv" %}}
-<footer>
-Notes:
+{{% autotable "/static/data/baptism.csv" "postmasters" "order-listed-i,title-at-baptism,name-nw,year-born-i,year-died-i,age-at-baptism-i,age-first-married-i,age-at-death-i" "" "" "" "" "" "3" %}}
 
   - Despite how it appears on her tombstone, Alleine was married to Harry Van Order (1891-1918) first on 17 Dec 1910, then married William Lyman Peck (1875-1960) on 23 Jan 1935.
+
   - Louise Ward (Shurter) Henderson is the neice of E. D. Shurter.
-</footer>
-</figure>
+
+{{% /autotable %}}
 
 I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring inaccuracies that can be explained, appears to reference the event:
 
@@ -103,4 +101,4 @@ Selected data on the participants:
 
 Finally, there is another record of Emily being baptized as a young child in the Reformed Dutch Church of Port Richmond. Other than that, I do not have direct evidence of Emily attending church prior to her Brookton baptism. 
   
-{{% fig "staten-island/rdc-scan_077" "800" /%}}
+{{% fig "staten-island/RDC/rdc-scan_077" "800" /%}}

@@ -277,7 +277,7 @@ Mills' store is easily visible from most windows in most rooms of Mills' Home.
 
 A summary of Mills' store deeds: 
 
-{{% table "/static/data/deeds.csv" "mills-store-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee" "" "property" "=" "Mills Store" %}}
+{{% autotable "/static/data/deeds.csv" "mills-store-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee" "Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Store" /%}}
 
 In the Caroline History Room in Slaterville Springs, there are a set of similar looking general store sales journals that belong to the general store of Frank C. Vorhis that was in the same location as Brookton's Market today.
 

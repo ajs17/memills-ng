@@ -7,7 +7,7 @@ Horace Franklin Mills, born 04 Aug 1854, Staten Island NY, died 21 October 1876,
 
 <!--more-->
 
-{{% table "/static/data/census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Horace" %}}
+{{% autotable "/static/data/census-data.csv" "census-horace" "year-i,type,town,name,age-i,birthplace,occupation,industry" "United States Federal Census and New York, U.S., State Census, ancestry.com." "firstname" "=" "Horace" /%}}
 
 Horace was baptized in the Reformed Dutch Church of Port Richmond:
  

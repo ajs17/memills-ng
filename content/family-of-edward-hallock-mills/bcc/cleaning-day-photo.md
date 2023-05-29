@@ -48,7 +48,7 @@ What immediately follows shows my initial attempts to confirm the identities of 
 
 {{% fig "bcc/cleaning-day-photo/combined-numbered-photo" "800" "img,link" /%}}
 
-{{% table "/static/data/cleaning-day-photo.csv" "cleaning-day-photo" "number,conant-id,lounsbery-id,status" %}}
+{{% autotable "/static/data/cleaning-day-photo.csv" "cleaning-day-photo" "number-i,conant-id,lounsbery-id,status" /%}}
 
 <!--
 ### 1 and 3: Paul Landon/Elihu Personeus

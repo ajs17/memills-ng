@@ -17,7 +17,7 @@ The real estate listing I responded to indicated the home was built in 1865, and
 
 Assuming the stone mason was more likely to have lived near the Wolcott Lot, I started with the 1865 New York State Census, looking for variations of “mason” and “stone mason”. Again, I can’t say for certain that every stone mason in the area is accounted for in the census, but several are identified:
 
-{{% table "/static/data/stone-masons.csv" "stone-masons" "name,age-given,trade,census-location,page-seq,page-num,line-num" "1865 New York State Census, ancestry.com" %}}
+{{% autotable "/static/data/stone-masons.csv" "stone-masons" "name,age-given-i,trade,census-location,page-seq-i,page-num-i,line-num-i" "1865 New York State Census, ancestry.com." /%}}
 
 The census splits the Town of Caroline into two “districts” at this time: the “First Election District” focuses on Speedsville and Caroline Center and includes some easily recognizable names, including William B. Hallock, a distant relative of Edward H. Mills, as well as Nathaniel Tobey and Peter Webb. “Election District No. 2” focuses on Slaterville and Mott’s Corners, and starting with approximately page 21 of the second district (each district was numbered separately, so this is page 38 sequentially), many recognizable names begin to appear, such as those shown on the Mott’s Corners map published in the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, as well as the founders of the Congregational Church just a few years later. 
 

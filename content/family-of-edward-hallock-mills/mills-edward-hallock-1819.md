@@ -14,7 +14,7 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton,
 > “his loss seems irreparable”
 
 
-{{% table "/static/data/census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Edward" %}}
+{{% autotable "/static/data/census-data.csv" "census-edward" "year-i,type,town,name,age-i,birthplace,occupation,industry" "United States Federal Census and New York, U.S., State Census, ancestry.com." "firstname" "=" "Edward" /%}}
 
 That Edward was born in Smithtown NY is corroborated by two sources explored further below: Edward's marriage registration to Hannah in Caroline, and his obituary in the notes of Brookton Congregational Church. The 1875 New York State census only specifies Long Island as his birthplace. Generally speaking, whenever Smithtown is referenced in relation to the Mills, it is quite likely referring specifically to [Mills Pond]({{% relref "smithtown" %}}). 
 
@@ -149,7 +149,7 @@ Edward's son Jonas died after a brief illness in Oct 1885.
 
 Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. (As this is written, Cleveland is the only president to have two non-consecutive terms.) A partial list of Brooktondale postmasters from usps.gov, beginning with the very first, up to the 1970's:
 
-{{% table "/static/data/postmasters.csv" "postmasters" "Name,Title,Date Appointed" "usps.gov" %}}
+{{% autotable "/static/data/postmasters.csv" "postmasters" "name,title,date-appointed-d" "usps.gov." "" "" "" "" "14" /%}}
 
 <figure>
 <blockquote>

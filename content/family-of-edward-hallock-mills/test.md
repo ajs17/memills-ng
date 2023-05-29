@@ -1,11 +1,14 @@
 ---
+title: "TEST PAGE"
 draft: true
 ---
 
-{{% fig "mills-home/1906-06-21-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
-{{% fig "mills-home/1906-06-21-Ithaca-Daily-Journal-Ithaca-NY-p5" "500" /%}}
-{{% fig "mills-home/1906-06-22-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
+page of tests
 
+<!--more-->
+
+
+ 
 photos today:
   - my home
   - fall photo of store
@@ -30,7 +33,7 @@ smithtown library file on mills family
     longislandroom@smithlib.org
 
 
-william's property locations?
+william hallock's property locations?
 
 hallocks in robinson southhold records?
 

@@ -17,7 +17,7 @@ Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookto
 </blockquote>
 
  
-{{% table "/static/data/census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Mary" %}}
+{{% autotable "/static/data/census-data.csv" "census-mary" "year-i,type,town,name,age-i,birthplace,occupation,industry" "United States Federal Census and New York, U.S., State Census, ancestry.com." "firstname" "=" "Mary" /%}}
 
 Mary Ann Pine was born and raised in [Hempstead]({{% relref "hempstead" %}}) Long Island NY, the daughter and youngest child of [Nicholas Ludlow Pine](https://www.findagrave.com/memorial/108776395/nicholas-ludlow-pine) (? to 03 Sep 1828), and [Rhoda (Seaman) Pine](https://www.findagrave.com/memorial/108776309/rhoda-pine) (24 May 1786 to 26 Sep 1859). The family attended Christ's First Presbyterian Church in Hempstead. Mary Ann was nine years old when her father died. 
 

@@ -33,7 +33,7 @@ Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on
 
 A summary of the historical deeds referenced below, up to the time it was owned by Jessie Brewer:
 
-{{% table "/static/data/deeds.csv" "mills-home-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount" "" "property" "=" "Mills Home" %}}
+{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Home" /%}}
 
 The following is the first deed for the property after it was sub-divided from the grist mill lot. Thanks to Alanna Congdon at the Tompkins County Clerks Office, who provided an alternative scan of the original to the one already available online. I present both as each is clear in areas where the other is not:
 

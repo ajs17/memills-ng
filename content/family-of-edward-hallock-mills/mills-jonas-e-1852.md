@@ -7,7 +7,7 @@ Jonas Edward Mills, born 18 Feb 1852, Staten Island NY, died 14 October 1885, Br
 
 <!--more-->
 
-{{% table "/static/data/census-data.csv" "census-jonas" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Jonas" %}}
+{{% autotable "/static/data/census-data.csv" "census-jonas" "year-i,type,town,name,age-i,birthplace,occupation,industry" "United States Federal Census and New York, U.S., State Census, ancestry.com." "firstname" "=" "Jonas" /%}}
 
 Jonas was baptized in the Reformed Dutch Church of Port Richmond:
 

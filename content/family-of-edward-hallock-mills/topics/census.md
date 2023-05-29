@@ -7,7 +7,7 @@ A summary of all of the census data of Edward Mills' family that I have been abl
 
 <!--more-->
 
-{{% table "/static/data/census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census* accessed via [ancestry.com](https://www.ancestry.com)" %}}
+{{% autotable "/static/data/census-data.csv" "census-all" "year-i,type,town,name,age-i,birthplace,occupation,industry" "United States Federal Census and New York, U.S., State Census, ancestry.com." /%}}
 
 According to [newyorkfamilyhistory.org](https://www.newyorkfamilyhistory.org/):
     

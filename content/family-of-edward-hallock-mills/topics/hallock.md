@@ -28,7 +28,7 @@ But I believe I have compelling circumstantial evidence that demonstrates that M
 There are exactly two dozen Thomas Hallocks in *A Hallock Genealogy*, however, I believe Mary Hallock's father can be confidently identified among them and her place in the genealogy can be restored. Beginning with the complete inventory of Thomas Hallocks across all generations as given in *A Hallock Genealogy*, summarized below:
 
 <figure>
-{{% table "/static/data/thomas-hallock.csv" "thomas-hallocks" "page,gen,dob,dod,locations,married,wife,notes" "Data taken from 1928, *A Hallock Genealogy* by Lucius Henry Hallock, uncestry.com" "" "Summary of Thomas Hallocks in the *Hallock Genealogy*" %}}
+{{% autotable "/static/data/thomas-hallock.csv" "thomas-hallocks" "page,gen-i,born,died,locations,married,wife,notes" "Data taken from 1928, *A Hallock Genealogy* by Lucius Henry Hallock, ancestry.com." "" "" "" "" "1,3" /%}}
 </figure>
 
 Of these Thomas Hallocks, only two are known to be living in Smithtown during the correct time period, and they are in the same generation:

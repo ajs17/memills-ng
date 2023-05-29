@@ -622,12 +622,9 @@ The following are my attempts to identify each person mentioned in the initial m
 Note that in the tables that follow the rows can be re-sorted by clicking the appropriate column header.
 
 Starting with their identities and relationships:
-
-<figure>
-{{% bcc-founders-table "static/data/bcc-founders.csv" %}}
-<footer>
-Notes:
-
+  
+{{% autotable "/static/data/bcc-founders.csv" "founders-relat" "listing,order-i-c,name-nw,born-i,died-i,notes" "" "" "" "" "" %}}
+ 
   - "Charter" indicates someone listed in the 25 Apr 1868 meeting. "Atwater" indicates additional names listed as charter members in her *[History of the Congregational Church]({{% relref "1968-atwater-history" %}})*. Finally "Smith" are my additions, to acknowledge the recorded names of others involved in the founding of the Church that were not already included in the other lists.
 
   - Note that the “Manual”, 100 copies of which were printed in 1868 as mentioned in the 25 April 1868 meeting, corroborates the number of people listed by Amy Atwater in her *History*, stating: “The original members, 55 in number, came from the Methodist E. Church, of Mott’s Corners, N. Y., and from the Reformed Church of America, in the town of Caroline, Tompkins Co., N. Y.”.
@@ -635,16 +632,16 @@ Notes:
   - It was at a meeting on Saturday 02 May 1868 when Alamanza Perry and Richard Sloughter "presented themselves for membership on profession of faith".
  
   - Urena Genung was present at the 12 Mar 1868 meeting, but apparently not at the 25 Apr 1868 meeting. 
-</footer>
-</figure>
+
+{{% /autotable %}}
 
 More information on the Founders: 
 
-<figure>
-{{% bcc-founders-table2 "static/data/bcc-founders.csv" %}}
-<footer>
-</footer>
-</figure>
+{{% autotable "/static/data/bcc-founders.csv" "founders-relat" "name-nw,born-i,died-i,approx-age-at-founding-i-c,occupation,office-held-at-founding" "" "" "" "" "" %}}
+
+  - Occupations come from varied sources, mostly census data and obituaries.
+
+{{% /autotable %}}
 
 A number of the founders can be found on the 1866 Stone & Stewart Atlas that included Mott's Corners:
 
@@ -741,7 +738,7 @@ John Mandeville advocated for the improved roads throughout Tompkins County, inc
 
 Although the exact spelling is unclear, how “Mariette” is pronounced is clear from how it is spelled in the 1870 census. She is the daughter of James Perry (04 Dec 1810 to 06 Jun 1898) and [Cynthia (German) Perry](https://www.findagrave.com/memorial/96483658/cynthia-perry) (26 Apr 1808 to 02 Jan 1857). At that time, she is a domestic servant living in the town of Taylor, Cortland County NY.
   
-#### Sextus Barnes and Abbie Landon
+#### Sextus Barnes and Abigail "Abbie" Landon
  
 {{% fig "bcc/obituaries/1909-03-27-abbie-landon-obit" "500" /%}}
 {{% fig "bcc/obituaries/1909-04-05-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}

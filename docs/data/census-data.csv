@@ -1,4 +1,4 @@
-year,type,town,firstname,name,age,Computed-birthyear,Relation-to-head,occupation,industry,Real-estate-value,Personal-estate-value,birthdate,birthplace,Attended-school-in-last-year,over-21-m,other
+Year-i,type,town,firstname,name,Age-i,Computed-birthyear-i,Relation-to-head,occupation,industry,Real-estate-value-i,Personal-estate-value-i,birthdate,birthplace,Attended-school-in-last-year,over-21-m,other
 1860,US,Castleton,Bartlett,Bartlett Brown,27,,,Merchant,,5000,2500,,New York,,,
 1860,US,Castleton,Edward,Edward H. Mills,42,,,Clerk,,,,,New York,,,
 1860,US,Castleton,Mary,Mary A Mills,42,,,,,,,,New York,,,
