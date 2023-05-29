@@ -637,7 +637,7 @@ Starting with their identities and relationships:
 
 More information on the Founders: 
 
-{{% autotable "/static/data/bcc-founders.csv" "founders-relat" "name-nw,born-i,died-i,approx-age-at-founding-i-c,occupation,office-held-at-founding" "" "" "" "" "" %}}
+{{% autotable "/static/data/bcc-founders.csv" "founders-more" "name-nw,born-i,died-i,approx-age-at-founding-i-c,occupation,office-held-at-founding" "" "" "" "" "" %}}
 
   - Occupations come from varied sources, mostly census data and obituaries.
 

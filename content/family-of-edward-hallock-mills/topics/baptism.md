@@ -28,7 +28,7 @@ This event and its recording are unusual in several respects, and deserving of f
 
 The following is a summary of information about the participants. Click on column headers to affect the sort order accordingly.
 
-{{% autotable "/static/data/baptism.csv" "postmasters" "order-listed-i,title-at-baptism,name-nw,year-born-i,year-died-i,age-at-baptism-i,age-first-married-i,age-at-death-i" "" "" "" "" "" "3" %}}
+{{% autotable "/static/data/baptism.csv" "baptism" "order-listed-i,title-at-baptism,name-nw,year-born-i,year-died-i,age-at-baptism-i,age-first-married-i,age-at-death-i" "" "" "" "" "" "3" %}}
 
   - Despite how it appears on her tombstone, Alleine was married to Harry Van Order (1891-1918) first on 17 Dec 1910, then married William Lyman Peck (1875-1960) on 23 Jan 1935.
 
