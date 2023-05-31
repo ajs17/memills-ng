@@ -109,7 +109,7 @@ Edward H. Mills and William B. Hallock are both in the eighth generation of the 
 
 <figure>
 
-| Gen |	Years |	<span style="white-space: nowrap">Edwards H. Mills’ Ancestry</span> | <span style="white-space: nowrap">William B. Hallock’s Ancestry</span> |
+| Gen |	Gen Years |	<span style="white-space: nowrap">Edwards H. Mills’ Ancestry</span> | <span style="white-space: nowrap">William B. Hallock’s Ancestry</span> |
 | :-: | :-: | --- | --- | 
 | 8 |	<span style="white-space: nowrap">1820 to 1840</span> |	[Edward H. Mills](https://www.findagrave.com/memorial/75958691/edward-h-mills) (1819 - 1908) |	[William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (1822 - 1901)</span>  |
 | 7 |	<span style="white-space: nowrap">1790 to 1810</span> |	Mary (Hallock) Mills (1798 - 1827) |	[Martin Hallock](https://www.findagrave.com/memorial/90295898/martin-hallock) (1782 - 1847) |
@@ -150,6 +150,32 @@ Among William and Sarah's children, two died very young and are buried in Centra
 
 William came from Orange County NY. Two of William's siblings lived nearby: [John Hallock](https://www.findagrave.com/memorial/59251371/john-hallock) (27 Dec 1824 to 25 Mar 1884) whose descendants remained near Spencer, and [Almira L. (Hallock) Martin](https://www.findagrave.com/memorial/145482231/almira-l-martin) (07 Mar 1807 to 16 Oct 1865) of Dryden.
 
+And just as the family of Edward Mills' can trace their lineage to Mills' Pond, their Hallock ancestors also lived in a large area known as Hallockville that included a pond named for them.
+
+<figure>
+
+> In the late 20th century, the approximately 520 acres in the northeast corner of Riverhead Town and a small portion of adjacent Southold Town came to be known as the “KeySpan Property.” It included about 300 acres of farmland, 200 acres of woodland (mostly old fields and second-growth forest) and over 5,000 feet of shorefront on Long Island Sound, backed by high bluffs of sand and clay. Some parts of this area were highly disturbed by recent activities, but it also included the pristine Hallock Pond and large areas of wooded and semi-wooded wildlife habitat. In the first decade of the 21st century, this became the site of a remarkable preservation story that created Hallock State Park Preserve and permanently prevented development on the adjacent farmland. The area referred to in the 19th century as “Hallockville” because of the presence of so many Hallock families is approximately the same as the 20th century “KeySpan” property.
+
+<figcaption>
+<cite>— 23 Jul 2008, "Hallockville, the KeySpan Property and Jamesport State Park" by Richard Wines, hallockville.org.
+</cite>
+</figcaption>
+</figure>
+
+
+<figure>
+
+> But, the story really starts four generations earlier, shortly after the 1661 first Aquebogue Division when William Hallock ( -1684) moved to his new land in the wilderness and built the first home in the area, on what is now Hallock Lane. William’s oldest son Thomas lived there, followed by Thomas’s oldest son, Zerubabel, 1st (1696-1761), followed by his oldest son, Zerubabel, 2nd (1722-1800). All apparently lived on Hallock Lane and are buried in the Mattituck cemetery. Indeed second Zerubabel‘s grave in the northwest corner of that cemetery is one of the most spectacular examples of early gravestone carving in the area.
+>
+> The Zerubabel’s went on for another three generations, and their descendants continued to live on Hallock Lane until the mid-20th century – nine generations in all. But, the story of the immediate neighborhood of the Hallockville museum – shall we call it “Hallockville proper – really begins with Capt. Zachariah. He was the fourth son in a family of six sons and three daughters. Most likely, he needed to move out from the old homestead to find a place of his own.
+
+<figcaption>
+<cite>— 23 Jul 2008, "Hallocks on the Land: A Nine-generation Story" by Richard Wines, hallockville.org.
+</cite>
+</figcaption>
+</figure>
+
+As already noted above, Zerubabel Hallock (1696 to 1761, generation 4), the oldest son of Thomas (generation 3) who was the oldest son of William (generation 2), is Edward H. Mills' great-great grandfather.
 
 ## Alternate Spellings of Hallock
 

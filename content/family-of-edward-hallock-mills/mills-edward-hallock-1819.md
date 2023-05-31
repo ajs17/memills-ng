@@ -30,7 +30,7 @@ Mr. [James Thomas] Mills was not born in Suffolk County, but he was only two wee
 </figcaption>
 </figure>
 
-The Mills' return to Smithtown, "two weeks and two days" after James' birth on 13 Feb 1827, was 01 Mar, the day before James' and Edward's mother Mary (Hallock) purportedly died (according to only one source, now defunt, MillsAncestry.org), and just a few weeks before Edward's eighth birthday. 
+The Mills' return to Smithtown, "two weeks and two days" after James' birth on 13 Feb 1827, was 01 Mar, the day before James' and Edward's mother Mary (Hallock) purportedly died (according to only one source, now defunct, MillsAncestry.org), and just a few weeks before Edward's eighth birthday. 
 
 (The precise day of Mary (Hallock) Mills' death is given in only one of [the three known Mills genealogies]({{% ref "smithtown" %}}), and although it can also be found in a number of user created family trees on Ancestry.com, I have not found one that cites a source for it. I have not yet found documentation independently corroborating this day in my own research.)
 

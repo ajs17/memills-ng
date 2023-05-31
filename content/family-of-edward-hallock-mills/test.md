@@ -7,6 +7,59 @@ page of tests
 
 <!--more-->
 
+{{% fig "bcc/founding/2023-02-28_09.48.55" "800" "img,link,blockquote,aside" /%}}
+
+{{% fig "bcc/founding/2023-02-28_09.49.29" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.33" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.35" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.49.40" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.17" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.22" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.24" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.35" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.38" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.41" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.42" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.47" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.49" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.52" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.55" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.50.59" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.01" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.04" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.12" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.15" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.20" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.24" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.26" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.51.57" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.52.20" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.52.22" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.52.25" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.52.27" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.12" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.21" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.27" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.32" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.38" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.41" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.44" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.53.55" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.05" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.08" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.10" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.13" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.19" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.22" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.24" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.26" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.32" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.37" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.40" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.42" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.43" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.50" "800" "img,link,blockquote,aside" /%}}
+{{% fig "bcc/founding/2023-02-28_09.54.53" "800" "img,link,blockquote,aside" /%}}
 
  
 photos today:
@@ -52,7 +105,3 @@ Backlinks:
   - hallock - james
 
 
-
-find . -type f -size +5M -printf '%s %p\n' | sort -nr | head -10
-find . -type f -size +5M -exec du -h '{}' + | sort -hr | head -10
-https://stackoverflow.com/questions/8943154/command-to-print-out-large-files-sorted-with-sizes-in-human-readable-format
