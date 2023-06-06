@@ -9,7 +9,7 @@ This section explores various features of the Mills’ Home property, including 
 
 ## The Stone Foundation
 
-I have speculated elsewhere that William Benton Wolcott, a carpenter by trade, who was the first owner of record of Mills’ Home, may have had a direct hand in the construction of the dwelling (see [Deeds and Ohter Past Owners]({{% relref "other-past-owners" %}})), and that Reverend Garrett Mandeville’s grandson John L. Mandeville may have initially surveyed the property after it was divided from the lower grist mill lot (see [The Mill Race Bridge and The Barn]({{% relref "mill-race-bridge-barn" %}})).
+I have speculated elsewhere that William Benton Wolcott, a carpenter by trade, who was the first owner of record of Mills’ Home, may have had a direct hand in the construction of the dwelling (see [Deeds and Other Past Owners]({{% relref "other-past-owners" %}})), and that Reverend Garrett Mandeville’s grandson John L. Mandeville may have initially surveyed the property after it was divided from the lower grist mill lot (see [The Mill Race Bridge and The Barn]({{% relref "mill-race-bridge-barn" %}})).
 
 Presumably, the stone foundation that sits under Mills’ Home as I write this is the same foundation built for William Wolcott, and if this is true, then its enduring stability over these many years is presumably the result of a skilled stone mason of William Wolcott’s time. I set out to try to learn this craftsman’s identity, and although I cannot say for certain who did the work, I think there are several likely candidates, and one in particular stands out.
 
@@ -44,11 +44,11 @@ Also notice that the census seems to consistently distinguish the occupations of
 </figcaption>
 </figure>
 
-In 1870, Alonzo was still living in Mott's Corners as a stone mason, according to the Federal Census that year, completely encompassing the window in which the foundation and dwelling were built on the Wolcott Lot.
+In 1870, Alonzo was still living in Mott's Corners as a stone mason, according to the Federal Census that year, completely encompassing the window in which the foundation and dwelling were built on the Wolcott Lot. Alonzo was married to [Clarissa (Personius) Northrop](https://www.findagrave.com/memorial/100183650/clarissa-northrup) (04 Apr 1821 to 24 May 1876). They became members of the Congregational Church of Mott’s Corners.
+
+Clarissa was first cousins with [William Krum Personius](https://www.findagrave.com/memorial/162786830/william-krum-personius) (10 Feb 1811 to 25 Apr 1887), as they share the common grandfather [James Jacobus Personius](https://www.findagrave.com/memorial/36649297/james-jacobus-personius) (11 Jun 1747 to 14 May 1836). William Krum Personius was the father of [Walker Voorhis Personius](https://www.findagrave.com/memorial/98386104/walker-voorhis-personius) (1836 to 1914), grocer, postmaster and justice of the peace, and [Charles William Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 1924), who owned the lower grist mill at the time that it was divided to create the Wolcott Lot, the future Mills' Home. Both Walker and Charles were Civil War veterans and [founding members]({{% ref "founding-documents" %}}) of the Congregational Church of Mott's Corners.
 
 Therefore, in the absence of specific evidence to the mason’s identity, it seems most probable that he was Alonzo B. Northrop.
-
-Alonzo was married to [Clarissa (Personius) Northrop](https://www.findagrave.com/memorial/100183650/clarissa-northrup) (04 Apr 1821 to 24 May 1876). They became members of the Congregational Church of Mott’s Corners.
 
 <div class="cols">
 {{% fig "mills-home/1906-06-21-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
@@ -58,7 +58,24 @@ Alonzo was married to [Clarissa (Personius) Northrop](https://www.findagrave.com
 </div>
 </div>
 
-With the notable exceptions of Alonzo's obituary and death notices (I have not found the same for Clarissa) and Clarissa's grave stone, the family name appears to be most commonly written as Northr**o**p with a "p" and not Northr**u**p with a "u".
+With the notable exceptions of Alonzo's obituary and death notices (I have not found the same for Clarissa) and Clarissa's grave stone, the family name appears to be most commonly written as Northr**o**p with a "o" and not Northr**u**p with a "u".
+
+
+<figure>
+
+> Brooktondale Store, left -- 491 Brooktondale Road
+>
+> William Gale had a tin shop on this site for a few years. The Mulks Brothers, Frank, Charles & Fred, had a store here for many years. Robert Tucker bough the property in the late 1920's and built the house next door. The Post Office was at the back, with it's own door. Fred Mulks was the postmaster while he owned the store. By 1866, Willis Shurter's Plaster Mill sate where the present store parking lot is. He also had a fulling Mill.
+>
+> Jacob Vandemark's woolen mill sat next to the store. It was built before the Civil War. Stockings and mittens were made here and fabric was woven. Fabric woven at home was "dressed". After Jacob's death, his two sons, William and Thomas carried on the business, but it closed in 1890 when it was sold to Fred Bates. It was then the property of Fred Annis, who had a saw mill, and flour mill here. After that, Rightmire and Travis had a hardware store here, then Levi Bacon had a feed store here and put in a dance floor on the upper story. It was burned by an incendiary on 21 April 1916. 
+
+<figcaption>
+<cite>
+
+— *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 3 - P6. 
+</cite>
+</figcaption>
+</figure>
 
 
 I have not been able to visually confirm the placement of the cornerstone:

@@ -254,27 +254,7 @@ Age: 72
 
 {{% fig "1897-03-18-ithaca-daily-journal" "500" /%}}
 
-The following, taken from the sales journals of [E. H. Mills]({{% ref "me-mills" %}}) general store in Brookton, indicates the purchase of a barn on 23 Sep 1907, that was then rented to John Roe for $0.50 a month starting in 1908. I have not found a deed that corresponds to this date in the deed indexes for Caroline or Danby that are preserved by the Tompkins County Clerk. Interestingly, there is a real estate transaction between Amanda Lounsbery and John Roe earlier in 1907, that is perhaps related to the barn rental: 
-
-<div class="cols">
-{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
-{{% fig "mills-home/deeds-164-253-lounsbery-roe" "800" /%}}
-</div>
-
-There was a barn on the Mills' home property at one time, but by 1907, it was on land owned by the Mills already: 
-
-{{% fig "brookton/maps/1912-highway-bf033282-001-p2-lower-cropped" "800" /%}}
-
-Perhaps the purchase indicated was not by the Mills, but by the Lounsbery's, and the Mills were providing a service on behalf of their store landlords, to collect and account for these transactions at a convenient existing business already frequented by community members. Note in the survey maps below, a structure labelled the existence of the "Brewer Barn", at the rear of the Lockwood property and behind the Mulks and Lockwood barns, that may be the barn in question. A note indicates that "Brewer uses this driveway by permit". 
-
-{{% fig "brookton/maps/surveys/A-1-Book-p16" "800" /%}}
-{{% fig "brookton/maps/surveys/BF127082-001-book-272-p322" "800" /%}}
-
-This structure still exists as I write this, and in a discussion with Frank Proto on 19 May 2023, he indicated that it did belong to Jesse Brewer at some point in the past, and that it was now considered part of the old Lockwood property.
-
-{{% fig "brookton/maps/surveys/brewer-barn-google-maps" "800" /%}}
-
-Edward also lent money to Samuel Onan and his wife for a land purchase, later transferring it to Culver Little, Edward Lounsbery's brother-in-law:
+Edward lent money to Samuel Onan and his wife for a land purchase, later transferring it to Culver Little, Edward Lounsbery's brother-in-law:
 
 {{% fig "edward-other/mortgagee-index-p38-001" "800" /%}}
 <div class="cols">

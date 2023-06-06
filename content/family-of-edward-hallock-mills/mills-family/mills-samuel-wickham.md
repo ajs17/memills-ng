@@ -160,7 +160,7 @@ Initially nobody knew that Horatio Mills was a passenger on the boat, and his re
 
 {{% fig "long-island/seawanhaka-disaster/1880-07-01-Utica-Daily-Observer-Utica-NY-p3" "800x500" "" "top" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-07-02-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p4" "800x500" "" "top" /%}}
-{{% fig "long-island/seawanhaka-disaster/1880-07-02-Tri--states-Union-Port-Jervis-NY-p1" "800x500" "" "top" /%}}
+{{% fig "long-island/seawanhaka-disaster/1880-07-02-Tri-states-Union-Port-Jervis-NY-p1" "800x500" "" "top" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-07-03-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p4" "500" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-07-03-The-Sun-New-York-NY-p3"  "800x500" "" "top" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-07-03-Utica-Daily-Observer-Utica-NY-p1" "500x300" "" "top" /%}}
@@ -173,6 +173,6 @@ Initially nobody knew that Horatio Mills was a passenger on the boat, and his re
 {{% fig "long-island/seawanhaka-disaster/1880-07-14-Daily-Morning-News-Batavia-NY-p1" "500" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-07-26-Batavia-Daily-News-Batavia-NY-p1" "500" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-08-11-The-Brooklyn-Union-Brooklyn-NY-p2" "500x300" "" "top" /%}}
-{{% fig "long-island/seawanhaka-disaster/1880-08-14--The-Corrector-Sag-Harbor-NY-p2" "500" /%}}
+{{% fig "long-island/seawanhaka-disaster/1880-08-14-The-Corrector-Sag-Harbor-NY-p2" "500" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-10-28-Cuba-Daily-News-Cuba-NY-p1" "500" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-12-11-The-Roslyn-News-Roslyn-NY-p3" "500" /%}}
