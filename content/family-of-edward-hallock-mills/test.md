@@ -8,7 +8,17 @@ page of tests
 <!--more-->
 Walker V. Personius, justice of the peace
 
+---
 
+[Betsey Elizabeth (Holmes) Cutting](https://www.findagrave.com/memorial/99843237/betsey-cutting) (16 Apr 1810 to 07 May 1881) who married [Sewell Cutting](https://www.findagrave.com/memorial/99843132/sewell-cutting) (09 Oct 1808 to 26 Feb 1848) on 17 Apr 1840 in Southbridge MA.
+
+[Harriet (Cutting) Gale](https://www.findagrave.com/memorial/100356350/harriet-gale) (12 Aug 1838 to 08 Feb 1904)
+
+
+
+https://www.findagrave.com/memorial/8485736/harriet-bemis
+
+---
 
 1865, p32-33 Edward listed as Farmer, Peter listed as tanner. 
 p1, benjamin silsbee, farmer
@@ -16,7 +26,7 @@ Fred Marsh, butcher
 Josiah Shurter, Miller, also Edward Marsh 
 
 
-George Personius (19 in 1865) was nephew
+George Personius (19 in 1865) was nephew of clarissa
 
 1892, p5, Edward and George Peck : Hide Dealer
 
@@ -40,9 +50,6 @@ p40 John Ault Carpenter, daughter  Hattie, school teacher
 William (S or G) Gale (42), stone mason, just above Walker Personius, wife Harriet, Lewis, Charlie, Jennie, Mary
 James McWhorter, Blacksmith
 
-[Harriet (Cutting) Gale](https://www.findagrave.com/memorial/100356350/harriet-gale) (12 Aug 1838 to 08 Feb 1904)
-
-[Betsey Cutting](https://www.findagrave.com/memorial/99843237/betsey-cutting) (16 Apr 1810 to 07 May 1881)
 
 p41 George Sanders, Albert Keeler, Jacob Vandemark (son Thomas was miller), Charles Personius
 

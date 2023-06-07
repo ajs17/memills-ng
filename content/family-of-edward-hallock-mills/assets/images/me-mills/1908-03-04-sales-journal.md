@@ -13,4 +13,4 @@ The following are selected transcriptions from the image adapted for this presen
   - 1908 Mar 23 Paid for Ithaca Journal  1.75
   - 1908 Mar 28 Eggs  .14 needles  .03 paid P. Snow  .25  .42
   - 1908 Mar 30 Paid Mitchell as Justice of Peace  1.25
-  - 1908 Apr  4 Paid D. F. Roe for acknowledgment + E[unclear].  .28
+  - 1908 Apr  4 Paid D. F. Roe for acknowledgment & E[unclear].  .28

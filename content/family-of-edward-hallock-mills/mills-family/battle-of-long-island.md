@@ -61,13 +61,16 @@ Yet another William Mills also fought in the battle.
 
 The soldiers' ages on the day the battle began:
 
-| | |
-| --- | --- |
+<figure>
+
 | Age | Soldier |
+| --- | --- |
 | 23  | Sergeant Jonas Mills |
 | 24  | Corporal Jedediah Mills |
 | 19  | William Mills of Mills Pond |
 | 22  | William Mills, son of Jacob |
+
+</figure>
 
 Note that the battle began on the 19th birthday of William Mills of Mills Pond.
 

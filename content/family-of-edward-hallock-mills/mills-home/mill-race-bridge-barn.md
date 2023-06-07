@@ -15,7 +15,7 @@ For a long time, I have wanted to know more about the location and size of this 
 
 First, some background on the grist mill/Dalebrook property itself, beginning with the deed history during the relevant time period that will be discussed.
 
-{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "Deeds for 487 Brooktondale Road, \"Dalebrook\", Tompkins County Clerk, Ithaca NY." "property" "=" "Dalebrook" /%}}
+{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "Summary of Deeds for 487 Brooktondale Road, \"Dalebrook\", Tompkins County Clerk, Ithaca NY." "property" "=" "Dalebrook" /%}}
 
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
 
@@ -36,7 +36,7 @@ The grist mill was powered by water diverted from Six Mile Creek into a mill pon
 
 The portion of the race that crosses Mills' Home is the grist mill tailrace, and is either directly referenced as such, or descriptively referenced as the race that exits the grist mill. There is obviously a corresponding bridge across the mill headrace on the portion of Brooktondale Road (as it is presently designated) to the east of the grist mill, the portion that was known in the past as Back Road or "Easy Street". The historical deeds of the relevant properties in that area also reference this bridge, often simply generically as "the mill race bridge", not specifying its relative position either directly or descriptively as was done with the tailrace bridge. 
 
-The mill pond was behind Mulks' Store, presently Brookton's Market. I have seen a photograph of the grist mill and store that shows water flowing out of the pond into the grist mill. According to *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, and corroborated by other accounts, there were three mills on the site of Dalebrook, all of which apparently burned. Also in the past, there was a plaster mill and a woolen mill directly next to the grist mill(s) to the east. Throughout the historical deeds for these properties, access to water right is explicitly reserved.
+The mill pond was behind Mulks' Store, presently Brookton's Market. I have seen a photograph of the grist mill and store that shows water flowing out of the pond into the grist mill. According to *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, and corroborated by other accounts, there were three mills on the site of Dalebrook, all of which apparently burned. Also in the past, there was a plaster mill and a woolen mill directly next to the grist mill property to the east. Throughout the historical deeds for these properties, access to water right is explicitly reserved.
 
 I am aware of several visual representations of the grist mill raceway, and of the tailrace that passed through the Mills’ Home lot. In the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, part of the mill raceway is represented, from its origin at Six Mile Creek up to the point that it intersects with Creek Road on its return to the creek after exiting the mill.
 
@@ -241,7 +241,7 @@ Going forward, I will assume that both descriptions refer to the following commo
 
 I have attempted to create my own rudimentary survey maps based on these deed descriptions. I should point out that my knowledge of surveying methods is self-taught, so my efforts should be evaluated accordingly. 
 
-For distances, I chose to make 1 inch equal to 1 chain, which was a good size to work with and made creating the lines much easier, as then links translates directly into a percentage of an inch. For example, a distance of “4 chains and 63 links” equals 4.63 inches on my pseudo-surveys.
+For distances, I chose to make 1 inch equal to 1 chain, which was a good size to work with and made creating the lines much easier, as then links translates directly into a percentage of an inch. For example, a distance of “4 chains and 63 links” equals 4.63 inches on my full-size pseudo-surveys.
 
 I based the orientation of my maps on the course of Brooktondale Road, which is an essential landmark, along with the mill race bridge, for establishing the place of beginning of the parcel. The portion of Brooktondale Road that fronts Mills' Home has always been represented on maps as a perfectly straight line in the same location. Both the 1866 Stone & Stewart Atlas and the 1912 Highway map corroborate this, showing that the road only begins to gradually curve toward Dalebrook to the east of the Mills parcel. This curve was itself straightened in the mid 1960's when the lower bridge was reconstructed and the Shurter House that sat next to Mills' Store was moved. All of the Mills' Home property surveys corroborate this, as do other maps.
 
@@ -267,7 +267,6 @@ Then, using the document dates for the relevant deeds and survey maps that will 
 | 21 Feb 1980 | 11° 02' W changing by  0° 6' W per year | 
 | 06 Mar 2023 | 11° 43' W changing by  0° 3' E per year | 
 
-
 <figcaption>
 
 <cite>
@@ -277,7 +276,7 @@ Then, using the document dates for the relevant deeds and survey maps that will 
   - 22 May 1869, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to William B. Wolcott, Caroline Deeds 1, p572, Tompkins County Clerk, Ithaca NY. Deed for present day 475 Brooktondale Road. 
   - 23 Oct 1883, William B. Wolcott and Ellen Wolcott, his wife to Horace N. Humiston senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY. Deed for present day 475 Brooktondale Road. 
   - 26 Feb 1912, Plans for Improving the Cooks Corners-Brookton: Slaterville Springs-Caroline County Highway, Instrument number BF033282-001, Sheet 1, Tompkins County Clerk, Ithaca NY. Highway survey of Brooktondale.
-  - 01 Jul 1969, Jessie Brewer to C. Dalton Jones and Clara B. Jones, Deeds 482, p528, Tompkins County Clerk, Ithaca NY. Deed for present day 475 Brooktondale Road along with survey of the same property by Gordon Rice. 
+  - 12 Jul 1969, Jessie Brewer to C. Dalton Jones and Clara B. Jones, Deeds 482, p528, Tompkins County Clerk, Ithaca NY. Deed for present day 475 Brooktondale Road along with survey of the same property by Gordon Rice. 
   - 07 Apr 1972, Survey of No. 487 Brooktondale Road, Book 1970, p11, Tompkins County Clerk, Ithaca NY. Survey by Thomas Miller. 
   - 06 Mar 1980, C. Dalton Jones and Clara B. Jones to Lawrence E. Lattin and Janet L. Lattin, Deeds 577, p1058, Tompkins County Clerk, Ithaca NY. Deed for present day 475 Brooktondale Road along with survey of the same property by Howard Schlieder. 
   - 06 Mar 2023, Survey Map No. 475 Brooktondale Road. Survey by Lee Dresser.
@@ -286,7 +285,7 @@ Then, using the document dates for the relevant deeds and survey maps that will 
 <figcaption>
 </figure>
 
-Using the bearings given for Brooktondale/Creek Road in the sources above and adjusting for magnetic declination further shows that they all reconcile.
+Using the bearings given for Brooktondale/Creek Road in the sources above and adjusting for magnetic declination further shows that they all essentially reconcile.
 
 <figure>
 
@@ -315,7 +314,7 @@ Using the bearings given for Brooktondale/Creek Road in the sources above and ad
 
 Based on this analysis, I will assume a bearing of **N 64° 30' W true north** for Creek Road in the 1869 and 1883 legal descriptions.
 
-Note that in both legal descriptions for 1869 and 1883, the distance and bearing in step 3 (between common map points B and C) are the same. And, for simplicity, I will represent the path of the brow of the hill in step 4 as a simple arc. The endpoint of the arc on the road is determined relative to the measured distance from the Place of Beginning.
+Again, note that in both legal descriptions for 1869 and 1883, the distance and bearing in step 3 (between common map points B and C) are the same. And, for simplicity, I will represent the path of the brow of the hill in step 4 as a simple arc. The endpoint of the arc on the road is determined relative to the measured distance from the Place of Beginning.
 
 Although neither the 1869 nor the 1883 deed descriptions specify north, it appears to be true in both cases. The bearings match between them despite a difference in magnetic declination of more than a degree between those years. It is also clear that starting with Gordon Rice in 1969, these descriptions have been interpreted as true north, which seems to be corroborated by iron pipes present before Rice's survey, which appear to be based on the 1883 description, as will be shown further below. 
 
@@ -485,7 +484,7 @@ Yet Rice's place of beginning lived on in the written legal deed description of 
 
 <figcaption>
 <cite>
-– 01 Jul 1969, Jessie Brewer to C. Dalton Jones and Clara B. Jones, Deeds 482, p528, Tompkins County Clerk, Ithaca, NY. 
+– 12 Jul 1969, Jessie Brewer to C. Dalton Jones and Clara B. Jones, Deeds 482, p528, Tompkins County Clerk, Ithaca, NY. 
 </cite>
 </figcaption>
 </figure>
@@ -510,11 +509,15 @@ Then, at the end of the description of "Parcel No. 2", Mills' Store, is an aster
 
 I once again created a small pseudo-survey based on this description to verify its placement. It is defined by point C, the iron pipe at the brow of the hill. Recalling that the magnetic declination in 1972 was 10° 29' W, the following adjustments are made to convert the bearings to true north for purposes of comparison:
 
+<figure>
+
 | Step | Stated Course | True Course | Converted Distance |
 | --- | --- | --- | --- | 
 | X | N 19° 59' E 320 feet    | N 9° 30' E   | 4 chains 85 links |
 | Y | S 10° 44' W 292.05 feet | S 10° 44' W  | 4 chains 43 links | 
 | Z | S 53° 33' E             | S 64° 2' E   | 14 links (approx 9.5 feet, from Miller 1970/11) | 
+
+</figure>
 
 The bearing for step Y is not explicitly stated in the footnote, and the Rice map is both difficult to read, and also, as already proven, cannot be correct anyway, as the line it depicts as straight cannot be straight. Instead, I have borrowed Schlieder’s measurements of the same area that states the course in step Y is S 10° 43' 36" W true, which I have rounded slightly to S 10° 44' W for this purpose. I have also used Schlieder's distances for steps X and Y. Shlieder's measurement is equivalent to the 320 feet stated and also note that it is essentially equal to the 4 chains 83 links distance explicitly stated in steps 2 and 3 of the 1883 Mills’ Home deed description. 
 
@@ -595,9 +598,9 @@ A Dalebrook appropriation map from 1963 suggests the possibility that the mill r
 
 {{% fig "brookton/maps/BF162361-001-map-565" "800" /%}}
 
-This could be corroborated by a reinterpretation of the original 1869 and 1883 Mills' Home deeds based on the bearings being magnetic instead of true. I will now explore this reinterpretation, which could move the center of the mill race bridge approximately 82 links or 54 feet to the east of where it has generally been interpreted to be, well into what has been traditionally thought to be the Dalebrook lot.
+This could be corroborated by a reinterpretation of the original 1869 and 1883 Mills' Home deeds based on the bearings being magnetic instead of true. I will now explore this reinterpretation, which could move the center of the mill race bridge–and therefore, the placement of the eastern boundary like with Dalebrook–approximately 82 links or 54 feet to the east of where it has generally been interpreted to be, well into what has been traditionally thought to be the Dalebrook lot.
 
-Because the 1869 and 1883 descriptions use matching bearings for the eastern boundary line, I will reconcile the two descriptions by using a declination of **6°** for both, based on the table of magentic declinations already given, which should be adequate for my purposes. (There are 60 seconds in a minute and 60 minutes in a degree, so the difference in declination between the two dates is 1° 8', making the midpoint between the two measurements 6° 18' and I further rounded this down to 6° to match the precision of the original measurements, which do not specify minutes or seconds. )  
+Because the 1869 and 1883 descriptions use matching bearings for the eastern boundary line, I will reconcile the two descriptions by using a declination of **6°** for both, based on the table of magnetic declinations already given, which should be adequate for my purposes. (There are 60 seconds in a minute and 60 minutes in a degree, so the difference in declination between the two dates is 1° 8', making the midpoint between the two measurements 6° 18' and I further rounded this down to 6° to match the precision of the original measurements, which do not specify minutes or seconds. )  
 
 The 1869 Mills' home deed description, adjusted for magnetic declination:
 

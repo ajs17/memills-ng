@@ -693,6 +693,8 @@ Finally, here is some basic information on the Presbyterian churches on Staten I
 
 The following table is from [Presbyterian churches and their founding](http://www.nygenweb.net/richmond/churches.html) on nygenweb.net and cites "WPA's Inventory of the Church Archive in New York City — Presbyterian Church in the United States of America. (Historical Records Survey), 1940 as found at nycnuts.net."
 
+<figure>
+
 | Year | Name |	Location |
 | ---- | ---- | -------- | 
 | 1727 | English of Staten Island |Stony Brook; to about 1776 |
@@ -701,6 +703,8 @@ The following table is from [Presbyterian churches and their founding](http://ww
 | 1887 | First of New Brighton | New Brighton |
 | 1911 | Calvary Chapel | West New Brighton |
 | 1925 | Rosebank Mission also Our Savior | Rosebank |
+
+</figure>
 
 {{% fig "staten-island/sketchbook-staten-island-p72" "500" /%}}
 

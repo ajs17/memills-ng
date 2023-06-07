@@ -102,7 +102,7 @@ On motion of Edward Lounsbery, Mr. William Personius was chosen Chairman and Wal
 
 After an interchange of views and a careful examination of the subject, on motion a committee was appointed consisting of N. J. Roe, Richard Lounsbery, George Wolcott, and Cantine Lounsbery for the purpose of consulting with the members of the Methodist and Reformed Dutch Churches to secure their cooperation on the organization of a Congregational Church.
 
-Motion made and carried + adjourned to meet on Thursday Evening March 12, 1868.
+Motion made and carried & adjourned to meet on Thursday Evening March 12, 1868.
 
 William Personius, Chairman
 

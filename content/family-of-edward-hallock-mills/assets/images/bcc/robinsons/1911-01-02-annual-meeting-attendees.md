@@ -12,7 +12,7 @@ Geo R. Peck, Treasurer
 
 Dea.
 
-Charles Lounsbery, Jerome Miller + C. A. Denman
+Charles Lounsbery, Jerome Miller & C. A. Denman
 
 Finance
 

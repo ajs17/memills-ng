@@ -13,7 +13,7 @@ notes: >-
     - [Alonzo Gorsline](https://www.findagrave.com/memorial/85131139/alonzo-gorsline) (07 Mar 1840 to 13 Nov 1914).
 ---
 
-Withdrawn by letter Mrs. Mary Forbes Robinson + rec'd Oct 4, 1914 into membership by the First Pres. Ch. of Ithaca N.Y.
+Withdrawn by letter Mrs. Mary Forbes Robinson & rec'd Oct 4, 1914 into membership by the First Pres. Ch. of Ithaca N.Y.
 
 Died.
 

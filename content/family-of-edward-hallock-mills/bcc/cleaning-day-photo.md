@@ -76,7 +76,7 @@ Jessie Brewer joined the church rolls when she and Emily Mills were [baptized]({
 
 ### 7: Cassie Landon
 		
-[Catharine F. "Cassie" (Woodhull) Landon](https://www.findagrave.com/memorial/67294683/catharine-f-landon) (Apr 1870 to 08 Nov 1944) was a very active member of the church who at different times served as pianist/organist, and also taught and helped organize the Sunday School. The Ithaca Daily Journal on 15 Jan 1909 notes that Cassie was elected treasurer of the Congregational Sunday School. A 1913 entry in *Congregational Church 1868-1933 Minutes of Meetings and Membership* lists "Mrs. Cassie Landon + Paul".
+[Catharine F. "Cassie" (Woodhull) Landon](https://www.findagrave.com/memorial/67294683/catharine-f-landon) (Apr 1870 to 08 Nov 1944) was a very active member of the church who at different times served as pianist/organist, and also taught and helped organize the Sunday School. The Ithaca Daily Journal on 15 Jan 1909 notes that Cassie was elected treasurer of the Congregational Sunday School. A 1913 entry in *Congregational Church 1868-1933 Minutes of Meetings and Membership* lists "Mrs. Cassie Landon & Paul".
 
 Cassie is the daughter of [Samuel Smith Woodhull](https://www.findagrave.com/memorial/153809194/samuel-smith-woodhull) (Apr 1842 to 27 Dec 1917) who was a Civil War veteran, member of the David Ireland Post, G.A.R and was believed to have been the last surviving member of his Company under the command of General Sheridan. 23 Feb 1917, Sam repaired the porch columns on Mills’ store.
 

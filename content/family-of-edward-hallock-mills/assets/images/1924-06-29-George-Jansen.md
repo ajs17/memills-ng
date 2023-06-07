@@ -5,7 +5,7 @@ notes: >-
     - [Dana H. Jansen](https://www.findagrave.com/memorial/71685445/dana-h-jansen) (1861 to 24 Oct 1932)
 ---
 
-low  68 high 82  High south winds + rain in night  Strong variable winds mostly south  I went up as far as Dana + back  A light sprinkle at Noon  Fair otherwise  A Mr Snyder ate supper here tonight
+low  68 high 82  High south winds & rain in night  Strong variable winds mostly south  I went up as far as Dana & back  A light sprinkle at Noon  Fair otherwise  A Mr Snyder ate supper here tonight
 
 June 29th 1924
 

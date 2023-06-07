@@ -6,5 +6,5 @@ notes: >-
 ---
 Dec 18, 1921
 
-At a special meeting called after the morning services, Miss Ella Richards elected chairman. Motion made and seconded to ask for the missionary aid (Motion made by Mr. Wallace seconded by Mr. Richard.) Motion that the chairman appoint the committee of three carried, and Mr. Skinner, Miss Mills + Mrs. Trap appointed.
+At a special meeting called after the morning services, Miss Ella Richards elected chairman. Motion made and seconded to ask for the missionary aid (Motion made by Mr. Wallace seconded by Mr. Richard.) Motion that the chairman appoint the committee of three carried, and Mr. Skinner, Miss Mills & Mrs. Trap appointed.
 
