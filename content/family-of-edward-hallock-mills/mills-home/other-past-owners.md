@@ -3,18 +3,13 @@ title: "Deeds and Other Past Owners"
 weight: 100 
 ---
 
-This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's with the first owner of record, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer. It is unclear exactly when the Mills family first moved into the home. 
+This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's with the first owner of record, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer. It is unclear exactly when the Mills family first moved into the home, although I believe the 1880 census strongly suggests that they lived in the home shortly after their move to Mott's Corners, if not immediately so. 
 
 <!--more-->
 
-<blockquote>
-<p>
-"[Emily] lived across the street from Dr. Lockwood, in a little house that sat back near the hill." 
-</p>
-<p>
-"Being a part of the grist mill lot…beginning in the center of the Creek Road eighty-two links easterly from the center of the bridge crossing the Mill race;"
-</p>
-</blockquote>
+> "[Emily] lived across the street from Dr. Lockwood, in a little house that sat back near the hill." 
+>
+> "I was with him almost up to the last moment of this life and he told me he would give anything if he could go home. He said that several times, so I expect he died thinking of you people at home he cared about."
 
 {{% toc "Jump To:" %}}
 
@@ -33,9 +28,9 @@ Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on
 
 A summary of the historical deeds referenced below, up to the time it was owned by Jessie Brewer:
 
-{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Home" /%}}
+{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "475 Brooktondale Road, Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Home" /%}}
 
-The following is the first deed for the property after it was sub-divided from the grist mill lot. Thanks to Alanna Congdon at the Tompkins County Clerks Office, who provided an alternative scan of the original to the one already available online. I present both as each is clear in areas where the other is not:
+The following is the first deed for the property after it was sub-divided from the grist mill lot. Thanks to Alanna Congdon at the Tompkins County Clerks Office, who provided an alternative scan of the original to the one already available online. I present both as each is clearer in areas where the other is not:
 
 <div class="cols">
 {{% fig "mills-home/caroline-deeds-1-572" "350" /%}}
@@ -170,6 +165,36 @@ William Wolcott is described as follows in the census data:
   - 1900: "Day laborer" (and wife Ellen is a "Paperhanger")
   - 1905: "Painter"
 
+There are several people close to William with the expertise to help him in the home's construction, including his brothers Goerge W. and John Wolcott, who, like their father before them, were also carpenters. 
+
+<figure>
+
+| Year | Josiah Shurter | Willis Shurter | John Wolcott | William B. Wolcott| George Wolcott | 
+| ---  | --- |  --- | --- | --- | --- | 
+| 1850 | farmer | (child) | carpenter | carpenter | (child) | 
+| 1860 | farmer | farmer | carpenter | carpenter | clerk | 
+| 1865 | miller | ns | carpenter | carpenter | merchant |
+| 1870 | wagon maker | farmer | carpenter | wagon maker | carpenter |
+| 1875 | carriage maker | nf | carpenter | carriage maker | farmer |
+| 1880 | dec |  farmer | farmer | wagon maker | farmer | 
+| 1892 | dec | farmer | farmer | carpenter | farmer | 
+
+<figcaption>
+<cite>
+
+– Occupations, United States Federal Census and New York State Census, Caroline NY, ancestry.com.
+
+</cite>
+<aside>
+
+  - Key to abbreviations: nf-not found; ns-not specified; dec-deceased.
+
+  - [George Wolcott](https://www.findagrave.com/memorial/99535313/george-w-wolcott) (1836 to 16 Jan 1916) listed above, along with [John Wolcott](https://www.findagrave.com/memorial/89338781/john-w-wolcott) (1830 to 1897) are William Benton Wolcott’s brothers. Their father is [George Wolcott](https://www.findagrave.com/memorial/89338779/george-wolcott) (23 Dec 1801 to 09 Dec 1860), who is listed as a carpenter in both the 1850 and 1860 United States Federal Census’ for Caroline.
+
+<aside>
+</figcaption>
+</figure>
+
 Both William and his *brother* [George Wolcott](https://www.findagrave.com/memorial/99535313/george-wolcott) (1836 to 1916), who also lists himself as a "mechanic" in 1862, were Civil War veterans. (This George Wolcott was the father of [Clarence R. Wolcott](https://www.findagrave.com/memorial/100452488/clarence-r-wolcott) (1864 to 1950), who acted as Edward Mills' lawyer at one time.) 
 
 In Caroline on 21 Aug 1862, William Wolcott enlisted in Company K of the 137th New York Volunteer Infantry Regiment, mustering in 25 Sep 1862 at Binghamton NY, with the rank of Orderly Sergeant. (Town Clerks' Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York, ancestry.com.)
@@ -202,6 +227,7 @@ The Brookton post of the Grand Army of the Republic (a fraternal organization of
 
 (Cyrus Eastman, Hannah Mills' step-son, was a Civil War veteran who is listed as a member of *both*  Caroline posts of the G.A.R.)
 
+
 The following photo of some of the surviving members of the David Ireland Post of the G. A. R., taken on Memorial Day in 1906, includes both Charles Personius and William Wolcott.
 
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "800" /%}}
@@ -213,8 +239,9 @@ The following photo of some of the surviving members of the David Ireland Post o
 {{% fig "mills-home/1880-05-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x350" "" "top" /%}}
 
 {{% fig "mills-home/autophone" "500" /%}}
-{{% fig "mills-home/1883-02-28-Ithaca-Daily-Journal-Ithaca-NY-p3" "500x150" "" "top" /%}}
-</div>
+
+{{% fig "mills-home/1883-02-28-Ithaca-Daily-Journal-Ithaca-NY-p3" "500x300" "" "top" /%}}
+{{% fig "mills-home/1886-09-21-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
  
 The Post was written of often over the years in the Brookton news in The Ithaca Journal. Although the David Ireland Post held events in both the Baptist and Congregational Churches in Brookton, the Congregational Church is most often associated with them. It is interesting to note the relationship between the G. A. R. and the W. C. T. U. 
 
@@ -310,7 +337,18 @@ There has been an impression somewhat prevalent that Culp's Hill was a mere outp
 </figcaption>
 </figure>
 
+<div class="cols">
+{{% fig "mills-home/1877-08-27-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "mills-home/1887-06-01-Ithaca-Daily-Journal-Ithaca-NY-p3b" "350" /%}}
+</div>
+
 {{% fig "mills-home/1911-03-01-Star-Gazette-Elmira-NY-p5" "500" /%}}
+
+William Wolcott's grave , at the tree line to the rear of the large Lounsbery/Peck section in Brookton Cemetery. As I write this, his stone is badly faded. 
+
+{{% fig "adams-photos/brookton-cemetery/2023-06-11_18.57.50-imp" "500" /%}}
+
+{{% fig "adams-photos/brookton-cemetery/2023-06-11_18.57.50-imp-close" "800" /%}}
 
 In Caroline, Apr 1861, George Wolcott, William Wolcott's brother, enlisted in Company G of the 32nd New York Volunteer Infantry Regiment and mustered in 31 May 1861 with the rank of Sergeant under Colonel Roderick Matheson, Lieutenant Colonel Francis E. Pinto and Major George F. Lemon. The 32nd regiment was in reserve at the First Battle of Bull Run (a battle in which David Ireland fought in Sherman’s Third Brigade, prior to his taking command of the 137th infantry), covering the retreat of the army, 21 July 1861 in what was the first major battle of the Civil War. George was eventually promoted to First Lieutenant, and his records note that he "was in seven days battles before Richmond". (Town Clerks' Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York, ancestry.com.)
 
@@ -381,21 +419,125 @@ She died in April 1982 in Thibodaux, LaFouche, Louisiana.
 
 {{% fig "mills-home/1918-06-25-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 
+
 <div class="cols">
 {{% fig "mills-home/1918-07-05-The-Ithaca-Journal-Ithaca-NY-p5" "350" /%}}
 {{% fig "mills-home/1918-10-07-The-Ithaca-Journal-Ithaca-NY-p1" "350" /%}}
 </div>
 
+Sergeant Earl Wolcott of Brooktondale NY is buried in Somme American Cemetery and Memorial in Bony, Departement de l'Aisne, Picardie, France.
 
 ## Reverend Horace N. Humiston Sr.
 
 {{% fig "mills-home/car-deeds-5-70" "800" /%}}
 
-[Reverend Horace N. Humiston Sr.](https://www.findagrave.com/memorial/113971483/horace-n-humiston) (08 Jun 1806 to 26 Feb 1888), is described in census records as "minister" in 1870 and "Preacher M. E." in 1875, both years in Candor. Given how briefly he owned the home, and the fact that his son was in the real estate business, I am not confident that the Reverend ever occupied the home. I have not found much information on the Reverend, but his son [Horace N. Humiston Jr.](https://www.findagrave.com/memorial/113830259/horace-n-humiston) (11 Aug 1826 to 29 Jun 1889) was a high profile lawyer in Ithaca by the late 1800's, and in the census data, he is described as "carpenter" in 1860 and 1865, "lawyer" in 1875, and "detective" in 1880. Many stories were reported on Horace Jr. in the Ithaca papers, particularly around his court cases, and the Ithaca City Directory in 1883 shows the breadth of his professional activities. 
+[Reverend Horace N. Humiston Sr.](https://www.findagrave.com/memorial/113971483/horace-n-humiston) (08 Jun 1806 to 26 Feb 1888) married [Eunice H. Humiston](https://www.findagrave.com/memorial/113971540/eunice-j-humiston) (18 Sep 1804 to 11 Aug 1889).  Reverend Humiston is described in census records as "minister" in 1870, "Preacher M. E." in 1875, and "preacher" in 1880, all years in Candor. There are newspaper accounts indicating they lived in Caroline and Brookton specifically, although you will notice that both of the following items were printed *after* the Humistons sold the home to Esther Vorhis on 01 Apr 1885.
 
-{{% fig "mills-home/1883-1884-williams-ithaca-directory-p24" "500" /%}}
+<div class="cols">
+{{% fig "mills-home/humiston/1885-09-19-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/humiston/1886-10-07-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
 
-{{% fig "mills-home/1889-07-1-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+I believe there is compelling evidence to cast doubt on the Humiston's living in Mills' Home while they briefly owned it. Consider the 1880 census for Caroline, the same year the Humistons are recorded in Candor:
+
+{{% fig "census/census-1880-us-focused" "800" /%}}
+
+Comparing this to the 1866 Stone & Stewart map, we can see that on 18 Jun 1880, a Friday, the census "enumerator", in this case, William Wolcott's brother [John Wolcott](https://www.findagrave.com/memorial/89338781/john-w-wolcott) (1830 to 1897), was walking from west to east along the southern side of Creek Road before switching to the northern side of the road and continuing eastward. I am still researching property deeds to get more context for where the Wolcott's were at that time, but if we assume the Mills are already living in Mills' Home, then, the names that follow make sense: A. C. Vorhis had purchased the grist mill in 1877; Lewis Gale, who continued his father's "tin shop", starting in 1873, was after that; then the Vandemark woolen mill was after that. (Read more about the Gale family in the section on [the stone foundation]({{% relref "property-features#the-stone-foundation" %}}).) 
+
+I am continuing to research the property deeds along Brooktondale Road to try to verify where exactly the Wolcott's were living at that time, but this strongly suggests to me that the Mills moved into their ultimate home very soon after moving to Mott's Corners.
+
+Reverend Humiston's son [Horace N. Humiston Jr.](https://www.findagrave.com/memorial/113830259/horace-n-humiston) (11 Aug 1826 to 29 Jun 1889) was a high profile lawyer in Ithaca by the late 1800's, and in the census data, he is described as "carpenter" in 1860 and 1865 in Danby, "lawyer" in 1875, and "detective" in 1880. At the Annual Session of the Board of Supervisors of Tompkins County in 1885, Horace Humiston is listed as "detective service for coroner" (14 Dec 1885, Ithaca Daily Journal, Ithaca NY, p1, nyshistoricnewspapers.org). Many stories were reported on Horace Jr. in the Ithaca papers, particularly around his court cases, and the Ithaca City Directory in 1883 shows the breadth of his professional activities. 
+
+{{% fig "mills-home/humiston/1883-1884-williams-ithaca-directory-p24" "500" /%}}
+
+<div class="cols">
+{{% fig "mills-home/humiston/1885-10-14-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/humiston/1885-12-26-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "mills-home/humiston/1883-01-29-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/humiston/1885-06-27-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "mills-home/humiston/1885-12-04-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/humiston/1886-02-19-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+Horace Jr.’s daughter was also a Slater: [Cora J. (Humiston) Slater](https://www.findagrave.com/memorial/101229340/cora-j-slater) (1865 to 1934) who married [Charles A. Slater](https://www.findagrave.com/memorial/101229259/charles-a-slater) (1867 to 1918). 
+
+Horace Jr. was portrayed in the newspapers as a local celebrity, so there was great interest when he was tried and convicted in “The Humiston Case”  of "Keeping a Disorderly House". 
+
+<figure>
+
+> A place where individuals reside or which they frequent for purposes that pose a threat to public health, morals, convenience, or safety, and that may create a public nuisance. A disorderly house is an all-inclusive term that may be used to describe such places as a house of prostitution, an illegal gambling casino, or a site where drugs are constantly bought and sold. It is any place where unlawful practices are habitually carried on by the public.
+
+<figcaption>
+<cite>
+
+— Disorderly House, [TheFreeDictionary.com](https://legal-dictionary.thefreedictionary.com/disorderly+house).
+
+</cite>
+</figcaption>
+</figure>
+
+
+{{% fig "mills-home/humiston/1886-06-11-Ithaca-Daily-Journal-Ithaca-NY-p2" "800x300" "" "top" /%}}
+
+<div class="cols">
+{{% fig "mills-home/humiston/1887-05-25-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/humiston/1887-05-26-Ithaca-Daily-Journal-Ithaca-NY-p3b" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "mills-home/humiston/1887-05-26-Ithaca-Daily-Journal-Ithaca-NY-p3" "350x150" "" "top" /%}}
+<div>
+{{% fig "mills-home/humiston/1887-05-27-Ithaca-Daily-Journal-Ithaca-NY-p3b" "350" /%}}
+{{% fig "mills-home/humiston/1887-05-27-Ithaca-Daily-Journal-Ithaca-NY-p3c" "350" /%}}
+</div>
+</div>
+
+<div class="cols">
+{{% fig "mills-home/humiston/1887-05-27-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/humiston/1887-05-28-Ithaca-Daily-Journal-Ithaca-NY-p3b" "350" /%}}
+</div>
+
+{{% fig "mills-home/humiston/1887-05-31-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+{{% fig "mills-home/humiston/1887-06-01-Ithaca-Daily-Journal-Ithaca-NY-p3" "800x300" "" "top" /%}}
+
+{{% fig "mills-home/humiston/1887-06-03-Ithaca-Daily-Journal-Ithaca-NY-p3b" "500" /%}}
+
+{{% fig "mills-home/humiston/1887-06-03-Ithaca-Daily-Journal-Ithaca-NY-p3" "800x300" "" "top" /%}}
+
+{{% fig "mills-home/humiston/1887-06-06-Ithaca-Daily-Journal-Ithaca-NY-p3" "800x300" "" "top" /%}}
+
+{{% fig "mills-home/humiston/1887-06-Monroe-County-Penitentiary" "800" /%}}
+
+Horace Jr.'s health quickly declined as a result of this conviction.
+
+<div class="cols">
+{{% fig "mills-home/humiston/1888-06-21-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/humiston/1889-07-1-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+Some events from the final years of the Humistons’ lives:
+
+<figure>
+
+| | | 
+| --- | --- | 
+| 23&nbsp;Oct&nbsp;1883 | Wolcott’s sell Mills’ Home to Humistons. (Caroline Deeds 5, p70.)
+| 01&nbsp;Apr&nbsp;1885 | Humiston’s sell Mills’ Home to Esther C. Vorhis. (Caroline Deeds 5, p138.)
+| 01&nbsp;Jun&nbsp;1887 | Horace Humiston Jr. convicted, sentenced to one year imprisonment. |
+| 26&nbsp;Feb&nbsp;1888 | Reverend Horace Humiston Sr. died.  |
+| 29&nbsp;Jun&nbsp;1889 | Horace N. Humiston Jr. died.  |
+| 11&nbsp;Aug&nbsp;1889 | Eunice J. Humiston died. |
+
+</figure>
+
+I have not yet found obituaries for Reverend Horace or Eunice Humiston. 
 
 ## Esther C. (Cary) and Frank Cameron Vorhis
 
@@ -474,11 +616,11 @@ Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charl
 
 This deed contains the first mention of the Mills family, living in the home "as tenants" prior to owning it, at least by June 1891, and possibly earlier. It seems most likely that Edward and Amanda never occupied the home themselves.
 
-[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Edward was also a member of the Independent Order of Good Templars in Brookton.
+[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Both Edward and his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) were leaders of the High Bridge Lodge of the temperance organization the [Independent Order of Good Templars]({{% relref "temperance" %}}).
 
 {{% fig "mills-home/edward-lounsbery-portrait" "350" /%}}
 
-Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921), are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personeus was chosen chairman and Walker V. Personius secretary." Edward died within the Congregational Church while addressing the Christian Endeavor Society. For more context on the founding of the Congregational Church of Mott's Corners, see [this section]({{% relref "founding-documents" %}}).
+Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife Amanda, are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personeus was chosen chairman and Walker V. Personius secretary." Edward died within the Congregational Church while addressing the Christian Endeavor Society. For more context on the founding of the Congregational Church of Mott's Corners, see [this section]({{% relref "founding-documents" %}}).
 
 {{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
 
@@ -502,6 +644,8 @@ In 1903 Charlie Jones set up the Caroline Farmers Telephone Company in Slatervil
 </figcaption>
 </figure>
 
+{{% fig "mills-home/1903-08-04-Ithaca-Daily-Journal-Ithaca-NY-p7" "500" /%}}
+
 {{% fig "mills-home/1904-05-31-Ithaca-Daily-News-Ithaca-NY" "800x300" "" "top" /%}}
 
 Edward H. Mills died without a will on 01 Jan 1908, and it would take some time for Hannah and Emily to fully establish ownership of the home.
@@ -523,7 +667,7 @@ Emily Mills died 03 Nov 1937, like her father, without a will.
 {{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "800x500" "" "top" /%}}
 {{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
  
-The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "other-past-owners" %}}) from the time of Emily's death are the children of J. Thomas Mills:
+The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "other-past-owners" %}}) from the time of Emily's death are the children of J. Thomas Mills, Edward H. Mills' younger brother:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to 10 Apr 1944). 
   - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds, and elsewhere has been spelled "Edsall".)
@@ -573,26 +717,6 @@ See more information on the Jones family, the Lattins, and Andrea Talmadge [here
 
 The evidence strongly suggests to me that of the owners of Mills' Home prior to the Jones family, only the Wolcotts and Mills actually occupied the home.
 
-## Related Research
-
-The Mills' home is the only real estate that I can find official documentation for the Mills' owning. Mills' store was at different times owned by Edward and Amanda Lounsbery, Amanda's sister Libbie Peck, and then Dr. Lockwood. 
-
-Yet in the sales journals of [E. H. Mills]({{% ref "me-mills" %}}) general store in Brookton, the inside front cover of volume 41 seems to indicate the family purchased a barn on 23 Sep 1907 and rented it to John Roe for $0.50 a month starting in 1908:
-
-{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
-
-I have not found a deed that corresponds to this date in the deed indexes for Caroline or Danby that are preserved by the Tompkins County Clerk. Interestingly, there is a real estate transaction between Amanda Lounsbery and John Roe earlier in 1907, that is perhaps related to the barn rental: 
-
-{{% fig "mills-home/deeds-164-253-lounsbery-roe" "800" /%}}
-
-There is only one other deed unrelated to the Mills’ home that I found associated with the Mills’ family, and it was a transaction that Emily helped facilitate between Willis Shurter and his wife Betsey:
-
-<div class="cols">
-{{% fig "mills-home/deeds-171-334" "350" /%}}
-{{% fig "mills-home/deeds-171-335" "350" /%}}
-</div>
-
-Notice that these deeds include an affidavit from Dr. Lockwood.
 
 
 

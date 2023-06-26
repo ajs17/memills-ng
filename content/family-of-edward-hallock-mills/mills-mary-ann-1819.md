@@ -40,8 +40,7 @@ Mary Ann's mother Rhoda died 26 Sep 1859, and on 31 Aug 1860, Mary Ann's sister 
 
 The family arrived in [Corfu NY]({{% ref "corfu" %}}) sometime between 01 Sept 1862 and 01 May 1863, where  Edward opened a new general store E. H. Mills & Co. and Mary Ann became a member of the Presbyterian Church of Corfu.
 
-[Horace]({{% ref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 
-1876. 
+[Horace]({{% ref "mills-horace-f-1854" %}}) killed himself in Corfu in Oct 1876. 
 
 <div class="cols">
 {{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}

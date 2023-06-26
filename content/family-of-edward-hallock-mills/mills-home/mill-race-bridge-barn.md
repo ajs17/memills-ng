@@ -7,6 +7,8 @@ In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Roa
 
 <!--more-->
 
+> "Being a part of the grist mill lot…beginning in the center of the Creek Road eighty-two links easterly from the center of the bridge crossing the Mill race..."
+>
 > "As a young boy, [Carl English] and his brother had been part of a work crew hired to fill in the creek / stream that ran from the mill pond (between you and the Dalebrook)...across B'dale Rd...through what's now an empty field between the Andersson's and the Todi's property....into Six Mile Creek.  There was a bridge near 475 giving it the nickname "bridge's house" or something like that.  This fill-in, while successful, resulted in fairly unstable land."
 
 {{% toc "Jump To:" %}}
@@ -15,7 +17,7 @@ For a long time, I have wanted to know more about the location and size of this 
 
 First, some background on the grist mill/Dalebrook property itself, beginning with the deed history during the relevant time period that will be discussed.
 
-{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "Summary of Deeds for 487 Brooktondale Road, \"Dalebrook\", Tompkins County Clerk, Ithaca NY." "property" "=" "Dalebrook" /%}}
+{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "487 Brooktondale Road, Tompkins County Clerk, Ithaca NY." "property" "=" "Dalebrook" /%}}
 
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
 
@@ -34,9 +36,17 @@ The grist mill was powered by water diverted from Six Mile Creek into a mill pon
 </figcaption>
 </figure>
 
-The portion of the race that crosses Mills' Home is the grist mill tailrace, and is either directly referenced as such, or descriptively referenced as the race that exits the grist mill. There is obviously a corresponding bridge across the mill headrace on the portion of Brooktondale Road (as it is presently designated) to the east of the grist mill, the portion that was known in the past as Back Road or "Easy Street". The historical deeds of the relevant properties in that area also reference this bridge, often simply generically as "the mill race bridge", not specifying its relative position either directly or descriptively as was done with the tailrace bridge. 
+<div class="cols">
+<div>
+{{% fig "mills-home/1880-01-14-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
+{{% fig "mills-home/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+{{% fig "mills-home/1880-02-18-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
+</div>
 
-The mill pond was behind Mulks' Store, presently Brookton's Market. I have seen a photograph of the grist mill and store that shows water flowing out of the pond into the grist mill. According to *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, and corroborated by other accounts, there were three mills on the site of Dalebrook, all of which apparently burned. Also in the past, there was a plaster mill and a woolen mill directly next to the grist mill property to the east. Throughout the historical deeds for these properties, access to water right is explicitly reserved.
+The portion of the race that crosses Mills' Home is the grist mill tailrace, and is either directly referenced as such, or descriptively referenced as the race that exits the grist mill. There is obviously a corresponding bridge across the mill headrace on the portion of Brooktondale Road (as it is presently designated) to the east of the grist mill, the portion that was known in the past as Back Road or "Easy Street", and which may have also been called "Creek Road" at one time. The historical deeds of the relevant properties in that area also reference this bridge, often simply generically as "the mill race bridge", not specifying its relative position either directly or descriptively as was done with the tailrace bridge. 
+
+The mill pond was behind Mulks' Store, presently Brookton's Market. I have seen a photograph of the grist mill and store that shows water flowing out of the pond into the grist mill. According to *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, and corroborated by other accounts, there were three mills on the site of Dalebrook, all of which apparently burned. Also in the past, there was a plaster mill and a woolen mill directly next to the grist mill property to the east. Throughout the historical deeds for these properties, access to water rights are explicitly reserved.
 
 I am aware of several visual representations of the grist mill raceway, and of the tailrace that passed through the Mills’ Home lot. In the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, part of the mill raceway is represented, from its origin at Six Mile Creek up to the point that it intersects with Creek Road on its return to the creek after exiting the mill.
 
@@ -60,7 +70,7 @@ Therefore, it seems that **the eastern boundary line is not represented on this 
 
 However, because this is a highway survey and not a property survey, and because it is clear that the represented property boundaries and structures were not measured for the purposes of this survey, I conclude that all property boundaries on the 1912 survey should be interpreted as approximations, as should the placement of physical structures such as dwellings, and the mill race bridge. 
 
-Obviously, the members of the Mills family would need to cross the mill race bridge, either by foot or wagon, to get to their store and the Congregational Church from their home. Once these improvements were finished, Emily Mills, Hannah Mills, and Ellen Gould, would have exited the front of their home (labelled H) and essentially would have crossed Creek Road in a straight line from the front door, then turned left at the southwestern edge of the bridge guard rail, then crossed the indicated "cement walk" on the southern side of the road that must have been part of the bridge structure.
+Obviously, the members of the Mills family would need to cross the mill race bridge, either by foot or wagon, to get to their store and the Congregational Church from their home. The original wooden bridge must have amplified the sounds of carriages and wagons passing over it. Once these improvements were finished, Emily Mills, Hannah Mills, and Ellen Gould, would have exited the front of their home (labelled H) and essentially would have crossed Creek Road in a straight line from the front door, then turned left at the southwestern edge of the bridge guard rail, then crossed the indicated "cement walk" on the southern side of the road that must have been part of the bridge structure.
 
 Another question I often wondered was where the Mills kept horses and carriage that they would presumably have owned. This 1912 highway map provides the only evidence of which I am aware that depicts a barn, indicated with a "B" on the map, that presumably was the structure that housed these. 
 
@@ -152,6 +162,8 @@ Interestingly, John Mandeville advocated for the improved road depicted in the 1
 
 {{% fig "brookton/maps/surveys/brooktondale-waterbound-macadam" "500" /%}}
 
+{{% fig "me-mills/1895-12-05-Ithaca-Daily-News-Ithaca-NY" "500" /%}}
+
 <div class="cols">
 {{% fig "bcc/obituaries/1907-11-30-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
 {{% fig "bcc/obituaries/1907-12-05-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
@@ -178,7 +190,7 @@ The transcribed property description:
 </figcaption>
 </figure>
 
-The 1869 and 1883 deed descriptions follow the same structure in five steps, the significant differences between them highlighted in the following:
+The 1869 and 1883 deed descriptions follow the same structure in five steps, the significant differences between them emphasized in the following:
 
 <figure>
 
@@ -226,7 +238,7 @@ Note that step 3 is identical in each, implying the start point and end point in
 </figure>
 </div>
 
-Going forward, I will assume that both descriptions refer to the following common points in space:
+Going forward, I will assume that both descriptions refer to the following (approximate) common points in space:
 
 <figure>
 
@@ -241,9 +253,9 @@ Going forward, I will assume that both descriptions refer to the following commo
 
 I have attempted to create my own rudimentary survey maps based on these deed descriptions. I should point out that my knowledge of surveying methods is self-taught, so my efforts should be evaluated accordingly. 
 
-For distances, I chose to make 1 inch equal to 1 chain, which was a good size to work with and made creating the lines much easier, as then links translates directly into a percentage of an inch. For example, a distance of “4 chains and 63 links” equals 4.63 inches on my full-size pseudo-surveys.
+For distances, I chose to make 1 inch equal to 1 chain, which was a good size to work with and made creating the lines much easier, as then links translates directly into a percentage of an inch. For example, a distance of “4 chains and 63 links” equals 4.63 inches on my full-size pseudo-surveys. Obviously, the versions shown on this page are scaled down for this format, but the full-size originals are available via the accompanying links.
 
-I based the orientation of my maps on the course of Brooktondale Road, which is an essential landmark, along with the mill race bridge, for establishing the place of beginning of the parcel. The portion of Brooktondale Road that fronts Mills' Home has always been represented on maps as a perfectly straight line in the same location. Both the 1866 Stone & Stewart Atlas and the 1912 Highway map corroborate this, showing that the road only begins to gradually curve toward Dalebrook to the east of the Mills parcel. This curve was itself straightened in the mid 1960's when the lower bridge was reconstructed and the Shurter House that sat next to Mills' Store was moved. All of the Mills' Home property surveys corroborate this, as do other maps.
+I based the orientation of my maps on the course of Brooktondale Road, which is an essential landmark, along with the mill race bridge, for establishing the place of beginning of the parcel. The portion of Brooktondale Road that fronts Mills' Home has always been represented on maps as a perfectly straight line in the same location. Both the 1866 Stone & Stewart Atlas and the 1912 Highway map corroborate this, showing that the road only begins to gradually curve toward Dalebrook beginning east of the Mills parcel. This curve was itself straightened in the mid 1960's when the lower bridge was reconstructed and the Shurter House that sat next to Mills' Store was moved. All of the Mills' Home property surveys corroborate this, as do other maps.
 
 {{% fig "brookton/maps/1853-06-28-map-cropped-more" "800" /%}}
 
@@ -337,7 +349,7 @@ Also note that steps 2 and 3 are intended to convey a straight line from the cen
 {{% fig "brookton/maps/surveys/1883-only" "800" /%}}
 
 
-The Mills' Home place of beginning as it was described in 1883–82 links east of the center of the mill race bridge–would remain the legal description long after the mill race disappeared and Emily Mills had died. An exact mirror of this description of the eastern boundary line can be found in the grist mill/Dalebrook deeds in that same time period. 
+The Mills' Home place of beginning as it was described in 1883–82 links east of the center of the mill race bridge–would remain the legal description even after the mill race disappeared and Emily Mills had died. An exact mirror of this description of the eastern boundary line can be found in the grist mill/Dalebrook deeds in that same time period. 
 
 {{% fig "brookton/maps/surveys/235-85" "800" /%}}
 
@@ -399,6 +411,7 @@ In the mid-1960’s massive roadwork was done through Brooktondale that straight
 
 {{% fig "brookton/maps/BF162361-001-map-565" "800" /%}}
 
+
 Again, because this is a highway survey, I interpret all structures and property lines to be approximate, and given that the race is described as "covered" and is shown here as perfectly straight, I assume this is meant to be an abstract/conceptual representation meant only to mark the existence of the tailrace and note the general scope and direction of it. As a result, it is difficult to say very much about it, other than it supports Andrea Talmadge's conversation with Carl English. However, it is intriguing that it seems to indicate the mill race bridge was on the Dalebrook side of the common boundary as it is represented here. There is a non-zero chance that this could be true; if the 1869 and 1883 Mills' Home deed descriptions are re-interpreted as magnetic bearing and re-drawn, the boundary line extends far into what is now considered to be the Dalebrook lot. For completeness, I present some of those maps later.
 
 <figure>
@@ -439,11 +452,13 @@ Gracie Van Demark (yes, as in Van Demark Rd) told me that B'dale Rd and Valley R
 </figcaption>
 </figure>
 
+{{% fig "mills-home/1966-03-25-The-Ithaca-Journal-Ithaca-NY-p8" "800" /%}}
+
 The Shurter House sat between Mills' Store and the lower bridge over Six Mile Creek. This was Jessie (Shurter) Brewer's life-long home, and the road work displaced her.
 
 {{% fig "mills-home/1966-03-18-The-Ithaca-Journal-Ithaca-NY-p11" "800" /%}}
 
-It was perhaps partially a result of this road work that led Gordon Rice to make a mistake in the very first survey map of the 475 Brooktondale Road property. Rice mistook a concrete highway marker for a property boundary marker, and used it as a new place of beginning:
+It was perhaps partially a result of this road work that led Gordon Rice to make an apparent mistake in the very first survey map of the 475 Brooktondale Road property. Rice mistook a concrete highway marker for a property boundary marker, and used it as a new place of beginning:
 
 {{% fig "brookton/maps/surveys/rice-only" "800" /%}}
 
@@ -537,7 +552,7 @@ An explanation for the differences between point C in 1869 and Tract III will be
 
 It seems that the intention of the footnote is to reconcile Rice and Miller, however, as has been shown, the referenced Miller survey, verified by Schlieder, proves that the Rice survey was in error. 
 
-Yet, during the 1992 sale of the home, despite clear documentary evidence contrary to its central premise, a boundary line/encroachment agreement was filed based on the Rice boundary line depicted.   
+Yet, during the 1992 sale of Mills' Home, despite clear documentary evidence contrary to its central premise, a boundary line/encroachment agreement was filed based on the Rice boundary line depicted.   
 
 <figure>
 
@@ -554,7 +569,10 @@ Yet, during the 1992 sale of the home, despite clear documentary evidence contra
 
 Interestingly, in an updated version of the Schlieder survey included with the 1992 boundary line agreement, which still included the notes corroborating the Miller/Dalebrook survey, the iron pipes are no longer shown, even though they were clearly still present. 
 
-{{% fig "brookton/maps/surveys/boundary-agreement-schlieder" "200" /%}}
+<div class="cols">
+{{% fig "brookton/maps/surveys/boundary-schlieder" "350" /%}}
+{{% fig "brookton/maps/surveys/boundary-agreement-schlieder" "350" /%}}
+</div>
 
 An updated survey in 2023 found all iron pipes, including Miller's set pipe by the road, now bent, essentially confirming Miller 1970/11, but acknowledging that the lower iron pipe was itself not directly on the true line, a result of more accurate measuring technology used.
 
@@ -562,9 +580,9 @@ When I first moved to Mills' Home, there was a concrete highway marker, broken o
 
 I should also point out that the 2023 Dresser survey states "this survey map prepared without benefit of an abstract of title provided, subject to any state of fact that an updated abstract of title may show." I was present that day and made available the abstract of title, but it was not consulted. As previously noted, the written legal description in my deed at that time still referenced the displaced highway marker that Rice set as the place of beginning.
 
-I present a final theory to try to reconcile all of these circumstances. The 1869 and 1883 Mills' Home deed descriptions are slightly incompatible as my pseudo-surveys show, suggesting that either point C changed in the intervening time, or the road changed slightly, or a combination of both. (Or perhaps a simple error was made in one of the surveys.)
+I present a final theory to try to reconcile all of these circumstances. The 1869 and 1883 Mills' Home deed descriptions are slightly incompatible as my pseudo-surveys show, suggesting that either point C changed in the intervening time, or the road or bridge changed slightly, or a combination of these. (Or perhaps a simple error was made in one of the surveys.)
 
-Comparing the two pseudo-surveys by overlaying them so that the road and the center of the mill race bridge align corroborates all points except B and C, forming parallel eastern boundary lines that differ by roughly 19 links or approximately 12 1/2 feet. 
+Comparing the two pseudo-surveys by overlaying them so that the road and the center of the mill race bridge align (and so, assuming that the center of the bridge itself has not moved), shows that points points B and C differ, forming parallel eastern boundary lines that differ by roughly 19 links or approximately 12 1/2 feet. 
 
 {{% fig "brookton/maps/surveys/1883-overlaid-1869" "800" /%}}
 
@@ -579,18 +597,22 @@ Also on Dresser in 2023:
 
 Notice that the center of the mill race bridge is even closer to the dwelling in this scenario, falling on a line perpendicular to the road that is almost in line with the edge of the rear addition.
 
-Overlaying only the 1869, 1883, and Tract III pseudo-surveys further suggests that Tract III may have been an attempt to account for the differences between the 1869 and 1883 Mills' Home descriptions. This may help explain why Rice thought the highway monument was a property marker despite the fact that it did not fall on a straight line with the iron pipes that were already present–which were apparently based on the 1883 description–and it may explain why Charles Vorhis felt entitled to add the footnote to the deed with Frank Proto (499/981): to reconcile the 1869 and 1883 Mills' Home deed descriptions and re-establish the presumed 1869 boundary line, after more than a century. If true, then the Dresser survey, which corroborates Miller and Schlieder, may not provide much new information, as it is only a slightly more accurate corroboration of their surveys. 
+Overlaying only the 1869, 1883, and Tract III pseudo-surveys further suggests that Tract III may have been an attempt to account for the differences between the 1869 and 1883 Mills' Home descriptions. This may help explain why Rice thought the highway monument was a property marker despite the fact that it did not fall on a straight line with the iron pipes that were already present–which were apparently based on the 1883 description–and it may explain the addition of the above footnote to the deed with Frank Proto (499/981): to reconcile the 1869 and 1883 Mills' Home deed descriptions and re-establish the presumed 1869 boundary line, after more than a century. If true, then the Dresser survey, which corroborates Miller and Schlieder, may not provide much new information, as it is only a slightly more accurate corroboration of their surveys. 
 
 {{% fig "brookton/maps/surveys/1869-1883-t3" "800" /%}}
 
 Evidence of the mill pond and the mill race can still be seen in the landscape as I write this. A clear example can be found in the disturbed area of fencing along the eastern side of Todi's property in 2023, the property shown with the name Gardner Perry in the 1912 highway survey. In the following photographs, you can see the top of the fence dips in an area where wooden poles are reinforcing it. 
 
-{{% fig "today/adams-photos/mill-race/2023-05-06_15.14.30" "800" /%}}
-{{% fig "today/adams-photos/mill-race/2023-05-06_15.14.50" "800" /%}}
-{{% fig "today/adams-photos/mill-race/2023-05-06_15.14.55" "800" /%}}
-{{% fig "today/adams-photos/mill-race/closer" "800" /%}}
+{{% fig "adams-photos/mill-race/2023-05-06_15.14.30" "800" /%}}
+{{% fig "adams-photos/mill-race/2023-05-06_15.14.50" "800" /%}}
+{{% fig "adams-photos/mill-race/2023-05-06_15.14.55" "800" /%}}
+{{% fig "adams-photos/mill-race/closer" "800" /%}}
 
-And this suggests the possibility that the location of the mill race bridge, and indeed, the entire length of the mill race could be accurately and unequivocally re-charted by detecting the disturbance of the soil that the construction of the raceway must have created. As I write this, based on the description attributed to Carl English, the mill race still exists, hidden underground, filled with stone instead of water.
+The presence of such physical evidence of the raceway suggests the possibility that the location of the mill race bridge, and indeed, the entire length of the mill race could be accurately and unequivocally re-charted by detecting the disturbance of the soil that the construction of the raceway must have created. As I write this, based on the description attributed to Carl English, the mill race still exists, hidden underground, filled with stone instead of water.
+
+The following survey from 1951 depicts the final feet of the "former mill tailrace" before rejoining Six Mile Creek.
+
+{{% fig "brookton/maps/surveys/BF000660-001" "800" /%}}
 
 ## 1869 and 1883 as Magnetic Bearings 
 

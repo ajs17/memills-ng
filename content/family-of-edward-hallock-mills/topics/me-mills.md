@@ -3,7 +3,7 @@ title: "Mills' Store in Brookton NY"
 weight: 100
 ---
 
-After moving to Mott's Corners in Mar 1879, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jessie Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "the old postoffice".
+After moving to Mott's Corners in Mar 1879, Edward restarted his general store on his own, now simply called E. H. Mills, where his surviving children Jonas and Emily clerked. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jessie Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "the old postoffice".
 
 <!--more-->
 
@@ -13,10 +13,138 @@ After moving to Mott's Corners in Mar 1879, Edward restarted his general store o
 </p>
 </blockquote>
 
+{{% toc "Jump To:" %}}
+
+A summary of Mills' store deeds: 
+
+{{% autotable "/static/data/deeds.csv" "mills-store-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee" "484 Brooktondale Road, Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Store" /%}}
+
+In the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, a map of Mott's Corners shows a structure labeled "J. Shurter Store" in the same approximate location as Mills' Store.
+
+{{% fig "brookton/maps/1866-atlas-motts-corners" "800" "img,cite,link" /%}}
+
+[Josiah Shurter](https://www.findagrave.com/memorial/100594864/josiah-shurter) (26 Apr 1815 to 05 Aug 1877) married [Jane (Shutt) Shurter](https://www.findagrave.com/memorial/100594934/jane-shurter) (21 Nov 1825 to 23 Jun 1897). The land that starts just west of the lower bridge in Brooktondale and encompasses the area between the southern side of Brooktondale Road and Six Mile Creek, extending many acres westward, is referenced in the deed records of the Tompkins County Clerk as the Josiah Shurter Homestead. 
+
+Although Josiah is not listed in the directory below the Stone & Stewart map, the first entry, "E. C. Marsh...Grocery and Provision Store" is almost certainly a reference to the J. Shurter Store. [Edward C. Marsh](https://www.findagrave.com/memorial/28741041/edward-c-marsh) (23 Nov 1836 to 25 Jun 1907) is Josiah Shurter's son-in-law, and presumably Josiah's employee. As indicated in the 1865 New York State Census for Caroline, Edward and his wife Harriet (Shurter) Marsh were living in the home of Josiah Shurter. Both Josiah and Edward Marsh are identified as millers. 
+
+{{% fig "me-mills/1865-06-26-NYS-census-caroline-p34" "800" /%}}
+
+Also living with the Shurters at this time is another son-in-law, [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911) who married Josiah Shurter's daughter [Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928). William Wolcott was a [carriage maker]({{% relref "#the-brewer-barn" %}}) and likely worked for Josiah and/or Josiah's son [Willis Shurter](https://www.findagrave.com/memorial/162159964/willis-shurter) (1840 to 17 Jan 1914). William Wolcott was also the first owner of record of [Mills' Home]({{% relref "other-past-owners" %}}). Edward Marsh, William Wolcott and Willis Shurter fought in the Civil War in the years immediately prior. 
+
+Willis Shurter inherited much of his father Josiah's property and appeared to take over Josiah's businesses by the late 1860's. On 16 May 1868, "Willis Shurter and Jane Shurter his wife" sell the store property to [George E. Sanders](https://www.findagrave.com/memorial/89338797/george-e-sanders) (16 Aug 1847 to 01 Nov 1889), and in the 1870 United States Federal Census for Caroline, Edward Marsh is a carpenter and George E. Sanders is listed in the census as "clerk in store" while George's father George T. Sanders is listed as a "dealer in dry goods & groceries (ret)". 
+
+<figure>
+
+| Year | Edward C. Marsh | George T. Sanders | George E. Sanders |
+| ---  | --- | --- |  --- | 
+| 1850 | (child) | farmer | (child)  | 
+| 1865 | miller | farmer | (child) | 
+| 1870 | carpenter | dealer in dry goods & groceries (ret) | clerk in store |
+| 1875 | carpenter | merchant | farmer (tanner?) |
+| 1880 | laborer | nf |  farmer |
+
+<figcaption>
+<cite>
+
+– Occupations from United States Federal Census and New York State Census, Caroline NY, ancestry.com.
+
+</cite>
+</figcaption>
+<aside>
+
+  - Key to abbreviations: nf-not found; ns-not specified; dec-deceased.
+
+<aside>
+</figure>
+
+Willis Shurter's first wife, identified as "Jane" in the store deeds, was [Mary Jane (German) Shurter](https://www.findagrave.com/memorial/100597023/jennie-shurter) (1845 to 12 Mar 1872), who apparently commonly went by "Jennie". It is Willis Shurter's second wife [Betsey Alvira (Merrill) Shurter](https://www.findagrave.com/memorial/99603648/betsey-a-shurter) (1847 to 04 Jul 1932), whom he married in 1876, who is the mother of [Jessie M. (Shurter) Brewer](https://www.findagrave.com/memorial/99536961/jessie-m-brewer) (27 Jun 1881 to 16 Sep 1974).
+
+On 12 Oct 1874, "George E. Sanders and Fannie his wife" ([Fannie (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders) (23 Nov 1847 to 10 Feb 1896)) sell the store property to Edward Lounsbery, although George continues to operate a store there for several years afterward, as evidenced by the following news item discussing the [Independent Order of Good Templars]({{% relref "temperance" %}}), of which George Sanders' family and Edward Lounsbery, along with Edward's wife Amanda, were members.
+
+<figure>
+
+> This Lodge will for the present meet on Monday evening in “Lounsberry [sic] Hall” over the store of Mr. Sanders, who by the way, with his family are members of the Order.
+
+<figcaption>
+<cite>
+
+– 14 Mar 1876, The Dryden Herald, Dryden NY, fultonhistory.com.
+
+</cite>
+</figcaption>
+</figure>
+
+George E. Sanders' father, [George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders) (14 Nov 1818 to 04 May 1887), was a founding member of the [Congregational Church of Mott's Corners]({{% relref "founding-documents" %}}), as was his daughter [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) and her husband [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904). Another daughter of George T. Sanders, [Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929), married [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916) in 1877. Edward Lounsbery and George Peck were both "dealers in hides" and operated a tannery, Lounsbery & Peck, next to Walker V. Personius' store at present-day 559 Brooktondale Road. 
+
+Although I can't yet say for certain where George T. Sanders' grocery business was, I believe there is some circumstantial evidence to suggest that it was at 559 Brooktondale Road, for example: In the 1800's, it was common for local post offices to be located within a grocery store, with the owner as postmaster. There are several examples of this in Brooktondale alone, presumably including George T. Sanders who was appointed postmaster on 20 Jul 1861, and is replaced by Walker V. Personius on 16 Dec 1864, six months before George T. Sanders is recorded as "dealer in dry goods & groceries (ret)" in the 1865 New York State Census for Caroline. It is claimed that this was Mott's original store in Mott's Corners, and the location of the first post office. 
+
+<div class="cols">
+<figure style="max-width: 350px">
+
+> “Walker Personius was a Civil War veteran and the village postmaster in 1882. He seems to have been the owner of Mott’s original store which he called Personius Hall.
+
+<figcaption>
+<cite>
+
+– Molly Adams, Caroline History Room, Slaterville NY. 
+
+</cite>
+<figcaption>
+</figure>
+
+<figure style="max-width: 350px">
+
+> 1st Post Office & store, left – 559 Brooktondale Road. We think this building was built by Mr. Mott, who owned most of the land at that time. 
+
+<figcaption>
+<cite>
+
+– A Drive-by Tour of the Town of Caroline sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 3 - P8.
+
+</cite>
+<figcaption>
+</figure>
+</div>
+
+Like Mills' and Mulks' Stores, Personius' had to contend with theft. 
+
+{{% fig "me-mills/1887-05-18-Ithaca-Daily-Journal-Ithaca-NY-p3b" "500" /%}}
+
+Presumably George E. Sanders worked for his father at that location before purchasing the J. Shurter Store lot. George E. Sanders' Store was apparently the immediate predecessor of E. H. Mills' general store, and the circumstantial evidence I have seen strongly suggests that Edward Mills began his store at the building then owned by Edward Lounsbery soon after, if not immediately upon, arriving at Mott’s Corners in March 1879. Consider the 1880 United States Federal Census for Caroline showing Edward is a "merchant" and his son Jonas is a "clerk in store", that store presumably E. H. Mills.
+
+{{% fig "mills-home/masons/1880-06-15-US-Census-caroline-p21" "800" /%}}
+
+George E. Sanders went on to be a produce dealer. He and his parents died within a few years of each other.  
+
+{{% fig "me-mills/1887-02-10-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+
+<div class="cols">
+{{% fig "bcc/obituaries/1884-02-05-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "bcc/obituaries/1887-05-18-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+<div class="cols">
+<div>
+{{% fig "bcc/obituaries/1887-05-10-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+{{% fig "bcc/obituaries/1887-05-13-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+{{% fig "me-mills/1889-11-02-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+Edward Marsh moved his family to Ithaca approximately 1883, and he eventually became a city constable.
+
+{{% fig "me-mills/1907-06-26-Ithaca-Daily-Journal-Ithaca-NY-p3" "800x300" "" "top"  /%}}
+
+Willis Shurter had "been an invalid a number of years" (15 Jan 1914, The Ithaca Journal, Ithaca NY, p9, newspapers.com).
+
+{{% fig "me-mills/1914-01-19-The-Ithaca-Journal-Ithaca-NY-p6" "500" /%}}
+
 Mills' store, Summer 2021:
  
-{{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
-{{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
+{{% fig "adams-photos/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
+{{% fig "adams-photos/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
 
 Long-time community members call this building "the old post office" referring to when it was used as such starting in 1961 under postmaster Charles Vorhis. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. 
 
@@ -34,7 +162,7 @@ It appears [George H. Richardson](https://www.findagrave.com/memorial/189275611/
 
 A section of this site is devoted to [George Richardson]({{% ref "richardson-george" %}}). [Edward's page]({{% relref "mills-edward-hallock-1819" %}}) has more information on his time as postmaster, including examples of his postmark on envelopes from the time.  
 
-It seems likely Mills' store was always in this building. The following are some of the earliest references to Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
+The following are some of the earliest references to Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
 
 {{% fig "1896-10-14-The-Ithaca-Daily-Journal-p6" "500" /%}}
 {{% fig "1897-03-18-ithaca-daily-journal" "500" /%}}
@@ -117,7 +245,15 @@ Several descriptions of M. E. Mills exist, the most complete of which is Gertrud
 
 {{% fig "conant-gertrude-1" "800" /%}}
 
-In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions.
+In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions. The second floor was known as "Lounsbery Hall" for owner Edward Lounsbery, and the [temperance]({{% relref "temperance" %}}) group, the Good Templars, of which Edward and Amanda were leading members, were known to often meet there. (George Richardson was also a member.)
+
+The following is the clearest proof of the location of Lounsbery Hall:
+
+{{% fig "me-mills/1899-02-00-Ithaca-Daily-News-Ithaca-NY" "500" /%}}
+
+Lounsbery Hall was where the David Ireland Post of the Brookton G.A.R. was first organized:
+
+{{% fig "mills-home/1880-05-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x350" "img,blockquote,cite,link" "top" /%}}
 
 *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, contains a listing for M. E. Mills on a page identified as “Tour 4 - P7” in a 2016 reprint by The White Church Cabin Country Store and appears to be the source (with some alterations) of the description Molly Adams used in her “Note”. In Molly’s research notes, she gives the attribution: “[Driveby, ie Conant]" and I have confirmed with Barbara Kone that Gertrude wrote the Brooktondale portions of the "Drive-by" book:
 
@@ -167,7 +303,7 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 
 [Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) took over ownership of the Mills' store building upon the death of her sister [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). 
 
-{{% fig "me-mills/BF142829-001" "500" /%}}
+{{% fig "me-mills/BF142829-001" "800" /%}}
 
 {{% fig "1922-09-19-George-Jansen" "800" /%}}
 {{% fig "1922-09-21-George-Jansen" "800" /%}}
@@ -273,11 +409,88 @@ Frank speculates that the upstairs rear room may have been used for masonic meet
 
 Mills' store is easily visible from most windows in most rooms of Mills' Home. 
 
+## The Brewer Barn
+
+The Mills' home is the only real estate that I can find official documentation for the Mills' owning in Tompkins County. Yet in the sales journals of [E. H. Mills]({{% ref "me-mills" %}}) general store in Brookton, the inside front cover of volume 41 indicates the purchase of a barn on 23 Sep 1907 that was rented to John Roe for $0.50 a month starting in 1908:
+
+{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
+
+There was a barn on the Mills' home property at one time, but by 1907, it was on land owned by the Mills since they purchased the property from Edward and Amanda Lounsbery 05 Jan 1903 (Deeds 157, p593): 
+
+{{% fig "brookton/maps/1912-highway-bf033282-001-p2-lower-cropped" "800" /%}}
+{{% fig "brookton/maps/1912-highway-bf033282-001-p2-lower-hb" "800" /%}}
+
+There is only one other deed I have found associated with the Mills’ family, and it was a transaction that Emily helped facilitate between Willis Shurter and his wife Betsey:
+
+<div class="cols">
+{{% fig "mills-home/deeds-171-334" "350" /%}}
+{{% fig "mills-home/deeds-171-335" "350" /%}}
+</div>
+
+Notice that these deeds include an affidavit from Dr. Lockwood.
+
+I have searched both 1907 and 1908 deed books, for both Caroline and Danby, for the following names: Lounsbery, Lockwood, Mills, Mulks, Roe, Reid and Shurter, and  I have not found a deed that corresponds to this date or that explicitly describes a barn. Interestingly, there is a real estate transaction between Amanda Lounsbery and John Roe earlier in 1907, that is perhaps related to the barn rental: 
+
+{{% fig "mills-home/deeds-164-253-lounsbery-roe" "800" /%}}
+
+Perhaps the purchase indicated was not by the Mills, but by Edward and Amanda Lounsbery, or possibly Jessie Shurter, and the Mills were providing a service on behalf of the barn owner , to collect and account for these transactions at a convenient existing business already frequented by community members. 
+
+Note in the survey maps below, the existence of a structure labeled "Brewer Barn", at the rear of the Lockwood property and behind the Mulks and Lockwood barns, that may be the barn in question. A note indicates that "Brewer uses this driveway by permit". 
+
+{{% fig "brookton/maps/surveys/A-1-Book-p16-rotated" "800" /%}}
+{{% fig "brookton/maps/surveys/BF127082-001-book-272-p322" "800" /%}}
+
+The circumstantial evidence strongly suggests that the Brewer Barn was "Willis Shurter's Wagon Shop in Motts Corners".
+
+In the description of the oldest deed for Mulks's Home at present day 478 Brooktondale Road that I have yet found, from 04 Jun 1870, Caroline Deeds 3, p181, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to Jacob Vandemark, it states that the property begins "in the center of the 'Creek Road' and 113 links westerly from a line with the west side of Willis Shurter's Wagon Shop in Motts Corners..." This description is repeated in the next transfer on 27 Nov 1889 (Deeds 135/113), and only in the next transfer on 22 Oct 1896 (Deeds 146, p481) does the description change to "...what was **formerly** known as Willis Shurter's Wagon Shop in Motts Corners..." (emphasis added). 
+
+The matching distance of 113 links indicated on Map A1, p16 shown above confirms that this describes the western edge of the "lane" between the Lockwood Residence at present-day 480 Brooktondale Road and the Mills' Store structure. This "lane" and the "Brewer Barn" were always conveyed with the store lot until 11 Jun 1963, when Jesse Brewer transfers **both the "lane" and the barn** to Arthur and Dorothy Wells, at which point, they became part of the Lockwood Residence lot, and they remain so as I write this. This also  explains why the stairway to the second floor (Lounsbery Hall) of Mills’ Store, on the western side of the building, has since that time encroached onto the Lockwood lot. 
+
+Josiah Shurter is listed in the census as a "wagon maker" (1870) and in 1875 both he and son-in-law William Benton Wolcott share the occupation "carriage maker". 
+
+<figure>
+
+| Year | Josiah Shurter | Willis Shurter | John Wolcott | William B. Wolcott| George Wolcott | 
+| ---  | --- |  --- | --- | --- | --- | 
+| 1850 | farmer | (child) | carpenter | carpenter | (child) | 
+| 1860 | farmer | farmer | carpenter | carpenter | clerk | 
+| 1865 | miller | ns | carpenter | carpenter | merchant |
+| 1870 | wagon maker | farmer | carpenter | wagon maker | carpenter |
+| 1875 | carriage maker | nf | carpenter | carriage maker | farmer |
+| 1880 | dec |  farmer | farmer | wagon maker | farmer | 
+| 1892 | dec | farmer | farmer | carpenter | farmer | 
+
+<figcaption>
+<cite>
+
+– Occupations, United States Federal Census and New York State Census, Caroline NY, ancestry.com.
+
+</cite>
+<aside>
+
+  - Key to abbreviations: nf-not found; ns-not specified; dec-deceased.
+
+  - [George Wolcott](https://www.findagrave.com/memorial/99535313/george-w-wolcott) (1836 to 16 Jan 1916) listed above, along with [John Wolcott](https://www.findagrave.com/memorial/89338781/john-w-wolcott) (1830 to 1897) are William Benton Wolcott’s brothers. Their father is [George Wolcott](https://www.findagrave.com/memorial/89338779/george-wolcott) (23 Dec 1801 to 09 Dec 1860), who is listed as a carpenter in both the 1850 and 1860 United States Federal Census’ for Caroline.
+
+  - “By 1866, Willis Shurter's Plaster Mill sat where the present store parking lot is. He also had a fulling Mill.” (*A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 3 - P6.) 
+
+<aside>
+</figcaption>
+</figure>
+
+It seems reasonable to assume that William Wolcott worked for his father-in-law and/or brother-in-law at some point, and that this work was in the Brewer Barn. Josiah's son Willis inherited his father's properties and business interests, apparently by the late 1860's, and the store property was eventually purchased by Willis' and Bestey's daughter Jessie Brewer.
+
+The Brewer Barn still exists as I write this, and in a conversation on 19 May 2023, Frank Proto told me that according to what he was told by Charles Vorhis many years ago: Jessie Brewer rented horses and carriages from this barn in the distant past. 
+
+{{% fig "brookton/maps/brewer-barn-google-maps" "800" /%}}
+
+{{% fig "adams-photos/brookton/2023-05-19_19.04.21-imp" "800" /%}}
+{{% fig "adams-photos/brookton/2023-05-22_09.27.02-imp" "800" /%}}
+{{% fig "adams-photos/brookton/2023-05-22_09.27.18-imp" "800" /%}}
+
+
+
 ## Notes for Future Researchers
-
-A summary of Mills' store deeds: 
-
-{{% autotable "/static/data/deeds.csv" "mills-store-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee" "Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Store" /%}}
 
 In the Caroline History Room in Slaterville Springs, there are a set of similar looking general store sales journals that belong to the general store of Frank C. Vorhis that was in the same location as Brookton's Market today.
 

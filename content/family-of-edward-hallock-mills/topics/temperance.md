@@ -3,13 +3,38 @@ title: "Temperance Activity"
 weight: 600
 ---
  
-The temperance movement was a significant cultural phenomenon of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. Emily, Hannah and Ellen were all active in temperance.
+
+Emily, Hannah and Ellen were each known to be active in temperance, primarily in the Women's Christian Temperance Union (W.C.T.U.), although Emily was also a member of the Independent Order of Good Templars. The temperance movement was a significant cultural phenomenon of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. 
 
 <!--more-->
 
 > "High Bridge Lodge is one of the largest and most successful Lodges in Tompkins County and is noted for its suppers also for its music, both vocal and instrumental..."
+> 
+> "We have an orchestra in connection with our new lodge...Their choice selections of instrumental music interspersed through the business part of the meetings tend to greatly enliven us. We also boast of having as fine a band of singers as can be found in this part of the country."
 
-Prior to the Mills moving to Mott's Corners, it is unclear if Emily or anyone else in the family was involved in temperance.
+Emily Mills joined the existing “High Bridge Lodge No. 296” of the Independent Order of Good Templars shortly after arriving in Mott’s Corners, as she "furnished entertainment for the good of the order" in August 1879. (20 Aug 1879, Ithaca Daily Journal, Ithaca NY, p4.) She was a member until at least August 1886, as attested by the meeting minutes of the Good Templars at that time. She often contributed to the “Good of the Order” portions of meetings in which members volunteered in advance to contribute something of educational and/or entertainment value, such as reading a poem or essay. At different times, she held offices in the lodge, such as secretary, as indicated below. 
+
+{{% fig "temperance/good-templars-form-outside" "800" /%}}
+{{% fig "temperance/good-templars-form-inside" "800" /%}}
+{{% fig "temperance/1886-04-23" "800" /%}}
+
+(Mott’s Corners changed its name to Brookton in 1883.)
+
+<figure>
+
+> The International Organisation of Good Templars (IOGT; founded as the Independent Order of Good Templars), whose international body is known as Movendi International, is a fraternal organization which is part of the temperance movement, promoting abstinence from alcohol and other drugs. …The IOGT originated as one of a number of fraternal organizations for temperance or total abstinence founded in the 19th century and with a structure modeled on Freemasonry, using similar ritual and regalia. Unlike many, however, it admitted men and women equally, and also made no distinction by race. The IOGT named themselves after the Knights Templar, citing the legend that the original knights "drank sour milk, and also because they were fighting 'a great crusade' against 'this terrible vice' of alcohol."
+
+<figcaption>
+<cite>
+
+— International Organisation of Good Templars, [Wikipedia.org](https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars).
+</cite>
+</figcaption>
+</figure>
+
+{{% fig "temperance/1886-04-02-Ithaca-Daily-Journal-Ithaca-NY-p3" "800x300" "" "top" /%}}
+
+Prior to the Mills moving to Mott's Corners, it is unclear if Emily Mills or anyone else in the family was involved in temperance.
 
 <figure class="quote-only">
 <blockquote>
@@ -26,19 +51,71 @@ There are records of a number of "lodges" of the Independent Order of Good Templ
 {{% fig "corfu/1869-12-20-Buffalo-Express-Buffalo-NY-p4" "350" /%}}
 {{% fig "corfu/1870-06-03-The-Buffalo-Express-Buffalo-NY-p4" "350" /%}}
 </div> 
+
+As will be seen, a lodge described as being in a "very flourishing condition" was a common refrain used over the years and in many locations of the Good Templars, whose members were encouraged to advertise their lodges, such as with regular newspaper updates.
  
 {{% fig "temperance/1885-01-The-Official-Organ-Rochester-NY-p2" "500" /%}}
 
-At Motts Corners in the 1880's, Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
+The temperance movement in Tompkins County appeared to explode in growth between 1875 and 1880 in particular, with over 1000 members county-wide at the end of that period. Although the Ithaca Union Lodge appeared to be strong well into the early 1900's, many lodges that were considered very strong, such as those in Danby, Freeville and Mclean all became inactive and years later, newspaper accounts tell of the local citizens trying to form new lodges of the Good Templars in these places. 
 
 {{% fig "temperance/1885-01-The-Official-Organ-Rochester-NY-p3" "500" /%}}
 
-{{% fig "temperance/good-templars-form-inside" "800" /%}}
-{{% fig "temperance/good-templars-form-outside" "800" /%}}
+Other known locations that at one time had lodges of the Good Templars include Speedsville, Danby, Ithaca and Dryden, to name a few. And there were a number of other temperance organizations strongly represented in the county, including the Royal Templars of Temperance, the Sons of Temperance, and eventually, the Women's Christian Temperance Union. 
 
-As the following news item suggests, the High Bridge Lodge in Mott's Corners was formed in March 1875, the year that the wooden trestle was being constructed, further suggesting that the trestle inspired the naming of the lodge, and not say "upper bridge".
+In early August 1877, temperance leader Francis Murphy visited Ithaca on one of his lecture tours, which created excitement around "Murphy Meetings". Days before Francis Murphy's arrival, Caroline lost one of its strongest temperance leaders, [Josiah Shurter](https://www.findagrave.com/memorial/100594864/josiah-shurter) (26 Apr 1815 to 05 Aug 1877), a former owner of the Mills' Store property, and the grandfather of Jessie Brewer, who was born four years after Josiah died. Josiah’s widow [Jane (Shutt) Shurter](https://www.findagrave.com/memorial/100594934/jane-shurter) (21 Nov 1825 to 23 Jun 1897) was a member of Good Templars Lodge at Mott’s Corners.
+
+{{% fig "temperance/1877-08-16-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}} 
+
+The Sons of Temperance were contemporary with the Good Templars. 
+
+<div class="cols">
+{{% fig "temperance/1878-07-09-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4d" "350" /%}}
+</div>
+
+The "High Bridge Lodge" No. 296 at Mott's Corners appears to have formed in March 1876, and held their meetings in Lounsbery Hall, the venue above Mills' Store. Edward and Amanda Lounsbery, themselves members of the High Bridge Lodge, purchased the Mills' Store property on 12 Oct 1874, when the store was still operated by George Sanders.
+
+{{% fig "temperance/1876-03-14-The-Dryden-Herald-Dryden-NY" "500" /%}}
+
+The following news items confirms the location of Lounsbery Hall:
+
+{{% fig "me-mills/1899-02-00-Ithaca-Daily-News-Ithaca-NY" "500" /%}}
 
 {{% fig "temperance/1878-03-12-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+
+"The Besemer Cornet Band, of Motts Corners, consists of thirteen pieces and is in a flourishing condition. It was organized about three months ago." (22 Dec 1880, Ithaca Daily Journal, Ithaca NY, p4, see also 29 Sep 1880, p4.)
+
+{{% fig "temperance/1879-05-28-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+
+The items immediately following offer some insight into the Lodge’s organ. Remember that according to Gertrude Conant’s recollections presented elsewhere in this material, Emily Mills played the piano.
+
+{{% fig "temperance/1879-03-01-Ithaca-Daily-News-Ithaca-NY-p3" "500" /%}}
+
+<figure>
+
+> The Ithaca Piano & Organ Company was established in 1877 by William Bostwick and Henry Wegman as successors to The Swiss Organ Company.  The firm was first listed as the “Ithaca Organ Company” and was a division of the “Ithaca Calendar Clock Company”, makers of clocks and other small mechanical devices.  Alonzo Cornell, son of Ezra Cornell (founder of Cornell University) was principal financial backer of the firm.
+>
+> The Ithaca Piano & Organ Company built a limited number of very elaborately styled parlor organs and lavishly carved upright and square pianos.  Instruments by the Ithaca Piano & Organ Company were of very good quality and are quite rare today.  The Ithaca Piano & Organ Company went out of business in 1885.
+
+<figcaption>
+<cite>
+
+— Ithaca Piano & Organ Company, [Antique Piano Shop.com](https://antiquepianoshop.com/online-museum/ithaca-piano-organ-company/).
+
+</cite>
+</figcaption>
+</figure>
+
+<div class="cols">
+{{% fig "temperance/1_commonwealth_tm70n4279_image_access_full" "350" /%}}
+{{% fig "temperance/1938-06-01-The-Ithaca-Journal-Ithaca-NY-p56" "350x150" "" "top" /%}}
+</div>
+
+{{% fig "temperance/2_commonwealth_tm70n4279_image_access_full" "800" /%}}
+
+As one might suspect, High Bridge Lodge was named for the wooden trestle at Mott’s Corners, which had just been completed in December 1875, a few months prior to the formation of High Bridge Lodge, in March 1876. The following news item is the last mention I have yet found of the existence of the High Bridge Lodge.
+
+{{% fig "temperance/1891-01-22-The-Journal-Ithaca-NY" "500" /%}}
 
 <figure>
 
@@ -85,16 +162,74 @@ The trestle was dismantled in the final years of Emily's life. The trestle was e
 
 {{% fig "trestle/tearing-down-trestle-looking-SE" "800" /%}}
 
+Satellite images from Google Maps still show evidence of the trestle's path, in the area between the red lines:
+
+{{% fig "brookton/maps/google-maps-trestle" "800" /%}}
+{{% fig "brookton/maps/google-maps-trestle-lines" "800" /%}}
+
+Some of the news items related to the High Bridge Lodge follow.
+
+{{% fig "temperance/1876-11-24-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" ""  "top" /%}}
+
+<div class="cols">
+{{% fig "temperance/1877-08-27-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
+{{% fig "temperance/1878-07-20-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div> 
+
+{{% fig "temperance/1879-07-29-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1879-08-05-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1879-08-20-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+
+{{% fig "temperance/1879-09-09-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1879-09-23-Ithaca-Daily-Journal-Ithaca-NY-p4"  "800x300" "" "top" /%}}
+{{% fig "temperance/1879-10-01-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+
+{{% fig "temperance/1879-11-29-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1879-12-10-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1879-12-30-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+
+Gunnison spoke at Mott's Corners, and County Lodge was also held in Mott's Corners at one time.
+
+{{% fig "temperance/1880-01-13-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+
+As alluded to in the piece immediately above, Emily Mills and George Richardson, along with other Good Templars members, acted in an acclaimed production of the play *The Colleen Bawn*, in which Emily had the supporting role of "Sheelah".
+
+<div class="cols">
+{{% fig "temperance/1880-01-07-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-01-14-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+<div class="cols">
+{{% fig "temperance/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
+{{% fig "temperance/1880-02-18-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+
+{{% fig "temperance/1880-02-25-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1880-05-17-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1880-05-25-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
+{{% fig "temperance/1881-05-11-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "temperance/1882-08-17-Ithaca-Daily-Journal-Ithaca-NY-p3" "800x300" "" "top" /%}}
+
+{{% fig "temperance/1890-08-14-The-Journal-Ithaca-NY" "500" /%}}
+
+In the item above, I assume “No. 720” is a misprint, and not evidence that the Brookton Good Templars restarted after a period of inactivity, possibly corresponding to the last known meeting minutes entries in August 1886. Note these two facts: 1) they kept the same name, although admittedly that is a weak argument, but what seems clearer is that 2) as already noted above, by early 1885, the lodge numbers were already well above this: in “The Official Organ of the Independent Order of Good Templars”, the highest is No. 924, Ithaca. Yet in the Quarterly Report presented above, the High Bridge Lodge was still No. 296 in 1886. 
+
+At the turning of the 20th century, at least in Caroline, the Good Templars and other temperance organizations appear to lose influence, and those dedicated to temperance seemed to coalesce around the Women’s Christian Temperance Union.
+
 {{% fig "1914-05-22-ithaca-journal" "500" /%}}
 {{% fig "1915-02-09-ithaca-journal" "500" /%}}
 {{% fig "1915-02-12-ithaca-journal" "500" /%}}
 {{% fig "1917-02-27-ithaca-journal" "500" /%}}
 
- 
 <div class="cols">
-    {{% fig "temperance/1917-wctu-directory-p8" "350" /%}}
-    {{% fig "temperance/1917-wctu-directory-p9" "350" /%}}
+{{% fig "temperance/1917-wctu-directory-p8" "350" /%}}
+{{% fig "temperance/1917-wctu-directory-p9" "350" /%}}
 </div>
 
 {{% fig "1919-08-15-ithaca-journal" "500" /%}}
 {{% fig "1919-08-23-ithaca-journal" "500" /%}}
+
+
+
+
+
+

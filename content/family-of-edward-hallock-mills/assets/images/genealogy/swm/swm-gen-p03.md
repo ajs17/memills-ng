@@ -1,6 +1,7 @@
 ---
 citation: "Mills Genealogy. Prepared by Samuel Wickham Mills. Minisink Valley Historical Society, Port Jervis NY, p3. Used with permission."
 ---
+3
 
 He had 16 children nine of whom were living at the time of his death, 80 grand children and fifty four great-grand-children. Jonathan Mills, who lived at Jamaica and whose wife was Martha, was probably a son of George. 
 

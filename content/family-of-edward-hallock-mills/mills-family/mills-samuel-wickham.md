@@ -86,7 +86,7 @@ Prepared by Samuel Wickham Mills, and provided courtesy of Nancy Conod, Executiv
 
 ## The Seawanhaka Disaster
 
-As Reverend Mills notes in *Mills Genealogy* above, his cousin [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880), son of Samuel Wickham's uncle, [William Wickham Mills](https://www.findagrave.com/memorial/68729507/william-wickham-mills) (03 Sep 1797 to 06 Jan 1865) of [Mills Pond]({{% relref "smithtown" %}}), “drowned in Seawanhaka disaster in Long Island Sound”. 
+As Reverend Mills notes in *Mills Genealogy* above, his cousin [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880), son of [William Wickham Mills](https://www.findagrave.com/memorial/68729507/william-wickham-mills) (03 Sep 1797 to 06 Jan 1865) of [Mills Pond]({{% relref "smithtown" %}}), “drowned in Seawanhaka disaster in Long Island Sound”. 
 
 <figure>
 <blockquote>

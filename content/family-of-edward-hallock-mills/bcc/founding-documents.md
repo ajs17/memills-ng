@@ -678,6 +678,8 @@ From Molly Adams’ research notes in the Caroline History Room: “Walker Perso
 
 From “Tour 3 - P8” in A Drive-by Tour of the Town of Caroline: “1st Post Office & store, left – 559 Brooktondale Road. We think this building was built by Mr. Mott, who owned most of the land at that time. …The G.A.R. lined up here to march to the [Quick, presently Brookton] cemetery to put flowers on the graves. There was a tannery between this house and the next before 1853 owned by Silsbury & [Edward] Lounsbery.” 
 
+Walker was also Justice of the Peace at one time.
+
 [Walker Voorhis Personius](https://www.findagrave.com/memorial/98386104/walker-voorhis-personius) (1836 to 1914). “Enrolled, August 22, 1861, at Millport; mustered in as captain, Co. G, September 14, 1861, to serve three years; mustered out, September 20, 1864, at Elmira, N.Y.; commissioned captain, October 14, 1861, with rank from September 16, 1861, original.” ([50th Engineer Regiment Unit Roster](https://museum.dmna.ny.gov/unit-history/other-units/50th-engineer-regiment), New York State Military Museum and Veterans Research Center.)
 
 The 50th Engineer Regiment of New York, which also included Walker's brother Charles (below), as well as others from Caroline, organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The Regiment participated in the Chancellorsville, Fredericksburg and Gettysburg campaigns, but they were not on the battlefield at Gettysburg. The Regiment was present at the surrender of General Lee at Appomattox Court House 09 Apr 1865.
@@ -893,29 +895,5 @@ And Hope and Faith the blest assurance give -
 {{% fig "bcc/founding/2023-02-28_09.52.22" "500" "img,link,blockquote,aside" /%}}
 {{% fig "bcc/founding/2023-02-28_09.52.25" "500" "img,link,blockquote,aside" /%}}
 {{% fig "bcc/founding/2023-02-28_09.52.27" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.12" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.21" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.27" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.32" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.38" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.41" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.44" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.53.55" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.05" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.08" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.10" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.13" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.19" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.22" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.24" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.26" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.32" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.37" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.40" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.42" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.43" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.50" "500" "img,link,blockquote,aside" /%}}
-{{% fig "bcc/founding/2023-02-28_09.54.53" "500" "img,link,blockquote,aside" /%}}
-
     
 -->

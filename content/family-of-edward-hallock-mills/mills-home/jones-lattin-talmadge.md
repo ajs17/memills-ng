@@ -27,18 +27,18 @@ It appears that Jessie and Lewis Brewer never lived in the Mills home, but rente
 This is a photograph left behind by Andrea Talmadge. 
 I am trying to locate Rich Thacher.
 
-{{% fig "today/talmadge/1950s3-photo-only" "800" /%}}
-{{% fig "today/talmadge/1950s1" "500" /%}}
+{{% fig "talmadge/1950s3-photo-only" "800" /%}}
+{{% fig "talmadge/1950s1" "500" /%}}
 
 Remnants of the stone steps outside the front door are beneath the current wooden porch, and can be seen in the following photograph, which I believe was taken when the Lattins lived here.
 
-{{% fig "today/talmadge/475brooktondaleroad28" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad28" "800" "img,link" /%}}
 
 The condition of those steps in 2022:
 
 <div class="cols">
-{{% fig "today/adams-photos/2022-12-14_13.27.29" "350" "img,link" /%}}
-{{% fig "today/adams-photos/2022-12-14_13.27.59" "350" "img,link" /%}}
+{{% fig "adams-photos/2022-12-14_13.27.29" "350" "img,link" /%}}
+{{% fig "adams-photos/2022-12-14_13.27.59" "350" "img,link" /%}}
 </div>
 
 ## C. Dalton and Clara B. Jones
@@ -132,18 +132,18 @@ Lawrence E. and Janet L. Lattin purchased the home on 14 Nov 1979. 16 Aug 2022, 
 
 Larry mentioned that he “gutted the house” and rewired much of it. He put on the rear addition as I know it, and added the basement steps. He also added the present tool shed, and as I write this, “Lattin” (or possibly "Larry") is still just visible, etched into the floor immediately inside the entrance, while the cement was drying. It appears there might be more letters etched in this way, but at this point, it is too faded for me to distinguish.
 
-{{% fig "today/adams-photos/2022-12-13_14.51.12" "800" "img,link" /%}}
+{{% fig "adams-photos/2022-12-13_14.51.12" "800" "img,link" /%}}
 
 Alternate photos:
 
 <div class="cols">
-{{% fig "today/adams-photos/2022-04-12_16.53.54" "350" /%}}
-{{% fig "today/adams-photos/2022-04-12_16.54.08" "350" /%}}
+{{% fig "adams-photos/2022-04-12_16.53.54" "350" /%}}
+{{% fig "adams-photos/2022-04-12_16.54.08" "350" /%}}
 </div>
 
 <div class="cols">
-{{% fig "today/adams-photos/2022-12-14_12.57.40" "350" /%}}
-{{% fig "today/adams-photos/2022-12-14_12.57.46" "350" /%}}
+{{% fig "adams-photos/2022-12-14_12.57.40" "350" /%}}
+{{% fig "adams-photos/2022-12-14_12.57.46" "350" /%}}
 </div>
 
 Larry also told a remarkable story. While replacing the front door, items stored in a space above the door fell out. The items included old medicine bottles, post cards, and what Larry described as “a Civil War belt”! Larry still has the belt, and he recalls that it identified the regiment, but could not recall the regiment number. He was going to find it again to let me know the number, to see if it matches William Benton Wolcott’s, and I need to follow up with him on this.
@@ -214,9 +214,6 @@ At any rate, the back wall of the original house was demolished by the Lattins (
 </figcaption>
 </figure>
 
-
-
-
 Referring to the basement: 
 
 <figure>
@@ -230,7 +227,7 @@ There was a functioning drain in the floor - it went under the road...through th
 </figcaption>
 </figure>
 
-As I write this, this drain is still present in the floor of the basement near the front wall of the house.
+As I write this, this drain is still present in the floor of the basement near the front wall of the house. The basement can be wet at times, and I have had to install drainage pipes and pumps to keep it dry. 
 
 On my first day entering the home as her new owner, on the kitchen counter were a number of items left by Andrea and John, including well organized appliance manuals, a list of home improvements they made during their time as owners (a practice I continued), a list of the neighbors, their addresses and phone numbers, and brief descriptions of them, and finally, the photographs that follow further below.
 
@@ -262,15 +259,15 @@ I believe the following photos show the house as it was when the Lattins lived i
 The living room with the ceiling cross beam indicating where the wall was. The brass latch for the french door, which as Andrea mentioned above, is still in the hardwood floors, as well as the floor patches in the footprint of the wall, indicate the doors were on the stairs-side of the wall. 
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad30" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad29" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad30" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad29" "350" "img,link" /%}}
 </div>
 
 In 2022:
 
 <div class="cols">
-{{% fig "today/adams-photos/2022-12-14_13.24.39" "350" "img,link" /%}}
-{{% fig "today/adams-photos/2022-12-14_13.24.23" "350" "img,link" /%}}
+{{% fig "adams-photos/2022-12-14_13.24.39" "350" "img,link" /%}}
+{{% fig "adams-photos/2022-12-14_13.24.23" "350" "img,link" /%}}
 </div>
 
 <figure>
@@ -298,62 +295,62 @@ Regarding the photo of the stove you sent my mother Clara, there was a wall sepa
 </figure>
 --> 
 
-When I arrived the stove was no longer there, and the chimney had been closed. An unpatched hole in the back wall where the stove pipe entered the chimney was still there, covered by a plastic sheet and a large, heavy mirror. The mirror is still there covering the hole today, and I have an electric “fireplace” on the wall below it. In 2021, when the roofing was replaced, the chimney was torn down to the roof line and capped.
+When I arrived the stove was no longer there, and the chimney had been closed. An unpatched hole in the back wall where the stove pipe entered the chimney was still there, covered by a plastic sheet and a large, heavy mirror. The mirror is still there covering the hole , and I have an electric “fireplace” on the wall below it. In 2021, when the roofing was replaced, the chimney was torn down to the roof line and capped.
 
 The dining room. The hanging light was still there for a decade after I owned the home. During the Covid-19 pandemic, I decided to move my home office from the larger front bedroom upstairs to the dining room, replacing the overhead light as part of the remodeling process.
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad31" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad32" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad31" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad32" "350" "img,link" /%}}
 </div>
 
 The kitchen appeared much the same, including cupboards, kitchen island, overhead florescent lights, and appliances, when I purchased it. 
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad33" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad34" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad33" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad34" "350" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad38" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad37" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad38" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad37" "350" "img,link" /%}}
 </div>
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad36" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad35" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad36" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad35" "350" "img,link" /%}}
 </div>
 
 The beginning of the addition. The fixed glass wall perpendicular to the back wall is still present as I write this, the area of the sliding glass has a partial wall added and a normal door opening to the addition.
 
-{{% fig "today/talmadge/475brooktondaleroad39" "500" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad39" "500" "img,link" /%}}
 
 The downstairs half bathroom next to the stairs. The carpet shown on the stairs was not there when I arrived, but the large space left at the bottom of the trim in the upstairs hallway remains as evidence of this high pile carpet. 
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad40" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad41" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad40" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad41" "350" "img,link" /%}}
 </div> 
 
 The large front bedroom was for the first decade I owned it, my home office, where much of the work for the Finger Lakes Beer Trail was done. This paint and wallpaper were still there when I purchased the home, and I repainted the walls after a few years. The ceiling had glow-in-the-dark stars and similar paint on it, which clearly meant something to someone in the past, so I haven't had the heart to paint over it. When asked about this, Andrea's response was: "The fluorescent stars and paint - were done by my older daughter, Heather (w/out permission, of course)." (07 Jan 2020, personal correspondence.)
  
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad45" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad46" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad45" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad46" "350" "img,link" /%}}
 </div>
 
 In the middle bedroom, the carpet, closet doors and overhead light all remained when I arrived. Initially, this ceiling was also painted blue with white clouds and more glow-in-the-dark stars. I eventually repainted this room also. After my last cat died, I ripped up the shag carpet, which along with the underlayment was very tattered and worn, and had clearly been there for a very long time. The carpet covered a heat vent that is apparently disconnected from the rest of the ductwork, and the hardwood floor beneath needed some work to fully restore, as several patches had been made with 2x4 unstained pine lumber, and wall paint had dripped onto the floorboards in the past. Instead of trying to restore the original hardwood floor, I left it in place, and I personally installed new hardwood bamboo flooring on top of it. 
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad43" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad44" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad43" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad44" "350" "img,link" /%}}
 </div>
 
 The small bedroom on the driveway side of the house was initially just a room devoted to my cats. The overhead light remained when I arrived and was eventually replaced.
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad47" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad48" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad47" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad48" "350" "img,link" /%}}
 </div>
 
 <figure>
@@ -369,88 +366,88 @@ I did a bit of renovating in the 2 small bedrooms upstairs.
 
 The upstairs bathroom.
 
-{{% fig "today/talmadge/475brooktondaleroad42" "500" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad42" "500" "img,link" /%}}
 
 The master bedroom above the kitchen follows. This is the second level of the addition that the Lattins added to the back of the house. Note the slope of the ceiling:
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad49" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad50" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad49" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad50" "350" "img,link" /%}}
 </div>
 
 Based on the for-sale sign, the following appears to be from 1992, when the Lattins were still occupying. Notice the clothesline beyond the shed, and the children’s play area behind the real estate sign. 
 
-{{% fig "today/talmadge/475brooktondaleroad51" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad51" "800" "img,link" /%}}
 
 The pine tree partially shown on the left edge of the photograph was still there when I purchased the home, and taken down by NYSEG on 28 Mar 2013, as it was interfering with overhead wires. The photo below was taken through the window of the small bedroom. 
 
-{{% fig "today/adams-photos/2013-03-28_11.11.19" "500" "img,link" /%}}
+{{% fig "adams-photos/2013-03-28_11.11.19" "500" "img,link" /%}}
 
 And now the first of the remaining images which I believe to all be from the Talmadge years, beginning with a photo of the lean-to removed in preparation for the three-room addition, as described by Andrea above.
  
-{{% fig "today/talmadge/renovations-bdale" "500" "img,link" /%}}
+{{% fig "talmadge/renovations-bdale" "500" "img,link" /%}}
 
-{{% fig "today/talmadge/475brooktondaleroad17" "500" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad17" "500" "img,link" /%}}
 
-{{% fig "today/talmadge/475brooktondaleroad15" "500" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad15" "500" "img,link" /%}}
 
 In the photo below, the foremost tree along Brooktondale Road was also removed by NYSEG for interfering with the overhead wires. A utility pole is immediately beyond it, and then a large tree just over the property line on Dalebrook was also removed, both done in the early 2010’s. The Lockwood home, Mills’ store and Dalebrook are all partially visible in the background.
 
-{{% fig "today/talmadge/475brooktondaleroad10" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad10" "800" "img,link" /%}}
 
-{{% fig "today/talmadge/475brooktondaleroad14" "500" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad14" "500" "img,link" /%}}
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad19" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad23" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad19" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad23" "350" "img,link" /%}}
 </div>
 
-{{% fig "today/talmadge/475brooktondaleroad25" "800" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad24" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad25" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad24" "800" "img,link" /%}}
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad11" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad13" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad11" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad13" "350" "img,link" /%}}
 </div>
  
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad20" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad8" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad20" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad8" "350" "img,link" /%}}
 </div>
 
-{{% fig "today/talmadge/475brooktondaleroad12" "800" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad7" "500" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad12" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad7" "500" "img,link" /%}}
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad22" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad21" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad22" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad21" "350" "img,link" /%}}
 </div>
 
 When I arrived, the hillside was beautifully landscaped with a number of stone paths around garden beds and leading to a simple platform constructed of treated lumber that sat above the garden and a few feet higher than the upper roof line. I enjoyed sitting up on that platform, and I recall Mary Andersson remarking how she enjoyed looking out at the hillside from her home. Unfortunately, this was an area that was beyond my ability to successfully maintain. The structure of the steps relied upon untreated logs from the hill that eventually rotted away, allowing the soil erosion on the steep hill to take over. At one point in the early-mid 2010’s, a dead tree on the hill fell across the wooden platform and flower garden, severely damaging the platform and crushing a few rows of the stone steps.  
 
 <div class="cols">
-{{% fig "today/talmadge/475brooktondaleroad26" "350" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad9" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad26" "350" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad9" "350" "img,link" /%}}
 </div>
 
 The wooden platform can be seen in the photographs below, its front edge built against a tree to keep it from sliding down the hill.
 
-{{% fig "today/talmadge/475brooktondaleroad16" "800" "img,link" /%}}
-{{% fig "today/talmadge/475brooktondaleroad27" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad16" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad27" "800" "img,link" /%}}
 
-{{% fig "today/talmadge/475brooktondaleroad2" "800" "img,link,blockquote" /%}}
-{{% fig "today/talmadge/475brooktondaleroad6" "800" "img,link,blockquote" /%}}
-{{% fig "today/talmadge/475brooktondaleroad5" "800" "img,link,blockquote" /%}}
-{{% fig "today/talmadge/475brooktondaleroad3" "800" "img,link,blockquote" /%}}
+{{% fig "talmadge/475brooktondaleroad2" "800" "img,link,blockquote" /%}}
+{{% fig "talmadge/475brooktondaleroad6" "800" "img,link,blockquote" /%}}
+{{% fig "talmadge/475brooktondaleroad5" "800" "img,link,blockquote" /%}}
+{{% fig "talmadge/475brooktondaleroad3" "800" "img,link,blockquote" /%}}
 
 Unfortunately, the magnolia tree had to be removed as it became too big and was too close to the front porch.
 
-{{% fig "today/talmadge/475brooktondaleroad" "800" "img,link,blockquote" /%}}
-{{% fig "today/talmadge/475brooktondaleroad4" "800" "img,link,blockquote" /%}}
+{{% fig "talmadge/475brooktondaleroad" "800" "img,link,blockquote" /%}}
+{{% fig "talmadge/475brooktondaleroad4" "800" "img,link,blockquote" /%}}
 
 The home, very close to how it appeared when I first moved into it.
 
-{{% fig "today/talmadge/475brooktondaleroad18" "800" "img,link" /%}}
+{{% fig "talmadge/475brooktondaleroad18" "800" "img,link" /%}}
 
 
 

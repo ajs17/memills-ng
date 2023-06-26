@@ -1,6 +1,6 @@
 ---
 title: "History of the Congregational Church, Brooktondale, New York by Amy Atwater"
-weight: 200
+weight: 500
 ---
 
 Full text and images from *History of the Congregational Church, Brooktondale, New York.* Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.

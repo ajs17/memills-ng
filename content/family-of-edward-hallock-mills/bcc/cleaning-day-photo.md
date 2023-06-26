@@ -1,6 +1,6 @@
 ---
 title: "Cleaning the Congregational Church"
-weight: 300
+weight: 900
 ---
 
 Spring 1911, the Congregationalists took a break from cleaning the church to have their photograph taken.

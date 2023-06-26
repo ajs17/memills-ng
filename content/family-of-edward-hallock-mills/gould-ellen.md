@@ -37,7 +37,7 @@ The following historical research comes from a direct descendent of Ellen Gould:
 
 {{% fig "1851-06-21-Western-World" "500" /%}}
 
-In the 1892 census, Ellen Gould, listed as Ellen J. Predmore, is apparently living in Brookton with her family, surrounded by many recognizable names. She married Alfred Gould in 1893.
+In the 1892 census, Ellen Gould, listed as Ellen J. Predmore, is apparently living in Brookton with her family, surrounded by many recognizable names. She married Alfred Gould in 1893. Alfred Gould worked on the railroad at Brookton Depot alongside George H. Richardson's father and Jerome Miller's father John. 
 
 {{% fig "census/1892-ny-census-ellen" "500" /%}}
 

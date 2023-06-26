@@ -69,6 +69,8 @@ The regal Mills Pond House provides the perfect location to expose Smithtown res
 </aside>
 </figure>
 
+A portrait of William Wickham Mills is presented further below in connection with the artist William Sidney Mount.
+
 Many photos of the Mills Pond House, both historic and contemporary, exist online and in collections such as the Library of Congress. As an historic building, there is also substantial documentation on the structure itself, including detailed information on renovations and restorations over the generations, that is publicly available. Just to the west of the Mills Pond House is the Mills Cemetery (also referred to as Mills Pond Cemetery, Mills Burying Ground, and Mills Graveyard) where many of Emily's ancestors are buried. 
 
 Edward H. Mills has partial entries on the following Mills family genealogies:
@@ -230,8 +232,7 @@ The last name listed as a possible heir in the Mills' home deeds, Mary Huntting 
   - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (17 Jul 1845 to 1938), married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
   - their child [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875 to 1924), married James M. Cross.
 
-
-Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932), and her birth is presumably related to Emily T. Huntting's death nine days later. Presumably, it is Emily Mills Huntting who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
+Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932), and her birth is presumably related to Emily T. Huntting's death nine days later. It appears to be Emily Mills Huntting who is referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
 
 {{% fig "genealogy/1849-04-18-The-Corrector-Sag-Harbor-NY-p3" "500" /%}}
 
@@ -260,16 +261,17 @@ Edward's half-brother Robert appears to have lived most of his life in Hempstead
 
 The Long Island Museum of American Art, History, & Carriages, owns many works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), who is another descendant of Timothy Mills and who is "generally considered the first major artist to paint the activities of everyday American life". In the mid-1800's, Mount painted many portraits, including members of the Mills family. 
 
-
 <figure class="quote-only">
 <blockquote>
-<p>According to Alfred Frankenstein's index of Mount's works, Mount painted the following Mills family members:</p>
+
+According to Alfred Frankenstein's index of Mount's works, Mount painted the following Mills family members:</p>
 
   - Elizabeth Mills (1843) **This work is in our collection at LIM**
 
   - William Wickham Mills Esqr. (1829 & 1856)
 
   - Mrs. (Eliza Ann) William Wickham Mills (1855)
+
 </blockquote>
 <figcaption>
 <cite>— 27 Sep 2022, Andrea Squeri, Collections Manager at The Long Island Museum via personal correspondence. 
@@ -370,7 +372,7 @@ The portrait mentioned above:
 {{% fig "portraits/michah-hawkins" "350" /%}}
 </div> 
 
-Based on a review of the Queens Public Library collection's inventory, it appears it may contain the primary sources used in writing the following history:
+Based on a review of the Queens Public Library collection's inventory, it appears it may contain source information used in writing the following history:
 
 {{% fig "long-island/1894-07-27-Port-Jervis-Union-Port-Jervis-NY-p3" "800x300" "" "top" /%}}
 {{% fig "long-island/1894-07-28-Port-Jervis-Union-Port-Jervis-NY-p2" "800x300" "" "top" /%}}

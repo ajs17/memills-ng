@@ -1,5 +1,6 @@
 ---
 title: "Brookton's Market 2011 Calendar"
+weight: 500
 ---
 
 Compiled by Deborah Halpern and Kathy Keaney. Layout and design by Avi Smith. Contains many historical photographs and facts focused on Brookton's Market, formerly Frank F. Mulks general store.

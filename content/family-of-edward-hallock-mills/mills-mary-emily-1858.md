@@ -41,11 +41,24 @@ Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. But s
 
 {{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 
-Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "temperance" %}}). Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes that includes associated forms and envelopes (the envelopes have her father's postmark), many examples of Emily's handwriting from this time survive. 
+Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She joined the existing “High Bridge Lodge No. 296” of the [Independent Order of Good Templars]({{% ref "temperance" %}}) shortly after arriving in Mott’s Corners, as she "furnished entertainment for the good of the order" in August 1879. (20 Aug 1879, Ithaca Daily Journal, Ithaca NY, p4.) She was a member until at least August 1886, as attested by the meeting minutes of the Good Templars at that time. She often contributed to the “Good of the Order” portions of meetings in which members volunteered in advance to contribute something of educational and/or entertainment value, such as reading a poem or essay. At different times, she held offices in the lodge, such as secretary, as indicated below, showing one of many examples of her distinctive handwriting.   
 
 {{% fig "temperance/1886-04-23" "800" /%}}
 
 {{% fig "handwriting/sig3" "800" /%}}
+
+Emily, along with George Richardson and other Good Templars members, acted in an acclaimed production of the play *The Colleen Bawn*, in which Emily had the supporting role of "Sheelah".
+
+<div class="cols">
+{{% fig "temperance/1880-01-07-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-01-14-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+<div class="cols">
+{{% fig "temperance/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
+{{% fig "temperance/1880-02-18-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+
+The Good Templars' meetings were both entertaining and educational by design, to offer a compelling alternative to drinking establishments, and clearly, this provided opportunities for Emily to socialize and even travel, as the Good Templars commonly attended events at other Lodges in Tompkins County, cooperated with other temperance groups like the Sons of Temperance, and they sent representatives to the state "Grand Lodge" as well. Because of this, Emily may be present in some of the well known photographs of *other* temperance groups in Caroline. 
 
 At least by the 1890's, Emily was working as a clerk in her father's store, just as her older brothers had. (She may have always helped with the store, or perhaps she only began clerking in the store after Jonas died.) Several volumes of sales journals have survived from [M. E. Mills general store]({{% ref "me-mills" %}}) that are written by Emily's hand (and certainly Ellen Gould's handwriting must also be present in those books). 
 
@@ -132,7 +145,7 @@ Full quote and citation are below. Ralph Conant in personal correspondence 24 Ju
 <p>She was a "sweet little lady"</p>
 </blockquote>
 <figcaption>
-<em>A Drive-by Tour of the Town of Caroline</em> sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4 - P7, 484 Brooktondale Road
+<em>A Drive-by Tour of the Town of Caroline</em> sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4 - P7, 484 Brooktondale Road.
 </figcation>
 </figure>
 
@@ -249,7 +262,7 @@ Emily was the last in the line of Edward H. Mills, and it seems that her family'
 
 As one is standing in front of the Emily's headstone, with back to the cemetery entrance on Lounsbery Road, the ground is disturbed on the left side of the two plots purchased for Emily, indicating where she rests. As is the case with Hannah, the date of birth on Emily's headstone is incorrect:
 
-{{% fig "today/grave-emily/feature" "800" /%}}
+{{% fig "adams-photos/grave-emily/feature" "800" /%}}
 
 Emily is listed with her family in the 1860 Federal Census:
 

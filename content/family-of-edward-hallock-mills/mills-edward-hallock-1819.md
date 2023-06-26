@@ -288,6 +288,12 @@ Emily officially joined the church rolls in the months immediately following Edw
 
 ## Notes for Future Researchers
 
+The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.". I haven't yet find another reference to this firm, and in the 1880 census, I have not found anyone else with the last name Mills, yet aside from the apparent coincidence, I cannot link this to Edward H. Mills, nor have I found a mention of the firm's existence before the Mills family move to Mott's Corners, which would presumably rule out a connection.
+
+{{% fig "brookton/1879-12-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+
+Possibly this is a misspelling of a similar name, such as "Mulks", "Miles" or perhaps even "Miller"?  There is also a farmer in Caroline with the name Gills. I will also note that in January 1875, there is a "new Ithaca poultry journal, to be called 'The Poultry Organ'" (02 Jan 1875, Ithaca Daily Journal, Ithaca NY, p4).
+
 There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. I have not investigated this family very much beyond ruling them out as the subjects of my research.
 
 {{% fig "1882-gloversville-directory-p85" "800" /%}}

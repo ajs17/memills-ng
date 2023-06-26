@@ -435,5 +435,24 @@ In 1665 [John Seaman] became Captain of Queens County Troop of Province of New Y
 </figcaption>
 </figure>
 
+## Other Research Notes
 
 
+When the Mills arrived in Mott's Corners, there was a family with the name Seaman living very close by–if I understand the census entries correctly–in the general vicinity of the upper bridge over Six Mile Creek, where Lounsbery Road begins presently. 
+
+{{% fig "hempstead/1892-08-10-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+[Jacob W. Seaman](https://www.findagrave.com/memorial/27370292/jacob-w-seaman) (10 Jul 1826 to 05 Aug 1892), who married [Julia A. (Darling) Seaman](https://www.findagrave.com/memorial/27370298/julia-a-seaman) (unknown to unknown), appears to be descended from an unrelated Seaman family that established themselves in Pennsylvania, beginning with the immigration of “The Founder, Johann Ludwig Seaman”. 
+
+<figure>
+
+> Under the head, "List of Foreigners imported in the ship Patience and Margaret from Rotterdam, October 25, 1748, John Govan Captain," there occurs the name of "Johann Ludwig Seaman, aged 26 years." It is written in German. From this brief record we learn several important facts respecting our founder. He sailed from Rotterdam, Holland. This was the seaport from which those from the valley of the Rhine or from Switzerland embarked for America. Enterprising Englishmen had thus early established a line of ships, plying between Rotterdam and Philadelphia, which did a flourishing business in the transportation of immigrants. 
+
+<figcaption>
+<cite>
+
+– 1911, History of the Seaman Family in Pennsylvania with Genealogical Tables by the Rev. George S. Seaman, A.M., p42, familysearch.org.
+
+</cite>
+</figcaption>
+</figure>

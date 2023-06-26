@@ -28,6 +28,16 @@ George H. Richardson's census entries summarized:
   - 1920, Ithaca (Aurora Street): janitor at Cornell University.
   - 1930, Ithaca (North Aurora Street) janitor at Cornell University.
 
+George, along with Emily Mills and others in the hamlet, was a member of the “High Bridge Lodge No. 296” of the [Independent Order of Good Templars]({{% ref "temperance" %}}). As a member of the Templars, he played the role of Bertie O'Moore in an acclaimed production of the play *The Colleen Bawn*. 
+
+<div class="cols">
+{{% fig "temperance/1880-01-07-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-01-14-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+<div class="cols">
+{{% fig "temperance/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
+{{% fig "temperance/1880-02-18-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
 The 1900 census shows that he owned his family home in Caroline free of a mortgage, and the same was true of his house on Third Street in Ithaca.
 
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "500" /%}}
@@ -37,6 +47,8 @@ It is interesting to note that apparently George continued working in the postof
 
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "500" /%}}
 {{% fig "george-richardson/1887-06-01-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+{{% fig "mills-home/1887-12-29-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 
 <div class="cols">
 {{% fig "george-richardson/1903-07-06-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "350" /%}}

@@ -1,5 +1,4 @@
 ---
-# citation: "03 May 1880, Ithaca Daily Journal, Ithaca NY, p4, nyshistoricnewspapers.org."
 pubdate:  "1880-05-03"
 author: 
 title: 
@@ -42,7 +41,7 @@ OLD SOLDIERS’ MEETING.
 
 THE VETS IN COUNCIL AT MOTT’S CORNERS.  
 
-The notice published in the JOURNAL of April 22, for a camp fire to be held at Lounsbery’s Hall, Motts’s Corners, brought out about thirty old veterans of the Town of Caroline and vicinity last Saturday evening. The meeting was called to order by Capt. W. V. Personius, and B. T, Landon was called to the chair. Capt. Lounsbery then stated that the object of the meeting was to organize a Post of the Grand Army of the Republic, whereupon twenty four comrades signed the roll and a Post will be organized next Saturday evening, providing a charter can be obtained from Department Headquarters in time. About this time several comrades from Sydney Post, of Ithaca, put in an appearance, when the boys gave themselves up to a general good time. 
+The notice published in the JOURNAL of April 22, for a camp fire to be held at Lounsbery’s Hall, Motts’s Corners, brought out about thirty old veterans of the Town of Caroline and vicinity last Saturday evening. The meeting was called to order by Capt. W. V. Personius, and B. T. Landon was called to the chair. Capt. Lounsbery then stated that the object of the meeting was to organize a Post of the Grand Army of the Republic, whereupon twenty four comrades signed the roll and a Post will be organized next Saturday evening, providing a charter can be obtained from Department Headquarters in time. About this time several comrades from Sydney Post, of Ithaca, put in an appearance, when the boys gave themselves up to a general good time. 
 
 Comrade Joe Lindsley, introduced one of Hibbard’s autophones and played some very sweet music, after which the boys joined in singing "Marching through Georgia." Rations were now announced to which the boys all did ample justice. After the pork-and beans had been demolished, the boys returned to the hall, where a rattling fire of songs, stories and reminiscences were kept up until 12 o’clock, when the camp broke up, every comrade present, however, feeling that he had had a good time. 
 

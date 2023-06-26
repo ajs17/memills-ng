@@ -1,6 +1,6 @@
 ---
 title: "The Making of a Woman Minister by Reverend Annis Ford Eastman"
-weight: 400
+weight: 1000
 ---
 
 Reverend Annis Ford Eastman describes her first visit to Brookton Congregational Church, her work in the Church, and her ordination as one of the first women ministers of a Congregational Church.
