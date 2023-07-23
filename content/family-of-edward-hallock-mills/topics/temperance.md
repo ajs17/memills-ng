@@ -194,14 +194,43 @@ Gunnison spoke at Mott's Corners, and County Lodge was also held in Mott's Corne
 
 As alluded to in the piece immediately above, Emily Mills and George Richardson, along with other Good Templars members, acted in an acclaimed production of the play *The Colleen Bawn*, in which Emily had the supporting role of "Sheelah".
 
+{{% fig "temperance/The-Colleen-Bawn" "800" /%}}
+
+<figure>
+
+> *The Colleen Bawn*, or *The Brides of Garryowen* is a melodramatic play written by Irish playwright Dion Boucicault. It was first performed at Laura Keene's Theatre, New York, on 27 March 1860 with Laura Keene playing Anne Chute and Boucicault playing Myles na Coppaleen. ...*The Colleen Bawn* captivated audiences with its interwoven character plots and overall story.
+
+<figcaption>
+<cite>
+
+— [The Colleen Bawn](https://en.wikipedia.org/wiki/The_Colleen_Bawn), Wikipedia.org.
+
+</cite>
+</figcaption>
+<aside>
+
+   - From [Wikipedia.org](https://en.wikipedia.org/wiki/Laura_Keene): "Laura Keene (20 July 1826 – 4 November 1873) was a British stage actress and theatre manager. In her twenty-year career, she became known as the first powerful female manager in New York. She is most famous for being the lead actress in the play *Our American Cousin*, which was attended by President Abraham Lincoln at Ford's Theater in Washington on the evening of his assassination. ...In 1858, *Our American Cousin* debuted in Laura Keene's Theater. On the night of 14 April 1865, Keene's company, which primarily included John Dyott and Harry Hawk, were performing Our American Cousin at Ford's Theatre in Washington, D.C. In attendance that night were President Abraham Lincoln and his wife First Lady Mary Todd Lincoln. Actor John Wilkes Booth fatally shot President Lincoln while Lincoln watched the play from the presidential box; Booth then fled the theatre. Amid the confusion, Keene made her way to the presidential box where Lincoln lay dying and cradled the mortally wounded President's head in her lap. President Lincoln's fatal head wound bled on her dress, staining her cuff. The cuff was later donated to the National Museum of American History."
+
+</aside>
+</figure>
+
 <div class="cols">
 {{% fig "temperance/1880-01-07-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 {{% fig "temperance/1880-01-14-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
 <div class="cols">
+{{% fig "temperance/1880-01-24-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-01-28-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+<div class="cols">
 {{% fig "temperance/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
 {{% fig "temperance/1880-02-18-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
+<div class="cols">
+{{% fig "temperance/1880-02-26-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-03-05-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+
 
 {{% fig "temperance/1880-02-25-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}
 {{% fig "temperance/1880-05-17-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x300" "" "top" /%}}

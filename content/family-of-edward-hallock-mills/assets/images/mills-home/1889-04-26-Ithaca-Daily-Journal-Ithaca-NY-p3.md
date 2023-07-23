@@ -11,7 +11,7 @@ media:  ""
 quaddress:  ""
 notes: >-
 
-  - [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889), purchased the grist mill from Charles Personius. 
+  - [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889), purchased the grist mill from Charles Personius. He was often called Cameron Vorhis informally and A. C. Vorhis professionally. w 
 
   - [Dr. Martin Besemer](https://www.findagrave.com/memorial/97409239/martin-besemer) (1847 to 1916).
 

@@ -41,6 +41,37 @@ page of tests
 {{% fig "bcc/founding/2023-02-28_09.52.27" "800" "img,link,blockquote,aside" /%}}
 
 
+---------
+
+(Cantine?) Lounsberry and Norwood, 
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1888-03-02/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1884-09-30/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-22/ed-1/seq-3/png/
+
+Charles Personeous, SOV (Sons of Veterans Post No. 101)
+https://nyshistoricnewspapers.org/lccn/sn83031157/1888-05-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1892-12-12/ed-1/seq-2/png/
+
+(also, ithaca, danby, newfield)
+
+walker v personius, gettysburg
+https://nyshistoricnewspapers.org/lccn/sn83031157/1889-01-18/ed-1/seq-3/png/
+--------
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1888-03-02/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1884-09-30/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-22/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1887-06-09/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-11/ed-1/seq-3/png/
+
+------
+
+
 
 Verify where william wolcott lived, check other property deeds.
 
@@ -88,4 +119,5 @@ neighborhood, church photos
 {{% fig "adams-photos/brookton/2023-06-11_19.10.28-imp" "500" /%}}
 {{% fig "adams-photos/brookton/2023-06-11_19.10.59-imp" "500" /%}}
 
+-----
 

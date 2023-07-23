@@ -3,7 +3,7 @@ title: "Mills' Store in Brookton NY"
 weight: 100
 ---
 
-After moving to Mott's Corners in Mar 1879, Edward restarted his general store on his own, now simply called E. H. Mills, where his surviving children Jonas and Emily clerked. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jessie Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "the old postoffice".
+After moving to Mott's Corners in Mar 1879, Edward restarted his general store on his own, now simply called E. H. Mills, where his surviving children Jonas and Emily clerked. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jessie Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "The Old Post Office".
 
 <!--more-->
 
@@ -146,7 +146,7 @@ Mills' store, Summer 2021:
 {{% fig "adams-photos/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
 {{% fig "adams-photos/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
 
-Long-time community members call this building "the old post office" referring to when it was used as such starting in 1961 under postmaster Charles Vorhis. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. 
+Long-time community members call this building "The Old Post Office" referring to when it was used as such starting in 1961 under postmaster Charles Vorhis. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. 
 
 <div class="cols">
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "350" /%}}
@@ -245,7 +245,7 @@ Several descriptions of M. E. Mills exist, the most complete of which is Gertrud
 
 {{% fig "conant-gertrude-1" "800" /%}}
 
-In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions. The second floor was known as "Lounsbery Hall" for owner Edward Lounsbery, and the [temperance]({{% relref "temperance" %}}) group, the Good Templars, of which Edward and Amanda were leading members, were known to often meet there. (George Richardson was also a member.)
+In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions. The second floor was known as "Lounsbery Hall" for owner Edward Lounsbery, and various community groups including the David Ireland Post of the G.A.R., the Grange, and the [High Bridge Lodge]({{% relref "temperance" %}}) of the temperance group, the Good Templars, of which Edward and Amanda were leading members, were known to meet there. (George Richardson was also a member of the Good Templars, and he and Emily both acted in the locally produced play *The Colleen Bawn* at Lounsbery Hall as well as several other locations, for the benefit of the Templars.)
 
 The following is the clearest proof of the location of Lounsbery Hall:
 
@@ -437,8 +437,8 @@ Perhaps the purchase indicated was not by the Mills, but by Edward and Amanda Lo
 
 Note in the survey maps below, the existence of a structure labeled "Brewer Barn", at the rear of the Lockwood property and behind the Mulks and Lockwood barns, that may be the barn in question. A note indicates that "Brewer uses this driveway by permit". 
 
-{{% fig "brookton/maps/surveys/A-1-Book-p16-rotated" "800" /%}}
-{{% fig "brookton/maps/surveys/BF127082-001-book-272-p322" "800" /%}}
+{{% fig "brookton/maps/A-1-Book-p16-rotated" "800" /%}}
+{{% fig "brookton/maps/BF127082-001-book-272-p322" "800" /%}}
 
 The circumstantial evidence strongly suggests that the Brewer Barn was "Willis Shurter's Wagon Shop in Motts Corners".
 

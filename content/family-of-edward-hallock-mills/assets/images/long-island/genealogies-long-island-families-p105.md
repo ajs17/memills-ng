@@ -4,7 +4,7 @@ notes: >-
 
     - Timothy Mills' will exists presently in the Mills Family Collection of Queens Public Library. The will is also transcribed in the volume <em>A Documentary History of the Family of Mills</em>, beginning p33a.
 
-    - The last paragraph borrows liberally from <em>A Documentary History of the Family of Mills</em>, p30. The only difference being that the original source begins: "The settlement known as Mills Pond, so named for this Timothy Mills, is a collection of dignified old houses..."
+    - The last paragraph is liberally quoted in <em>A Documentary History of the Family of Mills</em>, p30, with an implicit parenthetical reference indicating that "present" is 1919. The only other difference is that the later source begins: "The settlement known as Mills Pond, so named for this Timothy Mills, is a collection of dignified old houses..."
 ---
 
 This genealogy relates to the Suffolk County branch of the family, descendants of TIMOTHY MILLS who settled at Smithtown in 1693. The other branch remained at Jamaica. Members of both branches were fairly numerous during the 18th and first half of the 19th centuries, but are now greatly reduced. 

@@ -7,9 +7,9 @@ This section explores the historical deeds and the lives of some of the other fo
 
 <!--more-->
 
-> "[Emily] lived across the street from Dr. Lockwood, in a little house that sat back near the hill." 
+> "[Emily Mills] lived across the street from Dr. Lockwood, in a little house that sat back near the hill." 
 >
-> "I was with him almost up to the last moment of this life and he told me he would give anything if he could go home. He said that several times, so I expect he died thinking of you people at home he cared about."
+> "I was with [Earl Wolcott] almost up to the last moment of this life and he told me he would give anything if he could go home. He said that several times, so I expect he died thinking of you people at home he cared about."
 
 {{% toc "Jump To:" %}}
 

@@ -960,7 +960,7 @@ We have Emily Wettlaufer to thank for seeing to the safekeeping of James D. Warr
 
 The complete work is made available here with permission from the author:
 
-<a href="Southern-Pilgrimage-2.pdf" ><strong>Southern Pilgrimage: James D. Warren’s 1840-41 Letters from Kentucky and Mississippi</strong></a> by Charles D. Warren, December 2017.
+<a href="Southern-Pilgrimage-2.pdf"><strong>Southern Pilgrimage: James D. Warren’s 1840-41 Letters from Kentucky and Mississippi</strong></a> by Charles D. Warren, December 2017.
 
 James D. Warren was the leader of what was known as the “Stalwart” branch of the Republican Party:
 

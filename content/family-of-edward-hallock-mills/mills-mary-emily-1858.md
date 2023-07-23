@@ -31,34 +31,116 @@ Emily was baptized in the Reformed Dutch Church of Port Richmond. Other than thi
 
 Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, a period overlapping Emily's fourth birthday. 
 
-The family moved to Motts Corners in Mar 1879, a few months after Emily's 20th birthday, and in the few years immediately following her brother Horace's suicide. 
+The family moved to Motts Corners in Mar 1879, which must have filled Emily with many mixed emotions.  Corfu was her childhood home, where she had attended school, and she was leaving behind friends that she would make return trips to visit. But it was also where [her brother Horace]({{% relref "mills-horace-f-1854" %}}) had killed himself just a few years prior. 
 
-Emily is mentioned in the will of her uncle:
+<div class="cols">
+{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}
+{{% fig "corfu/1876-10-27-The-Progressive-Batavian-Batavia-NY-1" "350" /%}}
+</div>
 
-{{% fig "pine/1881-10-21-henry-higbie-will" "800" /%}}
+This was also a few months after Emily's 20th birthday, and the move must have been an exciting one. Very soon after her arrival in Mott's Corners, Emily was actively involved in several community social groups, providing clues to her personality as a young woman. Emily was energetic, outgoing and appeared to make friends easily, and it seems she was welcomed warmly by her new neighbors.
 
-Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. But she also returned to visit her friends, at least this one time, surely with many mixed emotions.
-
-{{% fig "1882-07-21-batavia-daily-news" "500" /%}}
-
-Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She joined the existing “High Bridge Lodge No. 296” of the [Independent Order of Good Templars]({{% ref "temperance" %}}) shortly after arriving in Mott’s Corners, as she "furnished entertainment for the good of the order" in August 1879. (20 Aug 1879, Ithaca Daily Journal, Ithaca NY, p4.) She was a member until at least August 1886, as attested by the meeting minutes of the Good Templars at that time. She often contributed to the “Good of the Order” portions of meetings in which members volunteered in advance to contribute something of educational and/or entertainment value, such as reading a poem or essay. At different times, she held offices in the lodge, such as secretary, as indicated below, showing one of many examples of her distinctive handwriting.   
+Emily joined the existing “High Bridge Lodge No. 296” of the [Independent Order of Good Templars]({{% ref "temperance" %}}) shortly after arriving in Mott’s Corners, as she "furnished entertainment for the good of the order" in August 1879. (20 Aug 1879, Ithaca Daily Journal, Ithaca NY, p4.) The Good Templars often met above Edward Mills' store, "E. H. Mills", in a space for public events and private meetings called Lounsbery Hall, named for the owner of the building, Edward Lounsbery. Emily was a member until at least August 1886, as attested by the meeting minutes of the Good Templars at that time. She often contributed to the “Good of the Order” portions of meetings in which members volunteered in advance to contribute something of educational and/or entertainment value, such as reading a poem or essay. At different times, she held offices in the lodge, such as secretary, as indicated below, showing one of many examples of her distinctive handwriting.   
 
 {{% fig "temperance/1886-04-23" "800" /%}}
 
 {{% fig "handwriting/sig3" "800" /%}}
 
-Emily, along with George Richardson and other Good Templars members, acted in an acclaimed production of the play *The Colleen Bawn*, in which Emily had the supporting role of "Sheelah".
+The Good Templars' meetings were both entertaining and educational by design, to offer a compelling alternative to drinking establishments, and clearly, this provided opportunities for Emily to socialize and even travel, as the Good Templars commonly attended events at other Lodges in Tompkins County, cooperated with other temperance groups like the Sons of Temperance, and they sent representatives to the state "Grand Lodge" as well. Because of this, Emily may be present in some of the well known photographs of *other* temperance groups in Caroline. 
+
+Emily was also involved in the Caroline Amateur Dramatic Club, along with George Richardson and other Good Templars members. The Club, along with Dr. Besemer's orchestra, gave several acclaimed performances of the play *The Colleen Bawn*, in which Emily played supporting character "Sheelah". 
+
+{{% fig "temperance/The-Colleen-Bawn" "800" /%}}
+
+<figure>
+
+> *The Colleen Bawn*, or *The Brides of Garryowen* is a melodramatic play written by Irish playwright Dion Boucicault. It was first performed at Laura Keene's Theatre, New York, on 27 March 1860 with Laura Keene playing Anne Chute and Boucicault playing Myles na Coppaleen. ...*The Colleen Bawn* captivated audiences with its interwoven character plots and overall story.
+
+<figcaption>
+<cite>
+
+— [The Colleen Bawn](https://en.wikipedia.org/wiki/The_Colleen_Bawn), Wikipedia.org.
+
+</cite>
+</figcaption>
+<aside>
+
+   - From [Wikipedia.org](https://en.wikipedia.org/wiki/Laura_Keene): "Laura Keene (20 July 1826 – 4 November 1873) was a British stage actress and theatre manager. In her twenty-year career, she became known as the first powerful female manager in New York. She is most famous for being the lead actress in the play *Our American Cousin*, which was attended by President Abraham Lincoln at Ford's Theater in Washington on the evening of his assassination. ...In 1858, *Our American Cousin* debuted in Laura Keene's Theater. On the night of 14 April 1865, Keene's company, which primarily included John Dyott and Harry Hawk, were performing Our American Cousin at Ford's Theatre in Washington, D.C. In attendance that night were President Abraham Lincoln and his wife First Lady Mary Todd Lincoln. Actor John Wilkes Booth fatally shot President Lincoln while Lincoln watched the play from the presidential box; Booth then fled the theatre. Amid the confusion, Keene made her way to the presidential box where Lincoln lay dying and cradled the mortally wounded President's head in her lap. President Lincoln's fatal head wound bled on her dress, staining her cuff. The cuff was later donated to the National Museum of American History."
+
+</aside>
+</figure>
 
 <div class="cols">
 {{% fig "temperance/1880-01-07-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 {{% fig "temperance/1880-01-14-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
+
+<div class="cols">
+{{% fig "temperance/1880-01-24-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-01-28-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+
 <div class="cols">
 {{% fig "temperance/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
 {{% fig "temperance/1880-02-18-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
 
-The Good Templars' meetings were both entertaining and educational by design, to offer a compelling alternative to drinking establishments, and clearly, this provided opportunities for Emily to socialize and even travel, as the Good Templars commonly attended events at other Lodges in Tompkins County, cooperated with other temperance groups like the Sons of Temperance, and they sent representatives to the state "Grand Lodge" as well. Because of this, Emily may be present in some of the well known photographs of *other* temperance groups in Caroline. 
+<div class="cols">
+{{% fig "temperance/1880-02-26-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "temperance/1880-03-05-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
+</div>
+
+
+Although not a large role, Sheelah is in key scenes and gave Emily an opportunity to deliver substantial dialogue, perform powerful emotions and even be involved in physical action. Here are some of the words spoken by Emily on those evenings in Jan and Feb 1880, in Lounsbery Hall at Mott's Corners, above her father Edward's store where she clerked:
+
+<figure>
+
+> *Sheelah* The poor Colleen! Oh, no, Danny, I knew she'd die of the love that was chokin’ her. He didn’t know how tindher she was when he gave her the hard word. What was that message the masther sent to her, that he wouldn't let me hear? It was cruel, Danny, for it broke her heart entirely; she went away that night, and, two days after, a cloak was found floatin’ in the reeds, under Brikeen Bridge; nobody knew it but me. I turned away, and never said—. The creature is drowned, Danny, and woe to them as dhruv her to it. She has no father, no mother to put a curse on him, but the Father above that niver spakes till the last day, and then 
+>
+>—[*She turns and sees Danny gasping, his eyes fixed on her, supporting himself on his arm.*] 
+>
+>Danny! Danny! he’s dyin’—he's dyin’! 
+>
+>[*Runs to him, R. of bed.*] 
+
+<figcaption>
+<cite>
+
+— *The Colleen Bawn* by Dion Boucicault Act III, Scene I.
+
+</cite>
+</figcaption>
+</figure>
+
+<figure>
+
+> [*Enter Sheelah, guarded by two Soldiers, R.*] 
+>
+> *Sheelah* [*Crying.*] What’s this? Why am I thrated this way—what have I done? 
+>
+> *Corrig* You are wanted a while—it’s your testimony we require. Bring her this way. Follow me! [*Exit, L.*] 
+>
+> *Sheelah* [*Struggling.*] Let me go back to my boy. Ah! good luck t’ye, don’t kape me from my poor boy! [*Struggling.*] Oh! you dirty blackguards, let me go—let me go! 
+>
+> [*Exit Sheelah and Soldiers, L.*] 
+
+
+<figcaption>
+<cite>
+
+— *The Colleen Bawn* by Dion Boucicault Act III, Scene IV.
+
+</cite>
+</figcaption>
+</figure>
+
+Emily is mentioned in the will of her uncle, Henry Higbie:
+
+{{% fig "pine/1881-10-21-henry-higbie-will" "800" /%}}
+
+Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. She also returned to Corfu to visit her childhood friends.
+
+{{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 
 At least by the 1890's, Emily was working as a clerk in her father's store, just as her older brothers had. (She may have always helped with the store, or perhaps she only began clerking in the store after Jonas died.) Several volumes of sales journals have survived from [M. E. Mills general store]({{% ref "me-mills" %}}) that are written by Emily's hand (and certainly Ellen Gould's handwriting must also be present in those books). 
 
@@ -116,7 +198,7 @@ Emily continued to be involved in temperance into the 1900's, and for some perio
 
 {{% fig "temperance/1917-wctu-directory-p8" "500" /%}}
 
-Edward died on New Year's day 1908, and Emily made another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
+Edward died on New Year's day 1908, and Emily made another heartbreaking trip to Evergreen Hill Cemetery in Corfu. If Emily walked the streets of Corfu on that trip, she should would have seen that the building that housed her family's store, as well as her childhood home, were now gone. 
 
 <div class="cols">
   {{% fig "1908-01-06-ithaca-daily-journal" "350" /%}}

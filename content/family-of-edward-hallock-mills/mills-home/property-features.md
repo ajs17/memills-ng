@@ -14,7 +14,7 @@ This section explores various features of the Mills’ Home property, including 
 {{% fig "adams-photos/foundation/2023-05-25_15.51.36-imp" "800" /%}}
 {{% fig "adams-photos/foundation/2023-05-25_15.51.49-imp" "800" /%}}
 
-I have speculated elsewhere that William Benton Wolcott, a carpenter by trade, who was the first owner of record of Mills’ Home, may have had a direct hand in the construction of the dwelling (see [Deeds and Other Past Owners]({{% relref "other-past-owners" %}})), and that Reverend Garrett Mandeville’s grandson John L. Mandeville may have initially surveyed the property after it was divided from the lower grist mill lot (see [The Mill Race Bridge and The Barn]({{% relref "mill-race-bridge-barn" %}})).
+I have speculated elsewhere that William Benton Wolcott, a carpenter by trade, who was the first owner of record of Mills’ Home, may have had a direct hand in the construction of the dwelling (see [Deeds and Other Past Owners]({{% relref "other-past-owners" %}})), and that Reverend Garrett Mandeville’s grandson John L. Mandeville may have initially surveyed the property after it was divided from the lower grist mill lot (see [The Mill Race Bridge and The Barn]().
 
 Mills’ Home sits on a stone foundation and its enduring stability over these many years is presumably the result of a skilled stone mason working for William Wolcott. I set out to try to learn this craftsman’s identity, and although I cannot say for certain who did the work, I think there are several likely candidates, and one in particular stands out.
 
@@ -177,7 +177,7 @@ One final, potential point of interest. On the exterior face of the foundation, 
 ## The Large Oak Tree
 
 <div class="cols">
-{{% fig "brookton/maps/surveys/oak-miller" "200" /%}}
-{{% fig "brookton/maps/surveys/oak-schlieder" "200" /%}}
-{{% fig "brookton/maps/surveys/oak-dresser" "200" /%}}
+{{% fig "brookton/maps/475-brookton/oak-miller" "200" /%}}
+{{% fig "brookton/maps/475-brookton/oak-schlieder" "200" /%}}
+{{% fig "brookton/maps/475-brookton/oak-dresser" "200" /%}}
 </div>
